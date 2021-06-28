@@ -1,24 +1,6 @@
 import numpy as np
 import math
-
-
-def sigmoid(z):
-    return 1 / (1 + np.exp(-z))
-
-
-def softmax(vector):
-    vector = np.reshape(vector, (vector.shape[0]))
-    e = np.exp(vector)
-    return e / e.sum()
-
-
-def softmax_d(signal, derivative=False):
-    signal = softmax(signal)
-    return signal * (1. - signal)
-
-
-def Dsigmoid(output):
-    return output * (1.0 - output)
+from activation_functions import sigmoid, relu, softmax
 
 
 def mse(v1, v2):
@@ -42,7 +24,10 @@ class NN:
         self.layers = []
 
         for i in range(len(topology) - 1):
-            self.layers.append(Layer(topology[i], topology[i + 1], activation[i]))
+            act = sigmoid
+            if activation[i] == 'relu': act = relu
+            if activation[i] == 'softmax': act = softmax
+            self.layers.append(Layer(topology[i], topology[i + 1], act))
 
     def train(self, X, y, lr=0.1):
         out = [(None, X)]
@@ -76,14 +61,13 @@ class NN:
         return out[-1][1]
 
 
-soft = (softmax, softmax_d)
-sig = (sigmoid, Dsigmoid)
-net = NN([2, 4, 1], activation=[sig, sig])
+net = NN([2, 4, 1], activation=['relu', 'relu'])
 err = np.inf
 it = 0
-while err > 0.0001:
+
+while err > 0.00001:
     it += 1
-    err = net.train(np.array([[0, 0], [0, 1], [1, 0], [1, 1]]), np.array([[0], [1], [0], [1]]))
+    err = net.train(np.array([[0, 0], [0, 1], [1, 0], [1, 1]]), np.array([[1], [1], [1], [0]]))
 
 print(err, "its: ", it)
 res = net.predict(np.array([[0, 0], [0, 1], [1, 0], [1, 1]]))
