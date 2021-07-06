@@ -3,16 +3,17 @@ import math
 from activation_functions import sigmoid, relu, softmax
 import random
 
+# TODO: Mutate wheights as alternative to backpropagation References:
+#  https://stackoverflow.com/questions/31708478/how-to-evolve-weights-of-a-neural-network-in-neuroevolution
+
 
 def mse(v1, v2):
     return ((v1 - v2) ** 2).mean()
 
 
 class Layer:
-    def __init__(self, n_conections, n_neurons, activation=(lambda f: f, lambda g: g)):
-        self.n_conections = n_conections
-        self.n_neurons = n_neurons
-        self.w = np.random.rand(n_conections, n_neurons) - np.random.rand(n_conections, n_neurons)
+    def __init__(self, n_connections, n_neurons, activation=(lambda f: f, lambda g: g)):
+        self.w = np.random.rand(n_connections, n_neurons) - np.random.rand(n_connections, n_neurons)
         self.b = np.random.rand(1, n_neurons) - np.random.rand(1, n_neurons)
         self.act_f = activation
 
@@ -21,8 +22,10 @@ class Layer:
         return z, self.act_f[0](z)
 
     def reset(self):
-        self.w = np.random.rand(self.n_conections, self.n_neurons) - np.random.rand(self.n_conections, self.n_neurons)
-        self.b = np.random.rand(1, self.n_neurons) - np.random.rand(1, self.n_neurons)
+        n_connections = self.w.shape[0]
+        n_neurons = self.w.shape[1]
+        self.w = np.random.rand(n_connections, n_neurons) - np.random.rand(n_connections, n_neurons)
+        self.b = np.random.rand(1, n_neurons) - np.random.rand(1, n_neurons)
 
 
 class NN:
@@ -30,6 +33,7 @@ class NN:
         self.topology = topology
         self.layers = []
         self.activation = activation
+        self.punctuation = np.inf
         for i in range(len(topology) - 1):
             act = sigmoid
             if activation[i] == 'relu': act = relu
@@ -89,7 +93,31 @@ class NN:
         s2 = int(self.layers[l + 1].w.shape[0] / s1)
         self.layers[l + 1].w = np.reshape(self.layers[l + 1].w, (s2, s1))
 
-        self.topology[l] += 1
+        self.topology[l+1] += 1
+
+    def deleteNeuron(self):
+        n_layers = len(self.layers)
+        if n_layers - 2 == 0:
+            lay = 0
+            if self.topology[lay+1] <= 1:
+                return 1
+        else:
+            options = [*range(0, n_layers-1)]
+            lay = random.choice(options)
+            while self.topology[lay+1] <= 1:
+                options.remove(lay)
+                if len(options) == 0:
+                    return 1
+                lay = random.choice(options)
+
+        n = random.choice(range(0, self.topology[lay+1] - 1))
+
+        self.layers[lay].w = np.delete(self.layers[lay].w, n, axis=1)
+        self.layers[lay+1].w = np.delete(self.layers[lay+1].w, n, axis=0)
+
+        self.layers[lay].b = np.delete(self.layers[lay].b, n)
+
+        self.topology[lay+1] -= 1
 
     def predict(self, X):
         out = [(None, X)]
