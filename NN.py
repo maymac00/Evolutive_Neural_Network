@@ -3,6 +3,7 @@ import math
 from activation_functions import sigmoid, relu, softmax
 import random
 
+
 # TODO: Mutate wheights as alternative to backpropagation References:
 #  https://stackoverflow.com/questions/31708478/how-to-evolve-weights-of-a-neural-network-in-neuroevolution
 
@@ -28,19 +29,33 @@ class Layer:
         self.b = np.random.rand(1, n_neurons) - np.random.rand(1, n_neurons)
 
 
-class NN:
+class NET:
     def __init__(self, topology, activation):
         self.topology = topology
         self.layers = []
         self.activation = activation
-        self.punctuation = np.inf
         for i in range(len(topology) - 1):
             act = sigmoid
             if activation[i] == 'relu': act = relu
             if activation[i] == 'softmax': act = softmax
             self.layers.append(Layer(topology[i], topology[i + 1], act))
 
-    def fit(self, X, y, lr=0.1):
+    def predict(self, X):
+        out = [(None, X)]
+        for l, layer in enumerate(self.layers):
+            out.append(layer.forward(out[-1][1]))
+        return out[-1][1]
+
+    def reset(self):
+        for l in self.layers:
+            l.reset()
+
+
+class NN(NET):
+    def __init__(self, topology, activation):
+        NET.__init__(self, topology, activation)
+
+    def __fit__(self, X, y, lr=0.1):
         out = [(None, X)]
         for l, layer in enumerate(self.layers):
             out.append(layer.forward(out[-1][1]))
@@ -75,6 +90,13 @@ class NN:
             err = self.fit(X, y, lr=lr)
         return err, it
 
+
+class ENN(NET):
+    def __init__(self, inp_out, activation):
+        self.w_mask = 0
+        self.fitness_point = -np.inf
+        NET.__init__(self, inp_out, activation)
+
     def addNeuron(self):
         n_layers = len(self.layers)
         if n_layers - 2 == 0:
@@ -93,38 +115,46 @@ class NN:
         s2 = int(self.layers[l + 1].w.shape[0] / s1)
         self.layers[l + 1].w = np.reshape(self.layers[l + 1].w, (s2, s1))
 
-        self.topology[l+1] += 1
+        self.topology[l + 1] += 1
 
     def deleteNeuron(self):
         n_layers = len(self.layers)
         if n_layers - 2 == 0:
             lay = 0
-            if self.topology[lay+1] <= 1:
+            if self.topology[lay + 1] <= 1:
                 return 1
         else:
-            options = [*range(0, n_layers-1)]
+            options = [*range(0, n_layers - 1)]
             lay = random.choice(options)
-            while self.topology[lay+1] <= 1:
+            while self.topology[lay + 1] <= 1:
                 options.remove(lay)
                 if len(options) == 0:
                     return 1
                 lay = random.choice(options)
 
-        n = random.choice(range(0, self.topology[lay+1] - 1))
+        n = random.choice(range(0, self.topology[lay + 1] - 1))
 
         self.layers[lay].w = np.delete(self.layers[lay].w, n, axis=1)
-        self.layers[lay+1].w = np.delete(self.layers[lay+1].w, n, axis=0)
+        self.layers[lay + 1].w = np.delete(self.layers[lay + 1].w, n, axis=0)
 
         self.layers[lay].b = np.delete(self.layers[lay].b, n)
 
-        self.topology[lay+1] -= 1
+        self.topology[lay + 1] -= 1
 
-    def predict(self, X):
-        out = [(None, X)]
-        for l, layer in enumerate(self.layers):
-            out.append(layer.forward(out[-1][1]))
-        return out[-1][1]
+    def mutate(self):
 
-    def reset(self):
+        # weight mutation
         for l in self.layers:
-            l.reset()
+            vec = np.random.rand(l.w.shape[0], l.w.shape[1]) - np.random.rand(l.w.shape[0], l.w.shape[1])
+            mask = np.random.rand(l.w.shape[0], l.w.shape[1]) > 0.66
+            vec = vec * mask.astype('uint8')
+            l.w += (vec / 2)
+
+    def fitness(self, X, y=None):
+        self.fitness_point = mse(self.predict(X), y)
+        pass
+
+    def evolve(self, X):
+        for i in range(10):
+            print(self.predict(X))
+            self.mutate()
