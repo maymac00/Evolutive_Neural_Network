@@ -1,5 +1,5 @@
 from NN import NN, ENN
-from EvolutiveLearning import Generation, NEAT
+from EvolutiveLearning import *
 import numpy as np
 
 """
@@ -12,6 +12,8 @@ net.fitness(X, y)
 """
 
 # g = Generation(5, 5, 3)
-n = NEAT(3, 1)
-
+n = Individual(3, 1)
+n.add_connection()
+n.add_connection()
+n.add_node()
 pass
