@@ -1,28 +1,13 @@
-from random import choices
+import copy
 
-import names
 from Individual import *
-
-
-def insert(list, n):
-    index = len(list)
-    # Searching for the position
-    for i in range(len(list)):
-        if list[i].adj_fitness > n.adj_fitness:
-            index = i
-            break
-
-    # Inserting n in the list
-    if index == len(list):
-        list = list[:index] + [n]
-    else:
-        list = list[:index] + [n] + list[index:]
-    return index
+import names
 
 
 class Specie:
 
     def __init__(self, ind):
+        self.uselessness = 0
         self.top_adj_fit = 0
         self.individuals = [ind]
         self.adj_fitness = 0
@@ -66,36 +51,43 @@ class Specie:
 
         w_mean /= len(intersec)
         N = 1 if NEAT.max_len < 20 else 1 - NEAT.max_len * 0.005
-        distance = NEAT.c1 * (excess / N) + NEAT.c2 * (disjoint / N) + NEAT.c3 * (w_mean)
+        try:
+            distance = NEAT.c1 * (excess / N) + NEAT.c2 * (disjoint / N) + NEAT.c3 * w_mean
+        except:
+            distance = np.inf
+
         return distance
         pass
 
     def score_individuals(self):
+        if len(self.individuals) == 0:
+            return
         self.current_fitness = []
         self.current_adj_fitness = []
         # Calc fitness
         for ind in self.individuals:
-            fitness = []
-            trys = 1
-            for i in range(trys):
-                fitness.append(NEAT.fitness(ind))
-            ind.fitness = np.mean(fitness) * min(
-                (1 - NEAT.norm_variance(np.var(fitness), np.min(fitness), np.max(fitness)) * 0.5), 1)
-            continue
+            try:
+                fitness = []
+                trys = NEAT.reps
+                for i in range(trys):
+                    fitness.append(NEAT.fitness(ind))
+                ind.fitness = np.mean(fitness) * min(
+                    (1 - NEAT.norm_variance(np.var(fitness), np.min(fitness), np.max(fitness)) * 0.5), 1)
+            except:
+                continue
 
         # Adjust fitness (explicit fitness sharing)
         for ind in self.individuals:
             sh = []
             for bro in self.individuals:
                 dist = ind.calcDistance(bro)
-                thld = NEAT.distance_thld - len(self.individuals) / 15
-                if dist > thld:
+                if dist > NEAT.distance_thld:
                     sh.append(0)
                 else:
                     if dist == 0:
                         sh.append(1)
                     else:
-                        sh.append(1 - (ind.calcDistance(bro) / thld))
+                        sh.append(1 - (ind.calcDistance(bro) / NEAT.distance_thld))
 
             if sum(sh) == 0:
                 ind.adj_fitness = ind.fitness
@@ -109,22 +101,38 @@ class Specie:
 
         self.top_fit = max(self.current_fitness)
         self.top_adj_fit = max(self.current_adj_fitness)
+        if len(self.top_fit_historic) == 0:
+            self.top_fit_historic.append(self.top_fit)
+        if self.top_fit > self.top_fit_historic[-1]:
+            self.uselessness = 0
+            self.top_fit_historic.append(self.top_fit)
+        else:
+            self.uselessness += 1
+
         self.top_fit_historic.append(self.top_fit)
         self.mean_fit = sum(self.current_adj_fitness) / len(self.current_adj_fitness)
 
         self.individuals, self.current_adj_fitness = zip(
-            *sorted(zip(self.individuals, self.current_adj_fitness), key=lambda i: i[0].adj_fitness * -1))
+            *sorted(zip(self.individuals, self.current_adj_fitness),
+                    key=lambda i: i[0].adj_fitness * -1 if NEAT.opt == "max" else 1))
         self.individuals = list(self.individuals)
-        self.current_adj_fitness = list(self.current_adj_fitness)
+        self.current_adj_fitness = np.array(list(self.current_adj_fitness))
 
-        self.leader = self.individuals[0]
+        self.leader = choice(self.individuals)
         return self.current_adj_fitness
         pass
 
     def get_offspring(self, n):
-        children = []
-        for i in range(int(n)):
-            ind1 = choice(self.individuals)
+        champion = copy.deepcopy(self.individuals[0])
+        children = [champion]
+        f = -1
+        if len(self.individuals) > 15:
+            f = int(len(self.individuals) / 5)
+        for i in range(int(n - 1)):
+            if f != -1:
+                ind1 = choice(self.individuals[:f])
+            else:
+                ind1 = choice(self.individuals)
             ind2 = choice(self.individuals)
             child = NEAT.crossover(ind1, ind2)
             child.mutate()
@@ -164,7 +172,7 @@ class Population:
             for i in ind.inp:
                 for o in ind.out:
                     ind.add_connection(i, o, True)
-            for i in range(3):
+            for i in range(6):
                 ind.force_mutate()
             self.speciate(ind)
         # metrics
@@ -192,15 +200,13 @@ class Population:
         for s in self.species:
             for ind in s.individuals:
                 ind.mutate()
-        NEAT.innovations = {}
+        # NEAT.innovations = {}
 
     def score(self):
         self.total_fitness = []
         for s in self.species:
             f = s.score_individuals()
-            self.total_fitness += f
-        self.total_fitness = np.array(self.total_fitness)
-        self.mean_fitness = self.total_fitness.mean()
+
         self.species = sorted(self.species, key=lambda s: s.individuals[0].fitness * -1)
 
     def metrics(self):
@@ -216,8 +222,8 @@ class Population:
         self.bests.append(self.best.fitness)
 
     def nextGen(self):
-        # if sum(self.bests[-4:]) >= NEAT.max_rwd * 4:
-        #     return
+        if sum(self.bests[-4:]) >= NEAT.max_rwd * 4:
+            return
 
         self.mutate_individuals()
         self.score()
@@ -230,33 +236,59 @@ class Population:
 
         self.natural_selection()
 
-        NEAT.distance_thld += 0.3
+        if len(self.species) < NEAT.species_pool_size * 1.2:
+            NEAT.distance_thld -= NEAT.adaptation
+            print("Necessitem més especies", NEAT.distance_thld)
+        elif len(self.species) > NEAT.species_pool_size * 0.8:
+            NEAT.distance_thld += NEAT.adaptation * max((len(self.species) - NEAT.species_pool_size)/3, 1)
+            print("Necessitem menys especies", NEAT.distance_thld)
+        if NEAT.distance_thld < 0.3:
+            NEAT.distance_thld = 0.3
+
+        self.speciate(self.best)
         pass
 
     def natural_selection(self):
 
-        next_gen = []
-        for s in self.species:
-            inds = copy.copy(s.individuals)
-            s.individuals = []
-            if len(inds) > 5:
-                next_gen.append(inds[0])
-            for ind in inds:
-                if rand() < 0.75:
-                    next_gen.append(NEAT.crossover(ind, choice(inds)))
-                else:
-                    ind.mutate()
-                    next_gen.append(ind)
+        P = self.n  # self.calcSize()
 
-        for ind in next_gen:
-            self.speciate(ind)
+        S = sum([s.current_adj_fitness.mean() for s in self.species])
 
         self.species = [s for s in self.species if len(s.individuals) > 0]
+        spc = copy.copy(self.species)
+        migrations = []
+        for s in spc:
+            n = (np.array(s.current_adj_fitness).mean() / S) * P
+            if n > len(s.individuals) * 2:
+                n = len(s.individuals) * 2
+            if n < len(s.individuals) * 0.5:
+                n = len(s.individuals) * 0.5
+            if n > 0 and s.uselessness < NEAT.dropoff:
+                c = s.get_offspring(n)
+                s.individuals = []
+                for ind in c:
+                    self.speciate(ind, prev=s)
+            else:
+                migrations.append(s.individuals[0])
+                s.individuals = []
 
+        # self.purge_species()
+        self.species = [s for s in self.species if len(s.individuals) > 0]
+        for m in migrations:
+            self.speciate(m)
+        print(sum([len(s.individuals) for s in self.species]), len(self.species))
         pass
 
-    def speciate(self, ind):
+    def speciate(self, ind, prev=None):
         l = copy.copy(self.species)
+        if prev is not None:
+            d = prev.calcDistance(ind)
+
+            if d < NEAT.distance_thld * NEAT.blood_rate:
+                prev.individuals.append(ind)
+                return
+            else:
+                l.remove(prev)
         while len(l) > 0:
             c = choice(l)
             d = c.calcDistance(ind)
@@ -268,10 +300,29 @@ class Population:
                 l.remove(c)
         if len(l) == 0:
             self.species.append(Specie(ind))
+            print("New specie")
 
     def calcSize(self):
-        a = self.n / 5
+        a = self.n / 3
         G = 10
         g = self.n_gens
         return int(self.n + a - (2 * a / (G - 1)) * (g - G * int((g - 1) / G) - 1))
+        pass
+
+    def purge_species(self):
+        l = []
+        misc = []
+        for s in copy.copy(self.species):
+            if len(s.individuals) == 0:
+                continue
+            elif len(s.individuals) == 1:
+                misc += s.individuals
+            else:
+                l.append(s)
+
+        if len(misc) > 0:
+            aux = Specie(misc[0])
+            aux.individuals = misc
+            l.append(aux)
+        self.species = l
         pass

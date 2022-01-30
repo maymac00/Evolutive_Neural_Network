@@ -4,24 +4,28 @@ import names
 import numpy as np
 from numpy.random import choice, rand
 import copy
-import gym
-import time
 
 
 class NEAT:
+    adaptation = 0.3
+    dropoff = 15
+    blood_rate = 3
     max_rwd = 500
-    new_node_mutation_rate = 0.03
-    new_link_mutation_rate = 0.05
+    new_node_mutation_rate = 0.05
+    new_link_mutation_rate = 0.08
     weight_mutation_rate = 0.9
     n_innovations = 0
     innovations = dict()
     max_len = 0
-    step = 0.1
+    step = 2.5
+    species_pool_size = 15
+    reps = 1
+    opt = "max"
 
     distance_thld = 3.0
     c1 = 1
     c2 = 1
-    c3 = 0.4
+    c3 = 0.3
 
     @staticmethod
     def normalize(data, min=None, max=None):
@@ -53,8 +57,12 @@ class NEAT:
     @staticmethod
     def sigmoid(x):
         z = np.exp(-x)
-        sig = 2 / (1 + z)
-        return sig-1
+        sig = 1 / (1 + z)
+        return sig
+
+    @staticmethod
+    def relu(x):
+        return max(0, x)
 
     @staticmethod
     def sigmoid_mod(x):
@@ -96,39 +104,7 @@ class NEAT:
 
     pass
 
-    @staticmethod
-    def fitness(ind, render=False):
-        rew = 0
-        env = gym.make("CartPole-v1")
-        # env = gym.make("Pendulum-v1")
-        NEAT.max_rwd = 500
-        # NEAT.activation_function = NEAT.sigmoid_mod
-
-        action = env.action_space.sample()
-        env.seed(1)
-        env.reset()
-
-        for _ in range(1000):
-            if render:
-                time.sleep(0.01)
-                env.render()
-            # action = env.action_space.sample()  # your agent here (this takes random actions)
-            observation, reward, done, info = env.step(action)
-
-            # observation[2] = NEAT.normalize(observation[2], min=-8, max=8)
-
-            res = ind.process(observation[:-1])
-            # Cartpole-v1 #
-            action = res.index(max(res))
-            # action = np.multiply(np.array(res), 2)
-            rew += reward
-            if done:
-                break
-        env.close()
-        if render:
-            time.sleep(1)
-            print(rew)
-        return rew
+    fitness = None
 
 
 class ConnectionGene:
@@ -151,9 +127,6 @@ class ConnectionGene:
 
 
 class IndividualFactory:
-    @staticmethod
-    def createIndividual(inp, out):
-        return Individual(inp, out)
 
     @staticmethod
     def buildIndividual(inp, out, genome):
@@ -253,7 +226,7 @@ class Individual:
         if rand() < 0.8:
             for gen in self.genome.values():
                 if rand() < NEAT.weight_mutation_rate:
-                    gen.weight = gen.w + NEAT.step * 2 * (rand() - rand()) - NEAT.step
+                    gen.weight = gen.w + NEAT.step * 2 * (rand() - rand())
                 else:
                     gen.weight = rand() * 4 - 2
 
