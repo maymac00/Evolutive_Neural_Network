@@ -2,7 +2,6 @@ from NN import NN, ENN
 from EvolutiveLearning import *
 import numpy as np
 from matplotlib import pyplot as plt
-import pandas as pd
 
 """
 net = ENN([2, 3, 5, 3,  1], activation=['relu', 'relu', 'relu', 'relu'])
@@ -13,32 +12,27 @@ y = np.array([[1], [1], [1], [0]])
 net.fitness(X, y)
 """
 
+np.random.seed(1)
 
-def normalize(df):
-    return (df - df.min()) / (df.max() - df.min())
+gens = 15
+trys = 1
 
-
-def denormalize(df, f):
-    return
-
-
-pd.testing.N = 10
-pd.testing.K = 10
-df = pd.util.testing.makeDataFrame().to_numpy()
-
-y = df[:, -1]
-x = df[:, :-1]
-
-NEAT.x = x
-NEAT.y = y
-
-gens = 30
-
-p = Population(20, 3, 1)
-for r in range(gens):
+for t in range(trys):
+    p = Population(20, 4, 2)
     p.nextGen()
+    for r in range(gens):
+        print(str(len(p.species)) + " " + str(len(p.species[0].individuals))+ "--> " + str(p.means[-1]))
+        # NEAT.fitness(p.current_bests_inds[0], True)
+        p.nextGen()
 
-plt.plot(range(gens), p.gen_fitness)
+    plt.figure(1)
+    plt.title("try: " + str(t))
+    print("")
+    print("try: " + str(t))
+    print("S, I: " + str(len(p.species)) + " " + str(len(p.species[0].individuals)))
+    print("")
+    plt.plot(range(gens+1), p.bests, )
+    plt.plot(range(gens+1), np.multiply(p.means, 5), )
 plt.show()
 
 pass
