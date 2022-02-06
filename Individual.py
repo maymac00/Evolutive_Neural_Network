@@ -16,10 +16,15 @@ class NEAT:
 
     @staticmethod
     def normalize(data):
+        if data.max() - data.min() == 0:
+            return np.ones_like(data)
         return (data - data.min()) / (data.max() - data.min())
 
     @staticmethod
     def norm_variance(data, min, max):
+        if np.var([min,  max]) == 0:
+           return np.zeros_like(data)
+
         return (data - min) / np.var([min,  max])
 
     distance_thld = 4.0

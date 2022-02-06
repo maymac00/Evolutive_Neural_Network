@@ -18,7 +18,7 @@ gens = 15
 trys = 1
 
 for t in range(trys):
-    p = Population(20, 4, 2)
+    p = Population(10, 4, 2)
     p.nextGen()
     for r in range(gens):
         print(str(len(p.species)) + " " + str(len(p.species[0].individuals))+ "--> " + str(p.means[-1]))
