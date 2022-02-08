@@ -1,3 +1,6 @@
+from itertools import permutations
+
+import names
 import numpy as np
 from numpy.random import choice, rand
 import copy
@@ -6,32 +9,35 @@ import time
 
 
 class NEAT:
+    max_rwd = 500
     new_node_mutation_rate = 0.6
     new_link_mutation_rate = 0.5
     weight_mutation_rate = 0.7
     n_innovations = 0
     innovations = dict()
     max_len = 0
-    step = 0.05
+    step = 0.3
+
+    distance_thld = 5.0
+    uslessness_thld = 10
+    c1 = 0.4
+    c2 = 0.4
+    c3 = 0.2
 
     @staticmethod
-    def normalize(data):
+    def normalize(data, min=None, max=None):
+        if min!= None:
+            return (data - min) / (max - min)
         if data.max() - data.min() == 0:
             return np.ones_like(data)
         return (data - data.min()) / (data.max() - data.min())
 
     @staticmethod
     def norm_variance(data, min, max):
-        if np.var([min,  max]) == 0:
-           return np.zeros_like(data)
+        if np.var([min, max]) == 0:
+            return np.zeros_like(data)
 
-        return (data - min) / np.var([min,  max])
-
-    distance_thld = 4.0
-    uslessness_thld = 10
-    c1 = 0.4
-    c2 = 0.4
-    c3 = 0.2
+        return (data - min) / np.var([min, max])
 
     x = None
     y = None
@@ -80,33 +86,38 @@ class NEAT:
                 new_genome.append(copy.deepcopy(ind2.genome[gen]))
             else:
                 new_genome.append(copy.deepcopy(ind1.genome[gen]))
-
-        return IndividualFactory.buildIndividual(len(ind1.inp), len(ind1.out), new_genome)
+        ind = IndividualFactory.buildIndividual(len(ind1.inp), len(ind1.out), new_genome)
+        return ind
         pass
 
     pass
 
     @staticmethod
     def fitness(ind, render=False):
-        rew = 0.
-        env = gym.make("CartPole-v1")
-        # env = gym.make("Pendulum-v1") # NEAT.activation_function = NEAT.sigmoid_mod
+        rew = 2000
+        #env = gym.make("CartPole-v1")
+        env = gym.make("Pendulum-v1")
+        NEAT.activation_function = NEAT.sigmoid_mod
 
-        action = 0
+        action = env.action_space.sample()
         env.seed(1)
         env.reset()
 
         for _ in range(1000):
             if render:
-                time.sleep(0.05)
+                time.sleep(0.01)
                 env.render()
             # action = env.action_space.sample()  # your agent here (this takes random actions)
             observation, reward, done, info = env.step(action)
 
+            observation[2] = NEAT.normalize(observation[2], min=-8, max=8)
+
             res = ind.process(observation)
+            if res[0] < 0:
+                print("`W08IHQ0WEIHR`QWINEFOQWIHE+FBQIWEF")
             # Cartpole-v1 #
-            action = res.index(max(res))
-            # action = np.array(res)
+            # action = res.index(max(res))
+            action = np.multiply(np.array(res), 2)
             rew += reward
             if done:
                 break
@@ -118,7 +129,7 @@ class NEAT:
 
 
 class ConnectionGene:
-    def __init__(self, i, o, weight=rand(), enable=True, ):
+    def __init__(self, i, o, weight=rand() - rand(), enable=True, ):
         self.inp = i
         self.out = o
         self.w = weight
@@ -188,6 +199,8 @@ class Individual:
         self.fitness = -1.
         self.adj_fitness = -1.
 
+        self.name = names.get_last_name()
+
         self.sons = dict()
         for i in (self.inp + self.out):
             self.sons[i] = set()
@@ -203,7 +216,7 @@ class Individual:
         old_matrix = copy.copy(self.matrix)
         self.genome[new.innovation] = new
         self.matrix[i][o] = new
-        if NEAT.fitness(self) > self.fitness * 0.9 or force:
+        if NEAT.fitness(self) > self.fitness * 0.9 if self.fitness > 0 else 1.1 or force:
 
             NEAT.max_len = max(NEAT.max_len, len(self.genome.keys()))
             return new.innovation
@@ -232,6 +245,7 @@ class Individual:
         self.n_neurons += 1
 
     def mutate(self):
+        n = len(self.genome)
         if rand() < NEAT.weight_mutation_rate:
             for gen in self.genome.values():
                 gen.weight = gen.w + NEAT.step * (rand() - rand())
@@ -239,10 +253,10 @@ class Individual:
         # NEW CONNECTION
         if rand() < NEAT.new_link_mutation_rate:
             perms = []
-            # perms += permutations(self.hidden, 2)
+            perms += permutations(self.hidden, 2)
             for i in self.inp + self.hidden:
-                # perms += [(i, j) for j in self.out + self.hidden]
-                perms += [(i, j) for j in self.out]
+                perms += [(i, j) for j in self.out + self.hidden if i != j]
+                # perms += [(i, j) for j in self.out]
 
             while len(perms) != 0:
                 c = choice(range(0, len(perms)))
@@ -312,44 +326,32 @@ class Individual:
 
         res = []
         for i in self.out:
-            res.append(NEAT.activation_function(self.__back_rec__(i, results)))
+            res.append(NEAT.activation_function(self.__back_rec__(i, results, [])))
 
         return res
 
-    def __back_rec__(self, neuron, results):
+    def __back_rec__(self, neuron, results, visited):
         if neuron in results.keys():
             return results[neuron]
+        if neuron in visited:
+            return 0
+
         res = 0
         for i, entry in enumerate(self.matrix[:, neuron]):
             if entry is not None:
                 if entry.enable:
-                    res += self.__back_rec__(i, results) * entry.w
+                    visited.append(neuron)
+                    res += self.__back_rec__(i, results, visited) * entry.w
+                    visited.pop()
         results[neuron] = NEAT.sigmoid(res)
         return results[neuron]
 
     def __str__(self):
-        out = str(self.fitness)
+        out = self.name + " " + str(self.fitness)
         for gen in self.genome.values():
             out += chr(gen.innovation + 48) + "-"
         out += '\n'
         return out
-
-    def check_cycles(self):
-        mask = np.reshape(copy.copy(self.matrix), self.n_neurons * self.n_neurons)
-        mask = list(map(lambda t: t != None and t.enable, mask))
-        mat = np.zeros_like(mask)
-        mat[mask] = 1
-        mat = np.reshape(mat, (self.n_neurons, self.n_neurons)).astype("int8")
-        mat = np.logical_or(mat, mat.T)
-
-        deg_mat = np.zeros_like(mat, dtype="int8")
-        for i in range(deg_mat.shape[0]):
-            deg_mat[i, i] = np.sum(mat[i])
-
-        laplace = np.subtract(deg_mat, mat)
-        b = np.trace(laplace) < 2 * (np.linalg.matrix_rank(laplace) + 1)
-        return b
-        pass
 
     def calcDistance(self, ind):
         k1 = sorted(self.genome.keys())
