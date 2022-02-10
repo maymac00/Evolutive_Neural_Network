@@ -10,23 +10,22 @@ import time
 
 class NEAT:
     max_rwd = 500
-    new_node_mutation_rate = 0.6
-    new_link_mutation_rate = 0.5
-    weight_mutation_rate = 0.7
+    new_node_mutation_rate = 0.03
+    new_link_mutation_rate = 0.05
+    weight_mutation_rate = 0.9
     n_innovations = 0
     innovations = dict()
     max_len = 0
-    step = 0.3
+    step = 0.1
 
-    distance_thld = 5.0
-    uslessness_thld = 10
-    c1 = 0.4
-    c2 = 0.4
-    c3 = 0.2
+    distance_thld = 3.0
+    c1 = 1
+    c2 = 1
+    c3 = 0.4
 
     @staticmethod
     def normalize(data, min=None, max=None):
-        if min!= None:
+        if min != None:
             return (data - min) / (max - min)
         if data.max() - data.min() == 0:
             return np.ones_like(data)
@@ -54,8 +53,8 @@ class NEAT:
     @staticmethod
     def sigmoid(x):
         z = np.exp(-x)
-        sig = 1 / (1 + z)
-        return sig
+        sig = 2 / (1 + z)
+        return sig-1
 
     @staticmethod
     def sigmoid_mod(x):
@@ -63,7 +62,12 @@ class NEAT:
         sig = 4 / (1 + z)
         return sig - 2
 
+    @staticmethod
+    def hiperbolic_tangent(data):
+        return np.tanh(data)
+
     activation_function = sigmoid
+    inner_activation_function = sigmoid
 
     @staticmethod
     def regular(x):
@@ -94,10 +98,11 @@ class NEAT:
 
     @staticmethod
     def fitness(ind, render=False):
-        rew = 2000
-        #env = gym.make("CartPole-v1")
-        env = gym.make("Pendulum-v1")
-        NEAT.activation_function = NEAT.sigmoid_mod
+        rew = 0
+        env = gym.make("CartPole-v1")
+        # env = gym.make("Pendulum-v1")
+        NEAT.max_rwd = 500
+        # NEAT.activation_function = NEAT.sigmoid_mod
 
         action = env.action_space.sample()
         env.seed(1)
@@ -110,14 +115,12 @@ class NEAT:
             # action = env.action_space.sample()  # your agent here (this takes random actions)
             observation, reward, done, info = env.step(action)
 
-            observation[2] = NEAT.normalize(observation[2], min=-8, max=8)
+            # observation[2] = NEAT.normalize(observation[2], min=-8, max=8)
 
-            res = ind.process(observation)
-            if res[0] < 0:
-                print("`W08IHQ0WEIHR`QWINEFOQWIHE+FBQIWEF")
+            res = ind.process(observation[:-1])
             # Cartpole-v1 #
-            # action = res.index(max(res))
-            action = np.multiply(np.array(res), 2)
+            action = res.index(max(res))
+            # action = np.multiply(np.array(res), 2)
             rew += reward
             if done:
                 break
@@ -129,7 +132,7 @@ class NEAT:
 
 
 class ConnectionGene:
-    def __init__(self, i, o, weight=rand() - rand(), enable=True, ):
+    def __init__(self, i, o, weight=rand() * 4 - 2, enable=True, ):
         self.inp = i
         self.out = o
         self.w = weight
@@ -167,6 +170,15 @@ class IndividualFactory:
             ind.genome[n].innovation = gen.innovation
         return ind
 
+    @staticmethod
+    def buildRandomLike(param):
+        n = len(param.genome.keys())
+        ind = Individual(len(param.inp), len(param.out))
+        while len(ind.genome.keys()) < n:
+            ind.force_mutate()
+        return ind
+        pass
+
 
 class Individual:
     def get_graph(self):
@@ -189,7 +201,7 @@ class Individual:
         if inp + out > 5:
             self.hidden = []
         else:
-            self.hidden = [i for i in range(inp + out, inp + out + 6)]
+            self.hidden = [i for i in range(inp + out, inp + out + 3)]
         # self.hidden = [i for i in range(inp + out, inp + out + 6)]
         self.n_neurons = inp + out + len(self.hidden)
 
@@ -212,18 +224,10 @@ class Individual:
 
         new = ConnectionGene(i, o)
 
-        old_genome = copy.copy(self.genome)
-        old_matrix = copy.copy(self.matrix)
         self.genome[new.innovation] = new
         self.matrix[i][o] = new
-        if NEAT.fitness(self) > self.fitness * 0.9 if self.fitness > 0 else 1.1 or force:
-
-            NEAT.max_len = max(NEAT.max_len, len(self.genome.keys()))
-            return new.innovation
-        else:
-            self.genome = old_genome
-            self.matrix = old_matrix
-            return -1
+        NEAT.max_len = max(NEAT.max_len, len(self.genome.keys()))
+        return new.innovation
 
     def add_node(self, i, o, w):
         new1 = ConnectionGene(i, self.n_neurons, 1.0)
@@ -246,9 +250,12 @@ class Individual:
 
     def mutate(self):
         n = len(self.genome)
-        if rand() < NEAT.weight_mutation_rate:
+        if rand() < 0.8:
             for gen in self.genome.values():
-                gen.weight = gen.w + NEAT.step * (rand() - rand())
+                if rand() < NEAT.weight_mutation_rate:
+                    gen.weight = gen.w + NEAT.step * 2 * (rand() - rand()) - NEAT.step
+                else:
+                    gen.weight = rand() * 4 - 2
 
         # NEW CONNECTION
         if rand() < NEAT.new_link_mutation_rate:
@@ -279,14 +286,11 @@ class Individual:
             self.add_node(c.inp, c.out, c.w)
 
     def force_mutate(self):
-        step = 0.1
-        r = rand()
-        if r < 1:
-            for gen in self.genome.values():
-                gen.weight = gen.w + step * (rand() - rand())
-        else:
-            for gen in self.genome.values():
-                gen.w = rand() * 2 - 1
+        for gen in self.genome.values():
+            if rand() < NEAT.weight_mutation_rate:
+                gen.weight = gen.w + NEAT.step * 2 * (rand() - rand()) - NEAT.step
+            else:
+                gen.weight = rand() * 4 - 2
 
         # NEW CONNECTION
         if rand() < 1:
@@ -307,7 +311,7 @@ class Individual:
                     perms.pop(c)
 
         # NEW NODE
-        if rand() < 1:
+        if rand() < 0.2:
             if len(self.genome) == 0:
                 return
             c = choice(list(self.genome.values()))
@@ -343,7 +347,7 @@ class Individual:
                     visited.append(neuron)
                     res += self.__back_rec__(i, results, visited) * entry.w
                     visited.pop()
-        results[neuron] = NEAT.sigmoid(res)
+        results[neuron] = NEAT.inner_activation_function(res)
         return results[neuron]
 
     def __str__(self):
@@ -376,8 +380,8 @@ class Individual:
             w_mean += abs(self.genome[g].w - ind.genome[g].w)
 
         w_mean /= len(intersec)
-        N = 1 if NEAT.max_len < 15 else NEAT.max_len
-        distance = NEAT.c1 * (excess / N) + NEAT.c2 * (disjoint / N) + NEAT.c3 * (w_mean)
+        N = 15  # if NEAT.max_len < 15 else NEAT.max_len
+        distance = NEAT.c1 * (excess / N) + NEAT.c2 * (disjoint / N) + NEAT.c3 * w_mean
         return distance
         pass
 

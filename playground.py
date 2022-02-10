@@ -5,13 +5,12 @@ from matplotlib import pyplot as plt
 
 # np.random.seed(1)
 
-gens = 150
+gens = 200
 trys = 1
 
 for t in range(trys):
-    p = Population(20, 3, 1)
+    p = Population(150, 3, 2)
     for r in range(gens):
-        print(p)
         # NEAT.fitness(p.best, True)
         p.nextGen()
 
