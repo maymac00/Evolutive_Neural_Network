@@ -181,17 +181,58 @@ def cartpole_ext(ind, render=False):
     return rew / 100
 
 
-NEAT.fitness = pendulum
+def lunarlander(ind, render=False):
+    rew = 131
+    env = gym.make("LunarLander-v2")
+    NEAT.max_rwd = 1400
+    NEAT.opt = "max"
+    NEAT.reps = 1
+    NEAT.step = 4
+    action = env.action_space.sample()
+    env.seed(1)
+    env.reset()
+
+    for _ in range(1000):
+        if render:
+            time.sleep(0.01)
+            env.render()
+        # action = env.action_space.sample()  # your agent here (this takes random actions)
+        observation, reward, done, info = env.step(action)
+
+        observation[0] = NEAT.normalize(observation[0], min=-3.5, max=3.5)
+        observation[1] = NEAT.normalize(observation[0], min=-3.3, max=3.3)
+        observation[2] = NEAT.normalize(observation[0], min=-3.5, max=3.5)
+        observation[3] = NEAT.normalize(observation[0], min=-3.5, max=3.5)
+        observation[4] = NEAT.normalize(observation[0], min=-3.5, max=3.5)
+        observation[5] = NEAT.normalize(observation[0], min=-3.5, max=3.5)
+        observation[6] = NEAT.normalize(observation[0], min=-3.5, max=3.5)
+        observation[7] = NEAT.normalize(observation[0], min=-4.5, max=4.5)
+
+        res = ind.process(observation)
+
+        action = res.index(max(res))
+
+        rew += reward
+        if done:
+            break
+    env.close()
+    if render:
+        time.sleep(1)
+        print(rew)
+    return max(rew, 0)
+
+
+NEAT.fitness = lunarlander
 NEAT.distance_thld = 5.0
 NEAT.c3 = 0.3
-NEAT.step = 1
+NEAT.step = 4
 NEAT.max_rwd = np.inf
 NEAT.adaptation = 1
 gens = 600
 trys = 1
 
 for t in range(trys):
-    p = Population(150, 3, 1)
+    p = Population(150, 8, 4)
 
     for r in range(gens):
         if r % 11 == 0:

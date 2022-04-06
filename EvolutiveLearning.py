@@ -219,6 +219,9 @@ class Population:
             self.best = IndividualFactory.buildIndividual(len(top.inp), len(top.out), top.genome.values())
             self.best.fitness = top.fitness
             self.best.adj_fitness = top.adj_fitness
+        b = all([self.bests[:-(i + 1)] < self.best.fitness for i in range(3)])
+        if len(self.bests) > 5 and not b:
+            self.speciate(copy.deepcopy(self.best))
         self.bests.append(self.best.fitness)
 
     def nextGen(self):
@@ -236,11 +239,15 @@ class Population:
 
         self.natural_selection()
 
+        # Step decay
+        NEAT.step -= 0.02
+        NEAT.step = max(NEAT.step, 1)
+
         if len(self.species) < NEAT.species_pool_size * 1.2:
             NEAT.distance_thld -= NEAT.adaptation
             print("Necessitem més especies", NEAT.distance_thld)
         elif len(self.species) > NEAT.species_pool_size * 0.8:
-            NEAT.distance_thld += NEAT.adaptation * max((len(self.species) - NEAT.species_pool_size)/3, 1)
+            NEAT.distance_thld += NEAT.adaptation * max((len(self.species) - NEAT.species_pool_size) / 3, 1)
             print("Necessitem menys especies", NEAT.distance_thld)
         if NEAT.distance_thld < 0.3:
             NEAT.distance_thld = 0.3
