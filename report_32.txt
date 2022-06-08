@@ -1,0 +1,197 @@
+########## REPORT GEN: 2 ##########
+SPECIES: 
+Newberry       		Mean: 17.79 		Best: 800.09 		N:29
+Valerius       		Mean: 31.34 		Best: 684.71 		N:15
+Hoyman         		Mean: 47.86 		Best: 643.62 		N:10
+Cunningham     		Mean: 293.02 		Best: 626.98 		N:2
+Sutton         		Mean: 74.27 		Best: 600.1 		N:7
+Nelson         		Mean: 155.74 		Best: 546.97 		N:3
+Bailey         		Mean: 246.6 		Best: 542.39 		N:2
+Blechman       		Mean: 220.88 		Best: 539.83 		N:2
+Mcduffy        		Mean: 51.8 		Best: 543.92 		N:9
+Hendershot     		Mean: 237.59 		Best: 517.75 		N:2
+Driver         		Mean: 196.01 		Best: 483.49 		N:2
+Guerin         		Mean: 172.89 		Best: 370.82 		N:2
+
+########## REPORT GEN: 3 ##########
+SPECIES: 
+Nelson         		Mean: 84.21 		Best: 913.35 		N:6
+Weaver         		Mean: 94.5 		Best: 768.37 		N:5
+Mcduffy        		Mean: 320.75 		Best: 742.8 		N:2
+Hendershot     		Mean: 76.32 		Best: 612.63 		N:6
+Macias         		Mean: 85.72 		Best: 592.55 		N:5
+Driver         		Mean: 110.87 		Best: 541.15 		N:4
+Cunningham     		Mean: 106.81 		Best: 535.67 		N:4
+Abdo           		Mean: 80.79 		Best: 515.27 		N:5
+Valerius       		Mean: 144.93 		Best: 507.81 		N:3
+Franca         		Mean: 83.35 		Best: 495.36 		N:5
+Guerin         		Mean: 157.25 		Best: 482.71 		N:3
+Flens          		Mean: 127.73 		Best: 467.63 		N:3
+Paddio         		Mean: 180.45 		Best: 446.48 		N:2
+Rector         		Mean: 114.73 		Best: 440.04 		N:3
+Filion         		Mean: 193.2 		Best: 438.7 		N:2
+Bailey         		Mean: 127.37 		Best: 410.79 		N:3
+Newberry       		Mean: 91.79 		Best: 375.23 		N:4
+
+########## REPORT GEN: 4 ##########
+SPECIES: 
+Hoyman         		Mean: 135.97 		Best: 733.27 		N:4
+Blechman       		Mean: 260.45 		Best: 585.01 		N:2
+Weaver         		Mean: 72.12 		Best: 576.34 		N:6
+Jordan         		Mean: 104.0 		Best: 559.0 		N:4
+Hendershot     		Mean: 149.55 		Best: 545.39 		N:3
+Franca         		Mean: 92.52 		Best: 527.6 		N:5
+Chiarelli      		Mean: 86.98 		Best: 508.78 		N:5
+Flens          		Mean: 110.63 		Best: 505.27 		N:4
+Driver         		Mean: 141.7 		Best: 502.22 		N:3
+Bailey         		Mean: 61.56 		Best: 485.09 		N:7
+Mcduffy        		Mean: 221.86 		Best: 471.33 		N:2
+Macias         		Mean: 60.97 		Best: 467.76 		N:6
+Rector         		Mean: 197.96 		Best: 465.8 		N:2
+Valerius       		Mean: 195.21 		Best: 464.35 		N:2
+Guerin         		Mean: 100.59 		Best: 461.25 		N:4
+Nelson         		Mean: 92.76 		Best: 443.22 		N:4
+Newberry       		Mean: 192.75 		Best: 398.29 		N:2
+Brown          		Mean: 125.34 		Best: 397.3 		N:3
+Abdo           		Mean: 126.95 		Best: 386.15 		N:3
+Filion         		Mean: 168.29 		Best: 361.28 		N:2
+
+########## REPORT GEN: 5 ##########
+SPECIES: 
+Macias         		Mean: 142.66 		Best: 773.36 		N:4
+Hendershot     		Mean: 183.03 		Best: 770.08 		N:3
+Paddio         		Mean: 327.21 		Best: 762.84 		N:2
+Flens          		Mean: 93.48 		Best: 729.78 		N:5
+Jordan         		Mean: 75.36 		Best: 635.63 		N:6
+Guerin         		Mean: 53.5 		Best: 588.2 		N:9
+Blechman       		Mean: 86.86 		Best: 586.94 		N:5
+Abdo           		Mean: 149.01 		Best: 581.64 		N:3
+Newberry       		Mean: 141.75 		Best: 580.87 		N:3
+Filion         		Mean: 46.25 		Best: 573.03 		N:9
+Mcduffy        		Mean: 64.37 		Best: 571.97 		N:7
+Weaver         		Mean: 111.91 		Best: 567.4 		N:4
+Chiarelli      		Mean: 107.61 		Best: 512.78 		N:4
+Franca         		Mean: 221.65 		Best: 476.05 		N:2
+Rector         		Mean: 78.48 		Best: 469.29 		N:5
+Brown          		Mean: 223.43 		Best: 466.87 		N:2
+Nelson         		Mean: 76.19 		Best: 456.32 		N:5
+Bailey         		Mean: 142.13 		Best: 438.91 		N:3
+Valerius       		Mean: 55.63 		Best: 432.12 		N:7
+Hoyman         		Mean: 127.04 		Best: 417.56 		N:3
+
+########## REPORT GEN: 6 ##########
+SPECIES: 
+Rector         		Mean: 122.13 		Best: 774.45 		N:5
+Weaver         		Mean: 46.53 		Best: 721.31 		N:10
+Guerin         		Mean: 65.84 		Best: 691.95 		N:7
+Chiarelli      		Mean: 82.14 		Best: 678.45 		N:6
+Abdo           		Mean: 69.29 		Best: 641.46 		N:7
+Paddio         		Mean: 154.49 		Best: 592.18 		N:3
+Blechman       		Mean: 49.57 		Best: 590.52 		N:8
+Hoyman         		Mean: 98.34 		Best: 584.67 		N:5
+Bailey         		Mean: 49.83 		Best: 583.49 		N:8
+Valerius       		Mean: 230.25 		Best: 573.54 		N:2
+Mcduffy        		Mean: 93.34 		Best: 554.88 		N:5
+Newberry       		Mean: 153.44 		Best: 521.79 		N:3
+Flens          		Mean: 52.86 		Best: 508.9 		N:8
+Franca         		Mean: 64.9 		Best: 505.41 		N:6
+Filion         		Mean: 149.81 		Best: 499.74 		N:3
+Hendershot     		Mean: 216.4 		Best: 489.32 		N:2
+Jordan         		Mean: 102.33 		Best: 423.65 		N:4
+
+########## REPORT GEN: 7 ##########
+SPECIES: 
+Weaver         		Mean: 60.15 		Best: 916.23 		N:7
+Jordan         		Mean: 58.86 		Best: 710.78 		N:8
+Filion         		Mean: 170.11 		Best: 676.15 		N:3
+Abdo           		Mean: 123.37 		Best: 657.06 		N:4
+Chiarelli      		Mean: 67.13 		Best: 595.73 		N:7
+Guerin         		Mean: 74.04 		Best: 567.38 		N:6
+Macias         		Mean: 128.21 		Best: 565.4 		N:4
+Mcduffy        		Mean: 219.84 		Best: 537.47 		N:2
+Franca         		Mean: 238.35 		Best: 536.09 		N:2
+Bailey         		Mean: 146.89 		Best: 529.72 		N:3
+Nelson         		Mean: 58.93 		Best: 520.63 		N:7
+Flens          		Mean: 101.14 		Best: 513.85 		N:4
+Newberry       		Mean: 67.36 		Best: 504.97 		N:6
+Blechman       		Mean: 82.01 		Best: 497.3 		N:5
+Rector         		Mean: 110.26 		Best: 459.62 		N:4
+Hoyman         		Mean: 94.42 		Best: 442.13 		N:4
+
+########## REPORT GEN: 8 ##########
+SPECIES: 
+Bailey         		Mean: 65.38 		Best: 780.37 		N:7
+Blechman       		Mean: 70.56 		Best: 678.37 		N:7
+Filion         		Mean: 112.48 		Best: 668.34 		N:4
+Guerin         		Mean: 66.38 		Best: 629.99 		N:7
+Rector         		Mean: 64.39 		Best: 594.85 		N:7
+Flens          		Mean: 99.37 		Best: 529.65 		N:4
+Nelson         		Mean: 70.67 		Best: 524.34 		N:6
+Jordan         		Mean: 72.74 		Best: 522.85 		N:6
+Driver         		Mean: 82.25 		Best: 514.08 		N:5
+Mcduffy        		Mean: 85.13 		Best: 487.2 		N:5
+Hoyman         		Mean: 95.1 		Best: 468.16 		N:4
+Chiarelli      		Mean: 77.2 		Best: 456.26 		N:5
+Franca         		Mean: 211.42 		Best: 452.36 		N:2
+Newberry       		Mean: 133.08 		Best: 435.55 		N:3
+Weaver         		Mean: 80.93 		Best: 387.92 		N:4
+Hendershot     		Mean: 162.87 		Best: 362.71 		N:2
+
+########## REPORT GEN: 9 ##########
+SPECIES: 
+Guerin         		Mean: 55.66 		Best: 850.77 		N:8
+Mcduffy        		Mean: 245.37 		Best: 710.72 		N:2
+Blechman       		Mean: 103.91 		Best: 659.24 		N:5
+Abdo           		Mean: 69.18 		Best: 649.79 		N:7
+Franca         		Mean: 98.85 		Best: 627.84 		N:5
+Driver         		Mean: 156.01 		Best: 604.99 		N:3
+Rector         		Mean: 124.03 		Best: 573.04 		N:4
+Weaver         		Mean: 58.05 		Best: 567.17 		N:7
+Flens          		Mean: 130.12 		Best: 540.49 		N:3
+Hendershot     		Mean: 60.23 		Best: 538.62 		N:7
+Hoyman         		Mean: 146.61 		Best: 533.71 		N:3
+Macias         		Mean: 142.75 		Best: 532.84 		N:3
+Bailey         		Mean: 61.64 		Best: 527.36 		N:7
+Filion         		Mean: 71.57 		Best: 517.46 		N:5
+Newberry       		Mean: 106.82 		Best: 493.1 		N:4
+Nelson         		Mean: 142.97 		Best: 450.63 		N:3
+
+########## REPORT GEN: 10 ##########
+SPECIES: 
+Blechman       		Mean: 83.58 		Best: 756.74 		N:6
+Filion         		Mean: 179.0 		Best: 657.93 		N:3
+Macias         		Mean: 54.94 		Best: 603.6 		N:8
+Driver         		Mean: 72.17 		Best: 599.63 		N:7
+Bailey         		Mean: 115.55 		Best: 582.57 		N:4
+Chiarelli      		Mean: 133.48 		Best: 582.28 		N:4
+Abdo           		Mean: 248.92 		Best: 566.3 		N:2
+Weaver         		Mean: 32.41 		Best: 550.09 		N:12
+Guerin         		Mean: 257.14 		Best: 544.55 		N:2
+Hendershot     		Mean: 144.06 		Best: 531.19 		N:3
+Hoyman         		Mean: 90.18 		Best: 529.25 		N:5
+Flens          		Mean: 104.49 		Best: 512.06 		N:4
+Newberry       		Mean: 139.57 		Best: 503.11 		N:3
+Rector         		Mean: 57.59 		Best: 501.22 		N:7
+Nelson         		Mean: 45.98 		Best: 462.77 		N:8
+Mcduffy        		Mean: 65.51 		Best: 411.27 		N:5
+Franca         		Mean: 68.87 		Best: 374.44 		N:5
+
+########## REPORT GEN: 11 ##########
+SPECIES: 
+Weaver         		Mean: 85.27 		Best: 766.4 		N:6
+Driver         		Mean: 62.85 		Best: 757.42 		N:7
+Blechman       		Mean: 96.33 		Best: 651.58 		N:5
+Franca         		Mean: 82.23 		Best: 643.4 		N:6
+Bailey         		Mean: 45.98 		Best: 592.14 		N:9
+Abdo           		Mean: 61.6 		Best: 559.5 		N:7
+Filion         		Mean: 60.42 		Best: 535.09 		N:7
+Mcduffy        		Mean: 40.03 		Best: 526.51 		N:10
+Guerin         		Mean: 49.85 		Best: 518.29 		N:8
+Chiarelli      		Mean: 68.61 		Best: 513.35 		N:5
+Hendershot     		Mean: 85.78 		Best: 507.43 		N:5
+Macias         		Mean: 98.04 		Best: 479.99 		N:4
+Flens          		Mean: 97.47 		Best: 463.54 		N:4
+Nelson         		Mean: 75.4 		Best: 453.65 		N:5
+Newberry       		Mean: 74.2 		Best: 436.47 		N:5
+Rector         		Mean: 115.92 		Best: 364.95 		N:3
+

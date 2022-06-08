@@ -1,0 +1,225 @@
+########## REPORT GEN: 2 ##########
+SPECIES: 
+Miles          		Mean: 56.69 		Best: 406.43 		N:5
+Dean           		Mean: 167.96 		Best: 380.69 		N:2
+Burke          		Mean: 53.45 		Best: 339.82 		N:5
+Anderson       		Mean: 19.49 		Best: 333.99 		N:13
+Randolph       		Mean: 14.1 		Best: 326.83 		N:19
+Hopper         		Mean: 14.39 		Best: 313.73 		N:18
+Mullenbach     		Mean: 63.83 		Best: 299.21 		N:4
+Tweedie        		Mean: 34.89 		Best: 288.96 		N:7
+Medina         		Mean: 125.2 		Best: 272.23 		N:2
+Beason         		Mean: 48.4 		Best: 264.94 		N:5
+Moore          		Mean: 112.33 		Best: 262.88 		N:2
+Leblanc        		Mean: 57.1 		Best: 244.26 		N:4
+
+########## REPORT GEN: 3 ##########
+SPECIES: 
+Swasey         		Mean: 96.44 		Best: 353.21 		N:3
+Dean           		Mean: 69.46 		Best: 327.41 		N:4
+Randolph       		Mean: 39.26 		Best: 285.33 		N:6
+Henry          		Mean: 134.9 		Best: 284.12 		N:2
+Hopper         		Mean: 49.91 		Best: 283.62 		N:5
+Anderson       		Mean: 79.28 		Best: 281.67 		N:3
+Resendez       		Mean: 82.96 		Best: 280.97 		N:3
+Jones          		Mean: 87.31 		Best: 278.93 		N:3
+Medina         		Mean: 60.33 		Best: 274.95 		N:4
+Hirtz          		Mean: 50.05 		Best: 277.37 		N:5
+Leblanc        		Mean: 80.99 		Best: 268.9 		N:3
+Beason         		Mean: 39.32 		Best: 255.78 		N:6
+Crandall       		Mean: 53.99 		Best: 252.9 		N:4
+Vantull        		Mean: 55.5 		Best: 245.89 		N:4
+Montoya        		Mean: 56.79 		Best: 245.25 		N:4
+Moore          		Mean: 74.83 		Best: 236.24 		N:3
+Yeakley        		Mean: 41.92 		Best: 233.02 		N:5
+Mullenbach     		Mean: 106.09 		Best: 227.94 		N:2
+
+########## REPORT GEN: 4 ##########
+SPECIES: 
+Butler         		Mean: 34.99 		Best: 342.7 		N:7
+Anderson       		Mean: 57.29 		Best: 339.36 		N:5
+Mullenbach     		Mean: 28.92 		Best: 316.68 		N:8
+Vantull        		Mean: 64.85 		Best: 305.04 		N:4
+Dean           		Mean: 137.78 		Best: 304.42 		N:2
+Powell         		Mean: 94.65 		Best: 301.33 		N:3
+Hopper         		Mean: 127.27 		Best: 295.44 		N:2
+Randolph       		Mean: 61.27 		Best: 290.57 		N:4
+Medina         		Mean: 58.47 		Best: 274.86 		N:4
+Montoya        		Mean: 80.14 		Best: 274.71 		N:3
+Swasey         		Mean: 47.69 		Best: 272.24 		N:5
+Crandall       		Mean: 41.93 		Best: 272.23 		N:6
+Henry          		Mean: 59.22 		Best: 268.5 		N:4
+Moore          		Mean: 49.5 		Best: 265.45 		N:5
+Beason         		Mean: 127.71 		Best: 259.3 		N:2
+Yeakley        		Mean: 72.26 		Best: 254.77 		N:3
+Miles          		Mean: 48.54 		Best: 251.83 		N:5
+Leblanc        		Mean: 56.0 		Best: 247.77 		N:4
+Hirtz          		Mean: 74.5 		Best: 233.99 		N:3
+Resendez       		Mean: 30.31 		Best: 231.72 		N:7
+Jones          		Mean: 68.03 		Best: 211.04 		N:3
+
+########## REPORT GEN: 5 ##########
+SPECIES: 
+Powell         		Mean: 63.34 		Best: 454.07 		N:5
+Mullenbach     		Mean: 43.79 		Best: 408.98 		N:6
+Butler         		Mean: 39.88 		Best: 404.0 		N:7
+Yeakley        		Mean: 29.04 		Best: 386.73 		N:9
+Swasey         		Mean: 66.17 		Best: 349.44 		N:4
+Miles          		Mean: 91.78 		Best: 331.58 		N:3
+Vantull        		Mean: 31.06 		Best: 327.65 		N:8
+Henry          		Mean: 64.3 		Best: 310.88 		N:4
+Anderson       		Mean: 35.8 		Best: 310.58 		N:7
+Leblanc        		Mean: 42.64 		Best: 298.45 		N:6
+Hirtz          		Mean: 48.1 		Best: 298.05 		N:5
+Randolph       		Mean: 87.58 		Best: 291.79 		N:3
+Hopper         		Mean: 66.54 		Best: 288.57 		N:4
+Moore          		Mean: 58.32 		Best: 279.5 		N:4
+Crandall       		Mean: 21.31 		Best: 277.11 		N:11
+Jones          		Mean: 33.26 		Best: 273.68 		N:7
+Beason         		Mean: 128.37 		Best: 257.11 		N:2
+Dean           		Mean: 44.59 		Best: 246.7 		N:5
+Medina         		Mean: 74.42 		Best: 229.14 		N:3
+Montoya        		Mean: 69.96 		Best: 221.0 		N:3
+
+########## REPORT GEN: 6 ##########
+SPECIES: 
+Medina         		Mean: 64.2 		Best: 376.19 		N:4
+Swasey         		Mean: 94.58 		Best: 341.51 		N:3
+Henry          		Mean: 41.69 		Best: 319.34 		N:6
+Resendez       		Mean: 63.67 		Best: 303.6 		N:4
+Mullenbach     		Mean: 46.55 		Best: 294.59 		N:5
+Crandall       		Mean: 40.12 		Best: 293.78 		N:6
+Butler         		Mean: 81.85 		Best: 289.4 		N:3
+Vantull        		Mean: 83.1 		Best: 281.25 		N:3
+Jones          		Mean: 38.02 		Best: 280.19 		N:6
+Powell         		Mean: 81.94 		Best: 277.81 		N:3
+Montoya        		Mean: 63.12 		Best: 274.84 		N:4
+Anderson       		Mean: 26.29 		Best: 269.08 		N:9
+Miles          		Mean: 59.56 		Best: 268.53 		N:4
+Dean           		Mean: 35.19 		Best: 261.05 		N:6
+Hopper         		Mean: 16.93 		Best: 258.39 		N:12
+Beason         		Mean: 79.37 		Best: 255.68 		N:3
+Hirtz          		Mean: 45.16 		Best: 250.62 		N:5
+Yeakley        		Mean: 52.22 		Best: 250.46 		N:4
+Leblanc        		Mean: 27.2 		Best: 246.7 		N:8
+Randolph       		Mean: 114.16 		Best: 234.91 		N:2
+Moore          		Mean: 64.81 		Best: 216.74 		N:3
+
+########## REPORT GEN: 7 ##########
+SPECIES: 
+Mullenbach     		Mean: 36.99 		Best: 425.33 		N:7
+Vantull        		Mean: 42.8 		Best: 367.93 		N:6
+Beason         		Mean: 44.53 		Best: 360.41 		N:6
+Dean           		Mean: 98.29 		Best: 350.93 		N:3
+Medina         		Mean: 86.16 		Best: 335.49 		N:3
+Hopper         		Mean: 40.11 		Best: 323.69 		N:6
+Moore          		Mean: 41.97 		Best: 322.04 		N:6
+Randolph       		Mean: 43.47 		Best: 303.65 		N:6
+Butler         		Mean: 33.78 		Best: 298.79 		N:7
+Leblanc        		Mean: 64.58 		Best: 298.23 		N:4
+Swasey         		Mean: 23.55 		Best: 296.26 		N:11
+Jones          		Mean: 87.79 		Best: 290.08 		N:3
+Resendez       		Mean: 37.28 		Best: 287.1 		N:6
+Yeakley        		Mean: 52.47 		Best: 286.54 		N:5
+Hirtz          		Mean: 41.02 		Best: 284.7 		N:6
+Henry          		Mean: 28.92 		Best: 268.94 		N:8
+Crandall       		Mean: 36.59 		Best: 267.67 		N:6
+Powell         		Mean: 38.59 		Best: 265.87 		N:6
+Anderson       		Mean: 45.8 		Best: 240.22 		N:5
+Miles          		Mean: 53.32 		Best: 232.17 		N:4
+Montoya        		Mean: 109.57 		Best: 226.57 		N:2
+
+########## REPORT GEN: 8 ##########
+SPECIES: 
+Henry          		Mean: 53.38 		Best: 387.53 		N:5
+Beason         		Mean: 57.0 		Best: 385.79 		N:5
+Leblanc        		Mean: 33.36 		Best: 377.81 		N:8
+Moore          		Mean: 140.35 		Best: 329.83 		N:2
+Hopper         		Mean: 59.09 		Best: 327.36 		N:4
+Swasey         		Mean: 92.55 		Best: 326.04 		N:3
+Resendez       		Mean: 80.93 		Best: 318.4 		N:3
+Miles          		Mean: 77.18 		Best: 316.96 		N:3
+Anderson       		Mean: 68.57 		Best: 313.17 		N:4
+Jones          		Mean: 86.38 		Best: 305.36 		N:3
+Crandall       		Mean: 25.93 		Best: 299.77 		N:9
+Butler         		Mean: 26.47 		Best: 294.15 		N:9
+Yeakley        		Mean: 18.21 		Best: 285.8 		N:13
+Medina         		Mean: 33.46 		Best: 274.72 		N:7
+Montoya        		Mean: 29.11 		Best: 268.22 		N:8
+Randolph       		Mean: 37.17 		Best: 258.58 		N:6
+Dean           		Mean: 34.73 		Best: 258.35 		N:7
+Powell         		Mean: 44.75 		Best: 258.08 		N:5
+Hirtz          		Mean: 44.8 		Best: 232.81 		N:5
+Mullenbach     		Mean: 48.79 		Best: 221.0 		N:4
+Vantull        		Mean: 97.18 		Best: 197.74 		N:2
+
+########## REPORT GEN: 9 ##########
+SPECIES: 
+Dean           		Mean: 24.55 		Best: 361.29 		N:10
+Jones          		Mean: 27.58 		Best: 359.18 		N:9
+Hirtz          		Mean: 35.91 		Best: 328.42 		N:7
+Butler         		Mean: 38.2 		Best: 312.58 		N:6
+Henry          		Mean: 39.74 		Best: 307.82 		N:6
+Beason         		Mean: 29.26 		Best: 307.61 		N:8
+Miles          		Mean: 97.54 		Best: 305.61 		N:3
+Yeakley        		Mean: 42.41 		Best: 286.56 		N:6
+Powell         		Mean: 48.06 		Best: 285.08 		N:5
+Anderson       		Mean: 47.56 		Best: 279.87 		N:5
+Crandall       		Mean: 34.49 		Best: 273.18 		N:7
+Montoya        		Mean: 58.28 		Best: 272.12 		N:4
+Hopper         		Mean: 42.37 		Best: 264.4 		N:5
+Resendez       		Mean: 51.92 		Best: 262.81 		N:4
+Leblanc        		Mean: 83.77 		Best: 252.85 		N:3
+Mullenbach     		Mean: 74.77 		Best: 244.42 		N:3
+Vantull        		Mean: 31.64 		Best: 244.31 		N:7
+Moore          		Mean: 71.02 		Best: 235.13 		N:3
+Swasey         		Mean: 54.22 		Best: 233.83 		N:4
+Randolph       		Mean: 107.49 		Best: 227.66 		N:2
+Medina         		Mean: 54.26 		Best: 222.93 		N:4
+
+########## REPORT GEN: 10 ##########
+SPECIES: 
+Resendez       		Mean: 68.29 		Best: 391.47 		N:4
+Leblanc        		Mean: 28.19 		Best: 363.42 		N:9
+Medina         		Mean: 30.75 		Best: 358.6 		N:8
+Yeakley        		Mean: 90.62 		Best: 347.59 		N:3
+Montoya        		Mean: 35.86 		Best: 340.75 		N:7
+Crandall       		Mean: 71.19 		Best: 340.45 		N:4
+Vantull        		Mean: 36.57 		Best: 332.58 		N:7
+Jones          		Mean: 40.31 		Best: 320.75 		N:6
+Hirtz          		Mean: 46.62 		Best: 320.73 		N:5
+Mullenbach     		Mean: 40.29 		Best: 304.82 		N:6
+Swasey         		Mean: 25.94 		Best: 301.41 		N:9
+Henry          		Mean: 28.7 		Best: 295.87 		N:8
+Miles          		Mean: 33.41 		Best: 295.2 		N:7
+Hopper         		Mean: 61.44 		Best: 288.28 		N:4
+Powell         		Mean: 33.55 		Best: 261.48 		N:7
+Beason         		Mean: 76.74 		Best: 249.4 		N:3
+Dean           		Mean: 54.01 		Best: 244.04 		N:4
+Anderson       		Mean: 46.13 		Best: 240.61 		N:5
+Butler         		Mean: 108.64 		Best: 235.85 		N:2
+Randolph       		Mean: 55.98 		Best: 227.54 		N:4
+Moore          		Mean: 108.47 		Best: 226.93 		N:2
+
+########## REPORT GEN: 11 ##########
+SPECIES: 
+Montoya        		Mean: 30.84 		Best: 403.8 		N:8
+Resendez       		Mean: 43.18 		Best: 366.61 		N:6
+Dean           		Mean: 51.72 		Best: 360.27 		N:5
+Hopper         		Mean: 93.49 		Best: 349.89 		N:3
+Medina         		Mean: 36.76 		Best: 338.99 		N:7
+Swasey         		Mean: 33.32 		Best: 319.43 		N:8
+Miles          		Mean: 41.25 		Best: 303.72 		N:6
+Vantull        		Mean: 85.23 		Best: 294.62 		N:3
+Mullenbach     		Mean: 48.92 		Best: 293.45 		N:5
+Hirtz          		Mean: 48.05 		Best: 290.71 		N:5
+Jones          		Mean: 55.89 		Best: 285.52 		N:4
+Yeakley        		Mean: 46.55 		Best: 284.39 		N:5
+Anderson       		Mean: 49.91 		Best: 284.33 		N:5
+Randolph       		Mean: 34.23 		Best: 283.37 		N:7
+Leblanc        		Mean: 29.3 		Best: 281.86 		N:8
+Powell         		Mean: 25.0 		Best: 274.02 		N:9
+Crandall       		Mean: 45.68 		Best: 267.34 		N:5
+Beason         		Mean: 56.92 		Best: 258.91 		N:4
+Henry          		Mean: 27.51 		Best: 246.59 		N:8
+

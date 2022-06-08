@@ -1,0 +1,830 @@
+########## REPORT GEN: 2 ##########
+SPECIES: 
+Kave           		Mean: 89.3 		Best: 482.31 		N:5
+Keene          		Mean: 19.31 		Best: 454.24 		N:21
+Griswold       		Mean: 96.62 		Best: 427.89 		N:4
+Smith          		Mean: 14.58 		Best: 427.89 		N:27
+Bruner         		Mean: 121.38 		Best: 427.89 		N:3
+Byrd           		Mean: 19.09 		Best: 427.89 		N:20
+Simmons        		Mean: 85.23 		Best: 392.38 		N:4
+Coste          		Mean: 184.03 		Best: 368.06 		N:2
+Bellinger      		Mean: 94.47 		Best: 367.32 		N:3
+Lloyd          		Mean: 162.15 		Best: 321.37 		N:2
+Wilson         		Mean: 137.05 		Best: 277.11 		N:2
+Kavanagh       		Mean: 138.1 		Best: 277.11 		N:2
+Fullerton      		Mean: 135.63 		Best: 271.27 		N:2
+Lozoya         		Mean: 121.83 		Best: 241.47 		N:2
+
+########## REPORT GEN: 3 ##########
+SPECIES: 
+Kave           		Mean: 89.61 		Best: 482.31 		N:5
+Bruner         		Mean: 77.64 		Best: 482.31 		N:5
+Griswold       		Mean: 20.27 		Best: 454.24 		N:17
+Smith          		Mean: 31.92 		Best: 427.89 		N:12
+Byrd           		Mean: 48.63 		Best: 427.89 		N:7
+Bellinger      		Mean: 27.29 		Best: 427.89 		N:13
+Wallace        		Mean: 184.6 		Best: 427.89 		N:2
+Hudson         		Mean: 183.63 		Best: 392.38 		N:2
+Wilson         		Mean: 162.56 		Best: 369.13 		N:2
+Keene          		Mean: 89.18 		Best: 368.06 		N:4
+Coste          		Mean: 77.04 		Best: 368.06 		N:4
+Johnson        		Mean: 68.15 		Best: 369.81 		N:5
+Lloyd          		Mean: 80.69 		Best: 321.37 		N:4
+Kavanagh       		Mean: 88.9 		Best: 277.11 		N:3
+Fullerton      		Mean: 67.82 		Best: 271.27 		N:4
+Simmons        		Mean: 122.11 		Best: 241.47 		N:2
+Lozoya         		Mean: 81.72 		Best: 241.47 		N:3
+
+########## REPORT GEN: 4 ##########
+SPECIES: 
+Bruner         		Mean: 37.63 		Best: 482.31 		N:9
+Hudson         		Mean: 61.44 		Best: 482.31 		N:7
+Hall           		Mean: 121.09 		Best: 454.24 		N:3
+Wallace        		Mean: 37.12 		Best: 454.24 		N:10
+Nash           		Mean: 47.33 		Best: 454.24 		N:7
+Kave           		Mean: 124.46 		Best: 427.89 		N:3
+Smith          		Mean: 49.43 		Best: 427.89 		N:7
+Byrd           		Mean: 139.51 		Best: 427.89 		N:3
+Keene          		Mean: 124.4 		Best: 427.89 		N:3
+Johnson        		Mean: 79.3 		Best: 427.89 		N:5
+Fullerton      		Mean: 32.17 		Best: 427.89 		N:11
+Bellinger      		Mean: 88.9 		Best: 388.22 		N:4
+Coste          		Mean: 165.99 		Best: 369.81 		N:2
+Griswold       		Mean: 43.37 		Best: 368.06 		N:7
+Kavanagh       		Mean: 97.56 		Best: 321.37 		N:3
+Simmons        		Mean: 81.6 		Best: 241.47 		N:3
+Lozoya         		Mean: 49.45 		Best: 241.47 		N:5
+
+########## REPORT GEN: 5 ##########
+SPECIES: 
+Hudson         		Mean: 137.42 		Best: 482.31 		N:3
+Hall           		Mean: 51.86 		Best: 482.31 		N:7
+Keene          		Mean: 59.32 		Best: 482.31 		N:7
+Lloyd          		Mean: 61.25 		Best: 482.31 		N:6
+Bruner         		Mean: 67.47 		Best: 454.24 		N:6
+Byrd           		Mean: 73.47 		Best: 454.24 		N:5
+Simmons        		Mean: 59.6 		Best: 454.24 		N:5
+Kave           		Mean: 51.39 		Best: 427.89 		N:7
+Fullerton      		Mean: 59.09 		Best: 427.89 		N:7
+Bellinger      		Mean: 53.37 		Best: 427.89 		N:7
+Griswold       		Mean: 50.45 		Best: 427.89 		N:7
+Coste          		Mean: 33.39 		Best: 392.38 		N:10
+Wallace        		Mean: 62.17 		Best: 368.06 		N:5
+Smith          		Mean: 58.9 		Best: 368.06 		N:5
+Johnson        		Mean: 103.71 		Best: 368.06 		N:3
+
+########## REPORT GEN: 6 ##########
+SPECIES: 
+Hudson         		Mean: 69.96 		Best: 482.31 		N:6
+Bruner         		Mean: 40.93 		Best: 482.31 		N:9
+Simmons        		Mean: 37.83 		Best: 482.31 		N:9
+Wallace        		Mean: 52.26 		Best: 482.31 		N:7
+Fullerton      		Mean: 133.36 		Best: 454.24 		N:3
+Griswold       		Mean: 41.43 		Best: 454.24 		N:9
+Johnson        		Mean: 59.32 		Best: 454.24 		N:5
+Keene          		Mean: 53.93 		Best: 427.89 		N:6
+Lloyd          		Mean: 58.89 		Best: 427.89 		N:7
+Bellinger      		Mean: 72.36 		Best: 427.89 		N:5
+Nash           		Mean: 184.15 		Best: 427.89 		N:2
+Kave           		Mean: 74.13 		Best: 369.13 		N:4
+Hall           		Mean: 110.39 		Best: 368.06 		N:3
+Byrd           		Mean: 46.13 		Best: 368.06 		N:6
+Coste          		Mean: 96.39 		Best: 366.52 		N:3
+Lozoya         		Mean: 154.82 		Best: 366.52 		N:2
+
+########## REPORT GEN: 7 ##########
+SPECIES: 
+Hudson         		Mean: 89.65 		Best: 482.31 		N:5
+Kave           		Mean: 112.62 		Best: 482.31 		N:3
+Mccormick      		Mean: 95.34 		Best: 482.31 		N:5
+Lloyd          		Mean: 35.09 		Best: 454.24 		N:11
+Bellinger      		Mean: 37.52 		Best: 454.24 		N:10
+Griswold       		Mean: 67.99 		Best: 427.89 		N:5
+Hall           		Mean: 81.21 		Best: 427.89 		N:5
+Coste          		Mean: 90.97 		Best: 427.89 		N:4
+Shortell       		Mean: 216.15 		Best: 427.89 		N:2
+Byrd           		Mean: 77.94 		Best: 392.38 		N:4
+Wallace        		Mean: 38.9 		Best: 388.22 		N:8
+Simmons        		Mean: 104.58 		Best: 369.13 		N:3
+Nash           		Mean: 97.5 		Best: 369.13 		N:3
+Fullerton      		Mean: 106.85 		Best: 368.06 		N:3
+Keene          		Mean: 185.29 		Best: 368.06 		N:2
+Lozoya         		Mean: 38.18 		Best: 367.32 		N:7
+Bruner         		Mean: 123.58 		Best: 369.13 		N:3
+Smith          		Mean: 121.98 		Best: 241.47 		N:2
+
+########## REPORT GEN: 8 ##########
+SPECIES: 
+Mccormick      		Mean: 123.17 		Best: 482.31 		N:4
+Simmons        		Mean: 50.61 		Best: 482.31 		N:7
+Nash           		Mean: 34.76 		Best: 482.31 		N:10
+Kave           		Mean: 55.15 		Best: 454.24 		N:6
+Hall           		Mean: 65.96 		Best: 454.24 		N:6
+Shortell       		Mean: 126.7 		Best: 454.24 		N:3
+Wallace        		Mean: 79.05 		Best: 454.24 		N:5
+Fullerton      		Mean: 63.82 		Best: 454.24 		N:6
+Keene          		Mean: 59.56 		Best: 454.24 		N:7
+Bruner         		Mean: 58.41 		Best: 454.24 		N:6
+Bellinger      		Mean: 39.93 		Best: 427.89 		N:9
+Griswold       		Mean: 38.24 		Best: 427.89 		N:9
+Smith          		Mean: 46.43 		Best: 392.38 		N:7
+Coste          		Mean: 49.26 		Best: 388.22 		N:6
+Byrd           		Mean: 66.23 		Best: 368.06 		N:5
+Lozoya         		Mean: 154.99 		Best: 367.32 		N:2
+
+########## REPORT GEN: 9 ##########
+SPECIES: 
+Mccormick      		Mean: 164.31 		Best: 482.31 		N:3
+Nash           		Mean: 86.95 		Best: 482.31 		N:5
+Hudson         		Mean: 57.59 		Best: 482.31 		N:8
+Wallace        		Mean: 101.66 		Best: 482.31 		N:4
+Bruner         		Mean: 68.91 		Best: 482.31 		N:5
+Lloyd          		Mean: 52.5 		Best: 482.31 		N:8
+Simmons        		Mean: 99.6 		Best: 454.24 		N:4
+Hall           		Mean: 143.72 		Best: 454.24 		N:3
+Bellinger      		Mean: 192.08 		Best: 454.24 		N:2
+Byrd           		Mean: 121.75 		Best: 454.24 		N:3
+Lozoya         		Mean: 56.88 		Best: 454.24 		N:7
+Shortell       		Mean: 171.96 		Best: 427.89 		N:2
+Griswold       		Mean: 51.88 		Best: 381.37 		N:7
+Kave           		Mean: 158.26 		Best: 369.13 		N:2
+Keene          		Mean: 170.39 		Best: 369.13 		N:2
+Fullerton      		Mean: 58.73 		Best: 368.06 		N:6
+Coste          		Mean: 153.54 		Best: 366.52 		N:2
+
+########## REPORT GEN: 10 ##########
+SPECIES: 
+Keene          		Mean: 74.28 		Best: 488.72 		N:6
+Mccormick      		Mean: 103.99 		Best: 482.31 		N:4
+Nash           		Mean: 150.94 		Best: 482.31 		N:3
+Hudson         		Mean: 78.03 		Best: 482.31 		N:5
+Lloyd          		Mean: 45.97 		Best: 482.31 		N:9
+Hall           		Mean: 74.15 		Best: 482.31 		N:5
+Bellinger      		Mean: 74.15 		Best: 482.31 		N:6
+Griswold       		Mean: 84.32 		Best: 482.31 		N:5
+Kave           		Mean: 133.84 		Best: 482.31 		N:3
+Coste          		Mean: 137.37 		Best: 482.31 		N:3
+Fullerton      		Mean: 45.45 		Best: 454.24 		N:7
+Smith          		Mean: 177.38 		Best: 454.24 		N:2
+Bruner         		Mean: 55.13 		Best: 427.89 		N:6
+Byrd           		Mean: 69.7 		Best: 388.22 		N:5
+Lozoya         		Mean: 77.4 		Best: 382.84 		N:5
+Simmons        		Mean: 156.24 		Best: 381.37 		N:2
+Wallace        		Mean: 169.84 		Best: 366.52 		N:2
+
+########## REPORT GEN: 11 ##########
+SPECIES: 
+Lloyd          		Mean: 31.9 		Best: 488.72 		N:11
+Simmons        		Mean: 154.22 		Best: 488.72 		N:3
+Keene          		Mean: 97.12 		Best: 482.31 		N:5
+Hudson         		Mean: 65.03 		Best: 482.31 		N:6
+Hall           		Mean: 51.04 		Best: 482.31 		N:8
+Bellinger      		Mean: 143.73 		Best: 482.31 		N:3
+Griswold       		Mean: 108.19 		Best: 482.31 		N:4
+Coste          		Mean: 85.07 		Best: 482.31 		N:5
+Smith          		Mean: 39.28 		Best: 482.31 		N:9
+Wallace        		Mean: 50.56 		Best: 482.31 		N:8
+Fullerton      		Mean: 224.52 		Best: 454.24 		N:2
+Nash           		Mean: 57.76 		Best: 427.89 		N:6
+Lozoya         		Mean: 77.2 		Best: 407.87 		N:5
+Kave           		Mean: 175.59 		Best: 387.14 		N:2
+Byrd           		Mean: 159.22 		Best: 369.13 		N:2
+Bruner         		Mean: 150.14 		Best: 368.33 		N:2
+Shortell       		Mean: 84.29 		Best: 366.52 		N:4
+
+########## REPORT GEN: 12 ##########
+SPECIES: 
+Nash           		Mean: 245.36 		Best: 488.72 		N:2
+Kave           		Mean: 55.74 		Best: 488.72 		N:7
+Byrd           		Mean: 62.89 		Best: 488.72 		N:7
+Lloyd          		Mean: 52.18 		Best: 482.31 		N:8
+Keene          		Mean: 222.39 		Best: 482.31 		N:2
+Mccormick      		Mean: 45.06 		Best: 482.31 		N:9
+Hall           		Mean: 160.26 		Best: 482.31 		N:3
+Griswold       		Mean: 40.03 		Best: 482.31 		N:9
+Wallace        		Mean: 58.68 		Best: 482.31 		N:7
+Smith          		Mean: 68.71 		Best: 454.24 		N:6
+Bellinger      		Mean: 57.22 		Best: 427.89 		N:6
+Hudson         		Mean: 89.77 		Best: 407.87 		N:4
+Fullerton      		Mean: 120.46 		Best: 369.13 		N:3
+Lozoya         		Mean: 124.3 		Best: 367.32 		N:3
+Shortell       		Mean: 104.49 		Best: 366.52 		N:3
+Coste          		Mean: 149.81 		Best: 299.62 		N:2
+
+########## REPORT GEN: 13 ##########
+SPECIES: 
+Nash           		Mean: 96.57 		Best: 488.72 		N:4
+Lloyd          		Mean: 57.58 		Best: 488.72 		N:7
+Griswold       		Mean: 70.69 		Best: 488.72 		N:5
+Simmons        		Mean: 100.07 		Best: 488.72 		N:4
+Bruner         		Mean: 44.49 		Best: 488.72 		N:10
+Hall           		Mean: 200.11 		Best: 482.31 		N:2
+Wallace        		Mean: 117.04 		Best: 482.31 		N:4
+Smith          		Mean: 217.39 		Best: 482.31 		N:2
+Shortell       		Mean: 48.01 		Best: 482.31 		N:7
+Keene          		Mean: 94.83 		Best: 454.24 		N:4
+Coste          		Mean: 72.13 		Best: 454.24 		N:5
+Byrd           		Mean: 97.26 		Best: 407.87 		N:4
+Hudson         		Mean: 167.06 		Best: 407.87 		N:2
+Kave           		Mean: 95.3 		Best: 378.54 		N:4
+Fullerton      		Mean: 62.24 		Best: 367.32 		N:6
+Bellinger      		Mean: 140.0 		Best: 299.62 		N:2
+
+########## REPORT GEN: 14 ##########
+SPECIES: 
+Nash           		Mean: 60.93 		Best: 488.72 		N:7
+Simmons        		Mean: 201.35 		Best: 488.72 		N:2
+Bruner         		Mean: 55.72 		Best: 488.72 		N:8
+Hall           		Mean: 113.84 		Best: 488.72 		N:4
+Hudson         		Mean: 51.42 		Best: 488.72 		N:7
+Mccormick      		Mean: 51.24 		Best: 488.72 		N:8
+Bellinger      		Mean: 75.48 		Best: 488.72 		N:5
+Smith          		Mean: 71.54 		Best: 482.31 		N:6
+Keene          		Mean: 83.53 		Best: 482.31 		N:5
+Coste          		Mean: 218.83 		Best: 482.31 		N:2
+Fullerton      		Mean: 148.73 		Best: 482.31 		N:3
+Lloyd          		Mean: 76.38 		Best: 407.87 		N:4
+Byrd           		Mean: 58.52 		Best: 407.87 		N:6
+Kave           		Mean: 53.32 		Best: 378.54 		N:6
+Shortell       		Mean: 78.39 		Best: 367.32 		N:4
+
+########## REPORT GEN: 15 ##########
+SPECIES: 
+Nash           		Mean: 162.14 		Best: 488.72 		N:3
+Hall           		Mean: 102.92 		Best: 488.72 		N:4
+Hudson         		Mean: 73.02 		Best: 488.72 		N:5
+Bellinger      		Mean: 82.38 		Best: 488.72 		N:5
+Keene          		Mean: 118.88 		Best: 488.72 		N:4
+Fullerton      		Mean: 73.8 		Best: 488.72 		N:6
+Byrd           		Mean: 59.81 		Best: 488.72 		N:6
+Wallace        		Mean: 63.27 		Best: 482.31 		N:6
+Coste          		Mean: 148.41 		Best: 482.31 		N:3
+Lloyd          		Mean: 164.39 		Best: 482.31 		N:3
+Kave           		Mean: 80.23 		Best: 454.24 		N:5
+Lozoya         		Mean: 199.05 		Best: 407.87 		N:2
+Smith          		Mean: 192.4 		Best: 378.54 		N:2
+Griswold       		Mean: 120.75 		Best: 375.82 		N:3
+Simmons        		Mean: 184.39 		Best: 368.33 		N:2
+Bruner         		Mean: 95.74 		Best: 368.33 		N:3
+Shortell       		Mean: 109.12 		Best: 366.52 		N:3
+
+########## REPORT GEN: 16 ##########
+SPECIES: 
+Bellinger      		Mean: 141.97 		Best: 488.72 		N:3
+Byrd           		Mean: 65.09 		Best: 488.72 		N:6
+Wallace        		Mean: 78.75 		Best: 488.72 		N:5
+Simmons        		Mean: 201.11 		Best: 488.72 		N:2
+Bruner         		Mean: 36.58 		Best: 488.72 		N:10
+Shortell       		Mean: 40.74 		Best: 488.72 		N:9
+Hall           		Mean: 59.36 		Best: 482.31 		N:6
+Fullerton      		Mean: 60.93 		Best: 488.72 		N:7
+Coste          		Mean: 68.83 		Best: 482.31 		N:6
+Kave           		Mean: 31.14 		Best: 482.31 		N:12
+Mccormick      		Mean: 76.05 		Best: 488.72 		N:6
+Griswold       		Mean: 62.66 		Best: 455.22 		N:6
+Hudson         		Mean: 208.76 		Best: 454.24 		N:2
+Keene          		Mean: 132.79 		Best: 452.32 		N:3
+Lloyd          		Mean: 89.47 		Best: 366.52 		N:4
+
+########## REPORT GEN: 17 ##########
+SPECIES: 
+Bellinger      		Mean: 90.45 		Best: 488.72 		N:5
+Byrd           		Mean: 58.06 		Best: 488.72 		N:7
+Bruner         		Mean: 34.2 		Best: 488.72 		N:12
+Fullerton      		Mean: 146.0 		Best: 488.72 		N:3
+Griswold       		Mean: 49.91 		Best: 488.72 		N:7
+Lloyd          		Mean: 60.11 		Best: 488.72 		N:6
+Wallace        		Mean: 45.42 		Best: 482.31 		N:8
+Keene          		Mean: 65.15 		Best: 482.31 		N:6
+Smith          		Mean: 98.9 		Best: 482.31 		N:4
+Hudson         		Mean: 92.8 		Best: 407.87 		N:4
+Coste          		Mean: 112.83 		Best: 367.32 		N:3
+Simmons        		Mean: 111.33 		Best: 366.52 		N:3
+Kave           		Mean: 64.71 		Best: 366.52 		N:5
+Hall           		Mean: 150.75 		Best: 299.62 		N:2
+
+########## REPORT GEN: 18 ##########
+SPECIES: 
+Bellinger      		Mean: 43.89 		Best: 488.72 		N:8
+Wallace        		Mean: 41.67 		Best: 488.72 		N:9
+Shortell       		Mean: 38.09 		Best: 488.72 		N:10
+Keene          		Mean: 101.42 		Best: 482.31 		N:4
+Smith          		Mean: 200.22 		Best: 482.31 		N:2
+Kave           		Mean: 40.36 		Best: 488.72 		N:11
+Hudson         		Mean: 129.33 		Best: 454.24 		N:3
+Nash           		Mean: 194.11 		Best: 452.32 		N:2
+Hall           		Mean: 66.97 		Best: 368.33 		N:5
+Bruner         		Mean: 109.29 		Best: 366.52 		N:3
+Simmons        		Mean: 117.02 		Best: 366.52 		N:3
+Griswold       		Mean: 151.28 		Best: 299.62 		N:2
+Byrd           		Mean: 21.02 		Best: 292.35 		N:12
+
+########## REPORT GEN: 19 ##########
+SPECIES: 
+Wallace        		Mean: 206.4 		Best: 488.72 		N:2
+Shortell       		Mean: 105.1 		Best: 488.72 		N:4
+Nash           		Mean: 46.66 		Best: 488.72 		N:8
+Fullerton      		Mean: 79.37 		Best: 488.72 		N:6
+Griswold       		Mean: 42.72 		Best: 488.72 		N:9
+Smith          		Mean: 123.72 		Best: 482.31 		N:3
+Bruner         		Mean: 73.8 		Best: 482.31 		N:5
+Hall           		Mean: 44.62 		Best: 378.54 		N:7
+Simmons        		Mean: 55.97 		Best: 367.32 		N:6
+Keene          		Mean: 67.84 		Best: 366.52 		N:5
+Lloyd          		Mean: 109.89 		Best: 366.52 		N:3
+Kave           		Mean: 103.45 		Best: 308.66 		N:3
+Byrd           		Mean: 32.33 		Best: 296.63 		N:8
+
+########## REPORT GEN: 20 ##########
+SPECIES: 
+Wallace        		Mean: 81.43 		Best: 542.0 		N:6
+Smith          		Mean: 34.39 		Best: 542.0 		N:10
+Bellinger      		Mean: 246.66 		Best: 488.72 		N:2
+Nash           		Mean: 255.88 		Best: 488.72 		N:2
+Kave           		Mean: 58.16 		Best: 482.31 		N:7
+Simmons        		Mean: 29.22 		Best: 478.65 		N:12
+Fullerton      		Mean: 150.62 		Best: 452.32 		N:3
+Keene          		Mean: 124.71 		Best: 367.32 		N:3
+Hudson         		Mean: 81.05 		Best: 366.52 		N:4
+Lloyd          		Mean: 82.04 		Best: 366.52 		N:4
+Shortell       		Mean: 69.34 		Best: 299.62 		N:4
+Bruner         		Mean: 100.29 		Best: 299.62 		N:3
+Hall           		Mean: 75.0 		Best: 299.62 		N:4
+Byrd           		Mean: 65.84 		Best: 296.63 		N:4
+
+########## REPORT GEN: 21 ##########
+SPECIES: 
+Bellinger      		Mean: 51.69 		Best: 542.0 		N:10
+Smith          		Mean: 244.36 		Best: 488.72 		N:2
+Nash           		Mean: 76.73 		Best: 482.31 		N:6
+Fullerton      		Mean: 88.22 		Best: 453.47 		N:5
+Lloyd          		Mean: 46.53 		Best: 367.32 		N:7
+Kave           		Mean: 36.33 		Best: 366.52 		N:9
+Hudson         		Mean: 31.65 		Best: 366.52 		N:10
+Shortell       		Mean: 44.88 		Best: 366.52 		N:7
+Bruner         		Mean: 36.44 		Best: 366.52 		N:9
+Hall           		Mean: 53.17 		Best: 366.52 		N:6
+Wallace        		Mean: 61.25 		Best: 299.62 		N:5
+Simmons        		Mean: 150.2 		Best: 299.62 		N:2
+Keene          		Mean: 144.62 		Best: 299.62 		N:2
+Byrd           		Mean: 43.82 		Best: 296.63 		N:6
+
+########## REPORT GEN: 22 ##########
+SPECIES: 
+Fullerton      		Mean: 52.71 		Best: 597.56 		N:9
+Bellinger      		Mean: 103.42 		Best: 542.0 		N:5
+Smith          		Mean: 173.67 		Best: 542.0 		N:3
+Simmons        		Mean: 30.38 		Best: 488.72 		N:11
+Nash           		Mean: 63.25 		Best: 482.31 		N:6
+Wallace        		Mean: 100.25 		Best: 482.31 		N:4
+Shortell       		Mean: 42.22 		Best: 367.32 		N:8
+Lloyd          		Mean: 163.38 		Best: 366.52 		N:2
+Hall           		Mean: 51.87 		Best: 366.52 		N:6
+Keene          		Mean: 108.45 		Best: 366.52 		N:3
+Kave           		Mean: 49.37 		Best: 299.62 		N:6
+Byrd           		Mean: 66.87 		Best: 296.63 		N:4
+
+########## REPORT GEN: 23 ##########
+SPECIES: 
+Fullerton      		Mean: 82.09 		Best: 597.56 		N:6
+Bellinger      		Mean: 118.05 		Best: 542.0 		N:4
+Smith          		Mean: 72.96 		Best: 542.0 		N:7
+Simmons        		Mean: 130.01 		Best: 542.0 		N:4
+Walker         		Mean: 107.67 		Best: 482.31 		N:3
+Lloyd          		Mean: 116.6 		Best: 367.32 		N:3
+Keene          		Mean: 48.45 		Best: 366.52 		N:7
+Nash           		Mean: 80.54 		Best: 321.37 		N:4
+Kave           		Mean: 41.66 		Best: 301.87 		N:7
+Shortell       		Mean: 40.93 		Best: 299.62 		N:7
+Hall           		Mean: 150.29 		Best: 299.62 		N:2
+Hudson         		Mean: 61.31 		Best: 299.62 		N:5
+Kornfeld       		Mean: 92.91 		Best: 296.63 		N:3
+Bruner         		Mean: 56.18 		Best: 292.35 		N:5
+Byrd           		Mean: 124.82 		Best: 260.26 		N:2
+
+########## REPORT GEN: 24 ##########
+SPECIES: 
+Fullerton      		Mean: 60.48 		Best: 597.56 		N:8
+Bellinger      		Mean: 40.8 		Best: 576.21 		N:12
+Smith          		Mean: 125.07 		Best: 542.0 		N:4
+Simmons        		Mean: 76.39 		Best: 488.72 		N:6
+Walker         		Mean: 54.9 		Best: 482.31 		N:6
+Lloyd          		Mean: 42.22 		Best: 366.52 		N:8
+Nash           		Mean: 46.14 		Best: 321.37 		N:7
+Hudson         		Mean: 59.28 		Best: 301.87 		N:5
+Kave           		Mean: 97.97 		Best: 299.62 		N:3
+Shortell       		Mean: 152.96 		Best: 299.62 		N:2
+Hall           		Mean: 60.62 		Best: 299.62 		N:5
+Wallace        		Mean: 73.68 		Best: 296.63 		N:4
+Wallace        		Mean: 68.34 		Best: 292.35 		N:4
+Bruner         		Mean: 97.45 		Best: 292.35 		N:3
+Kornfeld       		Mean: 42.78 		Best: 260.26 		N:6
+
+########## REPORT GEN: 25 ##########
+SPECIES: 
+Fullerton      		Mean: 79.23 		Best: 597.56 		N:6
+Smith          		Mean: 41.71 		Best: 576.21 		N:12
+Bellinger      		Mean: 61.21 		Best: 488.72 		N:6
+Simmons        		Mean: 246.31 		Best: 488.72 		N:2
+Bruner         		Mean: 51.69 		Best: 482.31 		N:6
+Garner         		Mean: 184.48 		Best: 367.65 		N:2
+Keene          		Mean: 82.04 		Best: 366.52 		N:4
+Nash           		Mean: 107.5 		Best: 321.37 		N:3
+Hudson         		Mean: 49.43 		Best: 299.62 		N:6
+Kave           		Mean: 97.32 		Best: 299.62 		N:3
+Shortell       		Mean: 37.41 		Best: 301.87 		N:8
+Hall           		Mean: 99.91 		Best: 299.62 		N:3
+Wallace        		Mean: 49.92 		Best: 296.63 		N:6
+Walker         		Mean: 78.88 		Best: 292.35 		N:3
+Wallace        		Mean: 48.94 		Best: 292.35 		N:6
+Lloyd          		Mean: 143.71 		Best: 285.15 		N:2
+Kornfeld       		Mean: 86.15 		Best: 260.26 		N:3
+
+########## REPORT GEN: 26 ##########
+SPECIES: 
+Fullerton      		Mean: 59.52 		Best: 597.56 		N:8
+Smith          		Mean: 71.51 		Best: 576.21 		N:7
+Bellinger      		Mean: 55.17 		Best: 488.72 		N:7
+Nash           		Mean: 58.73 		Best: 482.31 		N:6
+Wallace        		Mean: 50.36 		Best: 482.31 		N:6
+Garner         		Mean: 92.81 		Best: 367.65 		N:4
+Keene          		Mean: 37.2 		Best: 366.52 		N:8
+Lloyd          		Mean: 105.76 		Best: 366.52 		N:3
+Hudson         		Mean: 59.18 		Best: 299.62 		N:5
+Kave           		Mean: 99.2 		Best: 299.62 		N:3
+Shortell       		Mean: 40.65 		Best: 299.62 		N:7
+Hall           		Mean: 96.36 		Best: 299.62 		N:3
+Wallace        		Mean: 99.48 		Best: 296.63 		N:3
+Bruner         		Mean: 70.06 		Best: 292.35 		N:4
+Walker         		Mean: 48.68 		Best: 292.35 		N:5
+Cruz           		Mean: 137.01 		Best: 274.03 		N:2
+Kornfeld       		Mean: 37.15 		Best: 260.26 		N:7
+
+########## REPORT GEN: 27 ##########
+SPECIES: 
+Bellinger      		Mean: 138.95 		Best: 714.23 		N:4
+Simmons        		Mean: 161.85 		Best: 656.44 		N:3
+Fullerton      		Mean: 117.87 		Best: 597.56 		N:4
+Smith          		Mean: 99.41 		Best: 576.21 		N:5
+Nash           		Mean: 91.54 		Best: 482.31 		N:4
+Walker         		Mean: 37.94 		Best: 482.31 		N:8
+Garner         		Mean: 53.03 		Best: 367.65 		N:7
+Keene          		Mean: 82.64 		Best: 366.52 		N:4
+Lloyd          		Mean: 50.58 		Best: 366.52 		N:6
+Hudson         		Mean: 47.42 		Best: 299.62 		N:6
+Kave           		Mean: 33.29 		Best: 299.62 		N:9
+Shortell       		Mean: 75.81 		Best: 299.62 		N:4
+Hall           		Mean: 101.52 		Best: 299.62 		N:3
+Wallace        		Mean: 57.92 		Best: 296.63 		N:5
+Kornfeld       		Mean: 73.36 		Best: 296.63 		N:4
+Bruner         		Mean: 105.25 		Best: 218.97 		N:2
+
+########## REPORT GEN: 28 ##########
+SPECIES: 
+Simmons        		Mean: 146.66 		Best: 714.23 		N:4
+Smith          		Mean: 37.65 		Best: 714.23 		N:14
+Fullerton      		Mean: 49.91 		Best: 597.56 		N:8
+Bellinger      		Mean: 81.54 		Best: 488.72 		N:5
+Nash           		Mean: 52.89 		Best: 482.31 		N:7
+Bruner         		Mean: 75.89 		Best: 482.31 		N:4
+Garner         		Mean: 185.32 		Best: 367.65 		N:2
+Keene          		Mean: 45.35 		Best: 367.32 		N:7
+Lloyd          		Mean: 105.89 		Best: 366.52 		N:3
+Hall           		Mean: 46.51 		Best: 366.52 		N:7
+Walker         		Mean: 144.34 		Best: 354.72 		N:2
+Hudson         		Mean: 47.37 		Best: 299.62 		N:6
+Shortell       		Mean: 60.87 		Best: 299.62 		N:5
+Cruz           		Mean: 74.07 		Best: 299.62 		N:4
+Wallace        		Mean: 47.66 		Best: 296.63 		N:6
+Triplett       		Mean: 86.99 		Best: 260.26 		N:3
+Sanchirico     		Mean: 66.92 		Best: 200.77 		N:3
+
+########## REPORT GEN: 29 ##########
+SPECIES: 
+Simmons        		Mean: 107.33 		Best: 714.23 		N:5
+Smith          		Mean: 52.77 		Best: 714.23 		N:9
+Bellinger      		Mean: 73.81 		Best: 656.44 		N:7
+Fullerton      		Mean: 97.1 		Best: 597.56 		N:4
+Wallace        		Mean: 106.96 		Best: 495.09 		N:4
+Nash           		Mean: 125.88 		Best: 482.31 		N:3
+Keene          		Mean: 92.63 		Best: 367.65 		N:4
+Garner         		Mean: 188.38 		Best: 367.32 		N:2
+Lloyd          		Mean: 50.51 		Best: 366.52 		N:6
+Shortell       		Mean: 63.51 		Best: 366.52 		N:5
+Walker         		Mean: 61.66 		Best: 354.72 		N:4
+Bruner         		Mean: 37.65 		Best: 299.62 		N:6
+Hudson         		Mean: 58.52 		Best: 299.62 		N:5
+Cruz           		Mean: 57.08 		Best: 299.62 		N:5
+Kornfeld       		Mean: 92.6 		Best: 296.63 		N:3
+Triplett       		Mean: 55.9 		Best: 296.63 		N:5
+Wallace        		Mean: 129.11 		Best: 260.26 		N:2
+
+########## REPORT GEN: 30 ##########
+SPECIES: 
+Simmons        		Mean: 140.56 		Best: 714.23 		N:4
+Smith          		Mean: 57.58 		Best: 714.23 		N:8
+Bellinger      		Mean: 57.94 		Best: 714.23 		N:8
+Fullerton      		Mean: 48.5 		Best: 597.56 		N:8
+Walker         		Mean: 53.05 		Best: 495.09 		N:7
+Wallace        		Mean: 82.76 		Best: 482.31 		N:4
+Nash           		Mean: 58.38 		Best: 482.31 		N:6
+Triplett       		Mean: 31.19 		Best: 369.56 		N:9
+Keene          		Mean: 73.96 		Best: 367.32 		N:5
+Lloyd          		Mean: 78.05 		Best: 367.32 		N:4
+Garner         		Mean: 74.83 		Best: 367.65 		N:5
+Hudson         		Mean: 47.87 		Best: 366.52 		N:7
+Sanchirico     		Mean: 41.1 		Best: 354.72 		N:6
+Shortell       		Mean: 145.28 		Best: 299.62 		N:2
+Cruz           		Mean: 39.17 		Best: 299.62 		N:7
+Kornfeld       		Mean: 92.15 		Best: 296.63 		N:3
+Wallace        		Mean: 91.66 		Best: 296.63 		N:3
+Bruner         		Mean: 101.44 		Best: 200.77 		N:2
+
+########## REPORT GEN: 31 ##########
+SPECIES: 
+Smith          		Mean: 43.99 		Best: 714.23 		N:10
+Bellinger      		Mean: 76.76 		Best: 714.23 		N:6
+Simmons        		Mean: 109.17 		Best: 656.44 		N:4
+Fullerton      		Mean: 74.69 		Best: 597.56 		N:5
+Shortell       		Mean: 62.07 		Best: 495.09 		N:6
+Wallace        		Mean: 25.88 		Best: 488.72 		N:14
+Nash           		Mean: 91.14 		Best: 482.31 		N:4
+Hudson         		Mean: 85.43 		Best: 482.31 		N:4
+Wallace        		Mean: 72.41 		Best: 369.56 		N:4
+Lloyd          		Mean: 61.45 		Best: 367.32 		N:5
+Keene          		Mean: 53.19 		Best: 367.32 		N:7
+Garner         		Mean: 74.61 		Best: 367.32 		N:5
+Sanchirico     		Mean: 49.13 		Best: 354.72 		N:5
+Walker         		Mean: 30.37 		Best: 304.18 		N:8
+Kornfeld       		Mean: 70.75 		Best: 296.63 		N:4
+Triplett       		Mean: 32.2 		Best: 260.26 		N:8
+Cruz           		Mean: 113.7 		Best: 257.4 		N:2
+Bruner         		Mean: 33.14 		Best: 200.77 		N:6
+
+########## REPORT GEN: 32 ##########
+SPECIES: 
+Smith          		Mean: 74.35 		Best: 714.23 		N:5
+Simmons        		Mean: 46.04 		Best: 714.23 		N:10
+Fullerton      		Mean: 34.36 		Best: 597.56 		N:11
+Hudson         		Mean: 27.46 		Best: 495.09 		N:11
+Bellinger      		Mean: 33.14 		Best: 488.72 		N:9
+Nash           		Mean: 49.59 		Best: 482.31 		N:7
+Walker         		Mean: 97.02 		Best: 482.31 		N:4
+Triplett       		Mean: 34.98 		Best: 369.56 		N:8
+Wallace        		Mean: 63.68 		Best: 367.32 		N:5
+Lloyd          		Mean: 32.48 		Best: 367.32 		N:10
+Keene          		Mean: 74.72 		Best: 367.32 		N:5
+Garner         		Mean: 53.46 		Best: 367.32 		N:7
+Wallace        		Mean: 38.26 		Best: 296.63 		N:7
+Kornfeld       		Mean: 57.34 		Best: 296.63 		N:5
+Shortell       		Mean: 66.35 		Best: 274.42 		N:4
+Cruz           		Mean: 29.72 		Best: 274.42 		N:8
+Sanchirico     		Mean: 50.54 		Best: 200.77 		N:4
+Bruner         		Mean: 67.47 		Best: 200.77 		N:3
+
+########## REPORT GEN: 33 ##########
+SPECIES: 
+Smith          		Mean: 59.58 		Best: 714.23 		N:6
+Simmons        		Mean: 49.57 		Best: 714.23 		N:8
+Bellinger      		Mean: 45.5 		Best: 714.23 		N:9
+Fullerton      		Mean: 96.97 		Best: 597.56 		N:4
+Bruner         		Mean: 23.21 		Best: 495.09 		N:11
+Nash           		Mean: 45.64 		Best: 482.31 		N:8
+Hudson         		Mean: 69.62 		Best: 481.1 		N:5
+Sanchirico     		Mean: 58.83 		Best: 407.12 		N:5
+Triplett       		Mean: 61.14 		Best: 369.56 		N:5
+Lloyd          		Mean: 25.3 		Best: 367.32 		N:13
+Garner         		Mean: 53.63 		Best: 367.32 		N:7
+Keene          		Mean: 74.58 		Best: 367.32 		N:5
+Shortell       		Mean: 18.62 		Best: 366.52 		N:14
+Wallace        		Mean: 98.83 		Best: 299.62 		N:3
+Cruz           		Mean: 44.88 		Best: 299.62 		N:6
+Wallace        		Mean: 53.85 		Best: 296.63 		N:5
+Kornfeld       		Mean: 27.89 		Best: 296.63 		N:10
+Walker         		Mean: 67.53 		Best: 200.77 		N:3
+
+########## REPORT GEN: 34 ##########
+SPECIES: 
+Smith          		Mean: 84.71 		Best: 714.23 		N:6
+Bellinger      		Mean: 51.96 		Best: 714.23 		N:8
+Bruner         		Mean: 31.21 		Best: 597.56 		N:10
+Cruz           		Mean: 34.05 		Best: 495.09 		N:11
+Fullerton      		Mean: 42.63 		Best: 482.31 		N:8
+Keene          		Mean: 199.91 		Best: 426.85 		N:2
+Garner         		Mean: 27.64 		Best: 381.15 		N:13
+Kornfeld       		Mean: 38.98 		Best: 369.56 		N:7
+Wallace        		Mean: 35.34 		Best: 367.32 		N:10
+Lloyd          		Mean: 73.86 		Best: 366.52 		N:4
+Shortell       		Mean: 44.21 		Best: 366.52 		N:7
+Simmons        		Mean: 29.36 		Best: 359.6 		N:9
+Walker         		Mean: 37.73 		Best: 354.72 		N:6
+Nash           		Mean: 80.34 		Best: 321.37 		N:4
+Triplett       		Mean: 43.15 		Best: 296.63 		N:6
+Wallace        		Mean: 45.79 		Best: 296.63 		N:6
+Hudson         		Mean: 87.0 		Best: 257.57 		N:3
+Sanchirico     		Mean: 14.11 		Best: 200.77 		N:13
+
+########## REPORT GEN: 35 ##########
+SPECIES: 
+Smith          		Mean: 67.31 		Best: 714.23 		N:7
+Simmons        		Mean: 50.57 		Best: 714.23 		N:10
+Fullerton      		Mean: 54.21 		Best: 597.56 		N:7
+Hudson         		Mean: 15.78 		Best: 494.42 		N:19
+Walker         		Mean: 47.95 		Best: 482.31 		N:5
+Sanchirico     		Mean: 31.92 		Best: 478.1 		N:7
+Garner         		Mean: 92.94 		Best: 426.85 		N:4
+Lloyd          		Mean: 67.98 		Best: 426.85 		N:5
+Cruz           		Mean: 68.45 		Best: 381.15 		N:5
+Kornfeld       		Mean: 55.4 		Best: 369.56 		N:5
+Keene          		Mean: 68.56 		Best: 367.32 		N:5
+Bellinger      		Mean: 39.58 		Best: 359.6 		N:7
+Nash           		Mean: 44.14 		Best: 321.37 		N:7
+Shortell       		Mean: 140.71 		Best: 299.62 		N:2
+Bruner         		Mean: 34.98 		Best: 296.63 		N:8
+Wallace        		Mean: 142.76 		Best: 285.15 		N:2
+Triplett       		Mean: 49.15 		Best: 260.26 		N:5
+
+########## REPORT GEN: 36 ##########
+SPECIES: 
+Simmons        		Mean: 83.1 		Best: 714.23 		N:6
+Bellinger      		Mean: 48.58 		Best: 714.23 		N:8
+Nash           		Mean: 75.05 		Best: 597.56 		N:5
+Sanchirico     		Mean: 97.63 		Best: 482.31 		N:3
+Shortell       		Mean: 57.33 		Best: 482.31 		N:6
+Walker         		Mean: 53.8 		Best: 478.1 		N:5
+Lloyd          		Mean: 42.39 		Best: 426.85 		N:9
+Wallace        		Mean: 44.98 		Best: 426.85 		N:7
+Wallace        		Mean: 34.71 		Best: 369.56 		N:8
+Hudson         		Mean: 52.35 		Best: 366.52 		N:6
+Cruz           		Mean: 77.07 		Best: 366.52 		N:4
+Keene          		Mean: 47.72 		Best: 366.52 		N:7
+Fullerton      		Mean: 37.91 		Best: 321.37 		N:8
+Bruner         		Mean: 69.59 		Best: 296.63 		N:4
+Garner         		Mean: 96.0 		Best: 285.15 		N:3
+Smith          		Mean: 92.57 		Best: 275.42 		N:3
+Kornfeld       		Mean: 78.12 		Best: 249.43 		N:3
+Triplett       		Mean: 124.75 		Best: 249.43 		N:2
+
+########## REPORT GEN: 37 ##########
+SPECIES: 
+Simmons        		Mean: 57.61 		Best: 714.23 		N:7
+Bellinger      		Mean: 31.58 		Best: 714.23 		N:13
+Nash           		Mean: 38.7 		Best: 597.56 		N:9
+Walker         		Mean: 38.36 		Best: 482.31 		N:8
+Hudson         		Mean: 45.23 		Best: 426.85 		N:7
+Cruz           		Mean: 33.22 		Best: 426.85 		N:10
+Bruner         		Mean: 57.81 		Best: 369.56 		N:5
+Shortell       		Mean: 61.01 		Best: 366.52 		N:5
+Wallace        		Mean: 64.89 		Best: 366.52 		N:5
+Keene          		Mean: 41.18 		Best: 366.52 		N:7
+Garner         		Mean: 52.28 		Best: 366.52 		N:6
+Fullerton      		Mean: 59.03 		Best: 328.36 		N:5
+Wallace        		Mean: 95.23 		Best: 296.63 		N:3
+Triplett       		Mean: 31.57 		Best: 296.63 		N:8
+Smith          		Mean: 90.05 		Best: 279.25 		N:3
+Kornfeld       		Mean: 40.79 		Best: 256.48 		N:6
+Sanchirico     		Mean: 30.62 		Best: 153.69 		N:5
+
+########## REPORT GEN: 38 ##########
+SPECIES: 
+Simmons        		Mean: 48.18 		Best: 714.23 		N:7
+Smith          		Mean: 70.05 		Best: 714.23 		N:6
+Fullerton      		Mean: 35.15 		Best: 597.56 		N:10
+Hudson         		Mean: 97.56 		Best: 426.85 		N:4
+Garner         		Mean: 27.95 		Best: 426.85 		N:11
+Bruner         		Mean: 37.14 		Best: 389.8 		N:8
+Cruz           		Mean: 116.16 		Best: 366.52 		N:3
+Keene          		Mean: 35.66 		Best: 366.52 		N:8
+Cline          		Mean: 164.18 		Best: 328.36 		N:2
+Nash           		Mean: 60.66 		Best: 321.37 		N:5
+Wallace        		Mean: 69.5 		Best: 296.63 		N:4
+Triplett       		Mean: 49.43 		Best: 296.63 		N:5
+Kornfeld       		Mean: 27.27 		Best: 296.63 		N:10
+Shortell       		Mean: 18.73 		Best: 285.15 		N:15
+Wallace        		Mean: 41.42 		Best: 285.15 		N:7
+Bellinger      		Mean: 30.24 		Best: 279.25 		N:9
+Walker         		Mean: 27.35 		Best: 220.7 		N:6
+Sanchirico     		Mean: 38.38 		Best: 153.69 		N:4
+
+########## REPORT GEN: 39 ##########
+SPECIES: 
+Smith          		Mean: 58.0 		Best: 714.23 		N:7
+Bellinger      		Mean: 65.27 		Best: 714.23 		N:7
+Cruz           		Mean: 32.43 		Best: 597.56 		N:11
+Nash           		Mean: 81.89 		Best: 453.01 		N:4
+Hudson         		Mean: 32.48 		Best: 426.85 		N:10
+Wallace        		Mean: 34.46 		Best: 389.8 		N:8
+Kornfeld       		Mean: 52.77 		Best: 369.56 		N:5
+Fullerton      		Mean: 60.71 		Best: 366.52 		N:5
+Garner         		Mean: 61.51 		Best: 366.52 		N:5
+Keene          		Mean: 35.44 		Best: 366.52 		N:8
+Shortell       		Mean: 44.25 		Best: 366.52 		N:6
+Cline          		Mean: 82.09 		Best: 328.36 		N:4
+Bruner         		Mean: 29.8 		Best: 296.63 		N:9
+Triplett       		Mean: 95.28 		Best: 296.63 		N:3
+Simmons        		Mean: 32.21 		Best: 279.25 		N:8
+Walker         		Mean: 28.27 		Best: 257.4 		N:7
+Sanchirico     		Mean: 49.7 		Best: 153.69 		N:3
+
+########## REPORT GEN: 40 ##########
+SPECIES: 
+Smith          		Mean: 54.69 		Best: 714.23 		N:7
+Bellinger      		Mean: 54.6 		Best: 714.23 		N:6
+Simmons        		Mean: 92.84 		Best: 714.23 		N:5
+Nash           		Mean: 43.95 		Best: 597.56 		N:8
+Wallace        		Mean: 71.29 		Best: 509.02 		N:5
+Fullerton      		Mean: 30.74 		Best: 453.01 		N:10
+Wallace        		Mean: 31.15 		Best: 426.85 		N:11
+Bruner         		Mean: 41.24 		Best: 389.8 		N:7
+Triplett       		Mean: 74.36 		Best: 369.56 		N:4
+Hudson         		Mean: 37.83 		Best: 366.52 		N:8
+Keene          		Mean: 165.11 		Best: 366.52 		N:2
+Cline          		Mean: 103.93 		Best: 328.36 		N:3
+Shortell       		Mean: 72.17 		Best: 321.37 		N:4
+Kornfeld       		Mean: 65.51 		Best: 296.26 		N:4
+Cruz           		Mean: 135.57 		Best: 285.15 		N:2
+Garner         		Mean: 91.07 		Best: 285.15 		N:3
+Sanchirico     		Mean: 38.96 		Best: 158.98 		N:4
+Walker         		Mean: 37.76 		Best: 152.46 		N:4
+
+########## REPORT GEN: 41 ##########
+SPECIES: 
+Smith          		Mean: 72.11 		Best: 714.23 		N:6
+Bellinger      		Mean: 53.95 		Best: 714.23 		N:6
+Simmons        		Mean: 37.22 		Best: 714.23 		N:11
+Nash           		Mean: 57.91 		Best: 597.56 		N:6
+Shortell       		Mean: 69.85 		Best: 597.56 		N:5
+Bruner         		Mean: 44.47 		Best: 509.02 		N:7
+Fullerton      		Mean: 108.75 		Best: 453.01 		N:3
+Wallace        		Mean: 48.59 		Best: 426.85 		N:6
+Triplett       		Mean: 34.93 		Best: 389.8 		N:8
+Kornfeld       		Mean: 41.72 		Best: 389.8 		N:7
+Keene          		Mean: 33.84 		Best: 366.52 		N:9
+Cruz           		Mean: 75.52 		Best: 366.52 		N:4
+Cline          		Mean: 37.89 		Best: 328.36 		N:7
+Garner         		Mean: 54.99 		Best: 328.36 		N:5
+Wallace        		Mean: 43.12 		Best: 296.26 		N:6
+Walker         		Mean: 63.85 		Best: 257.4 		N:3
+Sanchirico     		Mean: 30.99 		Best: 158.98 		N:5
+
+########## REPORT GEN: 42 ##########
+SPECIES: 
+Smith          		Mean: 67.88 		Best: 714.23 		N:5
+Bellinger      		Mean: 68.11 		Best: 714.23 		N:6
+Simmons        		Mean: 46.01 		Best: 714.23 		N:10
+Shortell       		Mean: 41.5 		Best: 597.56 		N:9
+Cline          		Mean: 87.46 		Best: 597.56 		N:4
+Kornfeld       		Mean: 62.59 		Best: 509.02 		N:5
+Nash           		Mean: 33.21 		Best: 426.85 		N:9
+Bruner         		Mean: 39.68 		Best: 389.8 		N:7
+Wallace        		Mean: 80.44 		Best: 389.8 		N:4
+Fullerton      		Mean: 46.8 		Best: 366.52 		N:6
+Keene          		Mean: 49.77 		Best: 366.52 		N:6
+Cruz           		Mean: 55.64 		Best: 366.52 		N:5
+Wallace        		Mean: 40.12 		Best: 285.15 		N:6
+Hudson         		Mean: 64.96 		Best: 285.15 		N:4
+Walker         		Mean: 107.6 		Best: 257.4 		N:2
+Sanchirico     		Mean: 30.87 		Best: 257.4 		N:7
+Triplett       		Mean: 62.73 		Best: 249.43 		N:4
+
+########## REPORT GEN: 43 ##########
+SPECIES: 
+Smith          		Mean: 68.36 		Best: 714.23 		N:7
+Bellinger      		Mean: 42.58 		Best: 714.23 		N:7
+Simmons        		Mean: 48.63 		Best: 714.23 		N:7
+Garner         		Mean: 37.28 		Best: 714.23 		N:10
+Hudson         		Mean: 48.68 		Best: 597.56 		N:8
+Kornfeld       		Mean: 26.89 		Best: 509.02 		N:11
+Fullerton      		Mean: 53.42 		Best: 452.74 		N:6
+Bruner         		Mean: 62.36 		Best: 389.8 		N:5
+Cline          		Mean: 38.0 		Best: 366.52 		N:7
+Walker         		Mean: 66.44 		Best: 366.52 		N:4
+Wallace        		Mean: 68.14 		Best: 365.75 		N:4
+Nash           		Mean: 42.28 		Best: 285.15 		N:6
+Shortell       		Mean: 62.12 		Best: 257.4 		N:4
+Cruz           		Mean: 125.8 		Best: 257.4 		N:2
+Wallace        		Mean: 41.83 		Best: 249.43 		N:6
+Triplett       		Mean: 83.52 		Best: 249.43 		N:3
+Cournoyer      		Mean: 39.08 		Best: 158.98 		N:4
+
+########## REPORT GEN: 44 ##########
+SPECIES: 
+Smith          		Mean: 41.02 		Best: 714.23 		N:7
+Bellinger      		Mean: 47.69 		Best: 714.23 		N:10
+Hudson         		Mean: 50.7 		Best: 714.23 		N:7
+Fullerton      		Mean: 171.36 		Best: 597.56 		N:3
+Bruner         		Mean: 41.18 		Best: 509.02 		N:7
+Kornfeld       		Mean: 41.22 		Best: 404.49 		N:8
+Keene          		Mean: 52.71 		Best: 366.52 		N:5
+Cruz           		Mean: 35.35 		Best: 366.52 		N:7
+Cline          		Mean: 48.36 		Best: 365.75 		N:5
+Shortell       		Mean: 35.65 		Best: 281.21 		N:7
+Nash           		Mean: 75.14 		Best: 267.01 		N:3
+Wallace        		Mean: 37.12 		Best: 265.32 		N:7
+Walker         		Mean: 58.33 		Best: 258.66 		N:4
+Garner         		Mean: 24.29 		Best: 257.4 		N:10
+Wallace        		Mean: 46.66 		Best: 257.4 		N:5
+Triplett       		Mean: 125.32 		Best: 249.43 		N:2
+Simmons        		Mean: 117.62 		Best: 237.42 		N:2
+Cournoyer      		Mean: 49.7 		Best: 158.98 		N:3
+

@@ -1,0 +1,404 @@
+########## REPORT GEN: 2 ##########
+SPECIES: 
+Lindsey        		Mean: 182.53 		Best: 361.77 		N:2
+Serasio        		Mean: 13.93 		Best: 361.77 		N:18
+Riley          		Mean: 28.43 		Best: 361.77 		N:7
+Harris         		Mean: 172.04 		Best: 337.88 		N:2
+Pierce         		Mean: 122.19 		Best: 324.98 		N:2
+Lawton         		Mean: 27.15 		Best: 317.86 		N:9
+Snedeker       		Mean: 31.32 		Best: 315.86 		N:8
+Gurke          		Mean: 22.96 		Best: 315.86 		N:11
+Mcnally        		Mean: 80.05 		Best: 315.86 		N:4
+Hubbard        		Mean: 45.03 		Best: 315.86 		N:5
+Collins        		Mean: 137.29 		Best: 274.59 		N:2
+Herman         		Mean: 31.31 		Best: 243.75 		N:5
+Belles         		Mean: 64.68 		Best: 226.0 		N:3
+Orahood        		Mean: 63.14 		Best: 126.27 		N:2
+Baughman       		Mean: 63.14 		Best: 126.27 		N:2
+
+########## REPORT GEN: 3 ##########
+SPECIES: 
+Lindsey        		Mean: 91.22 		Best: 361.77 		N:4
+Serasio        		Mean: 36.0 		Best: 361.77 		N:7
+Snedeker       		Mean: 35.57 		Best: 361.77 		N:6
+Gurke          		Mean: 40.64 		Best: 361.77 		N:6
+Harris         		Mean: 85.56 		Best: 337.88 		N:4
+Pierce         		Mean: 162.49 		Best: 324.98 		N:2
+Lawton         		Mean: 46.84 		Best: 317.86 		N:5
+Riley          		Mean: 86.66 		Best: 315.86 		N:3
+Mcnally        		Mean: 53.15 		Best: 315.86 		N:6
+Roe            		Mean: 158.83 		Best: 315.86 		N:2
+Herman         		Mean: 75.38 		Best: 291.08 		N:3
+Belles         		Mean: 29.36 		Best: 291.08 		N:6
+Collins        		Mean: 68.94 		Best: 274.59 		N:4
+Rivera         		Mean: 87.17 		Best: 196.61 		N:2
+Orahood        		Mean: 31.84 		Best: 126.27 		N:4
+Baughman       		Mean: 31.84 		Best: 126.27 		N:4
+
+########## REPORT GEN: 4 ##########
+SPECIES: 
+Lindsey        		Mean: 46.18 		Best: 374.69 		N:8
+Riley          		Mean: 86.72 		Best: 361.77 		N:3
+Herman         		Mean: 38.05 		Best: 361.77 		N:6
+Belles         		Mean: 172.61 		Best: 361.77 		N:2
+Hughes         		Mean: 29.33 		Best: 361.77 		N:7
+Harris         		Mean: 54.45 		Best: 337.88 		N:6
+Collins        		Mean: 44.7 		Best: 337.88 		N:7
+Baughman       		Mean: 59.46 		Best: 337.88 		N:4
+Landry         		Mean: 164.01 		Best: 324.98 		N:2
+Pierce         		Mean: 81.82 		Best: 324.98 		N:4
+Lawton         		Mean: 53.84 		Best: 317.86 		N:4
+Mcnally        		Mean: 107.05 		Best: 315.86 		N:3
+Roe            		Mean: 68.29 		Best: 315.86 		N:4
+Rivera         		Mean: 31.51 		Best: 315.86 		N:6
+Snedeker       		Mean: 27.14 		Best: 291.08 		N:7
+Gurke          		Mean: 130.35 		Best: 291.08 		N:2
+Orahood        		Mean: 42.44 		Best: 126.27 		N:3
+
+########## REPORT GEN: 5 ##########
+SPECIES: 
+Bowman         		Mean: 74.38 		Best: 374.69 		N:5
+Herman         		Mean: 29.88 		Best: 361.77 		N:8
+Belles         		Mean: 73.88 		Best: 361.77 		N:4
+Lawton         		Mean: 50.03 		Best: 361.77 		N:4
+Snedeker       		Mean: 128.94 		Best: 361.77 		N:2
+Harris         		Mean: 69.17 		Best: 337.88 		N:5
+Landry         		Mean: 65.89 		Best: 324.98 		N:5
+Pierce         		Mean: 31.43 		Best: 324.98 		N:10
+Hughes         		Mean: 45.24 		Best: 317.86 		N:5
+Mcnally        		Mean: 64.03 		Best: 315.86 		N:5
+Roe            		Mean: 161.6 		Best: 315.86 		N:2
+Rivera         		Mean: 53.09 		Best: 315.86 		N:5
+Collins        		Mean: 53.54 		Best: 296.71 		N:5
+Gurke          		Mean: 124.76 		Best: 291.08 		N:2
+Baughman       		Mean: 23.37 		Best: 211.02 		N:7
+Riley          		Mean: 22.55 		Best: 146.17 		N:5
+Orahood        		Mean: 31.75 		Best: 126.27 		N:4
+
+########## REPORT GEN: 6 ##########
+SPECIES: 
+Lindsey        		Mean: 73.97 		Best: 374.69 		N:5
+Roe            		Mean: 33.73 		Best: 374.69 		N:9
+Bowman         		Mean: 92.04 		Best: 361.77 		N:4
+Belles         		Mean: 28.91 		Best: 361.77 		N:6
+Lawton         		Mean: 57.76 		Best: 361.77 		N:4
+Snedeker       		Mean: 55.14 		Best: 361.77 		N:4
+Hughes         		Mean: 34.27 		Best: 361.77 		N:6
+Riley          		Mean: 43.88 		Best: 361.77 		N:5
+Harris         		Mean: 57.58 		Best: 337.88 		N:6
+Landry         		Mean: 54.41 		Best: 324.98 		N:6
+Pierce         		Mean: 162.49 		Best: 324.98 		N:2
+Rivera         		Mean: 65.91 		Best: 324.98 		N:5
+Mcnally        		Mean: 79.96 		Best: 315.86 		N:4
+Collins        		Mean: 52.83 		Best: 296.71 		N:5
+Orahood        		Mean: 24.64 		Best: 291.08 		N:8
+Herman         		Mean: 118.44 		Best: 258.06 		N:2
+Baughman       		Mean: 87.2 		Best: 211.02 		N:2
+
+########## REPORT GEN: 7 ##########
+SPECIES: 
+Lindsey        		Mean: 37.72 		Best: 387.13 		N:10
+Bowman         		Mean: 126.2 		Best: 387.13 		N:3
+Snedeker       		Mean: 47.12 		Best: 361.77 		N:6
+Riley          		Mean: 42.04 		Best: 361.77 		N:7
+Pierce         		Mean: 32.62 		Best: 361.77 		N:9
+Rivera         		Mean: 34.4 		Best: 361.77 		N:10
+Mcnally        		Mean: 30.96 		Best: 361.77 		N:10
+Orahood        		Mean: 106.75 		Best: 361.77 		N:3
+Herman         		Mean: 30.46 		Best: 361.77 		N:6
+Harris         		Mean: 115.17 		Best: 337.88 		N:3
+Gurke          		Mean: 81.12 		Best: 337.88 		N:4
+Collins        		Mean: 42.87 		Best: 337.88 		N:6
+Landry         		Mean: 63.41 		Best: 324.98 		N:4
+Belles         		Mean: 118.88 		Best: 315.86 		N:2
+Roe            		Mean: 69.39 		Best: 137.8 		N:2
+
+########## REPORT GEN: 8 ##########
+SPECIES: 
+Lindsey        		Mean: 62.48 		Best: 387.13 		N:6
+Bowman         		Mean: 62.78 		Best: 387.13 		N:6
+Pierce         		Mean: 85.15 		Best: 361.77 		N:3
+Orahood        		Mean: 33.36 		Best: 361.77 		N:7
+Herman         		Mean: 25.03 		Best: 361.77 		N:12
+Gurke          		Mean: 53.83 		Best: 361.77 		N:6
+Landry         		Mean: 29.52 		Best: 361.77 		N:8
+Harris         		Mean: 57.52 		Best: 341.01 		N:6
+Collins        		Mean: 80.81 		Best: 337.88 		N:4
+Snedeker       		Mean: 31.78 		Best: 326.51 		N:7
+Belles         		Mean: 71.53 		Best: 326.51 		N:4
+Thornton       		Mean: 136.39 		Best: 296.71 		N:2
+Baughman       		Mean: 120.52 		Best: 258.06 		N:2
+Lawton         		Mean: 37.44 		Best: 230.09 		N:4
+
+########## REPORT GEN: 9 ##########
+SPECIES: 
+Lindsey        		Mean: 96.6 		Best: 387.13 		N:4
+Bowman         		Mean: 63.5 		Best: 387.13 		N:6
+Roe            		Mean: 52.33 		Best: 387.13 		N:5
+Mcnally        		Mean: 89.06 		Best: 387.13 		N:4
+Landry         		Mean: 43.25 		Best: 361.77 		N:5
+Baughman       		Mean: 67.78 		Best: 361.77 		N:4
+Lawton         		Mean: 56.1 		Best: 361.77 		N:4
+Harris         		Mean: 58.49 		Best: 341.01 		N:6
+Gurke          		Mean: 82.3 		Best: 326.51 		N:3
+Pierce         		Mean: 96.62 		Best: 324.98 		N:3
+Belles         		Mean: 44.47 		Best: 315.86 		N:5
+Riley          		Mean: 84.13 		Best: 315.86 		N:3
+Thornton       		Mean: 51.1 		Best: 296.71 		N:5
+Rivera         		Mean: 106.55 		Best: 291.08 		N:2
+Orahood        		Mean: 82.85 		Best: 258.06 		N:3
+Collins        		Mean: 79.29 		Best: 237.17 		N:3
+
+########## REPORT GEN: 10 ##########
+SPECIES: 
+Lindsey        		Mean: 95.94 		Best: 387.13 		N:4
+Bowman         		Mean: 34.75 		Best: 387.13 		N:11
+Mcnally        		Mean: 66.78 		Best: 387.13 		N:5
+Gurke          		Mean: 14.68 		Best: 387.13 		N:17
+Herman         		Mean: 21.12 		Best: 361.77 		N:12
+Landry         		Mean: 89.15 		Best: 361.77 		N:3
+Lawton         		Mean: 25.43 		Best: 361.77 		N:9
+Roe            		Mean: 81.88 		Best: 341.01 		N:4
+Pierce         		Mean: 72.54 		Best: 326.51 		N:4
+Belles         		Mean: 79.46 		Best: 315.86 		N:3
+Thornton       		Mean: 86.84 		Best: 296.71 		N:3
+Collins        		Mean: 41.29 		Best: 283.09 		N:6
+Riley          		Mean: 81.52 		Best: 261.31 		N:3
+Baughman       		Mean: 60.17 		Best: 261.31 		N:4
+Orahood        		Mean: 129.24 		Best: 258.06 		N:2
+
+########## REPORT GEN: 11 ##########
+SPECIES: 
+Lindsey        		Mean: 38.19 		Best: 387.13 		N:10
+Bowman         		Mean: 95.36 		Best: 387.13 		N:4
+Mcnally        		Mean: 66.48 		Best: 387.13 		N:5
+Herman         		Mean: 89.72 		Best: 387.13 		N:3
+Landry         		Mean: 96.45 		Best: 361.77 		N:3
+Lawton         		Mean: 34.53 		Best: 361.77 		N:8
+Baughman       		Mean: 24.78 		Best: 361.77 		N:9
+Orahood        		Mean: 43.3 		Best: 361.77 		N:6
+Pierce         		Mean: 50.86 		Best: 339.85 		N:5
+Harris         		Mean: 52.09 		Best: 337.88 		N:6
+Belles         		Mean: 40.66 		Best: 315.86 		N:7
+Riley          		Mean: 32.39 		Best: 315.86 		N:8
+Thornton       		Mean: 42.96 		Best: 296.71 		N:6
+Collins        		Mean: 39.84 		Best: 242.99 		N:6
+Rivera         		Mean: 67.04 		Best: 133.72 		N:2
+
+########## REPORT GEN: 12 ##########
+SPECIES: 
+Lindsey        		Mean: 96.57 		Best: 387.13 		N:4
+Bowman         		Mean: 54.34 		Best: 387.13 		N:7
+Mcnally        		Mean: 121.16 		Best: 387.13 		N:3
+Herman         		Mean: 40.91 		Best: 387.13 		N:7
+Lawton         		Mean: 34.01 		Best: 387.13 		N:7
+Baughman       		Mean: 52.36 		Best: 387.13 		N:6
+Orahood        		Mean: 43.86 		Best: 374.69 		N:7
+Perkins        		Mean: 174.69 		Best: 359.2 		N:2
+Cornwell       		Mean: 170.27 		Best: 347.25 		N:2
+Pierce         		Mean: 82.38 		Best: 347.25 		N:4
+Roe            		Mean: 168.94 		Best: 337.88 		N:2
+Harris         		Mean: 81.73 		Best: 337.88 		N:4
+Riley          		Mean: 101.34 		Best: 315.86 		N:3
+Landry         		Mean: 84.06 		Best: 274.33 		N:3
+Collins        		Mean: 59.98 		Best: 242.99 		N:4
+Thornton       		Mean: 119.16 		Best: 237.17 		N:2
+Rivera         		Mean: 33.63 		Best: 133.72 		N:4
+
+########## REPORT GEN: 13 ##########
+SPECIES: 
+Lindsey        		Mean: 128.72 		Best: 387.13 		N:3
+Bowman         		Mean: 46.71 		Best: 387.13 		N:8
+Mcnally        		Mean: 45.41 		Best: 387.13 		N:8
+Baughman       		Mean: 189.14 		Best: 387.13 		N:2
+Belles         		Mean: 36.37 		Best: 387.13 		N:8
+Riley          		Mean: 104.35 		Best: 387.13 		N:3
+Cornwell       		Mean: 120.42 		Best: 374.69 		N:3
+Pierce         		Mean: 57.87 		Best: 374.69 		N:6
+Herman         		Mean: 162.53 		Best: 369.1 		N:2
+Roe            		Mean: 118.15 		Best: 359.2 		N:3
+Landry         		Mean: 45.73 		Best: 354.42 		N:6
+Perkins        		Mean: 67.58 		Best: 337.88 		N:5
+Harris         		Mean: 67.61 		Best: 337.88 		N:4
+Rivera         		Mean: 40.53 		Best: 337.88 		N:6
+Lawton         		Mean: 71.63 		Best: 315.86 		N:4
+Thornton       		Mean: 64.84 		Best: 296.71 		N:4
+Collins        		Mean: 60.9 		Best: 242.99 		N:4
+
+########## REPORT GEN: 14 ##########
+SPECIES: 
+Lindsey        		Mean: 64.12 		Best: 387.13 		N:6
+Baughman       		Mean: 41.95 		Best: 387.13 		N:8
+Belles         		Mean: 49.0 		Best: 387.13 		N:8
+Herman         		Mean: 76.0 		Best: 387.13 		N:5
+Harris         		Mean: 28.84 		Best: 387.13 		N:10
+Lawton         		Mean: 43.36 		Best: 387.13 		N:7
+Pierce         		Mean: 180.71 		Best: 361.77 		N:2
+Perkins        		Mean: 31.46 		Best: 359.2 		N:11
+Landry         		Mean: 46.77 		Best: 354.42 		N:6
+Bowman         		Mean: 114.55 		Best: 348.3 		N:3
+Rivera         		Mean: 59.44 		Best: 342.62 		N:5
+Roe            		Mean: 168.94 		Best: 337.88 		N:2
+Collins        		Mean: 43.89 		Best: 337.88 		N:6
+Jackson        		Mean: 107.98 		Best: 326.51 		N:3
+Riley          		Mean: 147.62 		Best: 315.86 		N:2
+Thornton       		Mean: 61.04 		Best: 242.99 		N:4
+Solano         		Mean: 38.38 		Best: 133.72 		N:3
+
+########## REPORT GEN: 15 ##########
+SPECIES: 
+Lindsey        		Mean: 189.27 		Best: 387.13 		N:2
+Belles         		Mean: 42.4 		Best: 387.13 		N:9
+Herman         		Mean: 191.59 		Best: 387.13 		N:2
+Lawton         		Mean: 166.59 		Best: 387.13 		N:2
+Collins        		Mean: 99.25 		Best: 387.13 		N:3
+Riley          		Mean: 53.84 		Best: 387.13 		N:6
+Thornton       		Mean: 29.21 		Best: 387.13 		N:9
+Bowman         		Mean: 65.88 		Best: 374.69 		N:5
+Baughman       		Mean: 73.72 		Best: 369.1 		N:4
+Mcnally        		Mean: 45.69 		Best: 369.1 		N:8
+Perkins        		Mean: 86.82 		Best: 359.2 		N:4
+Roe            		Mean: 68.61 		Best: 359.2 		N:5
+Landry         		Mean: 58.66 		Best: 354.42 		N:5
+Pierce         		Mean: 116.7 		Best: 350.55 		N:3
+Harris         		Mean: 71.04 		Best: 337.88 		N:4
+Jackson        		Mean: 65.19 		Best: 326.51 		N:5
+Solano         		Mean: 35.38 		Best: 133.72 		N:3
+
+########## REPORT GEN: 16 ##########
+SPECIES: 
+Herman         		Mean: 51.96 		Best: 387.13 		N:7
+Lawton         		Mean: 38.99 		Best: 387.13 		N:9
+Riley          		Mean: 41.12 		Best: 387.13 		N:8
+Bowman         		Mean: 33.49 		Best: 387.13 		N:11
+Harris         		Mean: 98.67 		Best: 387.13 		N:3
+Belles         		Mean: 72.2 		Best: 369.1 		N:5
+Mcnally        		Mean: 178.27 		Best: 369.1 		N:2
+Perkins        		Mean: 69.27 		Best: 359.2 		N:5
+Landry         		Mean: 64.1 		Best: 354.42 		N:5
+Roe            		Mean: 48.97 		Best: 348.2 		N:7
+Rivera         		Mean: 97.42 		Best: 342.62 		N:3
+Jackson        		Mean: 157.93 		Best: 315.86 		N:2
+Collins        		Mean: 42.58 		Best: 261.31 		N:6
+Thornton       		Mean: 80.51 		Best: 237.17 		N:3
+Snyder         		Mean: 116.97 		Best: 235.34 		N:2
+Solano         		Mean: 59.92 		Best: 133.72 		N:2
+
+########## REPORT GEN: 17 ##########
+SPECIES: 
+Lawton         		Mean: 54.52 		Best: 387.13 		N:6
+Bowman         		Mean: 42.01 		Best: 387.13 		N:8
+Lindsey        		Mean: 54.17 		Best: 387.13 		N:7
+Rivera         		Mean: 71.89 		Best: 387.13 		N:3
+Belles         		Mean: 92.02 		Best: 369.1 		N:4
+Baughman       		Mean: 170.01 		Best: 361.77 		N:2
+Perkins        		Mean: 69.39 		Best: 359.2 		N:5
+Herman         		Mean: 88.67 		Best: 354.42 		N:4
+Riley          		Mean: 55.78 		Best: 350.55 		N:5
+Roe            		Mean: 84.89 		Best: 341.01 		N:4
+Collins        		Mean: 28.22 		Best: 327.86 		N:9
+Mcnally        		Mean: 85.19 		Best: 315.86 		N:3
+Jackson        		Mean: 59.34 		Best: 315.86 		N:5
+Snyder         		Mean: 49.66 		Best: 283.62 		N:5
+Solano         		Mean: 87.13 		Best: 261.31 		N:2
+Harris         		Mean: 59.12 		Best: 237.17 		N:4
+Thornton       		Mean: 119.0 		Best: 237.17 		N:2
+
+########## REPORT GEN: 18 ##########
+SPECIES: 
+Lawton         		Mean: 125.76 		Best: 387.13 		N:3
+Bowman         		Mean: 62.59 		Best: 387.13 		N:6
+Belles         		Mean: 73.35 		Best: 387.13 		N:4
+Jackson        		Mean: 57.82 		Best: 387.13 		N:6
+Thornton       		Mean: 32.56 		Best: 387.13 		N:9
+Roe            		Mean: 31.45 		Best: 370.87 		N:11
+Riley          		Mean: 40.39 		Best: 369.1 		N:7
+Lindsey        		Mean: 182.83 		Best: 361.77 		N:2
+Baughman       		Mean: 51.46 		Best: 361.77 		N:6
+Solano         		Mean: 37.16 		Best: 361.77 		N:7
+Landry         		Mean: 77.07 		Best: 354.42 		N:4
+Perkins        		Mean: 113.49 		Best: 339.64 		N:3
+Rivera         		Mean: 110.49 		Best: 326.51 		N:2
+Herman         		Mean: 63.35 		Best: 326.51 		N:4
+Collins        		Mean: 16.74 		Best: 283.62 		N:12
+Harris         		Mean: 49.77 		Best: 261.31 		N:5
+Snyder         		Mean: 120.42 		Best: 237.17 		N:2
+
+########## REPORT GEN: 19 ##########
+SPECIES: 
+Roe            		Mean: 50.4 		Best: 387.13 		N:7
+Riley          		Mean: 82.27 		Best: 387.13 		N:4
+Lindsey        		Mean: 190.88 		Best: 387.13 		N:2
+Baughman       		Mean: 41.46 		Best: 387.13 		N:9
+Rivera         		Mean: 27.71 		Best: 387.13 		N:10
+Harris         		Mean: 78.75 		Best: 387.13 		N:4
+Mcnally        		Mean: 41.71 		Best: 387.13 		N:7
+Perkins        		Mean: 87.55 		Best: 370.87 		N:4
+Herman         		Mean: 39.94 		Best: 369.1 		N:6
+Bowman         		Mean: 40.61 		Best: 361.77 		N:6
+Lawton         		Mean: 89.61 		Best: 355.86 		N:4
+Landry         		Mean: 86.03 		Best: 354.42 		N:4
+Jackson        		Mean: 41.25 		Best: 326.51 		N:6
+Thornton       		Mean: 21.33 		Best: 283.62 		N:9
+Snyder         		Mean: 47.91 		Best: 237.17 		N:5
+
+########## REPORT GEN: 20 ##########
+SPECIES: 
+Roe            		Mean: 59.37 		Best: 387.13 		N:6
+Riley          		Mean: 89.33 		Best: 387.13 		N:4
+Lindsey        		Mean: 39.36 		Best: 387.13 		N:9
+Baughman       		Mean: 92.98 		Best: 387.13 		N:4
+Perkins        		Mean: 59.21 		Best: 387.13 		N:6
+Belles         		Mean: 28.22 		Best: 387.13 		N:11
+Rivera         		Mean: 121.62 		Best: 361.77 		N:3
+Herman         		Mean: 85.92 		Best: 361.77 		N:4
+Bowman         		Mean: 38.26 		Best: 355.86 		N:5
+Lawton         		Mean: 22.9 		Best: 354.42 		N:11
+Harris         		Mean: 44.03 		Best: 348.3 		N:5
+Landry         		Mean: 81.01 		Best: 344.92 		N:4
+Jackson        		Mean: 163.23 		Best: 317.48 		N:2
+Snyder         		Mean: 88.8 		Best: 304.47 		N:3
+Mcnally        		Mean: 63.58 		Best: 283.62 		N:4
+Collins        		Mean: 81.66 		Best: 238.62 		N:2
+Solano         		Mean: 66.86 		Best: 133.72 		N:2
+
+########## REPORT GEN: 21 ##########
+SPECIES: 
+Herman         		Mean: 42.91 		Best: 392.41 		N:8
+Riley          		Mean: 123.97 		Best: 387.13 		N:3
+Lindsey        		Mean: 92.92 		Best: 387.13 		N:4
+Baughman       		Mean: 91.24 		Best: 387.13 		N:4
+Perkins        		Mean: 119.63 		Best: 387.13 		N:3
+Thornton       		Mean: 26.48 		Best: 387.13 		N:11
+Lawton         		Mean: 21.45 		Best: 387.13 		N:13
+Harris         		Mean: 34.86 		Best: 387.13 		N:10
+Rivera         		Mean: 49.76 		Best: 361.77 		N:7
+Landry         		Mean: 45.89 		Best: 344.92 		N:7
+Belles         		Mean: 169.06 		Best: 339.9 		N:2
+Jackson        		Mean: 124.72 		Best: 339.9 		N:2
+Collins        		Mean: 25.1 		Best: 326.51 		N:6
+Snyder         		Mean: 64.24 		Best: 304.47 		N:4
+Mcnally        		Mean: 51.12 		Best: 283.62 		N:5
+Bowman         		Mean: 33.65 		Best: 67.12 		N:2
+
+########## REPORT GEN: 22 ##########
+SPECIES: 
+Rivera         		Mean: 75.84 		Best: 392.41 		N:5
+Jackson        		Mean: 64.76 		Best: 392.41 		N:5
+Riley          		Mean: 111.8 		Best: 387.13 		N:3
+Lindsey        		Mean: 63.19 		Best: 387.13 		N:5
+Thornton       		Mean: 179.69 		Best: 387.13 		N:2
+Lawton         		Mean: 45.71 		Best: 387.13 		N:7
+Harris         		Mean: 42.43 		Best: 387.13 		N:7
+Solano         		Mean: 61.69 		Best: 387.13 		N:6
+Belles         		Mean: 179.6 		Best: 387.13 		N:2
+Roe            		Mean: 72.68 		Best: 387.13 		N:5
+Bowman         		Mean: 79.45 		Best: 387.13 		N:3
+Hein           		Mean: 92.16 		Best: 387.13 		N:4
+Baughman       		Mean: 116.34 		Best: 350.55 		N:3
+Herman         		Mean: 106.67 		Best: 344.92 		N:3
+Perkins        		Mean: 65.76 		Best: 342.68 		N:5
+Collins        		Mean: 56.12 		Best: 326.51 		N:4
+Landry         		Mean: 104.94 		Best: 314.18 		N:3
+Mcgill         		Mean: 40.26 		Best: 304.47 		N:6
+

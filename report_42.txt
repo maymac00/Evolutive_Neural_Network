@@ -1,0 +1,1003 @@
+########## REPORT GEN: 2 ##########
+SPECIES: 
+Edward         		Mean: 0.66 		Best: 9.6 		Nº:11
+Kidd           		Mean: 0.52 		Best: 9.6 		Nº:10
+Headley        		Mean: 0.27 		Best: 9.6 		Nº:6
+Rodriguez      		Mean: 0.27 		Best: 9.6 		Nº:14
+Clary          		Mean: 0.34 		Best: 9.6 		Nº:9
+Jones          		Mean: 4.12 		Best: 8.71 		Nº:2
+Oconnor        		Mean: 0.55 		Best: 8.71 		Nº:4
+Sanchez        		Mean: 4.38 		Best: 8.71 		Nº:2
+Vick           		Mean: 2.23 		Best: 8.71 		Nº:2
+Haine          		Mean: 1.95 		Best: 7.77 		Nº:2
+Jackson        		Mean: 0.49 		Best: 7.77 		Nº:4
+Mcbride        		Mean: 1.47 		Best: 7.77 		Nº:4
+Ransdell       		Mean: 0.49 		Best: 7.77 		Nº:4
+
+########## REPORT GEN: 3 ##########
+SPECIES: 
+Edward         		Mean: 1.4  		Best: 9.6 		Nº:5
+Kidd           		Mean: 0.39 		Best: 9.6 		Nº:5
+Headley        		Mean: 1.95 		Best: 9.6 		Nº:3
+Rodriguez      		Mean: 0.74 		Best: 9.6 		Nº:7
+Clary          		Mean: 2.25 		Best: 9.6 		Nº:4
+Magana         		Mean: 4.34 		Best: 9.6 		Nº:2
+Holcombe       		Mean: 2.4  		Best: 9.6 		Nº:2
+Haine          		Mean: 1.15 		Best: 9.6 		Nº:4
+Mcbride        		Mean: 1.09 		Best: 9.6 		Nº:5
+Ransdell       		Mean: 2.41 		Best: 9.6 		Nº:2
+Stoica         		Mean: 2.42 		Best: 9.6 		Nº:2
+Jones          		Mean: 2.12 		Best: 8.71 		Nº:4
+Sanchez        		Mean: 1.09 		Best: 8.71 		Nº:4
+Vick           		Mean: 0.55 		Best: 8.71 		Nº:4
+Jackson        		Mean: 4.39 		Best: 8.71 		Nº:2
+Oconnor        		Mean: 0.0  		Best: 0.0 		Nº:2
+
+########## REPORT GEN: 4 ##########
+SPECIES: 
+Clary          		Mean: 0.79 		Best: 9.6 		Nº:8
+Magana         		Mean: 1.69 		Best: 9.6 		Nº:4
+Holcombe       		Mean: 1.69 		Best: 9.6 		Nº:4
+Haine          		Mean: 1.2  		Best: 9.6 		Nº:4
+Mcbride        		Mean: 1.09 		Best: 9.6 		Nº:4
+Jones          		Mean: 0.53 		Best: 9.6 		Nº:8
+Sanchez        		Mean: 2.36 		Best: 9.6 		Nº:4
+Jackson        		Mean: 1.4  		Best: 9.6 		Nº:5
+Edward         		Mean: 1.36 		Best: 8.71 		Nº:5
+Kidd           		Mean: 2.18 		Best: 8.71 		Nº:2
+Headley        		Mean: 0.46 		Best: 8.71 		Nº:6
+Stoica         		Mean: 0.55 		Best: 8.71 		Nº:4
+Vick           		Mean: 2.2  		Best: 8.71 		Nº:2
+Ransdell       		Mean: 0.49 		Best: 7.77 		Nº:4
+Schluter       		Mean: 3.89 		Best: 7.77 		Nº:2
+Rodriguez      		Mean: 0.0  		Best: 0.0 		Nº:3
+
+########## REPORT GEN: 5 ##########
+SPECIES: 
+Clary          		Mean: 2.3  		Best: 9.6 		Nº:4
+Magana         		Mean: 0.56 		Best: 9.6 		Nº:8
+Holcombe       		Mean: 0.94 		Best: 9.6 		Nº:8
+Mcbride        		Mean: 1.4  		Best: 9.6 		Nº:5
+Sanchez        		Mean: 0.85 		Best: 9.6 		Nº:8
+Jackson        		Mean: 0.75 		Best: 9.6 		Nº:7
+Edward         		Mean: 0.54 		Best: 9.6 		Nº:6
+Kidd           		Mean: 1.15 		Best: 9.6 		Nº:4
+Stoica         		Mean: 4.6  		Best: 9.6 		Nº:2
+Schluter       		Mean: 1.57 		Best: 9.6 		Nº:4
+Oconnor        		Mean: 2.4  		Best: 9.6 		Nº:2
+Haine          		Mean: 0.24 		Best: 8.71 		Nº:6
+Jones          		Mean: 1.09 		Best: 8.71 		Nº:4
+Rodriguez      		Mean: 2.19 		Best: 8.71 		Nº:2
+Headley        		Mean: 0.87 		Best: 7.77 		Nº:3
+Ransdell       		Mean: 3.89 		Best: 7.77 		Nº:2
+Vick           		Mean: 0.0  		Best: 0.0 		Nº:4
+
+########## REPORT GEN: 6 ##########
+SPECIES: 
+Holcombe       		Mean: 1.01 		Best: 9.6 		Nº:5
+Sanchez        		Mean: 1.78 		Best: 9.6 		Nº:5
+Jackson        		Mean: 1.63 		Best: 9.6 		Nº:4
+Edward         		Mean: 1.09 		Best: 9.6 		Nº:4
+Stoica         		Mean: 2.24 		Best: 9.6 		Nº:4
+Schluter       		Mean: 0.72 		Best: 9.6 		Nº:8
+Oconnor        		Mean: 2.17 		Best: 9.6 		Nº:4
+Rodriguez      		Mean: 1.2  		Best: 9.6 		Nº:4
+Clary          		Mean: 0.62 		Best: 8.71 		Nº:8
+Magana         		Mean: 2.0  		Best: 8.71 		Nº:4
+Mcbride        		Mean: 0.53 		Best: 8.71 		Nº:8
+Headley        		Mean: 0.35 		Best: 8.71 		Nº:5
+Ransdell       		Mean: 2.18 		Best: 8.71 		Nº:4
+Vick           		Mean: 2.19 		Best: 8.71 		Nº:2
+Jones          		Mean: 0.43 		Best: 7.77 		Nº:6
+Kidd           		Mean: 0.0  		Best: 0.0 		Nº:6
+Haine          		Mean: 0.0  		Best: 0.0 		Nº:3
+
+########## REPORT GEN: 7 ##########
+SPECIES: 
+Holcombe       		Mean: 0.71 		Best: 9.6 		Nº:7
+Edward         		Mean: 0.68 		Best: 9.6 		Nº:8
+Stoica         		Mean: 0.7  		Best: 9.6 		Nº:8
+Schluter       		Mean: 1.47 		Best: 9.6 		Nº:5
+Oconnor        		Mean: 0.95 		Best: 9.6 		Nº:8
+Rodriguez      		Mean: 0.81 		Best: 9.6 		Nº:8
+Clary          		Mean: 1.63 		Best: 9.6 		Nº:4
+Magana         		Mean: 1.1  		Best: 9.6 		Nº:8
+Mcbride        		Mean: 0.6  		Best: 9.6 		Nº:4
+Headley        		Mean: 2.41 		Best: 9.6 		Nº:2
+Ransdell       		Mean: 0.41 		Best: 9.6 		Nº:8
+Vick           		Mean: 0.61 		Best: 9.6 		Nº:4
+Kidd           		Mean: 2.04 		Best: 9.6 		Nº:3
+Sanchez        		Mean: 0.5  		Best: 8.71 		Nº:10
+Jackson        		Mean: 0.62 		Best: 8.71 		Nº:8
+Jones          		Mean: 1.94 		Best: 8.71 		Nº:3
+Combs          		Mean: 2.19 		Best: 8.71 		Nº:2
+
+########## REPORT GEN: 8 ##########
+SPECIES: 
+Holcombe       		Mean: 1.04 		Best: 9.6 		Nº:5
+Stoica         		Mean: 1.32 		Best: 9.6 		Nº:5
+Schluter       		Mean: 0.76 		Best: 9.6 		Nº:10
+Oconnor        		Mean: 0.71 		Best: 9.6 		Nº:7
+Rodriguez      		Mean: 1.24 		Best: 9.6 		Nº:6
+Clary          		Mean: 0.86 		Best: 9.6 		Nº:8
+Magana         		Mean: 0.53 		Best: 9.6 		Nº:8
+Ransdell       		Mean: 0.6  		Best: 9.6 		Nº:4
+Sanchez        		Mean: 1.12 		Best: 9.6 		Nº:5
+Jackson        		Mean: 1.15 		Best: 9.6 		Nº:4
+Combs          		Mean: 1.15 		Best: 9.6 		Nº:4
+Edward         		Mean: 0.35 		Best: 8.71 		Nº:5
+Headley        		Mean: 0.55 		Best: 8.71 		Nº:4
+Kidd           		Mean: 0.24 		Best: 8.71 		Nº:6
+Jones          		Mean: 0.48 		Best: 8.71 		Nº:6
+Mcbride        		Mean: 0.49 		Best: 7.77 		Nº:4
+Crow           		Mean: 1.96 		Best: 7.77 		Nº:2
+Vick           		Mean: 0.0  		Best: 0.0 		Nº:4
+
+########## REPORT GEN: 9 ##########
+SPECIES: 
+Holcombe       		Mean: 0.53 		Best: 9.6 		Nº:10
+Schluter       		Mean: 0.67 		Best: 9.6 		Nº:7
+Oconnor        		Mean: 1.01 		Best: 9.6 		Nº:7
+Rodriguez      		Mean: 0.68 		Best: 9.6 		Nº:12
+Clary          		Mean: 1.04 		Best: 9.6 		Nº:8
+Ransdell       		Mean: 0.78 		Best: 9.6 		Nº:6
+Sanchez        		Mean: 0.34 		Best: 9.6 		Nº:10
+Jackson        		Mean: 0.83 		Best: 9.6 		Nº:8
+Combs          		Mean: 0.3  		Best: 9.6 		Nº:8
+Mcbride        		Mean: 0.39 		Best: 9.6 		Nº:5
+Crow           		Mean: 0.6  		Best: 9.6 		Nº:4
+Stoica         		Mean: 0.34 		Best: 8.71 		Nº:10
+Magana         		Mean: 0.89 		Best: 8.71 		Nº:6
+Headley        		Mean: 0.7  		Best: 8.71 		Nº:5
+Kidd           		Mean: 0.97 		Best: 8.71 		Nº:3
+Edward         		Mean: 0.0  		Best: 0.0 		Nº:3
+Jones          		Mean: 0.0  		Best: 0.0 		Nº:4
+Vick           		Mean: 0.0  		Best: 0.0 		Nº:2
+
+########## REPORT GEN: 10 ##########
+SPECIES: 
+Holcombe       		Mean: 0.55 		Best: 9.6 		Nº:7
+Schluter       		Mean: 0.51 		Best: 9.6 		Nº:10
+Oconnor        		Mean: 0.44 		Best: 9.6 		Nº:14
+Rodriguez      		Mean: 0.51 		Best: 9.6 		Nº:10
+Clary          		Mean: 0.34 		Best: 9.6 		Nº:15
+Ransdell       		Mean: 0.41 		Best: 9.6 		Nº:12
+Sanchez        		Mean: 1.67 		Best: 9.6 		Nº:5
+Jackson        		Mean: 0.54 		Best: 9.6 		Nº:12
+Mcbride        		Mean: 0.77 		Best: 9.6 		Nº:5
+Crow           		Mean: 0.42 		Best: 9.6 		Nº:8
+Stoica         		Mean: 1.12 		Best: 9.6 		Nº:5
+Magana         		Mean: 0.37 		Best: 9.6 		Nº:12
+Kidd           		Mean: 0.48 		Best: 9.6 		Nº:6
+Jones          		Mean: 2.4  		Best: 9.6 		Nº:2
+Headley        		Mean: 0.17 		Best: 8.71 		Nº:10
+Combs          		Mean: 0.0  		Best: 0.0 		Nº:4
+
+########## REPORT GEN: 11 ##########
+SPECIES: 
+Holcombe       		Mean: 1.15 		Best: 9.6 		Nº:4
+Schluter       		Mean: 1.47 		Best: 9.6 		Nº:5
+Oconnor        		Mean: 0.75 		Best: 9.6 		Nº:7
+Rodriguez      		Mean: 1.05 		Best: 9.6 		Nº:5
+Clary          		Mean: 0.73 		Best: 9.6 		Nº:7
+Ransdell       		Mean: 0.92 		Best: 9.6 		Nº:6
+Sanchez        		Mean: 0.57 		Best: 9.6 		Nº:10
+Jackson        		Mean: 0.48 		Best: 9.6 		Nº:6
+Mcbride        		Mean: 0.7  		Best: 9.6 		Nº:5
+Crow           		Mean: 0.7  		Best: 9.6 		Nº:5
+Kidd           		Mean: 1.07 		Best: 9.6 		Nº:3
+Edward         		Mean: 4.58 		Best: 9.6 		Nº:2
+Headley        		Mean: 0.7  		Best: 9.6 		Nº:5
+Stoica         		Mean: 0.41 		Best: 8.71 		Nº:8
+Jones          		Mean: 0.55 		Best: 8.71 		Nº:4
+Combs          		Mean: 2.18 		Best: 8.71 		Nº:2
+Magana         		Mean: 0.22 		Best: 7.77 		Nº:6
+
+########## REPORT GEN: 12 ##########
+SPECIES: 
+Oconnor        		Mean: 2.18 		Best: 9.6 		Nº:4
+Jackson        		Mean: 1.93 		Best: 9.6 		Nº:3
+Mcbride        		Mean: 1.94 		Best: 9.6 		Nº:3
+Kidd           		Mean: 0.77 		Best: 9.6 		Nº:5
+Edward         		Mean: 1.2  		Best: 9.6 		Nº:4
+Schluter       		Mean: 0.67 		Best: 8.71 		Nº:8
+Rodriguez      		Mean: 1.01 		Best: 8.71 		Nº:5
+Clary          		Mean: 1.03 		Best: 8.71 		Nº:4
+Ransdell       		Mean: 0.35 		Best: 8.71 		Nº:5
+Sanchez        		Mean: 0.66 		Best: 8.71 		Nº:5
+Headley        		Mean: 0.97 		Best: 8.71 		Nº:3
+Jones          		Mean: 1.84 		Best: 8.71 		Nº:3
+Magana         		Mean: 1.83 		Best: 8.71 		Nº:3
+Crow           		Mean: 0.87 		Best: 7.77 		Nº:3
+Stoica         		Mean: 0.49 		Best: 7.77 		Nº:4
+Vick           		Mean: 1.94 		Best: 7.77 		Nº:2
+Holcombe       		Mean: 0.0  		Best: 0.0 		Nº:6
+Combs          		Mean: 0.0  		Best: 0.0 		Nº:4
+Hood           		Mean: 0.0  		Best: 0.0 		Nº:2
+
+########## REPORT GEN: 13 ##########
+SPECIES: 
+Oconnor        		Mean: 0.82 		Best: 9.6 		Nº:8
+Edward         		Mean: 0.94 		Best: 9.6 		Nº:6
+Clary          		Mean: 1.04 		Best: 9.6 		Nº:5
+Headley        		Mean: 0.39 		Best: 9.6 		Nº:5
+Jones          		Mean: 0.51 		Best: 9.6 		Nº:6
+Magana         		Mean: 0.75 		Best: 9.6 		Nº:6
+Jackson        		Mean: 0.48 		Best: 8.71 		Nº:6
+Schluter       		Mean: 1.03 		Best: 8.71 		Nº:4
+Rodriguez      		Mean: 1.01 		Best: 8.71 		Nº:5
+Ransdell       		Mean: 2.19 		Best: 8.71 		Nº:2
+Sanchez        		Mean: 0.97 		Best: 8.71 		Nº:3
+Holcombe       		Mean: 1.84 		Best: 8.71 		Nº:3
+Mcbride        		Mean: 0.43 		Best: 7.77 		Nº:6
+Kidd           		Mean: 0.49 		Best: 7.77 		Nº:4
+Lavoie         		Mean: 1.94 		Best: 7.77 		Nº:2
+Crow           		Mean: 0.31 		Best: 7.77 		Nº:5
+Vick           		Mean: 0.97 		Best: 7.77 		Nº:4
+Combs          		Mean: 1.94 		Best: 7.77 		Nº:2
+Stoica         		Mean: 0.0  		Best: 0.0 		Nº:2
+
+########## REPORT GEN: 14 ##########
+SPECIES: 
+Oconnor        		Mean: 1.09 		Best: 9.6 		Nº:4
+Edward         		Mean: 1.78 		Best: 9.6 		Nº:5
+Headley        		Mean: 2.41 		Best: 9.6 		Nº:2
+Jones          		Mean: 2.04 		Best: 9.6 		Nº:3
+Schluter       		Mean: 1.36 		Best: 9.6 		Nº:5
+Rodriguez      		Mean: 1.43 		Best: 9.6 		Nº:5
+Ransdell       		Mean: 0.6  		Best: 9.6 		Nº:4
+Holcombe       		Mean: 0.75 		Best: 9.6 		Nº:6
+Rooker         		Mean: 4.8  		Best: 9.6 		Nº:2
+Mcbride        		Mean: 1.07 		Best: 9.6 		Nº:3
+Vick           		Mean: 0.73 		Best: 9.6 		Nº:5
+Combs          		Mean: 1.14 		Best: 9.6 		Nº:4
+Magana         		Mean: 1.09 		Best: 8.71 		Nº:4
+Kidd           		Mean: 2.18 		Best: 8.71 		Nº:2
+Lavoie         		Mean: 1.03 		Best: 8.71 		Nº:4
+Cochran        		Mean: 2.19 		Best: 8.71 		Nº:2
+Clary          		Mean: 0.31 		Best: 7.77 		Nº:5
+Jackson        		Mean: 0.86 		Best: 7.77 		Nº:3
+Sanchez        		Mean: 0.0  		Best: 0.0 		Nº:5
+Crow           		Mean: 0.0  		Best: 0.0 		Nº:2
+
+########## REPORT GEN: 15 ##########
+SPECIES: 
+Oconnor        		Mean: 1.69 		Best: 9.6 		Nº:4
+Edward         		Mean: 0.69 		Best: 9.6 		Nº:7
+Headley        		Mean: 1.09 		Best: 9.6 		Nº:4
+Schluter       		Mean: 1.67 		Best: 9.6 		Nº:5
+Rodriguez      		Mean: 1.45 		Best: 9.6 		Nº:6
+Rooker         		Mean: 1.63 		Best: 9.6 		Nº:4
+Vick           		Mean: 1.07 		Best: 9.6 		Nº:3
+Combs          		Mean: 1.2  		Best: 9.6 		Nº:4
+Magana         		Mean: 1.75 		Best: 9.6 		Nº:4
+Kidd           		Mean: 1.09 		Best: 9.6 		Nº:4
+Lavoie         		Mean: 1.57 		Best: 9.6 		Nº:4
+Stoica         		Mean: 4.8  		Best: 9.6 		Nº:2
+Cochran        		Mean: 0.6  		Best: 9.6 		Nº:4
+Clary          		Mean: 2.4  		Best: 9.6 		Nº:2
+Sanchez        		Mean: 2.4  		Best: 9.6 		Nº:2
+Cole           		Mean: 2.41 		Best: 9.6 		Nº:2
+Ransdell       		Mean: 2.19 		Best: 8.71 		Nº:2
+Mcbride        		Mean: 0.55 		Best: 8.71 		Nº:4
+Jones          		Mean: 0.65 		Best: 7.77 		Nº:6
+Jackson        		Mean: 0.86 		Best: 7.77 		Nº:3
+Holcombe       		Mean: 0.0  		Best: 0.0 		Nº:3
+
+########## REPORT GEN: 16 ##########
+SPECIES: 
+Oconnor        		Mean: 0.48 		Best: 9.6 		Nº:6
+Edward         		Mean: 2.9  		Best: 9.6 		Nº:3
+Schluter       		Mean: 0.93 		Best: 9.6 		Nº:7
+Rodriguez      		Mean: 1.78 		Best: 9.6 		Nº:5
+Rooker         		Mean: 1.26 		Best: 9.6 		Nº:6
+Magana         		Mean: 0.73 		Best: 9.6 		Nº:6
+Stoica         		Mean: 1.01 		Best: 9.6 		Nº:5
+Cole           		Mean: 1.01 		Best: 9.6 		Nº:5
+Ransdell       		Mean: 1.05 		Best: 9.6 		Nº:5
+Haine          		Mean: 1.07 		Best: 9.6 		Nº:3
+Lavoie         		Mean: 1.01 		Best: 8.71 		Nº:5
+Sanchez        		Mean: 0.66 		Best: 8.71 		Nº:5
+Mcbride        		Mean: 1.03 		Best: 8.71 		Nº:4
+Headley        		Mean: 0.31 		Best: 7.77 		Nº:5
+Combs          		Mean: 0.97 		Best: 7.77 		Nº:4
+Kidd           		Mean: 0.31 		Best: 7.77 		Nº:5
+Cochran        		Mean: 0.87 		Best: 7.77 		Nº:3
+Clary          		Mean: 0.22 		Best: 7.77 		Nº:6
+Holcombe       		Mean: 0.87 		Best: 7.77 		Nº:3
+Vick           		Mean: 0.0  		Best: 0.0 		Nº:3
+Jones          		Mean: 0.0  		Best: 0.0 		Nº:4
+Jackson        		Mean: 0.0  		Best: 0.0 		Nº:4
+Crow           		Mean: 0.0  		Best: 0.0 		Nº:2
+
+########## REPORT GEN: 17 ##########
+SPECIES: 
+Oconnor        		Mean: 3.0  		Best: 9.6 		Nº:3
+Rodriguez      		Mean: 0.62 		Best: 9.6 		Nº:10
+Rooker         		Mean: 0.43 		Best: 9.6 		Nº:11
+Magana         		Mean: 1.74 		Best: 9.6 		Nº:5
+Stoica         		Mean: 0.54 		Best: 9.6 		Nº:8
+Ransdell       		Mean: 0.29 		Best: 9.6 		Nº:8
+Sanchez        		Mean: 0.77 		Best: 9.6 		Nº:5
+Mcbride        		Mean: 0.39 		Best: 9.6 		Nº:8
+Combs          		Mean: 0.39 		Best: 9.6 		Nº:7
+Clary          		Mean: 2.04 		Best: 9.6 		Nº:3
+Edward         		Mean: 0.89 		Best: 8.71 		Nº:6
+Schluter       		Mean: 0.34 		Best: 8.71 		Nº:7
+Cole           		Mean: 0.53 		Best: 8.71 		Nº:8
+Haine          		Mean: 0.24 		Best: 8.71 		Nº:6
+Lavoie         		Mean: 0.65 		Best: 8.71 		Nº:8
+Headley        		Mean: 2.18 		Best: 8.71 		Nº:2
+Cochran        		Mean: 0.73 		Best: 8.71 		Nº:6
+Kidd           		Mean: 1.95 		Best: 7.77 		Nº:2
+Holcombe       		Mean: 0.22 		Best: 7.77 		Nº:6
+Jones          		Mean: 1.95 		Best: 7.77 		Nº:2
+Jackson        		Mean: 0.0  		Best: 0.0 		Nº:2
+
+########## REPORT GEN: 18 ##########
+SPECIES: 
+Oconnor        		Mean: 1.31 		Best: 9.6 		Nº:6
+Rooker         		Mean: 0.73 		Best: 9.6 		Nº:5
+Magana         		Mean: 0.77 		Best: 9.6 		Nº:7
+Stoica         		Mean: 1.09 		Best: 9.6 		Nº:4
+Clary          		Mean: 0.51 		Best: 9.6 		Nº:6
+Edward         		Mean: 2.9  		Best: 9.6 		Nº:3
+Schluter       		Mean: 3.01 		Best: 9.6 		Nº:3
+Cole           		Mean: 1.09 		Best: 9.6 		Nº:4
+Haine          		Mean: 2.14 		Best: 9.6 		Nº:3
+Crow           		Mean: 4.34 		Best: 9.6 		Nº:2
+Rodriguez      		Mean: 1.01 		Best: 8.71 		Nº:5
+Sanchez        		Mean: 0.98 		Best: 8.71 		Nº:3
+Mcbride        		Mean: 0.55 		Best: 8.71 		Nº:4
+Combs          		Mean: 0.97 		Best: 8.71 		Nº:3
+Vick           		Mean: 2.18 		Best: 8.71 		Nº:2
+Lavoie         		Mean: 1.03 		Best: 8.71 		Nº:4
+Headley        		Mean: 1.03 		Best: 8.71 		Nº:4
+Kidd           		Mean: 1.03 		Best: 8.71 		Nº:4
+Holcombe       		Mean: 0.97 		Best: 8.71 		Nº:3
+Cochran        		Mean: 0.87 		Best: 7.77 		Nº:3
+Jones          		Mean: 0.49 		Best: 7.77 		Nº:4
+Jackson        		Mean: 1.95 		Best: 7.77 		Nº:2
+Ransdell       		Mean: 0.0  		Best: 0.0 		Nº:4
+
+########## REPORT GEN: 19 ##########
+SPECIES: 
+Oconnor        		Mean: 0.75 		Best: 9.6 		Nº:6
+Clary          		Mean: 1.09 		Best: 9.6 		Nº:4
+Edward         		Mean: 1.16 		Best: 9.6 		Nº:6
+Schluter       		Mean: 1.16 		Best: 9.6 		Nº:6
+Haine          		Mean: 0.48 		Best: 9.6 		Nº:6
+Crow           		Mean: 2.12 		Best: 9.6 		Nº:4
+Rodriguez      		Mean: 2.29 		Best: 9.6 		Nº:4
+Combs          		Mean: 2.17 		Best: 9.6 		Nº:4
+Vick           		Mean: 1.8  		Best: 9.6 		Nº:4
+Kidd           		Mean: 0.73 		Best: 9.6 		Nº:5
+Jones          		Mean: 2.4  		Best: 9.6 		Nº:2
+Jackson        		Mean: 1.15 		Best: 9.6 		Nº:4
+Magana         		Mean: 1.83 		Best: 8.71 		Nº:3
+Stoica         		Mean: 0.35 		Best: 8.71 		Nº:5
+Cole           		Mean: 0.97 		Best: 8.71 		Nº:5
+Sanchez        		Mean: 1.04 		Best: 8.71 		Nº:4
+Cochran        		Mean: 1.03 		Best: 8.71 		Nº:4
+Rooker         		Mean: 0.87 		Best: 7.77 		Nº:3
+Lavoie         		Mean: 1.46 		Best: 7.77 		Nº:4
+Headley        		Mean: 0.94 		Best: 7.77 		Nº:5
+Mcbride        		Mean: 0.0  		Best: 0.0 		Nº:2
+Holcombe       		Mean: 0.0  		Best: 0.0 		Nº:4
+Ransdell       		Mean: 0.0  		Best: 0.0 		Nº:2
+
+########## REPORT GEN: 20 ##########
+SPECIES: 
+Oconnor        		Mean: 0.6  		Best: 9.6 		Nº:4
+Clary          		Mean: 0.27 		Best: 9.6 		Nº:6
+Edward         		Mean: 1.45 		Best: 9.6 		Nº:6
+Schluter       		Mean: 1.02 		Best: 9.6 		Nº:6
+Crow           		Mean: 0.8  		Best: 9.6 		Nº:8
+Rodriguez      		Mean: 0.53 		Best: 9.6 		Nº:8
+Combs          		Mean: 0.54 		Best: 9.6 		Nº:8
+Vick           		Mean: 0.82 		Best: 9.6 		Nº:8
+Kidd           		Mean: 1.36 		Best: 9.6 		Nº:5
+Jones          		Mean: 1.15 		Best: 9.6 		Nº:4
+Magana         		Mean: 1.47 		Best: 9.6 		Nº:6
+Cole           		Mean: 1.46 		Best: 9.6 		Nº:5
+Cochran        		Mean: 0.53 		Best: 9.6 		Nº:6
+Lavoie         		Mean: 0.69 		Best: 9.6 		Nº:8
+Headley        		Mean: 1.5  		Best: 9.6 		Nº:5
+Stoica         		Mean: 2.18 		Best: 8.71 		Nº:2
+Sanchez        		Mean: 0.24 		Best: 8.71 		Nº:6
+Rooker         		Mean: 1.01 		Best: 8.71 		Nº:5
+Jackson        		Mean: 0.43 		Best: 7.77 		Nº:6
+Haine          		Mean: 0.0  		Best: 0.0 		Nº:3
+Holcombe       		Mean: 0.0  		Best: 0.0 		Nº:2
+
+########## REPORT GEN: 21 ##########
+SPECIES: 
+Crow           		Mean: 2.23 		Best: 9.6 		Nº:4
+Kidd           		Mean: 0.74 		Best: 9.6 		Nº:5
+Jones          		Mean: 0.6  		Best: 9.6 		Nº:4
+Magana         		Mean: 1.18 		Best: 9.6 		Nº:6
+Cochran        		Mean: 1.07 		Best: 9.6 		Nº:3
+Headley        		Mean: 0.94 		Best: 9.6 		Nº:6
+Stoica         		Mean: 1.15 		Best: 9.6 		Nº:4
+Rooker         		Mean: 0.6  		Best: 9.6 		Nº:4
+Clary          		Mean: 0.97 		Best: 8.71 		Nº:3
+Edward         		Mean: 0.81 		Best: 8.71 		Nº:7
+Rodriguez      		Mean: 1.52 		Best: 8.71 		Nº:4
+Vick           		Mean: 1.57 		Best: 8.71 		Nº:4
+Cole           		Mean: 0.7  		Best: 8.71 		Nº:6
+Sanchez        		Mean: 1.94 		Best: 8.71 		Nº:3
+Mcbride        		Mean: 4.36 		Best: 8.71 		Nº:2
+Ransdell       		Mean: 4.36 		Best: 8.71 		Nº:2
+Schluter       		Mean: 0.49 		Best: 7.77 		Nº:4
+Combs          		Mean: 1.46 		Best: 7.77 		Nº:4
+Lavoie         		Mean: 0.49 		Best: 7.77 		Nº:4
+Jackson        		Mean: 0.87 		Best: 7.77 		Nº:3
+Holcombe       		Mean: 1.95 		Best: 7.77 		Nº:2
+
+########## REPORT GEN: 22 ##########
+SPECIES: 
+Crow           		Mean: 0.94 		Best: 9.6 		Nº:8
+Magana         		Mean: 1.5  		Best: 9.6 		Nº:5
+Stoica         		Mean: 0.73 		Best: 9.6 		Nº:5
+Rooker         		Mean: 1.07 		Best: 9.6 		Nº:3
+Edward         		Mean: 1.64 		Best: 9.6 		Nº:4
+Vick           		Mean: 0.89 		Best: 9.6 		Nº:7
+Cole           		Mean: 2.9  		Best: 9.6 		Nº:3
+Mcbride        		Mean: 2.18 		Best: 9.6 		Nº:4
+Ransdell       		Mean: 2.17 		Best: 9.6 		Nº:4
+Combs          		Mean: 0.91 		Best: 9.6 		Nº:7
+Jackson        		Mean: 1.08 		Best: 9.6 		Nº:5
+Holcombe       		Mean: 1.15 		Best: 9.6 		Nº:4
+Cochran        		Mean: 0.35 		Best: 8.71 		Nº:5
+Headley        		Mean: 2.01 		Best: 8.71 		Nº:4
+Rodriguez      		Mean: 0.18 		Best: 8.71 		Nº:7
+Sanchez        		Mean: 0.95 		Best: 8.71 		Nº:6
+Lavoie         		Mean: 2.18 		Best: 8.71 		Nº:2
+Kidd           		Mean: 0.87 		Best: 7.77 		Nº:3
+Clary          		Mean: 0.49 		Best: 7.77 		Nº:4
+Jones          		Mean: 0.0  		Best: 0.0 		Nº:3
+Schluter       		Mean: 0.0  		Best: 0.0 		Nº:2
+
+########## REPORT GEN: 23 ##########
+SPECIES: 
+Crow           		Mean: 1.67 		Best: 9.6 		Nº:5
+Magana         		Mean: 0.61 		Best: 9.6 		Nº:10
+Stoica         		Mean: 0.6  		Best: 9.6 		Nº:4
+Edward         		Mean: 0.67 		Best: 9.6 		Nº:8
+Vick           		Mean: 1.08 		Best: 9.6 		Nº:5
+Cole           		Mean: 1.23 		Best: 9.6 		Nº:6
+Mcbride        		Mean: 0.72 		Best: 9.6 		Nº:8
+Ransdell       		Mean: 0.69 		Best: 9.6 		Nº:8
+Combs          		Mean: 0.7  		Best: 9.6 		Nº:5
+Holcombe       		Mean: 0.71 		Best: 9.6 		Nº:7
+Headley        		Mean: 0.7  		Best: 9.6 		Nº:8
+Sanchez        		Mean: 1.08 		Best: 9.6 		Nº:5
+Kidd           		Mean: 0.74 		Best: 9.6 		Nº:5
+Cochran        		Mean: 2.18 		Best: 8.71 		Nº:2
+Lavoie         		Mean: 0.55 		Best: 8.71 		Nº:4
+Clary          		Mean: 0.97 		Best: 8.71 		Nº:3
+Rooker         		Mean: 0.22 		Best: 7.77 		Nº:6
+Jackson        		Mean: 0.43 		Best: 7.77 		Nº:6
+Rodriguez      		Mean: 1.73 		Best: 7.77 		Nº:3
+
+########## REPORT GEN: 24 ##########
+SPECIES: 
+Magana         		Mean: 1.75 		Best: 9.6 		Nº:5
+Edward         		Mean: 1.09 		Best: 9.6 		Nº:4
+Cole           		Mean: 0.7  		Best: 9.6 		Nº:5
+Ransdell       		Mean: 1.63 		Best: 9.6 		Nº:4
+Holcombe       		Mean: 2.04 		Best: 9.6 		Nº:3
+Schluter       		Mean: 4.58 		Best: 9.6 		Nº:2
+Jackson        		Mean: 1.09 		Best: 9.6 		Nº:4
+Rodriguez      		Mean: 0.48 		Best: 9.6 		Nº:6
+Crow           		Mean: 1.01 		Best: 8.71 		Nº:7
+Combs          		Mean: 1.94 		Best: 8.71 		Nº:3
+Headley        		Mean: 2.0  		Best: 8.71 		Nº:4
+Sanchez        		Mean: 0.55 		Best: 8.71 		Nº:4
+Lavoie         		Mean: 2.18 		Best: 8.71 		Nº:2
+Clary          		Mean: 1.03 		Best: 8.71 		Nº:4
+Jones          		Mean: 4.12 		Best: 8.71 		Nº:2
+Stoica         		Mean: 1.94 		Best: 7.77 		Nº:2
+Vick           		Mean: 0.97 		Best: 7.77 		Nº:4
+Mcbride        		Mean: 1.46 		Best: 7.77 		Nº:4
+Kidd           		Mean: 0.87 		Best: 7.77 		Nº:3
+Cochran        		Mean: 0.0  		Best: 0.0 		Nº:4
+Rooker         		Mean: 0.0  		Best: 0.0 		Nº:3
+
+########## REPORT GEN: 25 ##########
+SPECIES: 
+Magana         		Mean: 0.73 		Best: 9.6 		Nº:6
+Ransdell       		Mean: 1.04 		Best: 9.6 		Nº:6
+Rodriguez      		Mean: 1.07 		Best: 9.6 		Nº:3
+Crow           		Mean: 1.93 		Best: 9.6 		Nº:3
+Combs          		Mean: 0.94 		Best: 9.6 		Nº:6
+Headley        		Mean: 0.57 		Best: 9.6 		Nº:8
+Sanchez        		Mean: 2.4  		Best: 9.6 		Nº:2
+Clary          		Mean: 1.07 		Best: 9.6 		Nº:3
+Jones          		Mean: 1.63 		Best: 9.6 		Nº:4
+Haine          		Mean: 2.4  		Best: 9.6 		Nº:2
+Stoica         		Mean: 1.14 		Best: 9.6 		Nº:4
+Mcbride        		Mean: 0.73 		Best: 9.6 		Nº:5
+Kidd           		Mean: 1.07 		Best: 9.6 		Nº:3
+Cochran        		Mean: 4.8  		Best: 9.6 		Nº:2
+Edward         		Mean: 1.58 		Best: 8.71 		Nº:4
+Lavoie         		Mean: 1.58 		Best: 8.71 		Nº:4
+Cole           		Mean: 1.94 		Best: 7.77 		Nº:2
+Holcombe       		Mean: 0.22 		Best: 7.77 		Nº:6
+Schluter       		Mean: 1.46 		Best: 7.77 		Nº:4
+Vick           		Mean: 0.86 		Best: 7.77 		Nº:3
+Jackson        		Mean: 0.0  		Best: 0.0 		Nº:4
+
+########## REPORT GEN: 26 ##########
+SPECIES: 
+Rodriguez      		Mean: 1.15 		Best: 9.6 		Nº:5
+Crow           		Mean: 1.4  		Best: 9.6 		Nº:6
+Combs          		Mean: 1.75 		Best: 9.6 		Nº:4
+Jones          		Mean: 0.98 		Best: 9.6 		Nº:8
+Stoica         		Mean: 1.04 		Best: 9.6 		Nº:5
+Cochran        		Mean: 2.34 		Best: 9.6 		Nº:4
+Lavoie         		Mean: 1.13 		Best: 9.6 		Nº:8
+Holcombe       		Mean: 1.07 		Best: 9.6 		Nº:3
+Schluter       		Mean: 0.68 		Best: 9.6 		Nº:8
+Ransdell       		Mean: 1.05 		Best: 8.71 		Nº:5
+Sanchez        		Mean: 1.03 		Best: 8.71 		Nº:4
+Clary          		Mean: 0.35 		Best: 8.71 		Nº:5
+Kidd           		Mean: 0.35 		Best: 8.71 		Nº:5
+Edward         		Mean: 0.79 		Best: 8.71 		Nº:8
+Cole           		Mean: 1.03 		Best: 8.71 		Nº:4
+Vick           		Mean: 0.54 		Best: 8.71 		Nº:4
+Magana         		Mean: 0.86 		Best: 7.77 		Nº:3
+Headley        		Mean: 0.49 		Best: 7.77 		Nº:4
+Haine          		Mean: 0.49 		Best: 7.77 		Nº:4
+Mcbride        		Mean: 0.86 		Best: 7.77 		Nº:3
+Jackson        		Mean: 0.0  		Best: 0.0 		Nº:2
+
+########## REPORT GEN: 27 ##########
+SPECIES: 
+Crow           		Mean: 0.59 		Best: 9.6 		Nº:10
+Combs          		Mean: 0.95 		Best: 9.6 		Nº:8
+Jones          		Mean: 0.15 		Best: 9.6 		Nº:8
+Stoica         		Mean: 0.82 		Best: 9.6 		Nº:8
+Cochran        		Mean: 1.09 		Best: 9.6 		Nº:8
+Lavoie         		Mean: 0.83 		Best: 9.6 		Nº:8
+Schluter       		Mean: 1.39 		Best: 9.6 		Nº:5
+Ransdell       		Mean: 0.41 		Best: 9.6 		Nº:8
+Clary          		Mean: 2.41 		Best: 9.6 		Nº:2
+Cole           		Mean: 1.06 		Best: 9.6 		Nº:7
+Vick           		Mean: 1.09 		Best: 9.6 		Nº:4
+Magana         		Mean: 0.7  		Best: 9.6 		Nº:6
+Headley        		Mean: 2.9  		Best: 9.6 		Nº:3
+Mcbride        		Mean: 0.51 		Best: 9.6 		Nº:6
+Sanchez        		Mean: 0.34 		Best: 8.71 		Nº:7
+Rodriguez      		Mean: 0.12 		Best: 7.77 		Nº:8
+Holcombe       		Mean: 0.22 		Best: 7.77 		Nº:6
+Edward         		Mean: 0.43 		Best: 7.77 		Nº:6
+Haine          		Mean: 0.86 		Best: 7.77 		Nº:3
+Kidd           		Mean: 0.0  		Best: 0.0 		Nº:2
+
+########## REPORT GEN: 28 ##########
+SPECIES: 
+Crow           		Mean: 1.39 		Best: 9.6 		Nº:5
+Combs          		Mean: 1.43 		Best: 9.6 		Nº:5
+Jones          		Mean: 1.2  		Best: 9.6 		Nº:4
+Stoica         		Mean: 2.34 		Best: 9.6 		Nº:4
+Cochran        		Mean: 1.23 		Best: 9.6 		Nº:6
+Schluter       		Mean: 0.68 		Best: 9.6 		Nº:8
+Ransdell       		Mean: 0.6  		Best: 9.6 		Nº:4
+Clary          		Mean: 1.15 		Best: 9.6 		Nº:4
+Cole           		Mean: 0.94 		Best: 9.6 		Nº:6
+Magana         		Mean: 2.24 		Best: 9.6 		Nº:4
+Headley        		Mean: 0.7  		Best: 9.6 		Nº:6
+Sanchez        		Mean: 1.07 		Best: 9.6 		Nº:3
+Rodriguez      		Mean: 0.77 		Best: 9.6 		Nº:5
+Holcombe       		Mean: 2.04 		Best: 9.6 		Nº:3
+Edward         		Mean: 1.07 		Best: 9.6 		Nº:3
+Lavoie         		Mean: 0.97 		Best: 8.71 		Nº:5
+Vick           		Mean: 0.24 		Best: 8.71 		Nº:6
+Haine          		Mean: 0.7  		Best: 8.71 		Nº:5
+Mcbride        		Mean: 0.86 		Best: 7.77 		Nº:3
+Rooker         		Mean: 1.94 		Best: 7.77 		Nº:2
+
+########## REPORT GEN: 29 ##########
+SPECIES: 
+Edward         		Mean: 3.33 		Best: 45.28 		Nº:4
+Combs          		Mean: 0.91 		Best: 9.6 		Nº:7
+Stoica         		Mean: 0.79 		Best: 9.6 		Nº:8
+Cochran        		Mean: 1.04 		Best: 9.6 		Nº:5
+Clary          		Mean: 0.74 		Best: 9.6 		Nº:5
+Magana         		Mean: 0.53 		Best: 9.6 		Nº:8
+Sanchez        		Mean: 0.6  		Best: 9.6 		Nº:4
+Holcombe       		Mean: 0.73 		Best: 9.6 		Nº:6
+Jackson        		Mean: 4.58 		Best: 9.6 		Nº:2
+Rooker         		Mean: 1.57 		Best: 9.6 		Nº:4
+Jones          		Mean: 0.66 		Best: 8.71 		Nº:5
+Schluter       		Mean: 1.58 		Best: 8.71 		Nº:4
+Ransdell       		Mean: 2.18 		Best: 8.71 		Nº:2
+Cole           		Mean: 1.58 		Best: 8.71 		Nº:4
+Rodriguez      		Mean: 1.95 		Best: 8.71 		Nº:3
+Haine          		Mean: 0.97 		Best: 8.71 		Nº:3
+Crow           		Mean: 0.65 		Best: 7.77 		Nº:6
+Headley        		Mean: 1.73 		Best: 7.77 		Nº:3
+Mcbride        		Mean: 0.49 		Best: 7.77 		Nº:4
+Lavoie         		Mean: 0.0  		Best: 0.0 		Nº:4
+Vick           		Mean: 0.0  		Best: 0.0 		Nº:3
+
+########## REPORT GEN: 30 ##########
+SPECIES: 
+Edward         		Mean: 0.86 		Best: 45.28 		Nº:8
+Combs          		Mean: 3.02 		Best: 9.6 		Nº:3
+Cochran        		Mean: 2.23 		Best: 9.6 		Nº:4
+Magana         		Mean: 2.12 		Best: 9.6 		Nº:4
+Jackson        		Mean: 2.17 		Best: 9.6 		Nº:4
+Jones          		Mean: 4.34 		Best: 9.6 		Nº:2
+Schluter       		Mean: 0.48 		Best: 9.6 		Nº:6
+Ransdell       		Mean: 1.57 		Best: 9.6 		Nº:4
+Cole           		Mean: 0.73 		Best: 9.6 		Nº:6
+Rodriguez      		Mean: 0.75 		Best: 9.6 		Nº:6
+Headley        		Mean: 1.18 		Best: 9.6 		Nº:6
+Mcbride        		Mean: 1.07 		Best: 9.6 		Nº:3
+Lavoie         		Mean: 4.58 		Best: 9.6 		Nº:2
+Stoica         		Mean: 1.52 		Best: 8.71 		Nº:4
+Sanchez        		Mean: 2.18 		Best: 8.71 		Nº:2
+Rooker         		Mean: 0.94 		Best: 8.71 		Nº:6
+Haine          		Mean: 0.54 		Best: 8.71 		Nº:4
+Crow           		Mean: 1.83 		Best: 8.71 		Nº:3
+Holcombe       		Mean: 1.73 		Best: 7.77 		Nº:3
+Clary          		Mean: 0.0  		Best: 0.0 		Nº:3
+Kidd           		Mean: 0.0  		Best: 0.0 		Nº:2
+
+########## REPORT GEN: 31 ##########
+SPECIES: 
+Edward         		Mean: 0.7  		Best: 9.6 		Nº:5
+Cochran        		Mean: 0.54 		Best: 9.6 		Nº:8
+Jackson        		Mean: 0.82 		Best: 9.6 		Nº:8
+Jones          		Mean: 0.6  		Best: 9.6 		Nº:4
+Schluter       		Mean: 2.9  		Best: 9.6 		Nº:3
+Cole           		Mean: 2.04 		Best: 9.6 		Nº:3
+Mcbride        		Mean: 0.6  		Best: 9.6 		Nº:4
+Stoica         		Mean: 0.97 		Best: 9.6 		Nº:6
+Crow           		Mean: 1.24 		Best: 9.6 		Nº:6
+Combs          		Mean: 0.92 		Best: 8.71 		Nº:6
+Magana         		Mean: 0.67 		Best: 8.71 		Nº:8
+Ransdell       		Mean: 1.43 		Best: 8.71 		Nº:6
+Headley        		Mean: 1.67 		Best: 8.71 		Nº:5
+Lavoie         		Mean: 0.54 		Best: 8.71 		Nº:4
+Sanchez        		Mean: 0.55 		Best: 8.71 		Nº:4
+Rooker         		Mean: 1.52 		Best: 8.71 		Nº:4
+Haine          		Mean: 2.18 		Best: 8.71 		Nº:2
+Holcombe       		Mean: 0.7  		Best: 8.71 		Nº:6
+Rodriguez      		Mean: 0.86 		Best: 7.77 		Nº:3
+
+########## REPORT GEN: 32 ##########
+SPECIES: 
+Cochran        		Mean: 0.6  		Best: 9.6 		Nº:4
+Jackson        		Mean: 1.69 		Best: 9.6 		Nº:4
+Jones          		Mean: 4.34 		Best: 9.6 		Nº:2
+Crow           		Mean: 1.15 		Best: 9.6 		Nº:4
+Combs          		Mean: 2.04 		Best: 9.6 		Nº:3
+Ransdell       		Mean: 1.74 		Best: 9.6 		Nº:5
+Headley        		Mean: 1.02 		Best: 9.6 		Nº:6
+Lavoie         		Mean: 2.04 		Best: 9.6 		Nº:3
+Sanchez        		Mean: 2.41 		Best: 9.6 		Nº:2
+Kidd           		Mean: 4.58 		Best: 9.6 		Nº:2
+Schluter       		Mean: 0.24 		Best: 8.71 		Nº:6
+Cole           		Mean: 0.7  		Best: 8.71 		Nº:6
+Mcbride        		Mean: 2.18 		Best: 8.71 		Nº:2
+Stoica         		Mean: 1.94 		Best: 8.71 		Nº:3
+Magana         		Mean: 1.52 		Best: 8.71 		Nº:4
+Rooker         		Mean: 0.97 		Best: 8.71 		Nº:6
+Vick           		Mean: 4.36 		Best: 8.71 		Nº:2
+Edward         		Mean: 1.94 		Best: 7.77 		Nº:2
+Haine          		Mean: 0.49 		Best: 7.77 		Nº:4
+Holcombe       		Mean: 0.87 		Best: 7.77 		Nº:3
+Rodriguez      		Mean: 0.86 		Best: 7.77 		Nº:3
+
+########## REPORT GEN: 33 ##########
+SPECIES: 
+Edward         		Mean: 2.83 		Best: 45.28 		Nº:4
+Cochran        		Mean: 4.34 		Best: 9.6 		Nº:2
+Jackson        		Mean: 1.5  		Best: 9.6 		Nº:6
+Jones          		Mean: 1.74 		Best: 9.6 		Nº:4
+Crow           		Mean: 0.6  		Best: 9.6 		Nº:4
+Combs          		Mean: 0.56 		Best: 9.6 		Nº:7
+Headley        		Mean: 1.69 		Best: 9.6 		Nº:4
+Lavoie         		Mean: 0.7  		Best: 9.6 		Nº:6
+Sanchez        		Mean: 0.6  		Best: 9.6 		Nº:4
+Kidd           		Mean: 1.09 		Best: 9.6 		Nº:4
+Schluter       		Mean: 1.07 		Best: 9.6 		Nº:3
+Stoica         		Mean: 0.97 		Best: 9.6 		Nº:6
+Rooker         		Mean: 3.0  		Best: 9.6 		Nº:3
+Vick           		Mean: 1.8  		Best: 9.6 		Nº:4
+Holcombe       		Mean: 1.94 		Best: 9.6 		Nº:3
+Rodriguez      		Mean: 3.0  		Best: 9.6 		Nº:3
+Ransdell       		Mean: 0.73 		Best: 8.71 		Nº:6
+Cole           		Mean: 0.97 		Best: 8.71 		Nº:3
+Mcbride        		Mean: 1.03 		Best: 8.71 		Nº:4
+Magana         		Mean: 1.16 		Best: 8.71 		Nº:6
+Haine          		Mean: 2.18 		Best: 8.71 		Nº:2
+
+########## REPORT GEN: 34 ##########
+SPECIES: 
+Edward         		Mean: 0.84 		Best: 45.28 		Nº:8
+Jackson        		Mean: 1.45 		Best: 9.6 		Nº:6
+Jones          		Mean: 0.91 		Best: 9.6 		Nº:7
+Combs          		Mean: 2.04 		Best: 9.6 		Nº:3
+Headley        		Mean: 0.75 		Best: 9.6 		Nº:7
+Lavoie         		Mean: 1.07 		Best: 9.6 		Nº:3
+Schluter       		Mean: 1.09 		Best: 9.6 		Nº:4
+Stoica         		Mean: 1.8  		Best: 9.6 		Nº:4
+Rooker         		Mean: 0.94 		Best: 9.6 		Nº:6
+Vick           		Mean: 0.54 		Best: 9.6 		Nº:8
+Rodriguez      		Mean: 0.99 		Best: 9.6 		Nº:6
+Ransdell       		Mean: 2.9  		Best: 9.6 		Nº:3
+Magana         		Mean: 1.71 		Best: 9.6 		Nº:5
+Haine          		Mean: 2.23 		Best: 9.6 		Nº:4
+Cochran        		Mean: 2.06 		Best: 8.71 		Nº:4
+Crow           		Mean: 2.18 		Best: 8.71 		Nº:2
+Kidd           		Mean: 1.58 		Best: 8.71 		Nº:4
+Cole           		Mean: 1.03 		Best: 8.71 		Nº:4
+Mcbride        		Mean: 0.54 		Best: 8.71 		Nº:4
+Holcombe       		Mean: 0.65 		Best: 7.77 		Nº:6
+Sanchez        		Mean: 0.0  		Best: 0.0 		Nº:3
+
+########## REPORT GEN: 35 ##########
+SPECIES: 
+Edward         		Mean: 2.83 		Best: 45.28 		Nº:4
+Jackson        		Mean: 0.87 		Best: 9.6 		Nº:7
+Jones          		Mean: 2.12 		Best: 9.6 		Nº:4
+Schluter       		Mean: 1.01 		Best: 9.6 		Nº:5
+Stoica         		Mean: 0.55 		Best: 9.6 		Nº:9
+Rooker         		Mean: 0.77 		Best: 9.6 		Nº:5
+Rodriguez      		Mean: 1.81 		Best: 9.6 		Nº:5
+Ransdell       		Mean: 0.73 		Best: 9.6 		Nº:6
+Magana         		Mean: 0.75 		Best: 9.6 		Nº:9
+Haine          		Mean: 0.94 		Best: 9.6 		Nº:8
+Cochran        		Mean: 0.8  		Best: 9.6 		Nº:8
+Kidd           		Mean: 0.89 		Best: 9.6 		Nº:8
+Holcombe       		Mean: 1.07 		Best: 9.6 		Nº:3
+Headley        		Mean: 1.57 		Best: 8.71 		Nº:4
+Lavoie         		Mean: 1.36 		Best: 8.71 		Nº:5
+Vick           		Mean: 1.03 		Best: 8.71 		Nº:4
+Crow           		Mean: 0.55 		Best: 8.71 		Nº:4
+Cole           		Mean: 0.66 		Best: 8.71 		Nº:5
+Mcbride        		Mean: 3.89 		Best: 7.77 		Nº:2
+Combs          		Mean: 0.0  		Best: 0.0 		Nº:6
+
+########## REPORT GEN: 36 ##########
+SPECIES: 
+Edward         		Mean: 0.29 		Best: 9.6 		Nº:8
+Jackson        		Mean: 1.78 		Best: 9.6 		Nº:5
+Jones          		Mean: 1.1  		Best: 9.6 		Nº:8
+Rooker         		Mean: 1.69 		Best: 9.6 		Nº:4
+Rodriguez      		Mean: 0.61 		Best: 9.6 		Nº:11
+Ransdell       		Mean: 1.63 		Best: 9.6 		Nº:4
+Magana         		Mean: 2.35 		Best: 9.6 		Nº:4
+Cochran        		Mean: 1.57 		Best: 9.6 		Nº:4
+Kidd           		Mean: 1.39 		Best: 9.6 		Nº:5
+Holcombe       		Mean: 0.7  		Best: 9.6 		Nº:6
+Headley        		Mean: 1.07 		Best: 9.6 		Nº:8
+Lavoie         		Mean: 0.83 		Best: 9.6 		Nº:8
+Vick           		Mean: 0.48 		Best: 9.6 		Nº:6
+Cole           		Mean: 0.6  		Best: 9.6 		Nº:4
+Mcbride        		Mean: 1.57 		Best: 9.6 		Nº:4
+Stoica         		Mean: 1.03 		Best: 8.71 		Nº:4
+Haine          		Mean: 1.28 		Best: 8.71 		Nº:5
+Schluter       		Mean: 0.22 		Best: 7.77 		Nº:6
+Crow           		Mean: 0.87 		Best: 7.77 		Nº:3
+Combs          		Mean: 0.0  		Best: 0.0 		Nº:3
+
+########## REPORT GEN: 37 ##########
+SPECIES: 
+Edward         		Mean: 1.15 		Best: 9.6 		Nº:4
+Jackson        		Mean: 0.53 		Best: 9.6 		Nº:8
+Rooker         		Mean: 0.67 		Best: 9.6 		Nº:8
+Ransdell       		Mean: 0.68 		Best: 9.6 		Nº:8
+Magana         		Mean: 1.0  		Best: 9.6 		Nº:8
+Cochran        		Mean: 0.57 		Best: 9.6 		Nº:7
+Kidd           		Mean: 1.07 		Best: 9.6 		Nº:7
+Holcombe       		Mean: 2.04 		Best: 9.6 		Nº:3
+Mcbride        		Mean: 0.67 		Best: 9.6 		Nº:7
+Haine          		Mean: 1.26 		Best: 9.6 		Nº:7
+Sanchez        		Mean: 4.34 		Best: 9.6 		Nº:2
+Lavoie         		Mean: 1.57 		Best: 8.71 		Nº:4
+Vick           		Mean: 0.97 		Best: 8.71 		Nº:3
+Stoica         		Mean: 0.35 		Best: 8.71 		Nº:5
+Schluter       		Mean: 0.97 		Best: 8.71 		Nº:3
+Jones          		Mean: 0.93 		Best: 7.77 		Nº:5
+Rodriguez      		Mean: 0.93 		Best: 7.77 		Nº:5
+Headley        		Mean: 0.31 		Best: 7.77 		Nº:5
+Cole           		Mean: 1.73 		Best: 7.77 		Nº:3
+Crow           		Mean: 0.0  		Best: 0.0 		Nº:4
+
+########## REPORT GEN: 38 ##########
+SPECIES: 
+Jackson        		Mean: 1.69 		Best: 9.6 		Nº:4
+Rooker         		Mean: 1.63 		Best: 9.6 		Nº:4
+Magana         		Mean: 1.26 		Best: 9.6 		Nº:6
+Kidd           		Mean: 0.53 		Best: 9.6 		Nº:7
+Holcombe       		Mean: 1.13 		Best: 9.6 		Nº:6
+Haine          		Mean: 0.67 		Best: 9.6 		Nº:8
+Sanchez        		Mean: 1.74 		Best: 9.6 		Nº:4
+Schluter       		Mean: 0.27 		Best: 9.6 		Nº:6
+Jones          		Mean: 0.53 		Best: 9.6 		Nº:6
+Rodriguez      		Mean: 1.21 		Best: 9.6 		Nº:6
+Crow           		Mean: 2.4  		Best: 9.6 		Nº:2
+Ransdell       		Mean: 1.03 		Best: 8.71 		Nº:4
+Cochran        		Mean: 1.83 		Best: 8.71 		Nº:3
+Mcbride        		Mean: 1.58 		Best: 8.71 		Nº:4
+Lavoie         		Mean: 0.6  		Best: 8.71 		Nº:9
+Vick           		Mean: 0.46 		Best: 8.71 		Nº:6
+Headley        		Mean: 4.36 		Best: 8.71 		Nº:2
+Edward         		Mean: 0.32 		Best: 7.77 		Nº:7
+Stoica         		Mean: 1.94 		Best: 7.77 		Nº:2
+Cole           		Mean: 0.43 		Best: 7.77 		Nº:6
+
+########## REPORT GEN: 39 ##########
+SPECIES: 
+Jackson        		Mean: 1.07 		Best: 9.6 		Nº:7
+Rooker         		Mean: 1.01 		Best: 9.6 		Nº:7
+Magana         		Mean: 0.7  		Best: 9.6 		Nº:5
+Kidd           		Mean: 2.9  		Best: 9.6 		Nº:3
+Rodriguez      		Mean: 1.7  		Best: 9.6 		Nº:5
+Ransdell       		Mean: 1.74 		Best: 9.6 		Nº:4
+Mcbride        		Mean: 1.04 		Best: 9.6 		Nº:6
+Lavoie         		Mean: 1.7  		Best: 9.6 		Nº:4
+Headley        		Mean: 1.08 		Best: 9.6 		Nº:5
+Sanchez        		Mean: 0.51 		Best: 8.71 		Nº:7
+Crow           		Mean: 1.64 		Best: 8.71 		Nº:4
+Cochran        		Mean: 1.16 		Best: 8.71 		Nº:6
+Cole           		Mean: 1.83 		Best: 8.71 		Nº:3
+Holcombe       		Mean: 0.49 		Best: 7.77 		Nº:4
+Haine          		Mean: 0.97 		Best: 7.77 		Nº:4
+Vick           		Mean: 1.73 		Best: 7.77 		Nº:3
+Combs          		Mean: 3.89 		Best: 7.77 		Nº:2
+Stoica         		Mean: 0.49 		Best: 7.77 		Nº:4
+Schluter       		Mean: 0.0  		Best: 0.0 		Nº:3
+Jones          		Mean: 0.0  		Best: 0.0 		Nº:3
+Edward         		Mean: 0.0  		Best: 0.0 		Nº:3
+
+########## REPORT GEN: 40 ##########
+SPECIES: 
+Jackson        		Mean: 1.4  		Best: 9.6 		Nº:6
+Rooker         		Mean: 1.4  		Best: 9.6 		Nº:6
+Kidd           		Mean: 1.43 		Best: 9.6 		Nº:6
+Rodriguez      		Mean: 0.67 		Best: 9.6 		Nº:9
+Ransdell       		Mean: 0.71 		Best: 9.6 		Nº:8
+Lavoie         		Mean: 0.8  		Best: 9.6 		Nº:8
+Headley        		Mean: 1.16 		Best: 9.6 		Nº:6
+Sanchez        		Mean: 3.0  		Best: 9.6 		Nº:3
+Crow           		Mean: 0.7  		Best: 9.6 		Nº:8
+Cochran        		Mean: 0.99 		Best: 9.6 		Nº:6
+Haine          		Mean: 0.73 		Best: 9.6 		Nº:5
+Combs          		Mean: 2.12 		Best: 9.6 		Nº:4
+Magana         		Mean: 1.03 		Best: 8.71 		Nº:4
+Mcbride        		Mean: 1.16 		Best: 8.71 		Nº:6
+Cole           		Mean: 0.46 		Best: 8.71 		Nº:6
+Holcombe       		Mean: 2.18 		Best: 8.71 		Nº:2
+Vick           		Mean: 0.22 		Best: 7.77 		Nº:6
+Stoica         		Mean: 0.0  		Best: 0.0 		Nº:2
+
+########## REPORT GEN: 41 ##########
+SPECIES: 
+Jackson        		Mean: 0.59 		Best: 9.6 		Nº:7
+Rooker         		Mean: 1.19 		Best: 9.6 		Nº:7
+Kidd           		Mean: 0.77 		Best: 9.6 		Nº:7
+Ransdell       		Mean: 1.09 		Best: 9.6 		Nº:4
+Sanchez        		Mean: 1.28 		Best: 9.6 		Nº:6
+Crow           		Mean: 1.69 		Best: 9.6 		Nº:4
+Cochran        		Mean: 1.04 		Best: 9.6 		Nº:5
+Edward         		Mean: 4.8  		Best: 9.6 		Nº:2
+Magana         		Mean: 1.7  		Best: 9.6 		Nº:5
+Lavoie         		Mean: 2.12 		Best: 8.71 		Nº:4
+Headley        		Mean: 1.6  		Best: 8.71 		Nº:5
+Haine          		Mean: 0.97 		Best: 8.71 		Nº:3
+Combs          		Mean: 0.49 		Best: 8.71 		Nº:9
+Mcbride        		Mean: 0.35 		Best: 8.71 		Nº:5
+Rodriguez      		Mean: 1.46 		Best: 7.77 		Nº:4
+Holcombe       		Mean: 1.46 		Best: 7.77 		Nº:4
+Cole           		Mean: 0.0  		Best: 0.0 		Nº:3
+Vick           		Mean: 0.0  		Best: 0.0 		Nº:3
+
+########## REPORT GEN: 42 ##########
+SPECIES: 
+Jackson        		Mean: 1.93 		Best: 9.6 		Nº:3
+Rooker         		Mean: 1.82 		Best: 9.6 		Nº:5
+Kidd           		Mean: 3.1  		Best: 9.6 		Nº:3
+Ransdell       		Mean: 0.7  		Best: 9.6 		Nº:5
+Crow           		Mean: 0.67 		Best: 9.6 		Nº:8
+Cochran        		Mean: 1.5  		Best: 9.6 		Nº:5
+Edward         		Mean: 1.69 		Best: 9.6 		Nº:4
+Magana         		Mean: 0.91 		Best: 9.6 		Nº:8
+Lavoie         		Mean: 0.8  		Best: 9.6 		Nº:8
+Headley        		Mean: 0.69 		Best: 9.6 		Nº:7
+Combs          		Mean: 2.23 		Best: 9.6 		Nº:4
+Rodriguez      		Mean: 0.95 		Best: 9.6 		Nº:8
+Holcombe       		Mean: 0.91 		Best: 9.6 		Nº:7
+Sanchez        		Mean: 1.13 		Best: 8.71 		Nº:6
+Schluter       		Mean: 2.18 		Best: 8.71 		Nº:2
+Haine          		Mean: 0.49 		Best: 7.77 		Nº:4
+Mcbride        		Mean: 0.0  		Best: 0.0 		Nº:2
+
+########## REPORT GEN: 43 ##########
+SPECIES: 
+Jackson        		Mean: 1.26 		Best: 9.6 		Nº:6
+Rooker         		Mean: 0.99 		Best: 9.6 		Nº:6
+Kidd           		Mean: 0.99 		Best: 9.6 		Nº:6
+Ransdell       		Mean: 4.34 		Best: 9.6 		Nº:2
+Cochran        		Mean: 1.04 		Best: 9.6 		Nº:5
+Edward         		Mean: 0.78 		Best: 9.6 		Nº:6
+Magana         		Mean: 1.63 		Best: 9.6 		Nº:4
+Headley        		Mean: 1.07 		Best: 9.6 		Nº:3
+Rodriguez      		Mean: 2.18 		Best: 9.6 		Nº:4
+Holcombe       		Mean: 3.0  		Best: 9.6 		Nº:3
+Sanchez        		Mean: 1.15 		Best: 9.6 		Nº:5
+Schluter       		Mean: 1.63 		Best: 9.6 		Nº:4
+Crow           		Mean: 1.36 		Best: 8.71 		Nº:5
+Lavoie         		Mean: 1.58 		Best: 8.71 		Nº:4
+Combs          		Mean: 0.77 		Best: 8.71 		Nº:8
+Cole           		Mean: 2.18 		Best: 8.71 		Nº:2
+Vick           		Mean: 1.94 		Best: 7.77 		Nº:2
+Haine          		Mean: 0.0  		Best: 0.0 		Nº:2
+
+########## REPORT GEN: 44 ##########
+SPECIES: 
+Jackson        		Mean: 0.99 		Best: 9.6 		Nº:6
+Rooker         		Mean: 1.43 		Best: 9.6 		Nº:5
+Kidd           		Mean: 1.81 		Best: 9.6 		Nº:5
+Ransdell       		Mean: 1.69 		Best: 9.6 		Nº:4
+Magana         		Mean: 0.88 		Best: 9.6 		Nº:9
+Headley        		Mean: 1.08 		Best: 9.6 		Nº:5
+Rodriguez      		Mean: 0.65 		Best: 9.6 		Nº:8
+Holcombe       		Mean: 0.94 		Best: 9.6 		Nº:6
+Sanchez        		Mean: 0.75 		Best: 9.6 		Nº:6
+Schluter       		Mean: 0.66 		Best: 9.6 		Nº:8
+Crow           		Mean: 1.05 		Best: 9.6 		Nº:7
+Combs          		Mean: 2.17 		Best: 9.6 		Nº:4
+Cole           		Mean: 2.12 		Best: 9.6 		Nº:4
+Edward         		Mean: 1.03 		Best: 8.71 		Nº:4
+Lavoie         		Mean: 0.53 		Best: 8.71 		Nº:8
+Vick           		Mean: 1.03 		Best: 8.71 		Nº:4
+Cochran        		Mean: 0.62 		Best: 7.77 		Nº:5
+
+########## REPORT GEN: 45 ##########
+SPECIES: 
+Kidd           		Mean: 0.87 		Best: 9.6 		Nº:7
+Ransdell       		Mean: 0.89 		Best: 9.6 		Nº:7
+Rodriguez      		Mean: 1.75 		Best: 9.6 		Nº:4
+Holcombe       		Mean: 2.9  		Best: 9.6 		Nº:3
+Sanchez        		Mean: 2.14 		Best: 9.6 		Nº:3
+Crow           		Mean: 1.36 		Best: 9.6 		Nº:5
+Combs          		Mean: 0.86 		Best: 9.6 		Nº:8
+Cole           		Mean: 0.83 		Best: 9.6 		Nº:8
+Edward         		Mean: 1.69 		Best: 9.6 		Nº:4
+Vick           		Mean: 2.12 		Best: 9.6 		Nº:4
+Haine          		Mean: 2.81 		Best: 9.6 		Nº:3
+Mcbride        		Mean: 4.8  		Best: 9.6 		Nº:2
+Rooker         		Mean: 0.35 		Best: 8.71 		Nº:5
+Magana         		Mean: 1.09 		Best: 8.71 		Nº:4
+Schluter       		Mean: 0.54 		Best: 8.71 		Nº:4
+Lavoie         		Mean: 2.0  		Best: 8.71 		Nº:4
+Cochran        		Mean: 2.18 		Best: 8.71 		Nº:2
+Headley        		Mean: 0.0  		Best: 0.0 		Nº:4
+
+########## REPORT GEN: 46 ##########
+SPECIES: 
+Rodriguez      		Mean: 0.71 		Best: 9.6 		Nº:8
+Sanchez        		Mean: 0.73 		Best: 9.6 		Nº:6
+Crow           		Mean: 0.97 		Best: 9.6 		Nº:6
+Edward         		Mean: 0.83 		Best: 9.6 		Nº:8
+Vick           		Mean: 0.84 		Best: 9.6 		Nº:8
+Magana         		Mean: 0.74 		Best: 9.6 		Nº:5
+Lavoie         		Mean: 0.8  		Best: 9.6 		Nº:8
+Kidd           		Mean: 2.18 		Best: 8.71 		Nº:4
+Ransdell       		Mean: 1.03 		Best: 8.71 		Nº:4
+Holcombe       		Mean: 1.16 		Best: 8.71 		Nº:6
+Haine          		Mean: 0.48 		Best: 8.71 		Nº:6
+Mcbride        		Mean: 2.0  		Best: 8.71 		Nº:4
+Combs          		Mean: 0.97 		Best: 7.77 		Nº:4
+Cole           		Mean: 0.49 		Best: 7.77 		Nº:4
+Schluter       		Mean: 1.94 		Best: 7.77 		Nº:2
+Cochran        		Mean: 0.31 		Best: 7.77 		Nº:5
+Rooker         		Mean: 0.0  		Best: 0.0 		Nº:2
+Headley        		Mean: 0.0  		Best: 0.0 		Nº:2
+

@@ -1,0 +1,638 @@
+########## REPORT GEN: 2 ##########
+SPECIES: 
+Manuel         		Mean: 28.34 		Best: 1114.04 		N:25
+Gillespie      		Mean: 277.07 		Best: 1112.26 		N:3
+Higgenbotham   		Mean: 83.62 		Best: 1109.65 		N:8
+Colosimo       		Mean: 85.13 		Best: 749.87 		N:8
+Burmeister     		Mean: 43.66 		Best: 637.6 		N:15
+Brown          		Mean: 313.9 		Best: 628.06 		N:2
+Jessup         		Mean: 106.41 		Best: 628.16 		N:6
+Verne          		Mean: 163.92 		Best: 627.97 		N:4
+Jones          		Mean: 312.86 		Best: 627.55 		N:2
+Korando        		Mean: 130.95 		Best: 633.22 		N:5
+Cutler         		Mean: 316.5 		Best: 627.31 		N:2
+Turpin         		Mean: 284.05 		Best: 571.16 		N:2
+Bradley        		Mean: 282.88 		Best: 565.89 		N:2
+Strawn         		Mean: 230.99 		Best: 462.72 		N:2
+
+########## REPORT GEN: 3 ##########
+SPECIES: 
+Colosimo       		Mean: 61.71 		Best: 1116.84 		N:12
+Burmeister     		Mean: 152.2 		Best: 1116.78 		N:5
+Jessup         		Mean: 77.38 		Best: 1113.85 		N:10
+Cutler         		Mean: 440.25 		Best: 1098.31 		N:2
+Manuel         		Mean: 96.12 		Best: 1051.6 		N:7
+Korando        		Mean: 109.48 		Best: 779.92 		N:6
+Rincon         		Mean: 211.9 		Best: 767.13 		N:3
+Olson          		Mean: 353.68 		Best: 752.76 		N:2
+Jones          		Mean: 139.74 		Best: 752.54 		N:5
+Quiroz         		Mean: 233.94 		Best: 743.54 		N:3
+Higgenbotham   		Mean: 126.7 		Best: 629.18 		N:5
+Gillespie      		Mean: 157.56 		Best: 627.33 		N:4
+Bradley        		Mean: 141.42 		Best: 566.0 		N:4
+Strawn         		Mean: 116.63 		Best: 464.79 		N:4
+
+########## REPORT GEN: 4 ##########
+SPECIES: 
+Higgenbotham   		Mean: 151.11 		Best: 1115.55 		N:6
+Manuel         		Mean: 55.76 		Best: 1111.53 		N:13
+Rincon         		Mean: 268.21 		Best: 1111.32 		N:3
+Jones          		Mean: 74.03 		Best: 1097.15 		N:11
+Korando        		Mean: 111.41 		Best: 780.92 		N:6
+Olson          		Mean: 139.26 		Best: 766.56 		N:4
+Jessup         		Mean: 185.29 		Best: 766.13 		N:4
+Gallo          		Mean: 127.76 		Best: 752.0 		N:5
+Verne          		Mean: 161.8 		Best: 750.37 		N:4
+Bradley        		Mean: 235.05 		Best: 744.65 		N:3
+Cutler         		Mean: 313.94 		Best: 628.13 		N:2
+Gillespie      		Mean: 211.57 		Best: 627.56 		N:3
+Burmeister     		Mean: 322.94 		Best: 627.48 		N:2
+Brown          		Mean: 220.5 		Best: 567.5 		N:2
+Strawn         		Mean: 234.1 		Best: 464.51 		N:2
+
+########## REPORT GEN: 5 ##########
+SPECIES: 
+Bradley        		Mean: 86.67 		Best: 1116.93 		N:9
+Korando        		Mean: 271.63 		Best: 1115.13 		N:3
+Verne          		Mean: 95.56 		Best: 1111.58 		N:8
+Higgenbotham   		Mean: 259.17 		Best: 1110.71 		N:3
+Cutler         		Mean: 146.71 		Best: 1089.72 		N:6
+Gillespie      		Mean: 154.03 		Best: 781.97 		N:4
+Jessup         		Mean: 68.56 		Best: 781.95 		N:10
+Rincon         		Mean: 133.23 		Best: 781.86 		N:5
+Brown          		Mean: 358.56 		Best: 750.85 		N:2
+Call           		Mean: 216.23 		Best: 750.62 		N:3
+Manuel         		Mean: 84.41 		Best: 743.13 		N:8
+Gallo          		Mean: 343.14 		Best: 686.36 		N:2
+Jones          		Mean: 201.35 		Best: 633.19 		N:3
+Burmeister     		Mean: 71.91 		Best: 628.09 		N:8
+Strawn         		Mean: 84.44 		Best: 627.27 		N:6
+Olson          		Mean: 298.38 		Best: 597.35 		N:2
+
+########## REPORT GEN: 6 ##########
+SPECIES: 
+Manuel         		Mean: 139.9 		Best: 1115.94 		N:6
+Jessup         		Mean: 96.21 		Best: 1115.92 		N:8
+Gillespie      		Mean: 120.25 		Best: 1114.07 		N:6
+Bradley        		Mean: 126.23 		Best: 1112.52 		N:6
+Olson          		Mean: 99.47 		Best: 1110.03 		N:7
+Burmeister     		Mean: 354.82 		Best: 781.25 		N:2
+Verne          		Mean: 88.68 		Best: 781.11 		N:8
+Brown          		Mean: 83.76 		Best: 781.77 		N:7
+Korando        		Mean: 149.02 		Best: 780.05 		N:4
+Rincon         		Mean: 169.88 		Best: 780.03 		N:4
+Rockwell       		Mean: 163.45 		Best: 767.03 		N:4
+Gallo          		Mean: 147.46 		Best: 767.99 		N:5
+Call           		Mean: 341.39 		Best: 751.76 		N:2
+Jones          		Mean: 119.54 		Best: 633.18 		N:5
+Williams       		Mean: 316.49 		Best: 627.98 		N:2
+Strawn         		Mean: 235.69 		Best: 470.83 		N:2
+
+########## REPORT GEN: 7 ##########
+SPECIES: 
+Manuel         		Mean: 80.78 		Best: 1115.81 		N:11
+Burmeister     		Mean: 172.01 		Best: 1097.7 		N:5
+Rockwell       		Mean: 165.59 		Best: 1071.56 		N:5
+Jessup         		Mean: 87.64 		Best: 782.22 		N:7
+Brown          		Mean: 77.11 		Best: 780.96 		N:8
+Bradley        		Mean: 249.09 		Best: 780.54 		N:3
+Rincon         		Mean: 101.5 		Best: 780.38 		N:6
+Call           		Mean: 183.77 		Best: 767.07 		N:4
+Olson          		Mean: 158.69 		Best: 751.69 		N:4
+Cutler         		Mean: 134.64 		Best: 710.96 		N:5
+Gallo          		Mean: 161.03 		Best: 685.67 		N:4
+Jones          		Mean: 95.52 		Best: 633.2 		N:6
+Korando        		Mean: 313.9 		Best: 628.16 		N:2
+Williams       		Mean: 158.57 		Best: 628.11 		N:4
+Strawn         		Mean: 118.95 		Best: 470.89 		N:4
+Gillespie      		Mean: 191.19 		Best: 383.21 		N:2
+
+########## REPORT GEN: 8 ##########
+SPECIES: 
+Thompson       		Mean: 280.19 		Best: 1117.02 		N:4
+Rincon         		Mean: 49.97 		Best: 1115.07 		N:13
+Rockwell       		Mean: 217.3 		Best: 1077.83 		N:4
+Burmeister     		Mean: 158.47 		Best: 784.69 		N:5
+Bradley        		Mean: 100.28 		Best: 780.95 		N:6
+Korando        		Mean: 146.75 		Best: 780.0 		N:4
+Valliere       		Mean: 256.43 		Best: 769.39 		N:3
+Call           		Mean: 70.93 		Best: 766.67 		N:11
+Gallo          		Mean: 110.06 		Best: 684.6 		N:6
+Jones          		Mean: 141.54 		Best: 632.98 		N:4
+Williams       		Mean: 105.79 		Best: 628.08 		N:6
+Brown          		Mean: 266.09 		Best: 627.27 		N:2
+Manuel         		Mean: 181.19 		Best: 609.67 		N:3
+Olson          		Mean: 78.33 		Best: 579.68 		N:7
+Strawn         		Mean: 95.56 		Best: 470.65 		N:5
+Gillespie      		Mean: 191.26 		Best: 383.29 		N:2
+
+########## REPORT GEN: 9 ##########
+SPECIES: 
+Thompson       		Mean: 94.03 		Best: 1122.38 		N:11
+Rockwell       		Mean: 92.5 		Best: 1081.95 		N:8
+Williams       		Mean: 186.06 		Best: 1029.17 		N:4
+Rincon         		Mean: 105.62 		Best: 971.62 		N:7
+Burmeister     		Mean: 201.27 		Best: 784.72 		N:4
+Korando        		Mean: 362.75 		Best: 781.54 		N:2
+Brown          		Mean: 223.81 		Best: 780.96 		N:3
+Bradley        		Mean: 178.14 		Best: 781.09 		N:4
+Valliere       		Mean: 127.88 		Best: 769.12 		N:6
+Gallo          		Mean: 101.06 		Best: 756.21 		N:7
+Call           		Mean: 258.67 		Best: 751.31 		N:3
+Jessup         		Mean: 69.79 		Best: 690.54 		N:7
+Jones          		Mean: 92.12 		Best: 632.84 		N:6
+Gillespie      		Mean: 84.92 		Best: 608.72 		N:6
+Manuel         		Mean: 119.77 		Best: 596.02 		N:4
+Olson          		Mean: 188.61 		Best: 580.26 		N:3
+Strawn         		Mean: 119.37 		Best: 469.74 		N:4
+
+########## REPORT GEN: 10 ##########
+SPECIES: 
+Rockwell       		Mean: 107.02 		Best: 1112.02 		N:6
+Gillespie      		Mean: 61.0 		Best: 1105.38 		N:10
+Williams       		Mean: 92.85 		Best: 1071.27 		N:8
+Rincon         		Mean: 200.47 		Best: 962.13 		N:4
+Valliere       		Mean: 109.78 		Best: 819.7 		N:7
+Bradley        		Mean: 153.69 		Best: 783.68 		N:5
+Burmeister     		Mean: 159.13 		Best: 782.23 		N:5
+Smith          		Mean: 103.58 		Best: 781.11 		N:6
+Jessup         		Mean: 88.53 		Best: 780.13 		N:7
+Wells          		Mean: 380.84 		Best: 755.81 		N:2
+Gallo          		Mean: 176.63 		Best: 756.72 		N:4
+George         		Mean: 124.71 		Best: 750.91 		N:5
+Thompson       		Mean: 367.5 		Best: 736.27 		N:2
+Olson          		Mean: 92.72 		Best: 726.54 		N:6
+Polk           		Mean: 347.82 		Best: 693.72 		N:2
+Jones          		Mean: 107.39 		Best: 633.1 		N:5
+Brown          		Mean: 293.9 		Best: 629.14 		N:2
+Korando        		Mean: 123.84 		Best: 627.27 		N:4
+Strawn         		Mean: 78.2 		Best: 470.72 		N:6
+Manuel         		Mean: 138.66 		Best: 465.65 		N:3
+
+########## REPORT GEN: 11 ##########
+SPECIES: 
+Gillespie      		Mean: 320.92 		Best: 1124.72 		N:3
+George         		Mean: 134.01 		Best: 1115.7 		N:6
+Manuel         		Mean: 151.03 		Best: 1111.77 		N:5
+Williams       		Mean: 173.03 		Best: 1032.54 		N:4
+Burmeister     		Mean: 115.08 		Best: 964.71 		N:6
+Gallo          		Mean: 52.41 		Best: 923.1 		N:12
+Miller         		Mean: 86.45 		Best: 819.03 		N:8
+Brown          		Mean: 366.71 		Best: 801.35 		N:2
+Jones          		Mean: 161.44 		Best: 783.38 		N:4
+Jessup         		Mean: 393.91 		Best: 781.18 		N:2
+Rincon         		Mean: 182.51 		Best: 780.94 		N:3
+Korando        		Mean: 98.08 		Best: 781.41 		N:7
+Smith          		Mean: 252.46 		Best: 781.6 		N:3
+Polk           		Mean: 251.09 		Best: 773.61 		N:3
+Bradley        		Mean: 111.55 		Best: 752.92 		N:5
+Thompson       		Mean: 102.01 		Best: 752.0 		N:6
+Rockwell       		Mean: 236.29 		Best: 751.56 		N:3
+Olson          		Mean: 236.85 		Best: 727.22 		N:3
+Strawn         		Mean: 220.64 		Best: 470.6 		N:2
+
+########## REPORT GEN: 12 ##########
+SPECIES: 
+Gillespie      		Mean: 103.29 		Best: 1121.29 		N:7
+Valliere       		Mean: 157.03 		Best: 1116.93 		N:6
+Miller         		Mean: 96.09 		Best: 1107.33 		N:8
+Burmeister     		Mean: 137.81 		Best: 1082.23 		N:5
+Bradley        		Mean: 122.05 		Best: 1076.68 		N:7
+Williams       		Mean: 264.24 		Best: 1011.33 		N:3
+Wells          		Mean: 89.57 		Best: 819.68 		N:8
+Jessup         		Mean: 111.46 		Best: 781.7 		N:6
+Thompson       		Mean: 103.24 		Best: 781.49 		N:7
+Korando        		Mean: 99.43 		Best: 780.93 		N:6
+Gallo          		Mean: 124.42 		Best: 780.2 		N:5
+George         		Mean: 249.91 		Best: 775.77 		N:3
+Rincon         		Mean: 81.42 		Best: 781.31 		N:8
+Strawn         		Mean: 135.2 		Best: 752.29 		N:5
+Rockwell       		Mean: 349.94 		Best: 742.4 		N:2
+Manuel         		Mean: 317.97 		Best: 656.77 		N:2
+
+########## REPORT GEN: 13 ##########
+SPECIES: 
+Rockwell       		Mean: 216.72 		Best: 1121.62 		N:4
+Jones          		Mean: 109.81 		Best: 1108.04 		N:7
+Jessup         		Mean: 148.36 		Best: 1096.4 		N:5
+Miller         		Mean: 164.35 		Best: 1090.35 		N:4
+Gallo          		Mean: 135.74 		Best: 1083.2 		N:5
+Strawn         		Mean: 324.93 		Best: 1081.0 		N:3
+Thompson       		Mean: 430.08 		Best: 1067.67 		N:2
+Manuel         		Mean: 170.28 		Best: 1012.07 		N:4
+Wells          		Mean: 191.59 		Best: 998.18 		N:4
+Korando        		Mean: 239.08 		Best: 918.46 		N:3
+Rincon         		Mean: 95.22 		Best: 818.81 		N:7
+Williams       		Mean: 223.19 		Best: 782.13 		N:3
+George         		Mean: 377.43 		Best: 780.87 		N:2
+Smith          		Mean: 231.67 		Best: 777.1 		N:3
+Burmeister     		Mean: 208.86 		Best: 773.71 		N:3
+Bradley        		Mean: 100.64 		Best: 755.68 		N:6
+Valliere       		Mean: 181.71 		Best: 627.27 		N:3
+
+########## REPORT GEN: 14 ##########
+SPECIES: 
+Burmeister     		Mean: 115.1 		Best: 1218.27 		N:7
+Gallo          		Mean: 143.79 		Best: 1120.09 		N:6
+Rincon         		Mean: 296.9 		Best: 1118.13 		N:3
+Smith          		Mean: 167.4 		Best: 1095.23 		N:5
+Strawn         		Mean: 87.68 		Best: 1078.13 		N:8
+Rockwell       		Mean: 148.6 		Best: 1006.15 		N:5
+Thompson       		Mean: 125.47 		Best: 999.99 		N:6
+Manuel         		Mean: 110.76 		Best: 919.45 		N:6
+Jessup         		Mean: 170.48 		Best: 918.17 		N:4
+Korando        		Mean: 139.94 		Best: 818.63 		N:5
+Valliere       		Mean: 133.1 		Best: 802.74 		N:5
+Jones          		Mean: 165.19 		Best: 793.4 		N:4
+Bradley        		Mean: 211.46 		Best: 774.94 		N:3
+Williams       		Mean: 201.26 		Best: 773.43 		N:3
+George         		Mean: 84.07 		Best: 773.18 		N:7
+Brown          		Mean: 224.24 		Best: 729.1 		N:3
+Miller         		Mean: 121.99 		Best: 694.76 		N:5
+Wells          		Mean: 184.26 		Best: 657.58 		N:3
+
+########## REPORT GEN: 15 ##########
+SPECIES: 
+Valliere       		Mean: 124.0 		Best: 1121.36 		N:6
+Rincon         		Mean: 121.51 		Best: 1118.71 		N:6
+Wells          		Mean: 82.26 		Best: 1117.87 		N:8
+Gallo          		Mean: 93.14 		Best: 1114.65 		N:8
+Brown          		Mean: 49.64 		Best: 1090.97 		N:13
+Bradley        		Mean: 85.34 		Best: 1081.96 		N:9
+Korando        		Mean: 107.93 		Best: 998.48 		N:6
+Manuel         		Mean: 71.79 		Best: 919.57 		N:10
+George         		Mean: 118.25 		Best: 917.51 		N:6
+Smith          		Mean: 155.06 		Best: 840.41 		N:5
+Strawn         		Mean: 129.21 		Best: 818.79 		N:5
+Williams       		Mean: 125.0 		Best: 794.52 		N:5
+Jessup         		Mean: 166.42 		Best: 782.1 		N:4
+Rockwell       		Mean: 90.32 		Best: 780.8 		N:7
+Jones          		Mean: 193.56 		Best: 773.21 		N:3
+Thompson       		Mean: 90.19 		Best: 762.9 		N:7
+Burmeister     		Mean: 149.81 		Best: 740.99 		N:4
+Miller         		Mean: 235.04 		Best: 681.37 		N:2
+
+########## REPORT GEN: 16 ##########
+SPECIES: 
+Miller         		Mean: 94.94 		Best: 1121.71 		N:8
+Wells          		Mean: 70.53 		Best: 1118.39 		N:10
+Gallo          		Mean: 134.05 		Best: 1115.71 		N:6
+Smith          		Mean: 52.3 		Best: 1111.7 		N:13
+Brown          		Mean: 147.0 		Best: 1111.38 		N:5
+Rincon         		Mean: 70.42 		Best: 1075.4 		N:9
+Jones          		Mean: 78.45 		Best: 999.02 		N:8
+Jessup         		Mean: 102.37 		Best: 917.64 		N:6
+George         		Mean: 64.88 		Best: 843.36 		N:10
+Burmeister     		Mean: 78.96 		Best: 819.08 		N:8
+Manuel         		Mean: 120.37 		Best: 773.85 		N:5
+Strawn         		Mean: 69.89 		Best: 763.91 		N:9
+Thompson       		Mean: 113.91 		Best: 750.19 		N:5
+Valliere       		Mean: 362.09 		Best: 738.93 		N:2
+Rockwell       		Mean: 133.64 		Best: 730.89 		N:5
+Korando        		Mean: 160.26 		Best: 657.58 		N:3
+Williams       		Mean: 78.65 		Best: 628.11 		N:6
+Bradley        		Mean: 87.67 		Best: 572.64 		N:5
+
+########## REPORT GEN: 17 ##########
+SPECIES: 
+Williams       		Mean: 65.26 		Best: 1120.97 		N:10
+Gallo          		Mean: 59.04 		Best: 1120.09 		N:9
+Smith          		Mean: 152.22 		Best: 1111.69 		N:5
+Jones          		Mean: 55.55 		Best: 1109.82 		N:12
+Jessup         		Mean: 75.83 		Best: 1106.25 		N:9
+Korando        		Mean: 78.51 		Best: 1095.31 		N:8
+Strawn         		Mean: 139.85 		Best: 1075.48 		N:5
+Miller         		Mean: 131.25 		Best: 995.54 		N:5
+Valliere       		Mean: 74.3 		Best: 916.24 		N:8
+George         		Mean: 164.22 		Best: 849.24 		N:4
+Thompson       		Mean: 74.91 		Best: 818.89 		N:8
+Burmeister     		Mean: 73.86 		Best: 817.19 		N:7
+Rincon         		Mean: 196.21 		Best: 776.09 		N:3
+Wells          		Mean: 175.45 		Best: 750.94 		N:4
+Manuel         		Mean: 119.27 		Best: 739.87 		N:4
+Bradley        		Mean: 324.92 		Best: 689.95 		N:2
+Rockwell       		Mean: 90.38 		Best: 651.25 		N:5
+Brown          		Mean: 59.39 		Best: 627.97 		N:8
+
+########## REPORT GEN: 18 ##########
+SPECIES: 
+Jessup         		Mean: 114.95 		Best: 1147.19 		N:7
+Williams       		Mean: 76.41 		Best: 1116.1 		N:8
+Burmeister     		Mean: 78.5 		Best: 1116.05 		N:8
+Valliere       		Mean: 95.62 		Best: 1114.07 		N:7
+Brown          		Mean: 102.46 		Best: 1113.45 		N:6
+Smith          		Mean: 87.24 		Best: 1109.64 		N:7
+Strawn         		Mean: 105.91 		Best: 1101.7 		N:7
+Thompson       		Mean: 101.27 		Best: 996.87 		N:6
+Manuel         		Mean: 83.9 		Best: 898.49 		N:7
+Bradley        		Mean: 148.82 		Best: 818.53 		N:4
+George         		Mean: 295.04 		Best: 773.45 		N:2
+Miller         		Mean: 326.25 		Best: 762.89 		N:2
+Rincon         		Mean: 77.03 		Best: 743.48 		N:8
+Jones          		Mean: 60.24 		Best: 739.2 		N:9
+Rockwell       		Mean: 56.13 		Best: 720.58 		N:9
+Gallo          		Mean: 97.67 		Best: 689.88 		N:6
+Wells          		Mean: 70.89 		Best: 627.35 		N:6
+Korando        		Mean: 124.87 		Best: 591.41 		N:4
+
+########## REPORT GEN: 19 ##########
+SPECIES: 
+Wells          		Mean: 101.39 		Best: 1126.72 		N:7
+Smith          		Mean: 95.59 		Best: 1116.78 		N:6
+Korando        		Mean: 112.16 		Best: 1116.34 		N:6
+Williams       		Mean: 104.48 		Best: 1116.31 		N:8
+Jessup         		Mean: 167.6 		Best: 1113.45 		N:4
+Strawn         		Mean: 185.43 		Best: 1105.89 		N:4
+Rockwell       		Mean: 199.92 		Best: 1080.24 		N:4
+Brown          		Mean: 59.57 		Best: 819.8 		N:10
+Valliere       		Mean: 73.16 		Best: 819.78 		N:8
+Manuel         		Mean: 117.53 		Best: 816.35 		N:5
+George         		Mean: 58.36 		Best: 768.64 		N:8
+Thompson       		Mean: 62.76 		Best: 750.73 		N:7
+Jones          		Mean: 90.3 		Best: 736.12 		N:6
+Gallo          		Mean: 74.17 		Best: 598.99 		N:6
+Miller         		Mean: 62.63 		Best: 595.35 		N:8
+Burmeister     		Mean: 110.94 		Best: 594.7 		N:4
+Bradley        		Mean: 176.39 		Best: 591.75 		N:3
+
+########## REPORT GEN: 20 ##########
+SPECIES: 
+Gallo          		Mean: 127.67 		Best: 1142.96 		N:5
+Smith          		Mean: 70.11 		Best: 1141.8 		N:9
+Williams       		Mean: 68.93 		Best: 1121.16 		N:8
+Rockwell       		Mean: 133.53 		Best: 1120.27 		N:5
+Thompson       		Mean: 121.0 		Best: 1106.81 		N:6
+Bradley        		Mean: 128.76 		Best: 1068.27 		N:5
+George         		Mean: 87.63 		Best: 930.54 		N:7
+Brown          		Mean: 78.11 		Best: 819.78 		N:6
+Burmeister     		Mean: 224.02 		Best: 770.82 		N:3
+Miller         		Mean: 68.14 		Best: 765.78 		N:8
+Rincon         		Mean: 91.19 		Best: 750.67 		N:6
+Strawn         		Mean: 63.5 		Best: 744.84 		N:8
+Korando        		Mean: 61.51 		Best: 735.99 		N:8
+Jessup         		Mean: 180.2 		Best: 721.32 		N:3
+Wells          		Mean: 82.18 		Best: 609.53 		N:6
+Manuel         		Mean: 266.87 		Best: 598.85 		N:2
+Jones          		Mean: 56.51 		Best: 590.65 		N:8
+Valliere       		Mean: 153.12 		Best: 356.97 		N:2
+
+########## REPORT GEN: 21 ##########
+SPECIES: 
+Wells          		Mean: 82.55 		Best: 1127.5 		N:8
+Smith          		Mean: 79.73 		Best: 1125.07 		N:7
+Miller         		Mean: 64.6 		Best: 1120.79 		N:10
+George         		Mean: 66.36 		Best: 1118.24 		N:9
+Jessup         		Mean: 81.89 		Best: 1116.38 		N:7
+Rockwell       		Mean: 73.61 		Best: 1095.62 		N:8
+Williams       		Mean: 105.66 		Best: 930.39 		N:5
+Brown          		Mean: 153.26 		Best: 771.36 		N:4
+Rincon         		Mean: 235.84 		Best: 763.64 		N:3
+Gallo          		Mean: 171.23 		Best: 763.43 		N:3
+Burmeister     		Mean: 68.91 		Best: 750.1 		N:8
+Thompson       		Mean: 102.56 		Best: 746.86 		N:5
+Bradley        		Mean: 56.62 		Best: 690.54 		N:7
+Korando        		Mean: 55.15 		Best: 628.14 		N:8
+Valliere       		Mean: 112.91 		Best: 627.31 		N:4
+Manuel         		Mean: 249.63 		Best: 606.85 		N:2
+Strawn         		Mean: 83.97 		Best: 573.72 		N:5
+
+########## REPORT GEN: 22 ##########
+SPECIES: 
+Strawn         		Mean: 300.92 		Best: 1124.55 		N:3
+Brown          		Mean: 96.71 		Best: 1123.51 		N:5
+Jessup         		Mean: 94.12 		Best: 1121.71 		N:6
+Burmeister     		Mean: 84.82 		Best: 1108.27 		N:7
+Smith          		Mean: 164.43 		Best: 1105.57 		N:5
+Jones          		Mean: 208.83 		Best: 1099.67 		N:3
+Gallo          		Mean: 142.91 		Best: 1096.33 		N:5
+Rincon         		Mean: 65.61 		Best: 939.08 		N:10
+Bradley        		Mean: 95.04 		Best: 932.37 		N:6
+Korando        		Mean: 352.9 		Best: 788.48 		N:2
+Valliere       		Mean: 82.59 		Best: 750.06 		N:6
+Miller         		Mean: 79.03 		Best: 744.35 		N:7
+Thompson       		Mean: 65.67 		Best: 637.74 		N:7
+Manuel         		Mean: 78.07 		Best: 627.95 		N:6
+Williams       		Mean: 43.41 		Best: 587.94 		N:8
+George         		Mean: 134.06 		Best: 581.6 		N:3
+Wells          		Mean: 221.03 		Best: 498.54 		N:2
+
+########## REPORT GEN: 23 ##########
+SPECIES: 
+Valliere       		Mean: 136.71 		Best: 1187.72 		N:5
+Korando        		Mean: 85.75 		Best: 1124.55 		N:7
+Jones          		Mean: 184.67 		Best: 1123.81 		N:5
+Brown          		Mean: 70.29 		Best: 1123.72 		N:8
+Williams       		Mean: 69.34 		Best: 1120.11 		N:8
+Strawn         		Mean: 132.6 		Best: 1120.08 		N:5
+Manuel         		Mean: 92.05 		Best: 1119.88 		N:6
+Jessup         		Mean: 94.51 		Best: 1110.72 		N:6
+George         		Mean: 108.3 		Best: 954.08 		N:5
+Smith          		Mean: 191.93 		Best: 930.38 		N:3
+Rockwell       		Mean: 130.67 		Best: 795.42 		N:4
+Bradley        		Mean: 121.42 		Best: 788.86 		N:4
+Wells          		Mean: 57.74 		Best: 629.11 		N:7
+Miller         		Mean: 70.29 		Best: 627.49 		N:6
+Rincon         		Mean: 74.94 		Best: 590.71 		N:5
+Gallo          		Mean: 191.88 		Best: 384.06 		N:2
+
+########## REPORT GEN: 24 ##########
+SPECIES: 
+Wells          		Mean: 79.97 		Best: 1138.01 		N:8
+Gallo          		Mean: 68.98 		Best: 1127.77 		N:9
+Bradley        		Mean: 94.81 		Best: 1124.24 		N:7
+Brown          		Mean: 262.38 		Best: 1118.74 		N:3
+Manuel         		Mean: 125.85 		Best: 1116.43 		N:6
+Jessup         		Mean: 115.01 		Best: 1098.08 		N:6
+Strawn         		Mean: 181.36 		Best: 1096.61 		N:4
+Valliere       		Mean: 85.48 		Best: 935.0 		N:6
+Burmeister     		Mean: 78.85 		Best: 813.14 		N:6
+Williams       		Mean: 121.6 		Best: 791.16 		N:4
+Smith          		Mean: 62.38 		Best: 694.29 		N:8
+Thompson       		Mean: 84.49 		Best: 629.05 		N:5
+Jones          		Mean: 176.97 		Best: 627.83 		N:3
+Korando        		Mean: 72.12 		Best: 581.78 		N:5
+Rincon         		Mean: 115.68 		Best: 499.04 		N:3
+George         		Mean: 191.74 		Best: 385.41 		N:2
+Rockwell       		Mean: 126.86 		Best: 383.25 		N:3
+Miller         		Mean: 79.5 		Best: 383.17 		N:4
+
+########## REPORT GEN: 25 ##########
+SPECIES: 
+Manuel         		Mean: 171.71 		Best: 1125.97 		N:4
+Korando        		Mean: 84.42 		Best: 1118.89 		N:5
+Strawn         		Mean: 55.84 		Best: 1116.92 		N:9
+Williams       		Mean: 86.04 		Best: 1113.7 		N:6
+Thompson       		Mean: 87.43 		Best: 1111.77 		N:6
+Rincon         		Mean: 135.81 		Best: 1106.94 		N:4
+Jessup         		Mean: 61.39 		Best: 1102.58 		N:10
+George         		Mean: 156.51 		Best: 1071.81 		N:5
+Burmeister     		Mean: 56.43 		Best: 935.75 		N:10
+Rockwell       		Mean: 123.35 		Best: 816.04 		N:4
+Miller         		Mean: 44.91 		Best: 813.99 		N:10
+Wells          		Mean: 349.82 		Best: 791.96 		N:2
+Smith          		Mean: 35.42 		Best: 645.71 		N:8
+Brown          		Mean: 53.57 		Best: 598.67 		N:9
+Bradley        		Mean: 163.04 		Best: 591.72 		N:3
+Valliere       		Mean: 91.65 		Best: 477.66 		N:4
+Gallo          		Mean: 41.12 		Best: 381.78 		N:6
+
+########## REPORT GEN: 26 ##########
+SPECIES: 
+Burmeister     		Mean: 117.65 		Best: 1127.67 		N:6
+Wells          		Mean: 152.02 		Best: 1116.69 		N:5
+Bradley        		Mean: 69.46 		Best: 1108.03 		N:8
+Manuel         		Mean: 97.63 		Best: 1107.72 		N:5
+Valliere       		Mean: 126.32 		Best: 1101.69 		N:5
+Korando        		Mean: 41.11 		Best: 1098.98 		N:11
+Thompson       		Mean: 179.68 		Best: 1098.19 		N:4
+Rincon         		Mean: 207.13 		Best: 1094.65 		N:3
+Smith          		Mean: 90.13 		Best: 944.56 		N:6
+Jones          		Mean: 81.06 		Best: 935.25 		N:7
+Strawn         		Mean: 78.97 		Best: 871.53 		N:6
+Brown          		Mean: 34.87 		Best: 767.31 		N:10
+Williams       		Mean: 70.52 		Best: 653.26 		N:6
+Miller         		Mean: 52.99 		Best: 598.85 		N:8
+Gallo          		Mean: 72.25 		Best: 598.49 		N:5
+Jessup         		Mean: 132.62 		Best: 378.45 		N:2
+George         		Mean: 119.72 		Best: 358.44 		N:2
+
+########## REPORT GEN: 27 ##########
+SPECIES: 
+Bradley        		Mean: 52.23 		Best: 1126.6 		N:8
+Brown          		Mean: 96.58 		Best: 1124.47 		N:5
+George         		Mean: 60.22 		Best: 1122.53 		N:9
+Jones          		Mean: 41.32 		Best: 1116.5 		N:13
+Jessup         		Mean: 64.53 		Best: 1116.39 		N:9
+Wells          		Mean: 107.32 		Best: 1110.17 		N:5
+Burmeister     		Mean: 45.02 		Best: 1109.06 		N:8
+Thompson       		Mean: 106.2 		Best: 1071.12 		N:5
+Williams       		Mean: 74.37 		Best: 995.32 		N:7
+Rincon         		Mean: 79.37 		Best: 910.02 		N:5
+Korando        		Mean: 77.5 		Best: 871.51 		N:6
+Manuel         		Mean: 81.97 		Best: 766.34 		N:5
+Gallo          		Mean: 55.5 		Best: 763.87 		N:8
+Valliere       		Mean: 69.14 		Best: 645.15 		N:5
+Miller         		Mean: 85.62 		Best: 598.42 		N:5
+Smith          		Mean: 106.29 		Best: 596.16 		N:4
+Strawn         		Mean: 52.25 		Best: 356.88 		N:6
+
+########## REPORT GEN: 28 ##########
+SPECIES: 
+Brown          		Mean: 76.64 		Best: 1126.9 		N:7
+Miller         		Mean: 43.09 		Best: 1125.74 		N:11
+Bradley        		Mean: 75.57 		Best: 1124.97 		N:8
+Wells          		Mean: 41.4 		Best: 1124.75 		N:11
+Smith          		Mean: 53.2 		Best: 1123.93 		N:10
+Korando        		Mean: 23.22 		Best: 1122.78 		N:17
+Rincon         		Mean: 74.08 		Best: 1104.69 		N:8
+George         		Mean: 49.43 		Best: 1091.29 		N:10
+Gallo          		Mean: 69.41 		Best: 1071.64 		N:6
+Manuel         		Mean: 84.17 		Best: 995.83 		N:6
+Valliere       		Mean: 38.59 		Best: 764.26 		N:10
+Jessup         		Mean: 52.77 		Best: 600.62 		N:5
+Thompson       		Mean: 35.81 		Best: 598.45 		N:12
+Strawn         		Mean: 144.77 		Best: 517.15 		N:3
+Jones          		Mean: 68.82 		Best: 499.16 		N:4
+Burmeister     		Mean: 65.14 		Best: 384.15 		N:4
+Williams       		Mean: 69.12 		Best: 383.25 		N:3
+
+########## REPORT GEN: 29 ##########
+SPECIES: 
+Miller         		Mean: 75.45 		Best: 1125.86 		N:7
+Rincon         		Mean: 30.93 		Best: 1125.45 		N:15
+Thompson       		Mean: 86.11 		Best: 1124.55 		N:5
+Korando        		Mean: 53.93 		Best: 1111.62 		N:10
+Jessup         		Mean: 71.39 		Best: 997.71 		N:6
+Williams       		Mean: 48.9 		Best: 989.49 		N:8
+Wells          		Mean: 61.74 		Best: 938.92 		N:7
+Gallo          		Mean: 38.55 		Best: 864.3 		N:13
+Brown          		Mean: 62.68 		Best: 794.68 		N:7
+Burmeister     		Mean: 79.24 		Best: 682.34 		N:5
+Smith          		Mean: 63.02 		Best: 655.67 		N:7
+Bradley        		Mean: 42.13 		Best: 615.83 		N:9
+Jones          		Mean: 49.34 		Best: 596.25 		N:8
+George         		Mean: 47.8 		Best: 557.73 		N:6
+Manuel         		Mean: 51.41 		Best: 517.77 		N:5
+Valliere       		Mean: 30.98 		Best: 389.94 		N:7
+Strawn         		Mean: 33.28 		Best: 181.19 		N:4
+
+########## REPORT GEN: 30 ##########
+SPECIES: 
+Brown          		Mean: 55.85 		Best: 1127.68 		N:7
+Thompson       		Mean: 57.61 		Best: 1127.0 		N:10
+Williams       		Mean: 99.69 		Best: 1126.69 		N:6
+Bradley        		Mean: 32.39 		Best: 1115.22 		N:11
+Smith          		Mean: 39.43 		Best: 1110.03 		N:10
+Valliere       		Mean: 56.01 		Best: 1000.13 		N:6
+Manuel         		Mean: 26.35 		Best: 968.2 		N:13
+Korando        		Mean: 52.87 		Best: 919.12 		N:7
+George         		Mean: 85.59 		Best: 864.5 		N:6
+Rincon         		Mean: 47.16 		Best: 802.76 		N:8
+Jones          		Mean: 42.96 		Best: 794.54 		N:7
+Gallo          		Mean: 33.26 		Best: 618.94 		N:10
+Burmeister     		Mean: 101.65 		Best: 598.66 		N:5
+Strawn         		Mean: 29.86 		Best: 576.76 		N:11
+Wells          		Mean: 83.91 		Best: 533.3 		N:5
+Jessup         		Mean: 21.54 		Best: 464.1 		N:12
+Miller         		Mean: 47.41 		Best: 383.59 		N:5
+
+########## REPORT GEN: 31 ##########
+SPECIES: 
+Jones          		Mean: 113.31 		Best: 1127.41 		N:6
+George         		Mean: 48.92 		Best: 1124.3 		N:8
+Gallo          		Mean: 47.45 		Best: 1116.09 		N:8
+Thompson       		Mean: 66.89 		Best: 1005.14 		N:7
+Jessup         		Mean: 41.87 		Best: 999.48 		N:8
+Rincon         		Mean: 39.17 		Best: 999.02 		N:9
+Manuel         		Mean: 52.88 		Best: 991.43 		N:7
+Wells          		Mean: 58.38 		Best: 927.28 		N:8
+Strawn         		Mean: 38.37 		Best: 864.91 		N:11
+Miller         		Mean: 23.62 		Best: 814.34 		N:14
+Korando        		Mean: 57.06 		Best: 719.08 		N:7
+Smith          		Mean: 39.07 		Best: 709.71 		N:9
+Burmeister     		Mean: 50.29 		Best: 709.34 		N:8
+Bradley        		Mean: 78.28 		Best: 706.21 		N:6
+Valliere       		Mean: 254.4 		Best: 648.7 		N:2
+Brown          		Mean: 43.27 		Best: 575.77 		N:7
+Williams       		Mean: 32.87 		Best: 532.91 		N:9
+
+########## REPORT GEN: 32 ##########
+SPECIES: 
+Rincon         		Mean: 69.15 		Best: 1127.28 		N:8
+Jones          		Mean: 59.47 		Best: 1125.87 		N:8
+Jessup         		Mean: 64.08 		Best: 1125.2 		N:7
+Thompson       		Mean: 22.55 		Best: 1124.32 		N:16
+Wells          		Mean: 90.71 		Best: 1114.09 		N:6
+Bradley        		Mean: 103.65 		Best: 999.3 		N:6
+Brown          		Mean: 97.29 		Best: 996.74 		N:5
+Miller         		Mean: 75.77 		Best: 942.83 		N:6
+Strawn         		Mean: 38.72 		Best: 813.87 		N:9
+Burmeister     		Mean: 50.82 		Best: 804.83 		N:9
+Williams       		Mean: 153.08 		Best: 709.69 		N:3
+Gallo          		Mean: 61.49 		Best: 709.18 		N:7
+Manuel         		Mean: 79.43 		Best: 633.49 		N:5
+Smith          		Mean: 31.72 		Best: 601.85 		N:7
+Valliere       		Mean: 117.34 		Best: 598.69 		N:4
+Korando        		Mean: 220.47 		Best: 516.92 		N:2
+George         		Mean: 48.48 		Best: 396.5 		N:4
+
+########## REPORT GEN: 33 ##########
+SPECIES: 
+Strawn         		Mean: 45.74 		Best: 1127.65 		N:11
+Wells          		Mean: 46.55 		Best: 1127.38 		N:8
+Jessup         		Mean: 56.13 		Best: 1125.85 		N:8
+Valliere       		Mean: 42.01 		Best: 1124.55 		N:11
+Rincon         		Mean: 279.32 		Best: 1108.79 		N:3
+Gallo          		Mean: 103.46 		Best: 999.18 		N:5
+Korando        		Mean: 55.15 		Best: 997.84 		N:7
+Manuel         		Mean: 82.12 		Best: 995.03 		N:7
+Burmeister     		Mean: 43.2 		Best: 993.31 		N:11
+Smith          		Mean: 78.06 		Best: 940.34 		N:7
+Thompson       		Mean: 71.04 		Best: 918.41 		N:6
+Jones          		Mean: 46.56 		Best: 864.82 		N:9
+Miller         		Mean: 98.1 		Best: 804.96 		N:5
+George         		Mean: 151.54 		Best: 612.71 		N:3
+Brown          		Mean: 44.68 		Best: 375.58 		N:5
+Williams       		Mean: 56.04 		Best: 374.82 		N:4
+Bradley        		Mean: 47.11 		Best: 365.98 		N:5
+

@@ -1,0 +1,1784 @@
+########## REPORT GEN: 2 ##########
+SPECIES: 
+Cortez         		Mean: 2.77 		Best: 185.97 		Nº:14
+Zins           		Mean: 7.46 		Best: 185.97 		Nº:14
+Morrow         		Mean: 10.19 		Best: 185.97 		Nº:11
+Bubrig         		Mean: 8.96 		Best: 185.97 		Nº:9
+Montgomery     		Mean: 40.69 		Best: 185.97 		Nº:3
+Wilson         		Mean: 88.67 		Best: 185.97 		Nº:2
+Gray           		Mean: 91.82 		Best: 185.97 		Nº:2
+Wright         		Mean: 35.48 		Best: 185.97 		Nº:4
+Leggett        		Mean: 46.62 		Best: 185.97 		Nº:2
+Franklin       		Mean: 86.2 		Best: 177.1 		Nº:2
+Desrochers     		Mean: 86.45 		Best: 177.1 		Nº:2
+Caines         		Mean: 86.7 		Best: 177.1 		Nº:2
+Stephens       		Mean: 88.55 		Best: 177.1 		Nº:2
+Carter         		Mean: 42.05 		Best: 167.72 		Nº:2
+Winfield       		Mean: 41.93 		Best: 167.72 		Nº:2
+Richardson     		Mean: 42.66 		Best: 167.72 		Nº:2
+Whitaker       		Mean: 0.0  		Best: 0.0 		Nº:4
+Huppert        		Mean: 0.0  		Best: 0.0 		Nº:4
+Compton        		Mean: 0.0  		Best: 0.0 		Nº:2
+
+########## REPORT GEN: 3 ##########
+SPECIES: 
+Cortez         		Mean: 21.94 		Best: 185.97 		Nº:7
+Zins           		Mean: 14.43 		Best: 185.97 		Nº:7
+Bubrig         		Mean: 11.71 		Best: 185.97 		Nº:4
+Wilson         		Mean: 22.75 		Best: 185.97 		Nº:4
+Gray           		Mean: 33.42 		Best: 185.97 		Nº:4
+Wright         		Mean: 14.94 		Best: 185.97 		Nº:6
+Leggett        		Mean: 33.84 		Best: 185.97 		Nº:4
+Carter         		Mean: 33.35 		Best: 185.97 		Nº:4
+Winfield       		Mean: 34.35 		Best: 185.97 		Nº:4
+Richardson     		Mean: 34.56 		Best: 185.97 		Nº:4
+Franklin       		Mean: 22.38 		Best: 177.1 		Nº:4
+Desrochers     		Mean: 21.61 		Best: 177.1 		Nº:4
+Caines         		Mean: 11.11 		Best: 177.1 		Nº:4
+Stephens       		Mean: 42.75 		Best: 177.1 		Nº:4
+Leland         		Mean: 45.18 		Best: 177.1 		Nº:2
+Morrow         		Mean: 13.47 		Best: 167.72 		Nº:5
+Montgomery     		Mean: 4.7  		Best: 167.72 		Nº:6
+Whitaker       		Mean: 83.86 		Best: 167.72 		Nº:2
+Huppert        		Mean: 83.86 		Best: 167.72 		Nº:2
+
+########## REPORT GEN: 4 ##########
+SPECIES: 
+Zins           		Mean: 22.86 		Best: 185.97 		Nº:4
+Wilson         		Mean: 14.2 		Best: 185.97 		Nº:5
+Gray           		Mean: 19.59 		Best: 185.97 		Nº:8
+Wright         		Mean: 20.87 		Best: 185.97 		Nº:3
+Leggett        		Mean: 13.59 		Best: 185.97 		Nº:8
+Winfield       		Mean: 11.08 		Best: 185.97 		Nº:8
+Richardson     		Mean: 5.73 		Best: 185.97 		Nº:8
+Franklin       		Mean: 21.75 		Best: 185.97 		Nº:5
+Desrochers     		Mean: 28.46 		Best: 185.97 		Nº:5
+Stephens       		Mean: 17.01 		Best: 185.97 		Nº:8
+Whitaker       		Mean: 32.62 		Best: 185.97 		Nº:4
+Huppert        		Mean: 43.66 		Best: 185.97 		Nº:4
+Cortez         		Mean: 13.92 		Best: 177.1 		Nº:5
+Bubrig         		Mean: 38.5 		Best: 177.1 		Nº:3
+Carter         		Mean: 10.7 		Best: 177.1 		Nº:8
+Caines         		Mean: 42.04 		Best: 167.72 		Nº:2
+Leland         		Mean: 31.45 		Best: 167.72 		Nº:4
+Morrow         		Mean: 18.74 		Best: 167.72 		Nº:3
+Montgomery     		Mean: 18.8 		Best: 167.72 		Nº:3
+
+########## REPORT GEN: 5 ##########
+SPECIES: 
+Zins           		Mean: 28.86 		Best: 185.97 		Nº:5
+Gray           		Mean: 33.8 		Best: 185.97 		Nº:4
+Wright         		Mean: 7.53 		Best: 185.97 		Nº:5
+Richardson     		Mean: 43.69 		Best: 185.97 		Nº:4
+Desrochers     		Mean: 14.89 		Best: 185.97 		Nº:7
+Stephens       		Mean: 34.65 		Best: 185.97 		Nº:4
+Whitaker       		Mean: 19.95 		Best: 185.97 		Nº:8
+Huppert        		Mean: 22.12 		Best: 185.97 		Nº:8
+Cortez         		Mean: 41.43 		Best: 185.97 		Nº:3
+Bubrig         		Mean: 15.08 		Best: 185.97 		Nº:6
+Leland         		Mean: 21.3 		Best: 185.97 		Nº:7
+Montgomery     		Mean: 11.73 		Best: 185.97 		Nº:4
+Wilson         		Mean: 19.71 		Best: 177.1 		Nº:3
+Franklin       		Mean: 20.97 		Best: 177.1 		Nº:5
+Carter         		Mean: 22.22 		Best: 177.1 		Nº:4
+Holloway       		Mean: 88.55 		Best: 177.1 		Nº:2
+Roussell       		Mean: 44.61 		Best: 177.1 		Nº:2
+Leggett        		Mean: 31.71 		Best: 167.72 		Nº:4
+Winfield       		Mean: 10.51 		Best: 167.72 		Nº:4
+Caines         		Mean: 21.01 		Best: 167.72 		Nº:4
+Morrow         		Mean: 10.52 		Best: 167.72 		Nº:4
+
+########## REPORT GEN: 6 ##########
+SPECIES: 
+Zins           		Mean: 17.93 		Best: 185.97 		Nº:7
+Gray           		Mean: 22.21 		Best: 185.97 		Nº:8
+Wright         		Mean: 46.82 		Best: 185.97 		Nº:2
+Richardson     		Mean: 13.85 		Best: 185.97 		Nº:8
+Desrochers     		Mean: 41.46 		Best: 185.97 		Nº:3
+Stephens       		Mean: 13.95 		Best: 185.97 		Nº:8
+Whitaker       		Mean: 28.35 		Best: 185.97 		Nº:5
+Huppert        		Mean: 28.74 		Best: 185.97 		Nº:5
+Bubrig         		Mean: 22.19 		Best: 185.97 		Nº:4
+Leland         		Mean: 20.88 		Best: 185.97 		Nº:5
+Wilson         		Mean: 7.45 		Best: 185.97 		Nº:5
+Franklin       		Mean: 35.54 		Best: 185.97 		Nº:5
+Leggett        		Mean: 14.06 		Best: 185.97 		Nº:8
+Winfield       		Mean: 88.42 		Best: 185.97 		Nº:2
+Caines         		Mean: 27.63 		Best: 185.97 		Nº:5
+Morrow         		Mean: 46.61 		Best: 185.97 		Nº:2
+Cortez         		Mean: 19.21 		Best: 177.1 		Nº:6
+Carter         		Mean: 7.11 		Best: 177.1 		Nº:5
+Holloway       		Mean: 22.19 		Best: 177.1 		Nº:4
+Roussell       		Mean: 11.19 		Best: 177.1 		Nº:4
+Montgomery     		Mean: 18.7 		Best: 167.72 		Nº:3
+Davis          		Mean: 42.22 		Best: 167.72 		Nº:2
+
+########## REPORT GEN: 7 ##########
+SPECIES: 
+Gray           		Mean: 35.9 		Best: 185.97 		Nº:5
+Wright         		Mean: 22.83 		Best: 185.97 		Nº:4
+Stephens       		Mean: 44.01 		Best: 185.97 		Nº:4
+Huppert        		Mean: 18.08 		Best: 185.97 		Nº:7
+Leland         		Mean: 34.7 		Best: 185.97 		Nº:5
+Franklin       		Mean: 11.41 		Best: 185.97 		Nº:8
+Leggett        		Mean: 44.51 		Best: 185.97 		Nº:4
+Winfield       		Mean: 29.52 		Best: 185.97 		Nº:5
+Holloway       		Mean: 14.56 		Best: 185.97 		Nº:5
+Desrochers     		Mean: 9.59 		Best: 177.1 		Nº:6
+Whitaker       		Mean: 10.85 		Best: 177.1 		Nº:7
+Bubrig         		Mean: 7.12 		Best: 177.1 		Nº:5
+Wilson         		Mean: 44.44 		Best: 177.1 		Nº:2
+Caines         		Mean: 14.54 		Best: 177.1 		Nº:6
+Morrow         		Mean: 11.09 		Best: 177.1 		Nº:4
+Roussell       		Mean: 44.54 		Best: 177.1 		Nº:2
+Davis          		Mean: 11.12 		Best: 177.1 		Nº:4
+Richardson     		Mean: 10.5 		Best: 167.72 		Nº:4
+Zins           		Mean: 0.0  		Best: 0.0 		Nº:4
+Cortez         		Mean: 0.0  		Best: 0.0 		Nº:4
+Carter         		Mean: 0.0  		Best: 0.0 		Nº:2
+Montgomery     		Mean: 0.0  		Best: 0.0 		Nº:4
+
+########## REPORT GEN: 8 ##########
+SPECIES: 
+Gray           		Mean: 8.88 		Best: 185.97 		Nº:10
+Wright         		Mean: 8.78 		Best: 185.97 		Nº:8
+Stephens       		Mean: 11.15 		Best: 185.97 		Nº:8
+Huppert        		Mean: 19.16 		Best: 185.97 		Nº:6
+Leland         		Mean: 12.7 		Best: 185.97 		Nº:10
+Franklin       		Mean: 34.46 		Best: 185.97 		Nº:4
+Leggett        		Mean: 11.12 		Best: 185.97 		Nº:8
+Winfield       		Mean: 12.42 		Best: 185.97 		Nº:10
+Desrochers     		Mean: 57.93 		Best: 185.97 		Nº:3
+Caines         		Mean: 7.47 		Best: 185.97 		Nº:5
+Davis          		Mean: 60.27 		Best: 185.97 		Nº:3
+Jaquez         		Mean: 46.61 		Best: 185.97 		Nº:2
+Holloway       		Mean: 7.11 		Best: 177.1 		Nº:5
+Bubrig         		Mean: 44.39 		Best: 177.1 		Nº:2
+Richardson     		Mean: 57.14 		Best: 177.1 		Nº:3
+Zins           		Mean: 44.33 		Best: 177.1 		Nº:2
+Montgomery     		Mean: 44.39 		Best: 177.1 		Nº:2
+Whitaker       		Mean: 37.29 		Best: 167.72 		Nº:3
+Wilson         		Mean: 21.04 		Best: 167.72 		Nº:4
+Morrow         		Mean: 18.65 		Best: 167.72 		Nº:3
+Cortez         		Mean: 42.01 		Best: 167.72 		Nº:2
+Roussell       		Mean: 0.0  		Best: 0.0 		Nº:4
+
+########## REPORT GEN: 9 ##########
+SPECIES: 
+Gray           		Mean: 28.07 		Best: 185.97 		Nº:5
+Wright         		Mean: 22.22 		Best: 185.97 		Nº:4
+Franklin       		Mean: 30.11 		Best: 185.97 		Nº:6
+Desrochers     		Mean: 9.82 		Best: 185.97 		Nº:6
+Jaquez         		Mean: 32.59 		Best: 185.97 		Nº:4
+Bubrig         		Mean: 23.3 		Best: 185.97 		Nº:4
+Richardson     		Mean: 25.4 		Best: 185.97 		Nº:6
+Zins           		Mean: 45.37 		Best: 185.97 		Nº:4
+Carter         		Mean: 88.42 		Best: 185.97 		Nº:2
+Whitaker       		Mean: 29.52 		Best: 185.97 		Nº:6
+Wilson         		Mean: 32.68 		Best: 185.97 		Nº:4
+Morrow         		Mean: 40.37 		Best: 185.97 		Nº:3
+Richards       		Mean: 46.73 		Best: 185.97 		Nº:2
+Huppert        		Mean: 38.36 		Best: 177.1 		Nº:3
+Leland         		Mean: 35.12 		Best: 177.1 		Nº:5
+Leggett        		Mean: 42.64 		Best: 177.1 		Nº:4
+Winfield       		Mean: 20.98 		Best: 177.1 		Nº:5
+Davis          		Mean: 28.85 		Best: 177.1 		Nº:6
+Cortez         		Mean: 11.09 		Best: 177.1 		Nº:4
+Stephens       		Mean: 21.03 		Best: 167.72 		Nº:4
+Caines         		Mean: 42.03 		Best: 167.72 		Nº:2
+Montgomery     		Mean: 21.01 		Best: 167.72 		Nº:4
+Roussell       		Mean: 42.15 		Best: 167.72 		Nº:2
+Holloway       		Mean: 0.0  		Best: 0.0 		Nº:2
+
+########## REPORT GEN: 10 ##########
+SPECIES: 
+Wright         		Mean: 23.44 		Best: 185.97 		Nº:4
+Franklin       		Mean: 21.71 		Best: 185.97 		Nº:5
+Desrochers     		Mean: 58.98 		Best: 185.97 		Nº:3
+Jaquez         		Mean: 19.93 		Best: 185.97 		Nº:6
+Richardson     		Mean: 29.15 		Best: 185.97 		Nº:5
+Zins           		Mean: 13.83 		Best: 185.97 		Nº:8
+Carter         		Mean: 44.83 		Best: 185.97 		Nº:4
+Whitaker       		Mean: 35.45 		Best: 185.97 		Nº:5
+Leggett        		Mean: 14.02 		Best: 185.97 		Nº:8
+Winfield       		Mean: 22.76 		Best: 185.97 		Nº:4
+Davis          		Mean: 21.68 		Best: 185.97 		Nº:5
+Stephens       		Mean: 34.87 		Best: 185.97 		Nº:4
+Caines         		Mean: 22.74 		Best: 185.97 		Nº:4
+Roussell       		Mean: 22.82 		Best: 185.97 		Nº:4
+Bubrig         		Mean: 11.1 		Best: 177.1 		Nº:4
+Wilson         		Mean: 14.54 		Best: 177.1 		Nº:6
+Huppert        		Mean: 9.59 		Best: 177.1 		Nº:6
+Leland         		Mean: 23.87 		Best: 177.1 		Nº:6
+Cortez         		Mean: 88.55 		Best: 177.1 		Nº:2
+Montgomery     		Mean: 11.1 		Best: 177.1 		Nº:4
+Holloway       		Mean: 44.55 		Best: 177.1 		Nº:2
+Gray           		Mean: 26.96 		Best: 167.72 		Nº:5
+Morrow         		Mean: 4.68 		Best: 167.72 		Nº:6
+Richards       		Mean: 10.54 		Best: 167.72 		Nº:4
+
+########## REPORT GEN: 11 ##########
+SPECIES: 
+Franklin       		Mean: 21.71 		Best: 185.97 		Nº:5
+Desrochers     		Mean: 24.85 		Best: 185.97 		Nº:6
+Jaquez         		Mean: 23.27 		Best: 185.97 		Nº:4
+Richardson     		Mean: 15.05 		Best: 185.97 		Nº:6
+Zins           		Mean: 33.77 		Best: 185.97 		Nº:4
+Carter         		Mean: 16.46 		Best: 185.97 		Nº:8
+Whitaker       		Mean: 19.38 		Best: 185.97 		Nº:8
+Leggett        		Mean: 44.27 		Best: 185.97 		Nº:4
+Winfield       		Mean: 35.9 		Best: 185.97 		Nº:5
+Stephens       		Mean: 16.88 		Best: 185.97 		Nº:8
+Caines         		Mean: 14.18 		Best: 185.97 		Nº:5
+Roussell       		Mean: 28.77 		Best: 185.97 		Nº:5
+Bubrig         		Mean: 46.58 		Best: 185.97 		Nº:2
+Huppert        		Mean: 39.32 		Best: 185.97 		Nº:3
+Leland         		Mean: 21.28 		Best: 185.97 		Nº:5
+Cortez         		Mean: 44.27 		Best: 185.97 		Nº:4
+Holloway       		Mean: 11.69 		Best: 185.97 		Nº:4
+Gray           		Mean: 22.19 		Best: 185.97 		Nº:7
+Morrow         		Mean: 20.73 		Best: 185.97 		Nº:3
+Davis          		Mean: 28.03 		Best: 177.1 		Nº:5
+Wilson         		Mean: 39.45 		Best: 177.1 		Nº:3
+Montgomery     		Mean: 44.36 		Best: 177.1 		Nº:2
+Richards       		Mean: 44.5 		Best: 177.1 		Nº:2
+Wright         		Mean: 0.0  		Best: 0.0 		Nº:5
+
+########## REPORT GEN: 12 ##########
+SPECIES: 
+Richardson     		Mean: 60.19 		Best: 185.97 		Nº:3
+Zins           		Mean: 19.41 		Best: 185.97 		Nº:6
+Carter         		Mean: 11.66 		Best: 185.97 		Nº:4
+Winfield       		Mean: 20.23 		Best: 185.97 		Nº:6
+Stephens       		Mean: 33.21 		Best: 185.97 		Nº:4
+Leland         		Mean: 20.69 		Best: 185.97 		Nº:3
+Cortez         		Mean: 17.88 		Best: 185.97 		Nº:7
+Davis          		Mean: 22.13 		Best: 185.97 		Nº:4
+Wilson         		Mean: 14.77 		Best: 185.97 		Nº:6
+Montgomery     		Mean: 23.3 		Best: 185.97 		Nº:4
+Richards       		Mean: 22.16 		Best: 185.97 		Nº:4
+Compton        		Mean: 46.75 		Best: 185.97 		Nº:2
+Franklin       		Mean: 38.49 		Best: 177.1 		Nº:3
+Whitaker       		Mean: 21.58 		Best: 177.1 		Nº:4
+Leggett        		Mean: 20.93 		Best: 177.1 		Nº:7
+Caines         		Mean: 86.2 		Best: 177.1 		Nº:2
+Holloway       		Mean: 44.5 		Best: 177.1 		Nº:2
+Gray           		Mean: 19.77 		Best: 177.1 		Nº:3
+Roloff         		Mean: 44.31 		Best: 177.1 		Nº:2
+Wright         		Mean: 44.6 		Best: 177.1 		Nº:2
+Desrochers     		Mean: 21.0 		Best: 167.72 		Nº:4
+Jaquez         		Mean: 31.51 		Best: 167.72 		Nº:4
+Roussell       		Mean: 13.46 		Best: 167.72 		Nº:5
+Huppert        		Mean: 13.99 		Best: 167.72 		Nº:6
+Morrow         		Mean: 18.7 		Best: 167.72 		Nº:3
+Bubrig         		Mean: 0.0  		Best: 0.0 		Nº:4
+
+########## REPORT GEN: 13 ##########
+SPECIES: 
+Richardson     		Mean: 19.74 		Best: 185.97 		Nº:6
+Stephens       		Mean: 19.17 		Best: 185.97 		Nº:6
+Cortez         		Mean: 59.02 		Best: 185.97 		Nº:3
+Davis          		Mean: 33.2 		Best: 185.97 		Nº:4
+Wilson         		Mean: 45.01 		Best: 185.97 		Nº:4
+Montgomery     		Mean: 11.65 		Best: 185.97 		Nº:4
+Franklin       		Mean: 14.82 		Best: 185.97 		Nº:6
+Whitaker       		Mean: 34.38 		Best: 185.97 		Nº:4
+Leggett        		Mean: 43.72 		Best: 185.97 		Nº:4
+Caines         		Mean: 44.8 		Best: 185.97 		Nº:4
+Holloway       		Mean: 23.36 		Best: 185.97 		Nº:4
+Gray           		Mean: 32.79 		Best: 185.97 		Nº:4
+Desrochers     		Mean: 33.23 		Best: 185.97 		Nº:4
+Jaquez         		Mean: 14.52 		Best: 185.97 		Nº:6
+Carter         		Mean: 44.36 		Best: 177.1 		Nº:2
+Leland         		Mean: 32.65 		Best: 177.1 		Nº:4
+Richards       		Mean: 32.1 		Best: 177.1 		Nº:4
+Roloff         		Mean: 11.08 		Best: 177.1 		Nº:4
+Wright         		Mean: 11.18 		Best: 177.1 		Nº:4
+Huppert        		Mean: 57.03 		Best: 177.1 		Nº:3
+Zins           		Mean: 37.27 		Best: 167.72 		Nº:3
+Compton        		Mean: 10.56 		Best: 167.72 		Nº:4
+Bubrig         		Mean: 42.06 		Best: 167.72 		Nº:2
+Winfield       		Mean: 0.0  		Best: 0.0 		Nº:4
+Roussell       		Mean: 0.0  		Best: 0.0 		Nº:2
+Morrow         		Mean: 0.0  		Best: 0.0 		Nº:3
+
+########## REPORT GEN: 14 ##########
+SPECIES: 
+Stephens       		Mean: 33.23 		Best: 185.97 		Nº:4
+Davis          		Mean: 17.87 		Best: 185.97 		Nº:7
+Wilson         		Mean: 19.74 		Best: 185.97 		Nº:8
+Montgomery     		Mean: 46.59 		Best: 185.97 		Nº:2
+Franklin       		Mean: 11.7 		Best: 185.97 		Nº:4
+Leggett        		Mean: 19.09 		Best: 185.97 		Nº:8
+Caines         		Mean: 16.46 		Best: 185.97 		Nº:8
+Gray           		Mean: 28.9 		Best: 185.97 		Nº:6
+Desrochers     		Mean: 21.9 		Best: 185.97 		Nº:7
+Leland         		Mean: 10.35 		Best: 185.97 		Nº:6
+Richards       		Mean: 15.01 		Best: 185.97 		Nº:6
+Wright         		Mean: 46.78 		Best: 185.97 		Nº:2
+Huppert        		Mean: 15.02 		Best: 185.97 		Nº:6
+Zins           		Mean: 20.17 		Best: 185.97 		Nº:6
+Richardson     		Mean: 32.71 		Best: 177.1 		Nº:4
+Cortez         		Mean: 14.25 		Best: 177.1 		Nº:6
+Whitaker       		Mean: 7.05 		Best: 177.1 		Nº:7
+Carter         		Mean: 11.09 		Best: 177.1 		Nº:4
+Roloff         		Mean: 44.31 		Best: 177.1 		Nº:2
+Winfield       		Mean: 44.47 		Best: 177.1 		Nº:2
+Jaquez         		Mean: 18.68 		Best: 167.72 		Nº:3
+Compton        		Mean: 42.16 		Best: 167.72 		Nº:2
+Holloway       		Mean: 0.0  		Best: 0.0 		Nº:4
+Bubrig         		Mean: 0.0  		Best: 0.0 		Nº:4
+
+########## REPORT GEN: 15 ##########
+SPECIES: 
+Stephens       		Mean: 22.2 		Best: 185.97 		Nº:8
+Wilson         		Mean: 28.09 		Best: 185.97 		Nº:5
+Leggett        		Mean: 35.78 		Best: 185.97 		Nº:5
+Caines         		Mean: 44.82 		Best: 185.97 		Nº:4
+Desrochers     		Mean: 24.34 		Best: 185.97 		Nº:6
+Leland         		Mean: 40.42 		Best: 185.97 		Nº:3
+Wright         		Mean: 11.69 		Best: 185.97 		Nº:4
+Huppert        		Mean: 33.78 		Best: 185.97 		Nº:4
+Zins           		Mean: 28.68 		Best: 185.97 		Nº:5
+Richardson     		Mean: 19.25 		Best: 185.97 		Nº:8
+Whitaker       		Mean: 40.39 		Best: 185.97 		Nº:3
+Roloff         		Mean: 14.67 		Best: 185.97 		Nº:5
+Jaquez         		Mean: 7.46 		Best: 185.97 		Nº:5
+Holloway       		Mean: 46.73 		Best: 185.97 		Nº:2
+Bubrig         		Mean: 90.8 		Best: 185.97 		Nº:2
+Franklin       		Mean: 38.64 		Best: 177.1 		Nº:3
+Richards       		Mean: 32.68 		Best: 177.1 		Nº:4
+Cortez         		Mean: 38.35 		Best: 177.1 		Nº:3
+Carter         		Mean: 19.69 		Best: 177.1 		Nº:3
+Winfield       		Mean: 11.14 		Best: 177.1 		Nº:4
+Davis          		Mean: 10.49 		Best: 167.72 		Nº:4
+Montgomery     		Mean: 21.01 		Best: 167.72 		Nº:4
+Gray           		Mean: 10.54 		Best: 167.72 		Nº:8
+Compton        		Mean: 10.56 		Best: 167.72 		Nº:4
+
+########## REPORT GEN: 16 ##########
+SPECIES: 
+Stephens       		Mean: 22.8 		Best: 185.97 		Nº:4
+Wilson         		Mean: 44.47 		Best: 185.97 		Nº:4
+Leggett        		Mean: 25.11 		Best: 185.97 		Nº:6
+Caines         		Mean: 8.46 		Best: 185.97 		Nº:8
+Desrochers     		Mean: 44.31 		Best: 185.97 		Nº:4
+Huppert        		Mean: 18.3 		Best: 185.97 		Nº:7
+Zins           		Mean: 25.13 		Best: 185.97 		Nº:6
+Roloff         		Mean: 92.98 		Best: 185.97 		Nº:2
+Holloway       		Mean: 22.23 		Best: 185.97 		Nº:4
+Bubrig         		Mean: 33.76 		Best: 185.97 		Nº:4
+Franklin       		Mean: 24.24 		Best: 185.97 		Nº:6
+Cortez         		Mean: 7.61 		Best: 185.97 		Nº:7
+Morrow         		Mean: 46.51 		Best: 185.97 		Nº:2
+Montgomery     		Mean: 14.57 		Best: 185.97 		Nº:5
+Gray           		Mean: 33.4 		Best: 185.97 		Nº:4
+Compton        		Mean: 46.72 		Best: 185.97 		Nº:2
+Leland         		Mean: 14.52 		Best: 177.1 		Nº:6
+Richardson     		Mean: 32.66 		Best: 177.1 		Nº:4
+Jaquez         		Mean: 44.36 		Best: 177.1 		Nº:2
+Richards       		Mean: 7.11 		Best: 177.1 		Nº:5
+Winfield       		Mean: 44.46 		Best: 177.1 		Nº:2
+Roussell       		Mean: 87.14 		Best: 177.1 		Nº:2
+Wright         		Mean: 18.77 		Best: 167.72 		Nº:3
+Whitaker       		Mean: 4.68 		Best: 167.72 		Nº:6
+Carter         		Mean: 18.64 		Best: 167.72 		Nº:3
+Davis          		Mean: 37.36 		Best: 167.72 		Nº:3
+
+########## REPORT GEN: 17 ##########
+SPECIES: 
+Stephens       		Mean: 21.31 		Best: 185.97 		Nº:5
+Wilson         		Mean: 14.17 		Best: 185.97 		Nº:8
+Leggett        		Mean: 44.87 		Best: 185.97 		Nº:4
+Caines         		Mean: 22.14 		Best: 185.97 		Nº:4
+Desrochers     		Mean: 16.04 		Best: 185.97 		Nº:8
+Huppert        		Mean: 41.55 		Best: 185.97 		Nº:3
+Roloff         		Mean: 33.73 		Best: 185.97 		Nº:4
+Holloway       		Mean: 33.27 		Best: 185.97 		Nº:4
+Bubrig         		Mean: 25.09 		Best: 185.97 		Nº:6
+Franklin       		Mean: 11.64 		Best: 185.97 		Nº:4
+Montgomery     		Mean: 46.65 		Best: 185.97 		Nº:2
+Gray           		Mean: 20.31 		Best: 185.97 		Nº:6
+Compton        		Mean: 22.81 		Best: 185.97 		Nº:4
+Richardson     		Mean: 14.16 		Best: 185.97 		Nº:5
+Jaquez         		Mean: 34.39 		Best: 185.97 		Nº:4
+Winfield       		Mean: 22.79 		Best: 185.97 		Nº:4
+Whitaker       		Mean: 20.72 		Best: 185.97 		Nº:3
+Carter         		Mean: 39.34 		Best: 185.97 		Nº:3
+Zins           		Mean: 11.1 		Best: 177.1 		Nº:4
+Leland         		Mean: 19.71 		Best: 177.1 		Nº:3
+Richards       		Mean: 42.0 		Best: 167.72 		Nº:2
+Roussell       		Mean: 21.19 		Best: 167.72 		Nº:4
+Davis          		Mean: 4.68 		Best: 167.72 		Nº:6
+Cortez         		Mean: 0.0  		Best: 0.0 		Nº:3
+Morrow         		Mean: 0.0  		Best: 0.0 		Nº:4
+Wright         		Mean: 0.0  		Best: 0.0 		Nº:3
+
+########## REPORT GEN: 18 ##########
+SPECIES: 
+Stephens       		Mean: 29.14 		Best: 185.97 		Nº:5
+Leggett        		Mean: 19.54 		Best: 185.97 		Nº:8
+Caines         		Mean: 29.09 		Best: 185.97 		Nº:5
+Desrochers     		Mean: 22.73 		Best: 185.97 		Nº:4
+Huppert        		Mean: 15.04 		Best: 185.97 		Nº:6
+Roloff         		Mean: 12.9 		Best: 185.97 		Nº:9
+Holloway       		Mean: 10.94 		Best: 185.97 		Nº:8
+Bubrig         		Mean: 19.15 		Best: 185.97 		Nº:6
+Montgomery     		Mean: 22.2 		Best: 185.97 		Nº:4
+Gray           		Mean: 21.38 		Best: 185.97 		Nº:5
+Richardson     		Mean: 59.01 		Best: 185.97 		Nº:3
+Jaquez         		Mean: 11.22 		Best: 185.97 		Nº:8
+Winfield       		Mean: 21.31 		Best: 185.97 		Nº:5
+Whitaker       		Mean: 14.56 		Best: 185.97 		Nº:5
+Carter         		Mean: 20.44 		Best: 185.97 		Nº:6
+Zins           		Mean: 88.5 		Best: 185.97 		Nº:2
+Leland         		Mean: 28.35 		Best: 185.97 		Nº:5
+Richards       		Mean: 11.64 		Best: 185.97 		Nº:4
+Roussell       		Mean: 21.41 		Best: 185.97 		Nº:5
+Davis          		Mean: 40.45 		Best: 185.97 		Nº:3
+Morrow         		Mean: 90.77 		Best: 185.97 		Nº:2
+Wilson         		Mean: 32.18 		Best: 177.1 		Nº:4
+Compton        		Mean: 6.76 		Best: 167.72 		Nº:5
+Franklin       		Mean: 0.0  		Best: 0.0 		Nº:2
+
+########## REPORT GEN: 19 ##########
+SPECIES: 
+Stephens       		Mean: 33.24 		Best: 185.97 		Nº:4
+Leggett        		Mean: 44.31 		Best: 185.97 		Nº:4
+Caines         		Mean: 22.74 		Best: 185.97 		Nº:4
+Bubrig         		Mean: 20.68 		Best: 185.97 		Nº:3
+Richardson     		Mean: 24.08 		Best: 185.97 		Nº:6
+Zins           		Mean: 33.22 		Best: 185.97 		Nº:4
+Leland         		Mean: 34.37 		Best: 185.97 		Nº:4
+Richards       		Mean: 46.52 		Best: 185.97 		Nº:2
+Roussell       		Mean: 33.93 		Best: 185.97 		Nº:4
+Cortez         		Mean: 92.98 		Best: 185.97 		Nº:2
+Morrow         		Mean: 22.11 		Best: 185.97 		Nº:4
+Wright         		Mean: 90.77 		Best: 185.97 		Nº:2
+Wilson         		Mean: 45.57 		Best: 185.97 		Nº:4
+Desrochers     		Mean: 58.07 		Best: 177.1 		Nº:3
+Roloff         		Mean: 21.57 		Best: 177.1 		Nº:4
+Montgomery     		Mean: 19.73 		Best: 177.1 		Nº:3
+Gray           		Mean: 38.57 		Best: 177.1 		Nº:3
+Jaquez         		Mean: 21.6 		Best: 177.1 		Nº:4
+Whitaker       		Mean: 86.2 		Best: 177.1 		Nº:2
+Carter         		Mean: 58.04 		Best: 177.1 		Nº:3
+Davis          		Mean: 27.64 		Best: 177.1 		Nº:5
+Huppert        		Mean: 37.3 		Best: 167.72 		Nº:3
+Winfield       		Mean: 18.7 		Best: 167.72 		Nº:3
+Compton        		Mean: 42.13 		Best: 167.72 		Nº:2
+Holloway       		Mean: 0.0  		Best: 0.0 		Nº:4
+
+########## REPORT GEN: 20 ##########
+SPECIES: 
+Leggett        		Mean: 36.9 		Best: 185.97 		Nº:5
+Richardson     		Mean: 58.01 		Best: 185.97 		Nº:3
+Richards       		Mean: 22.73 		Best: 185.97 		Nº:4
+Cortez         		Mean: 22.12 		Best: 185.97 		Nº:4
+Wright         		Mean: 23.25 		Best: 185.97 		Nº:4
+Wilson         		Mean: 22.01 		Best: 185.97 		Nº:5
+Desrochers     		Mean: 24.1 		Best: 185.97 		Nº:6
+Roloff         		Mean: 88.45 		Best: 185.97 		Nº:2
+Whitaker       		Mean: 20.96 		Best: 185.97 		Nº:5
+Carter         		Mean: 25.6 		Best: 185.97 		Nº:6
+Huppert        		Mean: 46.02 		Best: 185.97 		Nº:4
+Compton        		Mean: 22.81 		Best: 185.97 		Nº:4
+Holloway       		Mean: 93.01 		Best: 185.97 		Nº:2
+Stephens       		Mean: 22.16 		Best: 177.1 		Nº:4
+Caines         		Mean: 86.33 		Best: 177.1 		Nº:2
+Zins           		Mean: 32.64 		Best: 177.1 		Nº:4
+Roussell       		Mean: 11.14 		Best: 177.1 		Nº:4
+Jaquez         		Mean: 44.3 		Best: 177.1 		Nº:2
+Davis          		Mean: 56.98 		Best: 177.1 		Nº:3
+Leland         		Mean: 21.02 		Best: 167.72 		Nº:4
+Morrow         		Mean: 41.98 		Best: 167.72 		Nº:2
+Franklin       		Mean: 83.86 		Best: 167.72 		Nº:2
+Winfield       		Mean: 41.97 		Best: 167.72 		Nº:2
+Bubrig         		Mean: 0.0  		Best: 0.0 		Nº:2
+Montgomery     		Mean: 0.0  		Best: 0.0 		Nº:2
+Gray           		Mean: 0.0  		Best: 0.0 		Nº:5
+
+########## REPORT GEN: 21 ##########
+SPECIES: 
+Leggett        		Mean: 28.38 		Best: 185.97 		Nº:5
+Cortez         		Mean: 20.69 		Best: 185.97 		Nº:3
+Wright         		Mean: 60.02 		Best: 185.97 		Nº:3
+Desrochers     		Mean: 62.11 		Best: 185.97 		Nº:3
+Roloff         		Mean: 21.29 		Best: 185.97 		Nº:5
+Whitaker       		Mean: 40.65 		Best: 185.97 		Nº:3
+Carter         		Mean: 34.36 		Best: 185.97 		Nº:4
+Holloway       		Mean: 33.18 		Best: 185.97 		Nº:4
+Stephens       		Mean: 57.95 		Best: 185.97 		Nº:3
+Caines         		Mean: 33.79 		Best: 185.97 		Nº:4
+Zins           		Mean: 14.16 		Best: 185.97 		Nº:5
+Davis          		Mean: 28.98 		Best: 185.97 		Nº:6
+Leland         		Mean: 40.45 		Best: 185.97 		Nº:3
+Morrow         		Mean: 33.23 		Best: 185.97 		Nº:4
+Richardson     		Mean: 14.51 		Best: 177.1 		Nº:6
+Richards       		Mean: 19.7 		Best: 177.1 		Nº:3
+Wilson         		Mean: 56.98 		Best: 177.1 		Nº:3
+Huppert        		Mean: 13.92 		Best: 177.1 		Nº:7
+Compton        		Mean: 38.43 		Best: 177.1 		Nº:3
+Roussell       		Mean: 44.72 		Best: 177.1 		Nº:2
+Jaquez         		Mean: 32.65 		Best: 177.1 		Nº:4
+Franklin       		Mean: 21.56 		Best: 177.1 		Nº:4
+Winfield       		Mean: 10.5 		Best: 167.72 		Nº:4
+Gray           		Mean: 0.0  		Best: 0.0 		Nº:2
+
+########## REPORT GEN: 22 ##########
+SPECIES: 
+Wright         		Mean: 14.49 		Best: 185.97 		Nº:6
+Desrochers     		Mean: 30.05 		Best: 185.97 		Nº:6
+Whitaker       		Mean: 29.78 		Best: 185.97 		Nº:6
+Holloway       		Mean: 29.03 		Best: 185.97 		Nº:5
+Stephens       		Mean: 15.1 		Best: 185.97 		Nº:7
+Caines         		Mean: 28.34 		Best: 185.97 		Nº:5
+Zins           		Mean: 88.42 		Best: 185.97 		Nº:2
+Davis          		Mean: 22.12 		Best: 185.97 		Nº:4
+Montgomery     		Mean: 46.5 		Best: 185.97 		Nº:2
+Richards       		Mean: 20.69 		Best: 185.97 		Nº:3
+Wilson         		Mean: 24.6 		Best: 185.97 		Nº:6
+Huppert        		Mean: 59.1 		Best: 185.97 		Nº:3
+Jaquez         		Mean: 27.99 		Best: 185.97 		Nº:5
+Franklin       		Mean: 39.32 		Best: 185.97 		Nº:3
+Leggett        		Mean: 32.1 		Best: 177.1 		Nº:4
+Cortez         		Mean: 38.35 		Best: 177.1 		Nº:3
+Carter         		Mean: 13.81 		Best: 177.1 		Nº:5
+Morrow         		Mean: 27.25 		Best: 177.1 		Nº:5
+Richardson     		Mean: 57.03 		Best: 177.1 		Nº:3
+Compton        		Mean: 24.71 		Best: 177.1 		Nº:6
+Roussell       		Mean: 11.23 		Best: 177.1 		Nº:4
+Roloff         		Mean: 0.0  		Best: 0.0 		Nº:3
+Leland         		Mean: 0.0  		Best: 0.0 		Nº:6
+Winfield       		Mean: 0.0  		Best: 0.0 		Nº:2
+
+########## REPORT GEN: 23 ##########
+SPECIES: 
+Wright         		Mean: 59.97 		Best: 185.97 		Nº:3
+Desrochers     		Mean: 44.34 		Best: 185.97 		Nº:4
+Caines         		Mean: 28.42 		Best: 185.97 		Nº:5
+Zins           		Mean: 23.25 		Best: 185.97 		Nº:4
+Montgomery     		Mean: 11.62 		Best: 185.97 		Nº:4
+Richards       		Mean: 46.54 		Best: 185.97 		Nº:2
+Wilson         		Mean: 39.31 		Best: 185.97 		Nº:3
+Huppert        		Mean: 19.44 		Best: 185.97 		Nº:6
+Bubrig         		Mean: 46.49 		Best: 185.97 		Nº:2
+Leggett        		Mean: 43.15 		Best: 185.97 		Nº:4
+Cortez         		Mean: 7.45 		Best: 185.97 		Nº:5
+Carter         		Mean: 90.79 		Best: 185.97 		Nº:2
+Richardson     		Mean: 29.79 		Best: 185.97 		Nº:6
+Compton        		Mean: 41.34 		Best: 185.97 		Nº:3
+Roussell       		Mean: 46.93 		Best: 185.97 		Nº:2
+Gray           		Mean: 90.79 		Best: 185.97 		Nº:2
+Whitaker       		Mean: 32.91 		Best: 177.1 		Nº:4
+Stephens       		Mean: 38.35 		Best: 177.1 		Nº:3
+Davis          		Mean: 19.7 		Best: 177.1 		Nº:3
+Jaquez         		Mean: 32.06 		Best: 177.1 		Nº:4
+Franklin       		Mean: 27.23 		Best: 177.1 		Nº:5
+Holloway       		Mean: 10.49 		Best: 167.72 		Nº:4
+Morrow         		Mean: 37.3 		Best: 167.72 		Nº:3
+Leland         		Mean: 0.0  		Best: 0.0 		Nº:3
+
+########## REPORT GEN: 24 ##########
+SPECIES: 
+Wright         		Mean: 30.26 		Best: 185.97 		Nº:6
+Desrochers     		Mean: 15.03 		Best: 185.97 		Nº:6
+Zins           		Mean: 20.68 		Best: 185.97 		Nº:3
+Montgomery     		Mean: 46.49 		Best: 185.97 		Nº:2
+Richards       		Mean: 22.13 		Best: 185.97 		Nº:4
+Wilson         		Mean: 27.95 		Best: 185.97 		Nº:5
+Bubrig         		Mean: 44.24 		Best: 185.97 		Nº:4
+Leggett        		Mean: 24.37 		Best: 185.97 		Nº:6
+Carter         		Mean: 22.7 		Best: 185.97 		Nº:4
+Richardson     		Mean: 43.71 		Best: 185.97 		Nº:4
+Compton        		Mean: 20.87 		Best: 185.97 		Nº:5
+Roussell       		Mean: 11.79 		Best: 185.97 		Nº:4
+Gray           		Mean: 45.95 		Best: 185.97 		Nº:4
+Whitaker       		Mean: 33.95 		Best: 185.97 		Nº:4
+Winfield       		Mean: 46.49 		Best: 185.97 		Nº:2
+Morrow         		Mean: 20.88 		Best: 185.97 		Nº:5
+Caines         		Mean: 42.57 		Best: 177.1 		Nº:4
+Huppert        		Mean: 38.31 		Best: 177.1 		Nº:3
+Stephens       		Mean: 33.94 		Best: 177.1 		Nº:5
+Jaquez         		Mean: 33.24 		Best: 177.1 		Nº:4
+Franklin       		Mean: 39.39 		Best: 177.1 		Nº:3
+Davis          		Mean: 41.98 		Best: 167.72 		Nº:2
+Cortez         		Mean: 0.0  		Best: 0.0 		Nº:2
+Holloway       		Mean: 0.0  		Best: 0.0 		Nº:3
+
+########## REPORT GEN: 25 ##########
+SPECIES: 
+Wright         		Mean: 44.25 		Best: 185.97 		Nº:4
+Desrochers     		Mean: 41.33 		Best: 185.97 		Nº:3
+Montgomery     		Mean: 22.69 		Best: 185.97 		Nº:4
+Richards       		Mean: 20.69 		Best: 185.97 		Nº:3
+Wilson         		Mean: 32.62 		Best: 185.97 		Nº:4
+Bubrig         		Mean: 25.6 		Best: 185.97 		Nº:6
+Carter         		Mean: 60.03 		Best: 185.97 		Nº:3
+Richardson     		Mean: 20.18 		Best: 185.97 		Nº:6
+Compton        		Mean: 46.53 		Best: 185.97 		Nº:2
+Roussell       		Mean: 46.92 		Best: 185.97 		Nº:2
+Gray           		Mean: 29.5 		Best: 185.97 		Nº:6
+Whitaker       		Mean: 33.19 		Best: 185.97 		Nº:4
+Winfield       		Mean: 33.17 		Best: 185.97 		Nº:4
+Morrow         		Mean: 90.86 		Best: 185.97 		Nº:2
+Caines         		Mean: 29.43 		Best: 185.97 		Nº:5
+Huppert        		Mean: 35.03 		Best: 185.97 		Nº:5
+Stephens       		Mean: 32.62 		Best: 185.97 		Nº:4
+Jaquez         		Mean: 44.85 		Best: 185.97 		Nº:4
+Davis          		Mean: 34.34 		Best: 185.97 		Nº:4
+Leggett        		Mean: 19.7 		Best: 177.1 		Nº:3
+Leland         		Mean: 44.28 		Best: 177.1 		Nº:2
+Franklin       		Mean: 13.81 		Best: 177.1 		Nº:5
+Roloff         		Mean: 86.2 		Best: 177.1 		Nº:2
+Zins           		Mean: 0.0  		Best: 0.0 		Nº:2
+
+########## REPORT GEN: 26 ##########
+SPECIES: 
+Wright         		Mean: 25.69 		Best: 185.97 		Nº:7
+Desrochers     		Mean: 25.08 		Best: 185.97 		Nº:6
+Montgomery     		Mean: 61.0 		Best: 185.97 		Nº:3
+Wilson         		Mean: 28.71 		Best: 185.97 		Nº:5
+Carter         		Mean: 24.83 		Best: 185.97 		Nº:6
+Whitaker       		Mean: 20.87 		Best: 185.97 		Nº:5
+Morrow         		Mean: 22.72 		Best: 185.97 		Nº:4
+Huppert        		Mean: 21.24 		Best: 185.97 		Nº:5
+Stephens       		Mean: 27.98 		Best: 185.97 		Nº:5
+Jaquez         		Mean: 10.85 		Best: 185.97 		Nº:7
+Davis          		Mean: 7.44 		Best: 185.97 		Nº:5
+Leland         		Mean: 44.23 		Best: 185.97 		Nº:4
+Bubrig         		Mean: 11.08 		Best: 177.1 		Nº:4
+Compton        		Mean: 11.08 		Best: 177.1 		Nº:4
+Winfield       		Mean: 14.17 		Best: 177.1 		Nº:5
+Caines         		Mean: 43.15 		Best: 177.1 		Nº:4
+Franklin       		Mean: 44.34 		Best: 177.1 		Nº:2
+Roloff         		Mean: 32.03 		Best: 177.1 		Nº:4
+Richards       		Mean: 10.52 		Best: 167.72 		Nº:4
+Richardson     		Mean: 55.98 		Best: 167.72 		Nº:3
+Gray           		Mean: 31.47 		Best: 167.72 		Nº:4
+Leggett        		Mean: 18.66 		Best: 167.72 		Nº:3
+Roussell       		Mean: 0.0  		Best: 0.0 		Nº:4
+
+########## REPORT GEN: 27 ##########
+SPECIES: 
+Wright         		Mean: 40.39 		Best: 185.97 		Nº:3
+Wilson         		Mean: 22.72 		Best: 185.97 		Nº:4
+Carter         		Mean: 41.34 		Best: 185.97 		Nº:3
+Whitaker       		Mean: 20.69 		Best: 185.97 		Nº:3
+Huppert        		Mean: 59.0 		Best: 185.97 		Nº:3
+Stephens       		Mean: 22.15 		Best: 185.97 		Nº:4
+Jaquez         		Mean: 60.02 		Best: 185.97 		Nº:3
+Leland         		Mean: 24.33 		Best: 185.97 		Nº:6
+Caines         		Mean: 20.18 		Best: 185.97 		Nº:6
+Richards       		Mean: 88.77 		Best: 185.97 		Nº:2
+Richardson     		Mean: 15.02 		Best: 185.97 		Nº:6
+Leggett        		Mean: 46.53 		Best: 185.97 		Nº:2
+Desrochers     		Mean: 38.32 		Best: 177.1 		Nº:3
+Montgomery     		Mean: 24.61 		Best: 177.1 		Nº:6
+Davis          		Mean: 44.33 		Best: 177.1 		Nº:2
+Cortez         		Mean: 86.2 		Best: 177.1 		Nº:2
+Bubrig         		Mean: 44.32 		Best: 177.1 		Nº:2
+Compton        		Mean: 86.26 		Best: 177.1 		Nº:2
+Winfield       		Mean: 57.15 		Best: 177.1 		Nº:3
+Franklin       		Mean: 11.1 		Best: 177.1 		Nº:4
+Morrow         		Mean: 18.65 		Best: 167.72 		Nº:3
+Zins           		Mean: 83.86 		Best: 167.72 		Nº:2
+Roloff         		Mean: 10.49 		Best: 167.72 		Nº:4
+Gray           		Mean: 20.99 		Best: 167.72 		Nº:4
+Roussell       		Mean: 0.0  		Best: 0.0 		Nº:2
+
+########## REPORT GEN: 28 ##########
+SPECIES: 
+Wright         		Mean: 24.34 		Best: 185.97 		Nº:6
+Carter         		Mean: 29.52 		Best: 185.97 		Nº:6
+Whitaker       		Mean: 39.33 		Best: 185.97 		Nº:3
+Huppert        		Mean: 25.08 		Best: 185.97 		Nº:6
+Leland         		Mean: 39.34 		Best: 185.97 		Nº:3
+Richards       		Mean: 33.88 		Best: 185.97 		Nº:4
+Richardson     		Mean: 57.94 		Best: 185.97 		Nº:3
+Leggett        		Mean: 22.12 		Best: 185.97 		Nº:4
+Desrochers     		Mean: 14.52 		Best: 185.97 		Nº:5
+Davis          		Mean: 11.64 		Best: 185.97 		Nº:4
+Bubrig         		Mean: 23.27 		Best: 185.97 		Nº:4
+Winfield       		Mean: 19.48 		Best: 185.97 		Nº:6
+Franklin       		Mean: 40.62 		Best: 185.97 		Nº:3
+Morrow         		Mean: 88.5 		Best: 185.97 		Nº:2
+Zins           		Mean: 43.07 		Best: 185.97 		Nº:4
+Roloff         		Mean: 46.54 		Best: 185.97 		Nº:2
+Gray           		Mean: 39.35 		Best: 185.97 		Nº:3
+Wilson         		Mean: 38.34 		Best: 177.1 		Nº:3
+Stephens       		Mean: 19.71 		Best: 177.1 		Nº:3
+Jaquez         		Mean: 19.45 		Best: 177.1 		Nº:6
+Montgomery     		Mean: 58.03 		Best: 177.1 		Nº:3
+Cortez         		Mean: 21.55 		Best: 177.1 		Nº:4
+Compton        		Mean: 22.15 		Best: 177.1 		Nº:4
+Caines         		Mean: 18.65 		Best: 167.72 		Nº:3
+
+########## REPORT GEN: 29 ##########
+SPECIES: 
+Whitaker       		Mean: 10.35 		Best: 185.97 		Nº:6
+Leland         		Mean: 24.1 		Best: 185.97 		Nº:6
+Richards       		Mean: 19.74 		Best: 185.97 		Nº:6
+Richardson     		Mean: 14.75 		Best: 185.97 		Nº:6
+Leggett        		Mean: 59.97 		Best: 185.97 		Nº:3
+Winfield       		Mean: 39.32 		Best: 185.97 		Nº:3
+Franklin       		Mean: 20.02 		Best: 185.97 		Nº:6
+Zins           		Mean: 24.83 		Best: 185.97 		Nº:6
+Gray           		Mean: 24.86 		Best: 185.97 		Nº:6
+Wilson         		Mean: 28.32 		Best: 185.97 		Nº:5
+Montgomery     		Mean: 5.17 		Best: 185.97 		Nº:6
+Compton        		Mean: 59.02 		Best: 185.97 		Nº:3
+Wright         		Mean: 38.35 		Best: 177.1 		Nº:3
+Carter         		Mean: 21.56 		Best: 177.1 		Nº:4
+Desrochers     		Mean: 44.29 		Best: 177.1 		Nº:2
+Davis          		Mean: 44.3 		Best: 177.1 		Nº:2
+Bubrig         		Mean: 19.71 		Best: 177.1 		Nº:3
+Morrow         		Mean: 32.64 		Best: 177.1 		Nº:4
+Stephens       		Mean: 57.04 		Best: 177.1 		Nº:3
+Cortez         		Mean: 39.36 		Best: 177.1 		Nº:3
+Huppert        		Mean: 37.33 		Best: 167.72 		Nº:3
+Roloff         		Mean: 10.5 		Best: 167.72 		Nº:4
+Jaquez         		Mean: 37.31 		Best: 167.72 		Nº:3
+Caines         		Mean: 41.98 		Best: 167.72 		Nº:2
+Roussell       		Mean: 41.93 		Best: 167.72 		Nº:2
+
+########## REPORT GEN: 30 ##########
+SPECIES: 
+Richards       		Mean: 40.45 		Best: 185.97 		Nº:3
+Richardson     		Mean: 40.36 		Best: 185.97 		Nº:3
+Leggett        		Mean: 14.49 		Best: 185.97 		Nº:6
+Winfield       		Mean: 19.15 		Best: 185.97 		Nº:6
+Franklin       		Mean: 20.84 		Best: 185.97 		Nº:3
+Zins           		Mean: 29.15 		Best: 185.97 		Nº:5
+Gray           		Mean: 34.36 		Best: 185.97 		Nº:4
+Wilson         		Mean: 28.36 		Best: 185.97 		Nº:5
+Montgomery     		Mean: 39.35 		Best: 185.97 		Nº:3
+Compton        		Mean: 14.99 		Best: 185.97 		Nº:6
+Wright         		Mean: 29.26 		Best: 185.97 		Nº:6
+Carter         		Mean: 33.75 		Best: 185.97 		Nº:4
+Desrochers     		Mean: 44.85 		Best: 185.97 		Nº:4
+Morrow         		Mean: 19.42 		Best: 185.97 		Nº:6
+Stephens       		Mean: 24.62 		Best: 185.97 		Nº:6
+Cortez         		Mean: 19.15 		Best: 185.97 		Nº:6
+Jaquez         		Mean: 24.6 		Best: 185.97 		Nº:6
+Caines         		Mean: 33.22 		Best: 185.97 		Nº:4
+Roussell       		Mean: 44.24 		Best: 185.97 		Nº:4
+Bubrig         		Mean: 19.71 		Best: 177.1 		Nº:3
+Roloff         		Mean: 44.33 		Best: 177.1 		Nº:2
+Whitaker       		Mean: 37.34 		Best: 167.72 		Nº:3
+Leland         		Mean: 41.98 		Best: 167.72 		Nº:4
+Huppert        		Mean: 4.67 		Best: 167.72 		Nº:6
+Davis          		Mean: 0.0  		Best: 0.0 		Nº:4
+
+########## REPORT GEN: 31 ##########
+SPECIES: 
+Richards       		Mean: 19.22 		Best: 185.97 		Nº:6
+Leggett        		Mean: 20.67 		Best: 185.97 		Nº:3
+Zins           		Mean: 24.68 		Best: 185.97 		Nº:6
+Gray           		Mean: 11.22 		Best: 185.97 		Nº:7
+Compton        		Mean: 59.02 		Best: 185.97 		Nº:3
+Carter         		Mean: 10.84 		Best: 185.97 		Nº:7
+Desrochers     		Mean: 16.62 		Best: 185.97 		Nº:8
+Stephens       		Mean: 28.68 		Best: 185.97 		Nº:5
+Caines         		Mean: 14.28 		Best: 185.97 		Nº:7
+Roussell       		Mean: 19.22 		Best: 185.97 		Nº:8
+Roloff         		Mean: 11.65 		Best: 185.97 		Nº:4
+Whitaker       		Mean: 9.85 		Best: 185.97 		Nº:6
+Leland         		Mean: 11.23 		Best: 185.97 		Nº:8
+Winfield       		Mean: 22.15 		Best: 177.1 		Nº:4
+Wilson         		Mean: 23.6 		Best: 177.1 		Nº:6
+Montgomery     		Mean: 9.6  		Best: 177.1 		Nº:6
+Wright         		Mean: 19.18 		Best: 177.1 		Nº:6
+Morrow         		Mean: 7.12 		Best: 177.1 		Nº:5
+Cortez         		Mean: 11.08 		Best: 177.1 		Nº:4
+Jaquez         		Mean: 28.35 		Best: 177.1 		Nº:5
+Davis          		Mean: 44.28 		Best: 177.1 		Nº:2
+Richardson     		Mean: 4.66 		Best: 167.72 		Nº:6
+Franklin       		Mean: 0.0  		Best: 0.0 		Nº:4
+Bubrig         		Mean: 0.0  		Best: 0.0 		Nº:4
+Huppert        		Mean: 0.0  		Best: 0.0 		Nº:3
+
+########## REPORT GEN: 32 ##########
+SPECIES: 
+Richards       		Mean: 24.9 		Best: 185.97 		Nº:6
+Zins           		Mean: 8.33 		Best: 185.97 		Nº:8
+Gray           		Mean: 40.36 		Best: 185.97 		Nº:3
+Compton        		Mean: 20.44 		Best: 185.97 		Nº:6
+Desrochers     		Mean: 22.32 		Best: 185.97 		Nº:5
+Stephens       		Mean: 10.9 		Best: 185.97 		Nº:10
+Caines         		Mean: 14.92 		Best: 185.97 		Nº:5
+Roussell       		Mean: 25.08 		Best: 185.97 		Nº:6
+Leland         		Mean: 22.75 		Best: 185.97 		Nº:4
+Wilson         		Mean: 11.07 		Best: 185.97 		Nº:8
+Montgomery     		Mean: 22.79 		Best: 185.97 		Nº:4
+Wright         		Mean: 25.1 		Best: 185.97 		Nº:6
+Morrow         		Mean: 91.09 		Best: 185.97 		Nº:2
+Cortez         		Mean: 20.69 		Best: 185.97 		Nº:3
+Jaquez         		Mean: 17.71 		Best: 185.97 		Nº:9
+Davis          		Mean: 43.66 		Best: 185.97 		Nº:4
+Richardson     		Mean: 59.01 		Best: 185.97 		Nº:3
+Leggett        		Mean: 9.84 		Best: 177.1 		Nº:6
+Carter         		Mean: 19.69 		Best: 177.1 		Nº:3
+Winfield       		Mean: 3.62 		Best: 177.1 		Nº:7
+Franklin       		Mean: 44.52 		Best: 177.1 		Nº:2
+Bubrig         		Mean: 44.32 		Best: 177.1 		Nº:2
+Roloff         		Mean: 10.5 		Best: 167.72 		Nº:4
+Whitaker       		Mean: 18.67 		Best: 167.72 		Nº:3
+
+########## REPORT GEN: 33 ##########
+SPECIES: 
+Richards       		Mean: 35.15 		Best: 185.97 		Nº:5
+Gray           		Mean: 19.67 		Best: 185.97 		Nº:6
+Stephens       		Mean: 28.34 		Best: 185.97 		Nº:5
+Caines         		Mean: 39.39 		Best: 185.97 		Nº:3
+Roussell       		Mean: 21.24 		Best: 185.97 		Nº:5
+Wilson         		Mean: 22.15 		Best: 185.97 		Nº:4
+Wright         		Mean: 28.7 		Best: 185.97 		Nº:5
+Morrow         		Mean: 22.78 		Best: 185.97 		Nº:4
+Jaquez         		Mean: 33.22 		Best: 185.97 		Nº:4
+Davis          		Mean: 21.97 		Best: 185.97 		Nº:8
+Richardson     		Mean: 14.49 		Best: 185.97 		Nº:6
+Leggett        		Mean: 39.33 		Best: 185.97 		Nº:3
+Carter         		Mean: 22.13 		Best: 185.97 		Nº:4
+Roloff         		Mean: 58.22 		Best: 185.97 		Nº:3
+Zins           		Mean: 32.75 		Best: 177.1 		Nº:4
+Compton        		Mean: 22.15 		Best: 177.1 		Nº:4
+Desrochers     		Mean: 7.09 		Best: 177.1 		Nº:5
+Leland         		Mean: 27.25 		Best: 177.1 		Nº:5
+Montgomery     		Mean: 7.11 		Best: 177.1 		Nº:5
+Cortez         		Mean: 21.59 		Best: 177.1 		Nº:4
+Winfield       		Mean: 19.7 		Best: 177.1 		Nº:3
+Bubrig         		Mean: 21.58 		Best: 177.1 		Nº:4
+Whitaker       		Mean: 22.17 		Best: 177.1 		Nº:4
+Franklin       		Mean: 10.54 		Best: 167.72 		Nº:4
+
+########## REPORT GEN: 34 ##########
+SPECIES: 
+Richards       		Mean: 21.77 		Best: 185.97 		Nº:8
+Stephens       		Mean: 22.24 		Best: 185.97 		Nº:7
+Caines         		Mean: 29.32 		Best: 185.97 		Nº:6
+Wilson         		Mean: 21.65 		Best: 185.97 		Nº:5
+Wright         		Mean: 18.26 		Best: 185.97 		Nº:7
+Morrow         		Mean: 21.31 		Best: 185.97 		Nº:5
+Davis          		Mean: 28.69 		Best: 185.97 		Nº:5
+Richardson     		Mean: 39.31 		Best: 185.97 		Nº:3
+Leggett        		Mean: 5.17 		Best: 185.97 		Nº:6
+Carter         		Mean: 14.89 		Best: 185.97 		Nº:5
+Roloff         		Mean: 29.64 		Best: 185.97 		Nº:6
+Zins           		Mean: 19.51 		Best: 185.97 		Nº:8
+Compton        		Mean: 21.62 		Best: 185.97 		Nº:5
+Desrochers     		Mean: 46.56 		Best: 185.97 		Nº:2
+Leland         		Mean: 24.61 		Best: 185.97 		Nº:6
+Bubrig         		Mean: 21.26 		Best: 185.97 		Nº:5
+Whitaker       		Mean: 14.17 		Best: 185.97 		Nº:5
+Gray           		Mean: 11.08 		Best: 177.1 		Nº:4
+Roussell       		Mean: 27.99 		Best: 177.1 		Nº:5
+Jaquez         		Mean: 10.65 		Best: 177.1 		Nº:8
+Cortez         		Mean: 4.96 		Best: 177.1 		Nº:6
+Franklin       		Mean: 44.51 		Best: 177.1 		Nº:2
+Montgomery     		Mean: 42.07 		Best: 167.72 		Nº:2
+Winfield       		Mean: 10.49 		Best: 167.72 		Nº:4
+
+########## REPORT GEN: 35 ##########
+SPECIES: 
+Richards       		Mean: 35.52 		Best: 185.97 		Nº:5
+Stephens       		Mean: 20.44 		Best: 185.97 		Nº:6
+Caines         		Mean: 17.73 		Best: 185.97 		Nº:7
+Wilson         		Mean: 7.45 		Best: 185.97 		Nº:5
+Morrow         		Mean: 35.51 		Best: 185.97 		Nº:5
+Davis          		Mean: 21.68 		Best: 185.97 		Nº:7
+Richardson     		Mean: 24.59 		Best: 185.97 		Nº:6
+Leggett        		Mean: 40.38 		Best: 185.97 		Nº:3
+Roloff         		Mean: 13.9 		Best: 185.97 		Nº:8
+Zins           		Mean: 21.26 		Best: 185.97 		Nº:5
+Compton        		Mean: 21.97 		Best: 185.97 		Nº:5
+Desrochers     		Mean: 22.72 		Best: 185.97 		Nº:4
+Leland         		Mean: 24.89 		Best: 185.97 		Nº:6
+Bubrig         		Mean: 21.25 		Best: 185.97 		Nº:5
+Gray           		Mean: 20.67 		Best: 185.97 		Nº:3
+Roussell       		Mean: 21.32 		Best: 185.97 		Nº:7
+Winfield       		Mean: 46.53 		Best: 185.97 		Nº:2
+Huppert        		Mean: 46.68 		Best: 185.97 		Nº:2
+Wright         		Mean: 32.07 		Best: 177.1 		Nº:4
+Jaquez         		Mean: 10.51 		Best: 167.72 		Nº:4
+Cortez         		Mean: 37.45 		Best: 167.72 		Nº:3
+Montgomery     		Mean: 10.52 		Best: 167.72 		Nº:4
+Carter         		Mean: 0.0  		Best: 0.0 		Nº:4
+Whitaker       		Mean: 0.0  		Best: 0.0 		Nº:3
+Franklin       		Mean: 0.0  		Best: 0.0 		Nº:4
+
+########## REPORT GEN: 36 ##########
+SPECIES: 
+Wilson         		Mean: 90.82 		Best: 185.97 		Nº:2
+Morrow         		Mean: 13.36 		Best: 185.97 		Nº:9
+Davis          		Mean: 29.42 		Best: 185.97 		Nº:5
+Zins           		Mean: 19.47 		Best: 185.97 		Nº:6
+Desrochers     		Mean: 24.59 		Best: 185.97 		Nº:6
+Bubrig         		Mean: 35.08 		Best: 185.97 		Nº:5
+Gray           		Mean: 14.16 		Best: 185.97 		Nº:5
+Wright         		Mean: 13.85 		Best: 185.97 		Nº:8
+Whitaker       		Mean: 46.71 		Best: 185.97 		Nº:2
+Franklin       		Mean: 46.49 		Best: 185.97 		Nº:2
+Richards       		Mean: 10.86 		Best: 177.1 		Nº:9
+Stephens       		Mean: 28.01 		Best: 177.1 		Nº:5
+Richardson     		Mean: 28.77 		Best: 177.1 		Nº:6
+Leggett        		Mean: 14.76 		Best: 177.1 		Nº:6
+Roloff         		Mean: 11.14 		Best: 177.1 		Nº:4
+Compton        		Mean: 20.89 		Best: 177.1 		Nº:5
+Leland         		Mean: 19.69 		Best: 177.1 		Nº:6
+Roussell       		Mean: 20.89 		Best: 177.1 		Nº:5
+Winfield       		Mean: 11.08 		Best: 177.1 		Nº:4
+Huppert        		Mean: 11.14 		Best: 177.1 		Nº:4
+Jaquez         		Mean: 44.37 		Best: 177.1 		Nº:2
+Cortez         		Mean: 4.95 		Best: 177.1 		Nº:6
+Carter         		Mean: 44.31 		Best: 177.1 		Nº:2
+Caines         		Mean: 31.51 		Best: 167.72 		Nº:4
+Montgomery     		Mean: 0.0  		Best: 0.0 		Nº:2
+
+########## REPORT GEN: 37 ##########
+SPECIES: 
+Wilson         		Mean: 23.25 		Best: 185.97 		Nº:4
+Morrow         		Mean: 33.3 		Best: 185.97 		Nº:4
+Davis          		Mean: 30.01 		Best: 185.97 		Nº:6
+Zins           		Mean: 22.22 		Best: 185.97 		Nº:4
+Desrochers     		Mean: 24.42 		Best: 185.97 		Nº:6
+Bubrig         		Mean: 16.9 		Best: 185.97 		Nº:8
+Wright         		Mean: 11.64 		Best: 185.97 		Nº:4
+Franklin       		Mean: 44.24 		Best: 185.97 		Nº:4
+Richards       		Mean: 44.4 		Best: 185.97 		Nº:4
+Stephens       		Mean: 24.36 		Best: 185.97 		Nº:6
+Richardson     		Mean: 19.92 		Best: 185.97 		Nº:6
+Leggett        		Mean: 40.36 		Best: 185.97 		Nº:3
+Compton        		Mean: 44.86 		Best: 185.97 		Nº:4
+Leland         		Mean: 34.36 		Best: 185.97 		Nº:4
+Roussell       		Mean: 46.0 		Best: 185.97 		Nº:4
+Winfield       		Mean: 46.53 		Best: 185.97 		Nº:2
+Jaquez         		Mean: 33.8 		Best: 185.97 		Nº:4
+Carter         		Mean: 34.33 		Best: 185.97 		Nº:4
+Whitaker       		Mean: 21.65 		Best: 177.1 		Nº:4
+Cortez         		Mean: 39.47 		Best: 177.1 		Nº:3
+Caines         		Mean: 14.11 		Best: 177.1 		Nº:7
+Gray           		Mean: 37.31 		Best: 167.72 		Nº:3
+Roloff         		Mean: 41.96 		Best: 167.72 		Nº:2
+Huppert        		Mean: 0.0  		Best: 0.0 		Nº:2
+
+########## REPORT GEN: 38 ##########
+SPECIES: 
+Morrow         		Mean: 29.88 		Best: 185.97 		Nº:5
+Davis          		Mean: 43.67 		Best: 185.97 		Nº:4
+Desrochers     		Mean: 34.52 		Best: 185.97 		Nº:4
+Bubrig         		Mean: 33.81 		Best: 185.97 		Nº:4
+Franklin       		Mean: 18.44 		Best: 185.97 		Nº:7
+Richards       		Mean: 14.1 		Best: 185.97 		Nº:7
+Richardson     		Mean: 61.04 		Best: 185.97 		Nº:3
+Compton        		Mean: 17.89 		Best: 185.97 		Nº:7
+Leland         		Mean: 27.99 		Best: 185.97 		Nº:5
+Roussell       		Mean: 11.22 		Best: 185.97 		Nº:7
+Winfield       		Mean: 23.28 		Best: 185.97 		Nº:4
+Jaquez         		Mean: 20.88 		Best: 185.97 		Nº:5
+Caines         		Mean: 41.42 		Best: 185.97 		Nº:3
+Gray           		Mean: 10.34 		Best: 185.97 		Nº:6
+Roloff         		Mean: 36.21 		Best: 185.97 		Nº:5
+Wilson         		Mean: 38.33 		Best: 177.1 		Nº:3
+Zins           		Mean: 19.79 		Best: 177.1 		Nº:3
+Wright         		Mean: 86.27 		Best: 177.1 		Nº:2
+Stephens       		Mean: 19.68 		Best: 177.1 		Nº:3
+Leggett        		Mean: 14.51 		Best: 177.1 		Nº:6
+Whitaker       		Mean: 19.74 		Best: 177.1 		Nº:3
+Cortez         		Mean: 9.62 		Best: 177.1 		Nº:6
+Carter         		Mean: 6.71 		Best: 167.72 		Nº:5
+Montgomery     		Mean: 0.0  		Best: 0.0 		Nº:2
+
+########## REPORT GEN: 39 ##########
+SPECIES: 
+Morrow         		Mean: 21.26 		Best: 185.97 		Nº:5
+Davis          		Mean: 19.37 		Best: 185.97 		Nº:8
+Franklin       		Mean: 59.0 		Best: 185.97 		Nº:3
+Richards       		Mean: 40.44 		Best: 185.97 		Nº:3
+Richardson     		Mean: 24.85 		Best: 185.97 		Nº:6
+Compton        		Mean: 40.38 		Best: 185.97 		Nº:3
+Leland         		Mean: 35.46 		Best: 185.97 		Nº:5
+Roussell       		Mean: 59.1 		Best: 185.97 		Nº:3
+Winfield       		Mean: 22.13 		Best: 185.97 		Nº:4
+Jaquez         		Mean: 40.4 		Best: 185.97 		Nº:3
+Caines         		Mean: 14.76 		Best: 185.97 		Nº:6
+Roloff         		Mean: 17.74 		Best: 185.97 		Nº:7
+Wilson         		Mean: 19.92 		Best: 185.97 		Nº:6
+Leggett        		Mean: 40.37 		Best: 185.97 		Nº:3
+Desrochers     		Mean: 28.38 		Best: 177.1 		Nº:6
+Bubrig         		Mean: 28.77 		Best: 177.1 		Nº:6
+Zins           		Mean: 19.79 		Best: 177.1 		Nº:3
+Wright         		Mean: 32.06 		Best: 177.1 		Nº:4
+Stephens       		Mean: 59.05 		Best: 177.1 		Nº:3
+Whitaker       		Mean: 38.43 		Best: 177.1 		Nº:3
+Cortez         		Mean: 38.33 		Best: 177.1 		Nº:3
+Gray           		Mean: 18.66 		Best: 167.72 		Nº:3
+Huppert        		Mean: 41.94 		Best: 167.72 		Nº:2
+Carter         		Mean: 0.0  		Best: 0.0 		Nº:2
+
+########## REPORT GEN: 40 ##########
+SPECIES: 
+Morrow         		Mean: 40.41 		Best: 185.97 		Nº:3
+Davis          		Mean: 32.6 		Best: 185.97 		Nº:4
+Franklin       		Mean: 15.0 		Best: 185.97 		Nº:6
+Richards       		Mean: 25.18 		Best: 185.97 		Nº:6
+Richardson     		Mean: 20.68 		Best: 185.97 		Nº:3
+Compton        		Mean: 29.27 		Best: 185.97 		Nº:6
+Leland         		Mean: 36.91 		Best: 185.97 		Nº:5
+Roussell       		Mean: 25.38 		Best: 185.97 		Nº:6
+Jaquez         		Mean: 9.85 		Best: 185.97 		Nº:6
+Caines         		Mean: 45.56 		Best: 185.97 		Nº:4
+Roloff         		Mean: 58.11 		Best: 185.97 		Nº:3
+Wilson         		Mean: 58.98 		Best: 185.97 		Nº:3
+Leggett        		Mean: 14.75 		Best: 185.97 		Nº:6
+Wright         		Mean: 27.96 		Best: 185.97 		Nº:5
+Stephens       		Mean: 24.59 		Best: 185.97 		Nº:6
+Whitaker       		Mean: 14.79 		Best: 185.97 		Nº:6
+Cortez         		Mean: 29.78 		Best: 185.97 		Nº:6
+Montgomery     		Mean: 90.77 		Best: 185.97 		Nº:2
+Huppert        		Mean: 32.6 		Best: 185.97 		Nº:4
+Winfield       		Mean: 19.71 		Best: 177.1 		Nº:3
+Desrochers     		Mean: 21.68 		Best: 177.1 		Nº:4
+Zins           		Mean: 19.79 		Best: 177.1 		Nº:3
+Gray           		Mean: 44.34 		Best: 177.1 		Nº:2
+Bubrig         		Mean: 10.5 		Best: 167.72 		Nº:4
+
+########## REPORT GEN: 41 ##########
+SPECIES: 
+Morrow         		Mean: 9.84 		Best: 185.97 		Nº:6
+Davis          		Mean: 24.84 		Best: 185.97 		Nº:6
+Richards       		Mean: 14.94 		Best: 185.97 		Nº:5
+Leland         		Mean: 14.68 		Best: 185.97 		Nº:7
+Jaquez         		Mean: 20.72 		Best: 185.97 		Nº:3
+Caines         		Mean: 13.3 		Best: 185.97 		Nº:9
+Roloff         		Mean: 29.33 		Best: 185.97 		Nº:6
+Wilson         		Mean: 19.91 		Best: 185.97 		Nº:6
+Stephens       		Mean: 44.27 		Best: 185.97 		Nº:4
+Cortez         		Mean: 27.96 		Best: 185.97 		Nº:5
+Montgomery     		Mean: 33.76 		Best: 185.97 		Nº:4
+Huppert        		Mean: 14.75 		Best: 185.97 		Nº:6
+Desrochers     		Mean: 32.62 		Best: 185.97 		Nº:4
+Gray           		Mean: 23.27 		Best: 185.97 		Nº:4
+Bubrig         		Mean: 46.56 		Best: 185.97 		Nº:2
+Richardson     		Mean: 21.58 		Best: 177.1 		Nº:4
+Compton        		Mean: 13.81 		Best: 177.1 		Nº:5
+Roussell       		Mean: 34.72 		Best: 177.1 		Nº:5
+Wright         		Mean: 14.18 		Best: 177.1 		Nº:5
+Zins           		Mean: 19.79 		Best: 177.1 		Nº:3
+Leggett        		Mean: 18.65 		Best: 167.72 		Nº:3
+Whitaker       		Mean: 18.75 		Best: 167.72 		Nº:3
+Franklin       		Mean: 0.0  		Best: 0.0 		Nº:3
+Winfield       		Mean: 0.0  		Best: 0.0 		Nº:3
+
+########## REPORT GEN: 42 ##########
+SPECIES: 
+Morrow         		Mean: 40.41 		Best: 185.97 		Nº:3
+Davis          		Mean: 16.75 		Best: 185.97 		Nº:8
+Leland         		Mean: 34.4 		Best: 185.97 		Nº:4
+Jaquez         		Mean: 9.85 		Best: 185.97 		Nº:6
+Caines         		Mean: 44.98 		Best: 185.97 		Nº:4
+Roloff         		Mean: 16.49 		Best: 185.97 		Nº:8
+Stephens       		Mean: 13.68 		Best: 185.97 		Nº:8
+Cortez         		Mean: 22.0 		Best: 185.97 		Nº:8
+Montgomery     		Mean: 19.35 		Best: 185.97 		Nº:8
+Huppert        		Mean: 11.63 		Best: 185.97 		Nº:4
+Gray           		Mean: 15.03 		Best: 185.97 		Nº:6
+Bubrig         		Mean: 33.23 		Best: 185.97 		Nº:4
+Wright         		Mean: 33.75 		Best: 185.97 		Nº:4
+Zins           		Mean: 7.47 		Best: 185.97 		Nº:5
+Whitaker       		Mean: 7.49 		Best: 185.97 		Nº:5
+Wilson         		Mean: 21.26 		Best: 177.1 		Nº:5
+Desrochers     		Mean: 13.55 		Best: 177.1 		Nº:8
+Richardson     		Mean: 24.1 		Best: 177.1 		Nº:6
+Roussell       		Mean: 12.04 		Best: 177.1 		Nº:10
+Richards       		Mean: 10.5 		Best: 167.72 		Nº:4
+Compton        		Mean: 21.0 		Best: 167.72 		Nº:4
+Leggett        		Mean: 0.0  		Best: 0.0 		Nº:5
+
+########## REPORT GEN: 43 ##########
+SPECIES: 
+Davis          		Mean: 44.27 		Best: 185.97 		Nº:4
+Leland         		Mean: 15.52 		Best: 185.97 		Nº:6
+Jaquez         		Mean: 20.72 		Best: 185.97 		Nº:3
+Caines         		Mean: 16.51 		Best: 185.97 		Nº:8
+Roloff         		Mean: 34.43 		Best: 185.97 		Nº:4
+Stephens       		Mean: 33.78 		Best: 185.97 		Nº:4
+Cortez         		Mean: 11.64 		Best: 185.97 		Nº:4
+Montgomery     		Mean: 33.77 		Best: 185.97 		Nº:4
+Huppert        		Mean: 46.51 		Best: 185.97 		Nº:2
+Gray           		Mean: 20.72 		Best: 185.97 		Nº:3
+Bubrig         		Mean: 19.96 		Best: 185.97 		Nº:6
+Wright         		Mean: 29.25 		Best: 185.97 		Nº:6
+Roussell       		Mean: 28.73 		Best: 185.97 		Nº:5
+Richards       		Mean: 46.66 		Best: 185.97 		Nº:2
+Franklin       		Mean: 93.38 		Best: 185.97 		Nº:2
+Morrow         		Mean: 14.52 		Best: 177.1 		Nº:6
+Zins           		Mean: 44.45 		Best: 177.1 		Nº:2
+Whitaker       		Mean: 44.48 		Best: 177.1 		Nº:2
+Desrochers     		Mean: 33.23 		Best: 177.1 		Nº:4
+Winfield       		Mean: 44.28 		Best: 177.1 		Nº:2
+Wilson         		Mean: 10.49 		Best: 167.72 		Nº:4
+Richardson     		Mean: 10.48 		Best: 167.72 		Nº:4
+Carter         		Mean: 83.89 		Best: 167.72 		Nº:2
+Compton        		Mean: 10.5 		Best: 167.72 		Nº:4
+Leggett        		Mean: 41.97 		Best: 167.72 		Nº:2
+
+########## REPORT GEN: 44 ##########
+SPECIES: 
+Leland         		Mean: 23.38 		Best: 185.97 		Nº:4
+Jaquez         		Mean: 39.35 		Best: 185.97 		Nº:3
+Roloff         		Mean: 14.79 		Best: 185.97 		Nº:6
+Stephens       		Mean: 24.6 		Best: 185.97 		Nº:6
+Montgomery     		Mean: 24.59 		Best: 185.97 		Nº:6
+Huppert        		Mean: 45.95 		Best: 185.97 		Nº:4
+Gray           		Mean: 59.01 		Best: 185.97 		Nº:3
+Wright         		Mean: 35.41 		Best: 185.97 		Nº:5
+Roussell       		Mean: 20.88 		Best: 185.97 		Nº:5
+Zins           		Mean: 22.15 		Best: 185.97 		Nº:4
+Whitaker       		Mean: 11.7 		Best: 185.97 		Nº:4
+Desrochers     		Mean: 21.59 		Best: 185.97 		Nº:5
+Winfield       		Mean: 34.32 		Best: 185.97 		Nº:4
+Wilson         		Mean: 46.53 		Best: 185.97 		Nº:2
+Richardson     		Mean: 90.77 		Best: 185.97 		Nº:2
+Carter         		Mean: 33.18 		Best: 185.97 		Nº:4
+Compton        		Mean: 90.77 		Best: 185.97 		Nº:2
+Davis          		Mean: 17.51 		Best: 177.1 		Nº:7
+Caines         		Mean: 42.71 		Best: 177.1 		Nº:4
+Richards       		Mean: 32.11 		Best: 177.1 		Nº:4
+Morrow         		Mean: 19.72 		Best: 177.1 		Nº:3
+Cortez         		Mean: 41.98 		Best: 167.72 		Nº:2
+Bubrig         		Mean: 18.66 		Best: 167.72 		Nº:3
+Franklin       		Mean: 21.05 		Best: 167.72 		Nº:4
+Leggett        		Mean: 41.93 		Best: 167.72 		Nº:4
+
+########## REPORT GEN: 45 ##########
+SPECIES: 
+Leland         		Mean: 33.92 		Best: 185.97 		Nº:4
+Jaquez         		Mean: 10.11 		Best: 185.97 		Nº:6
+Roloff         		Mean: 39.32 		Best: 185.97 		Nº:3
+Montgomery     		Mean: 44.83 		Best: 185.97 		Nº:4
+Huppert        		Mean: 22.23 		Best: 185.97 		Nº:7
+Gray           		Mean: 24.09 		Best: 185.97 		Nº:6
+Wright         		Mean: 24.35 		Best: 185.97 		Nº:6
+Desrochers     		Mean: 58.98 		Best: 185.97 		Nº:3
+Carter         		Mean: 35.03 		Best: 185.97 		Nº:5
+Caines         		Mean: 10.68 		Best: 185.97 		Nº:7
+Richards       		Mean: 20.93 		Best: 185.97 		Nº:5
+Leggett        		Mean: 17.68 		Best: 185.97 		Nº:7
+Stephens       		Mean: 32.64 		Best: 177.1 		Nº:4
+Roussell       		Mean: 39.36 		Best: 177.1 		Nº:3
+Winfield       		Mean: 27.22 		Best: 177.1 		Nº:5
+Richardson     		Mean: 43.1 		Best: 177.1 		Nº:4
+Compton        		Mean: 43.7 		Best: 177.1 		Nº:4
+Davis          		Mean: 38.34 		Best: 177.1 		Nº:3
+Morrow         		Mean: 19.7 		Best: 177.1 		Nº:3
+Cortez         		Mean: 13.83 		Best: 177.1 		Nº:5
+Bubrig         		Mean: 39.42 		Best: 177.1 		Nº:3
+Franklin       		Mean: 19.73 		Best: 177.1 		Nº:3
+Wilson         		Mean: 10.49 		Best: 167.72 		Nº:4
+Zins           		Mean: 0.0  		Best: 0.0 		Nº:3
+Whitaker       		Mean: 0.0  		Best: 0.0 		Nº:2
+
+########## REPORT GEN: 46 ##########
+SPECIES: 
+Jaquez         		Mean: 41.4 		Best: 185.97 		Nº:3
+Roloff         		Mean: 19.92 		Best: 185.97 		Nº:6
+Montgomery     		Mean: 16.59 		Best: 185.97 		Nº:8
+Huppert        		Mean: 33.21 		Best: 185.97 		Nº:4
+Gray           		Mean: 21.98 		Best: 185.97 		Nº:5
+Wright         		Mean: 14.17 		Best: 185.97 		Nº:5
+Desrochers     		Mean: 19.91 		Best: 185.97 		Nº:6
+Carter         		Mean: 17.87 		Best: 185.97 		Nº:7
+Caines         		Mean: 60.04 		Best: 185.97 		Nº:3
+Leggett        		Mean: 59.99 		Best: 185.97 		Nº:3
+Stephens       		Mean: 22.23 		Best: 185.97 		Nº:7
+Winfield       		Mean: 19.67 		Best: 185.97 		Nº:6
+Richardson     		Mean: 16.73 		Best: 185.97 		Nº:8
+Compton        		Mean: 13.68 		Best: 185.97 		Nº:8
+Cortez         		Mean: 41.34 		Best: 185.97 		Nº:3
+Bubrig         		Mean: 24.62 		Best: 185.97 		Nº:6
+Wilson         		Mean: 88.43 		Best: 185.97 		Nº:2
+Leland         		Mean: 10.7 		Best: 177.1 		Nº:7
+Roussell       		Mean: 24.09 		Best: 177.1 		Nº:6
+Davis          		Mean: 18.91 		Best: 177.1 		Nº:6
+Morrow         		Mean: 11.1 		Best: 177.1 		Nº:4
+Franklin       		Mean: 13.84 		Best: 177.1 		Nº:5
+Richards       		Mean: 31.46 		Best: 167.72 		Nº:4
+
+########## REPORT GEN: 47 ##########
+SPECIES: 
+Roloff         		Mean: 45.37 		Best: 185.97 		Nº:4
+Montgomery     		Mean: 33.21 		Best: 185.97 		Nº:4
+Huppert        		Mean: 18.43 		Best: 185.97 		Nº:7
+Gray           		Mean: 21.25 		Best: 185.97 		Nº:5
+Desrochers     		Mean: 33.18 		Best: 185.97 		Nº:4
+Carter         		Mean: 34.32 		Best: 185.97 		Nº:4
+Caines         		Mean: 29.51 		Best: 185.97 		Nº:6
+Leggett        		Mean: 20.18 		Best: 185.97 		Nº:6
+Stephens       		Mean: 28.71 		Best: 185.97 		Nº:5
+Winfield       		Mean: 33.74 		Best: 185.97 		Nº:4
+Richardson     		Mean: 43.07 		Best: 185.97 		Nº:4
+Cortez         		Mean: 24.33 		Best: 185.97 		Nº:6
+Wilson         		Mean: 45.94 		Best: 185.97 		Nº:4
+Roussell       		Mean: 28.69 		Best: 185.97 		Nº:5
+Davis          		Mean: 29.08 		Best: 185.97 		Nº:5
+Morrow         		Mean: 46.57 		Best: 185.97 		Nº:2
+Richards       		Mean: 14.45 		Best: 185.97 		Nº:7
+Compton        		Mean: 11.07 		Best: 177.1 		Nº:4
+Bubrig         		Mean: 21.29 		Best: 177.1 		Nº:5
+Franklin       		Mean: 19.78 		Best: 177.1 		Nº:3
+Jaquez         		Mean: 4.68 		Best: 167.72 		Nº:6
+Leland         		Mean: 18.76 		Best: 167.72 		Nº:3
+Wright         		Mean: 0.0  		Best: 0.0 		Nº:3
+
+########## REPORT GEN: 48 ##########
+SPECIES: 
+Roloff         		Mean: 22.26 		Best: 185.97 		Nº:8
+Montgomery     		Mean: 15.02 		Best: 185.97 		Nº:6
+Huppert        		Mean: 59.03 		Best: 185.97 		Nº:3
+Gray           		Mean: 33.75 		Best: 185.97 		Nº:4
+Desrochers     		Mean: 25.33 		Best: 185.97 		Nº:7
+Carter         		Mean: 10.09 		Best: 185.97 		Nº:6
+Caines         		Mean: 29.03 		Best: 185.97 		Nº:5
+Stephens       		Mean: 28.33 		Best: 185.97 		Nº:5
+Winfield       		Mean: 9.83 		Best: 185.97 		Nº:6
+Richardson     		Mean: 11.2 		Best: 185.97 		Nº:8
+Cortez         		Mean: 44.26 		Best: 185.97 		Nº:4
+Wilson         		Mean: 16.3 		Best: 185.97 		Nº:8
+Roussell       		Mean: 28.33 		Best: 185.97 		Nº:5
+Davis          		Mean: 21.62 		Best: 185.97 		Nº:5
+Morrow         		Mean: 22.71 		Best: 185.97 		Nº:4
+Richards       		Mean: 59.0 		Best: 185.97 		Nº:3
+Jaquez         		Mean: 20.74 		Best: 185.97 		Nº:3
+Leland         		Mean: 39.49 		Best: 185.97 		Nº:3
+Leggett        		Mean: 38.33 		Best: 177.1 		Nº:3
+Bubrig         		Mean: 22.19 		Best: 177.1 		Nº:4
+Franklin       		Mean: 57.14 		Best: 177.1 		Nº:3
+Zins           		Mean: 44.28 		Best: 177.1 		Nº:2
+Compton        		Mean: 41.96 		Best: 167.72 		Nº:2
+
+########## REPORT GEN: 49 ##########
+SPECIES: 
+Montgomery     		Mean: 58.02 		Best: 185.97 		Nº:3
+Huppert        		Mean: 19.15 		Best: 185.97 		Nº:6
+Gray           		Mean: 14.54 		Best: 185.97 		Nº:5
+Carter         		Mean: 60.04 		Best: 185.97 		Nº:3
+Caines         		Mean: 36.12 		Best: 185.97 		Nº:5
+Stephens       		Mean: 32.59 		Best: 185.97 		Nº:4
+Winfield       		Mean: 39.31 		Best: 185.97 		Nº:3
+Richardson     		Mean: 23.25 		Best: 185.97 		Nº:4
+Cortez         		Mean: 21.3 		Best: 185.97 		Nº:7
+Wilson         		Mean: 43.67 		Best: 185.97 		Nº:4
+Davis          		Mean: 45.46 		Best: 185.97 		Nº:4
+Richards       		Mean: 24.84 		Best: 185.97 		Nº:6
+Jaquez         		Mean: 20.74 		Best: 185.97 		Nº:3
+Leggett        		Mean: 19.15 		Best: 185.97 		Nº:6
+Compton        		Mean: 22.71 		Best: 185.97 		Nº:4
+Roloff         		Mean: 43.13 		Best: 177.1 		Nº:4
+Desrochers     		Mean: 22.2 		Best: 177.1 		Nº:4
+Roussell       		Mean: 21.56 		Best: 177.1 		Nº:4
+Leland         		Mean: 4.96 		Best: 177.1 		Nº:6
+Franklin       		Mean: 19.76 		Best: 177.1 		Nº:6
+Morrow         		Mean: 18.66 		Best: 167.72 		Nº:3
+Bubrig         		Mean: 18.7 		Best: 167.72 		Nº:3
+Zins           		Mean: 20.97 		Best: 167.72 		Nº:4
+Wright         		Mean: 41.93 		Best: 167.72 		Nº:2
+
+########## REPORT GEN: 50 ##########
+SPECIES: 
+Huppert        		Mean: 44.81 		Best: 185.97 		Nº:4
+Stephens       		Mean: 21.69 		Best: 185.97 		Nº:7
+Winfield       		Mean: 14.49 		Best: 185.97 		Nº:6
+Richardson     		Mean: 27.96 		Best: 185.97 		Nº:5
+Cortez         		Mean: 33.21 		Best: 185.97 		Nº:4
+Wilson         		Mean: 19.21 		Best: 185.97 		Nº:8
+Davis          		Mean: 10.8 		Best: 185.97 		Nº:8
+Richards       		Mean: 22.32 		Best: 185.97 		Nº:5
+Roloff         		Mean: 16.17 		Best: 185.97 		Nº:8
+Desrochers     		Mean: 45.04 		Best: 185.97 		Nº:4
+Zins           		Mean: 23.26 		Best: 185.97 		Nº:4
+Montgomery     		Mean: 9.6  		Best: 177.1 		Nº:6
+Carter         		Mean: 24.08 		Best: 177.1 		Nº:6
+Caines         		Mean: 21.5 		Best: 177.1 		Nº:7
+Jaquez         		Mean: 7.11 		Best: 177.1 		Nº:5
+Leggett        		Mean: 21.56 		Best: 177.1 		Nº:4
+Compton        		Mean: 43.1 		Best: 177.1 		Nº:4
+Roussell       		Mean: 32.66 		Best: 177.1 		Nº:4
+Leland         		Mean: 19.8 		Best: 177.1 		Nº:3
+Franklin       		Mean: 43.86 		Best: 177.1 		Nº:4
+Morrow         		Mean: 21.58 		Best: 177.1 		Nº:4
+Wright         		Mean: 32.62 		Best: 177.1 		Nº:4
+Gray           		Mean: 37.31 		Best: 167.72 		Nº:3
+Bubrig         		Mean: 0.0  		Best: 0.0 		Nº:4
+
+########## REPORT GEN: 51 ##########
+SPECIES: 
+Huppert        		Mean: 16.45 		Best: 185.97 		Nº:8
+Stephens       		Mean: 35.76 		Best: 185.97 		Nº:5
+Winfield       		Mean: 61.03 		Best: 185.97 		Nº:3
+Richardson     		Mean: 14.46 		Best: 185.97 		Nº:7
+Cortez         		Mean: 16.76 		Best: 185.97 		Nº:8
+Wilson         		Mean: 44.81 		Best: 185.97 		Nº:4
+Davis          		Mean: 44.34 		Best: 185.97 		Nº:4
+Richards       		Mean: 22.32 		Best: 185.97 		Nº:5
+Roloff         		Mean: 35.07 		Best: 185.97 		Nº:5
+Desrochers     		Mean: 16.49 		Best: 185.97 		Nº:8
+Zins           		Mean: 27.58 		Best: 185.97 		Nº:5
+Carter         		Mean: 19.67 		Best: 185.97 		Nº:6
+Caines         		Mean: 21.6 		Best: 185.97 		Nº:5
+Jaquez         		Mean: 46.58 		Best: 185.97 		Nº:2
+Leggett        		Mean: 36.16 		Best: 185.97 		Nº:5
+Compton        		Mean: 16.87 		Best: 185.97 		Nº:8
+Roussell       		Mean: 17.18 		Best: 185.97 		Nº:8
+Franklin       		Mean: 10.95 		Best: 185.97 		Nº:8
+Wright         		Mean: 19.36 		Best: 185.97 		Nº:8
+Gray           		Mean: 24.6 		Best: 185.97 		Nº:6
+Montgomery     		Mean: 37.32 		Best: 167.72 		Nº:3
+Leland         		Mean: 0.0  		Best: 0.0 		Nº:5
+Morrow         		Mean: 0.0  		Best: 0.0 		Nº:5
+Bubrig         		Mean: 0.0  		Best: 0.0 		Nº:2
+
+########## REPORT GEN: 52 ##########
+SPECIES: 
+Huppert        		Mean: 32.62 		Best: 185.97 		Nº:4
+Stephens       		Mean: 15.52 		Best: 185.97 		Nº:9
+Winfield       		Mean: 20.18 		Best: 185.97 		Nº:6
+Cortez         		Mean: 11.64 		Best: 185.97 		Nº:4
+Davis          		Mean: 17.05 		Best: 185.97 		Nº:8
+Roloff         		Mean: 14.13 		Best: 185.97 		Nº:8
+Zins           		Mean: 18.25 		Best: 185.97 		Nº:7
+Carter         		Mean: 21.61 		Best: 185.97 		Nº:5
+Caines         		Mean: 35.42 		Best: 185.97 		Nº:5
+Jaquez         		Mean: 22.13 		Best: 185.97 		Nº:4
+Leggett        		Mean: 10.94 		Best: 185.97 		Nº:9
+Compton        		Mean: 20.92 		Best: 185.97 		Nº:5
+Roussell       		Mean: 34.37 		Best: 185.97 		Nº:4
+Franklin       		Mean: 33.29 		Best: 185.97 		Nº:4
+Wright         		Mean: 22.69 		Best: 185.97 		Nº:4
+Gray           		Mean: 24.35 		Best: 185.97 		Nº:6
+Montgomery     		Mean: 15.27 		Best: 185.97 		Nº:6
+Wilson         		Mean: 19.08 		Best: 177.1 		Nº:8
+Desrochers     		Mean: 11.16 		Best: 177.1 		Nº:4
+Richardson     		Mean: 18.66 		Best: 167.72 		Nº:3
+Richards       		Mean: 6.71 		Best: 167.72 		Nº:5
+Morrow         		Mean: 41.95 		Best: 167.72 		Nº:2
+Leland         		Mean: 0.0  		Best: 0.0 		Nº:2
+
+########## REPORT GEN: 53 ##########
+SPECIES: 
+Huppert        		Mean: 14.11 		Best: 185.97 		Nº:8
+Stephens       		Mean: 33.21 		Best: 185.97 		Nº:4
+Winfield       		Mean: 24.84 		Best: 185.97 		Nº:6
+Roloff         		Mean: 33.78 		Best: 185.97 		Nº:4
+Zins           		Mean: 14.53 		Best: 185.97 		Nº:5
+Carter         		Mean: 19.43 		Best: 185.97 		Nº:6
+Caines         		Mean: 18.16 		Best: 185.97 		Nº:10
+Jaquez         		Mean: 14.46 		Best: 185.97 		Nº:7
+Roussell       		Mean: 16.46 		Best: 185.97 		Nº:8
+Franklin       		Mean: 16.79 		Best: 185.97 		Nº:8
+Wright         		Mean: 18.25 		Best: 185.97 		Nº:7
+Gray           		Mean: 14.64 		Best: 185.97 		Nº:7
+Montgomery     		Mean: 22.14 		Best: 185.97 		Nº:4
+Morrow         		Mean: 33.78 		Best: 185.97 		Nº:4
+Cortez         		Mean: 19.71 		Best: 177.1 		Nº:3
+Davis          		Mean: 13.81 		Best: 177.1 		Nº:5
+Leggett        		Mean: 11.07 		Best: 177.1 		Nº:4
+Wilson         		Mean: 24.08 		Best: 177.1 		Nº:6
+Desrochers     		Mean: 38.52 		Best: 177.1 		Nº:3
+Richards       		Mean: 86.28 		Best: 177.1 		Nº:2
+Bubrig         		Mean: 44.4 		Best: 177.1 		Nº:2
+Compton        		Mean: 0.0  		Best: 0.0 		Nº:6
+Richardson     		Mean: 0.0  		Best: 0.0 		Nº:5
+
+########## REPORT GEN: 54 ##########
+SPECIES: 
+Stephens       		Mean: 16.76 		Best: 185.97 		Nº:8
+Winfield       		Mean: 19.42 		Best: 185.97 		Nº:6
+Roloff         		Mean: 21.72 		Best: 185.97 		Nº:8
+Caines         		Mean: 28.36 		Best: 185.97 		Nº:5
+Wright         		Mean: 27.95 		Best: 185.97 		Nº:5
+Gray           		Mean: 46.0 		Best: 185.97 		Nº:4
+Morrow         		Mean: 16.6 		Best: 185.97 		Nº:8
+Cortez         		Mean: 14.17 		Best: 185.97 		Nº:5
+Davis          		Mean: 59.0 		Best: 185.97 		Nº:3
+Leggett        		Mean: 57.95 		Best: 185.97 		Nº:3
+Desrochers     		Mean: 19.71 		Best: 185.97 		Nº:6
+Richards       		Mean: 22.72 		Best: 185.97 		Nº:4
+Bubrig         		Mean: 22.73 		Best: 185.97 		Nº:4
+Richardson     		Mean: 46.52 		Best: 185.97 		Nº:2
+Huppert        		Mean: 43.13 		Best: 177.1 		Nº:4
+Zins           		Mean: 32.05 		Best: 177.1 		Nº:4
+Carter         		Mean: 21.29 		Best: 177.1 		Nº:5
+Jaquez         		Mean: 21.58 		Best: 177.1 		Nº:4
+Roussell       		Mean: 21.58 		Best: 177.1 		Nº:4
+Montgomery     		Mean: 18.92 		Best: 177.1 		Nº:6
+Wilson         		Mean: 14.77 		Best: 177.1 		Nº:6
+Compton        		Mean: 21.61 		Best: 177.1 		Nº:4
+Franklin       		Mean: 21.05 		Best: 167.72 		Nº:4
+
+########## REPORT GEN: 55 ##########
+SPECIES: 
+Winfield       		Mean: 33.21 		Best: 185.97 		Nº:4
+Roloff         		Mean: 29.08 		Best: 185.97 		Nº:5
+Caines         		Mean: 19.69 		Best: 185.97 		Nº:6
+Gray           		Mean: 16.46 		Best: 185.97 		Nº:8
+Morrow         		Mean: 22.72 		Best: 185.97 		Nº:4
+Davis          		Mean: 17.94 		Best: 185.97 		Nº:7
+Leggett        		Mean: 15.0 		Best: 185.97 		Nº:6
+Desrochers     		Mean: 32.61 		Best: 185.97 		Nº:4
+Richards       		Mean: 27.97 		Best: 185.97 		Nº:5
+Bubrig         		Mean: 21.29 		Best: 185.97 		Nº:5
+Huppert        		Mean: 16.59 		Best: 185.97 		Nº:8
+Roussell       		Mean: 36.14 		Best: 185.97 		Nº:5
+Wilson         		Mean: 60.03 		Best: 185.97 		Nº:3
+Compton        		Mean: 14.2 		Best: 185.97 		Nº:5
+Franklin       		Mean: 34.45 		Best: 185.97 		Nº:4
+Stephens       		Mean: 21.59 		Best: 177.1 		Nº:4
+Wright         		Mean: 9.58 		Best: 177.1 		Nº:6
+Zins           		Mean: 21.31 		Best: 177.1 		Nº:7
+Jaquez         		Mean: 7.11 		Best: 177.1 		Nº:5
+Cortez         		Mean: 18.67 		Best: 167.72 		Nº:3
+Montgomery     		Mean: 10.49 		Best: 167.72 		Nº:4
+Richardson     		Mean: 0.0  		Best: 0.0 		Nº:4
+Carter         		Mean: 0.0  		Best: 0.0 		Nº:5
+
+########## REPORT GEN: 56 ##########
+SPECIES: 
+Winfield       		Mean: 14.84 		Best: 185.97 		Nº:7
+Roloff         		Mean: 19.69 		Best: 185.97 		Nº:6
+Caines         		Mean: 23.28 		Best: 185.97 		Nº:4
+Gray           		Mean: 44.9 		Best: 185.97 		Nº:4
+Leggett        		Mean: 59.01 		Best: 185.97 		Nº:3
+Desrochers     		Mean: 25.3 		Best: 185.97 		Nº:7
+Richards       		Mean: 9.83 		Best: 185.97 		Nº:6
+Bubrig         		Mean: 22.76 		Best: 185.97 		Nº:4
+Huppert        		Mean: 33.77 		Best: 185.97 		Nº:4
+Wilson         		Mean: 19.93 		Best: 185.97 		Nº:6
+Franklin       		Mean: 21.36 		Best: 185.97 		Nº:7
+Stephens       		Mean: 34.37 		Best: 185.97 		Nº:4
+Wright         		Mean: 60.03 		Best: 185.97 		Nº:3
+Jaquez         		Mean: 46.65 		Best: 185.97 		Nº:2
+Leland         		Mean: 88.43 		Best: 185.97 		Nº:2
+Montgomery     		Mean: 90.77 		Best: 185.97 		Nº:2
+Richardson     		Mean: 88.42 		Best: 185.97 		Nº:2
+Morrow         		Mean: 27.6 		Best: 177.1 		Nº:5
+Roussell       		Mean: 10.63 		Best: 177.1 		Nº:8
+Zins           		Mean: 32.64 		Best: 177.1 		Nº:4
+Davis          		Mean: 20.15 		Best: 167.72 		Nº:5
+Cortez         		Mean: 10.51 		Best: 167.72 		Nº:4
+Compton        		Mean: 0.0  		Best: 0.0 		Nº:3
+Carter         		Mean: 0.0  		Best: 0.0 		Nº:2
+
+########## REPORT GEN: 57 ##########
+SPECIES: 
+Winfield       		Mean: 40.36 		Best: 185.97 		Nº:3
+Roloff         		Mean: 60.05 		Best: 185.97 		Nº:3
+Leggett        		Mean: 29.51 		Best: 185.97 		Nº:6
+Desrochers     		Mean: 11.64 		Best: 185.97 		Nº:4
+Bubrig         		Mean: 43.68 		Best: 185.97 		Nº:4
+Huppert        		Mean: 24.34 		Best: 185.97 		Nº:6
+Franklin       		Mean: 33.32 		Best: 185.97 		Nº:4
+Stephens       		Mean: 15.03 		Best: 185.97 		Nº:6
+Wright         		Mean: 28.97 		Best: 185.97 		Nº:6
+Jaquez         		Mean: 33.24 		Best: 185.97 		Nº:4
+Leland         		Mean: 33.78 		Best: 185.97 		Nº:4
+Richardson     		Mean: 32.59 		Best: 185.97 		Nº:4
+Morrow         		Mean: 20.87 		Best: 185.97 		Nº:5
+Roussell       		Mean: 44.26 		Best: 185.97 		Nº:4
+Zins           		Mean: 19.69 		Best: 185.97 		Nº:6
+Davis          		Mean: 20.68 		Best: 185.97 		Nº:3
+Caines         		Mean: 11.08 		Best: 177.1 		Nº:4
+Gray           		Mean: 11.09 		Best: 177.1 		Nº:8
+Montgomery     		Mean: 22.14 		Best: 177.1 		Nº:4
+Richards       		Mean: 37.32 		Best: 167.72 		Nº:3
+Wilson         		Mean: 0.0  		Best: 0.0 		Nº:3
+Cortez         		Mean: 0.0  		Best: 0.0 		Nº:2
+
+########## REPORT GEN: 58 ##########
+SPECIES: 
+Winfield       		Mean: 25.6 		Best: 185.97 		Nº:6
+Roloff         		Mean: 29.77 		Best: 185.97 		Nº:6
+Leggett        		Mean: 27.95 		Best: 185.97 		Nº:5
+Bubrig         		Mean: 22.41 		Best: 185.97 		Nº:8
+Huppert        		Mean: 32.59 		Best: 185.97 		Nº:4
+Leland         		Mean: 19.68 		Best: 185.97 		Nº:6
+Roussell       		Mean: 13.83 		Best: 185.97 		Nº:8
+Davis          		Mean: 45.98 		Best: 185.97 		Nº:4
+Gray           		Mean: 22.15 		Best: 185.97 		Nº:4
+Montgomery     		Mean: 32.6 		Best: 185.97 		Nº:4
+Desrochers     		Mean: 44.31 		Best: 177.1 		Nº:2
+Franklin       		Mean: 18.98 		Best: 177.1 		Nº:6
+Stephens       		Mean: 39.4 		Best: 177.1 		Nº:3
+Wright         		Mean: 20.51 		Best: 177.1 		Nº:5
+Jaquez         		Mean: 9.62 		Best: 177.1 		Nº:6
+Richardson     		Mean: 28.74 		Best: 177.1 		Nº:6
+Morrow         		Mean: 32.05 		Best: 177.1 		Nº:4
+Zins           		Mean: 58.04 		Best: 177.1 		Nº:3
+Richards       		Mean: 28.78 		Best: 177.1 		Nº:6
+Carter         		Mean: 41.95 		Best: 167.72 		Nº:2
+Caines         		Mean: 37.44 		Best: 167.72 		Nº:3
+
+########## REPORT GEN: 59 ##########
+SPECIES: 
+Winfield       		Mean: 60.05 		Best: 185.97 		Nº:3
+Roloff         		Mean: 33.78 		Best: 185.97 		Nº:4
+Leggett        		Mean: 33.2 		Best: 185.97 		Nº:4
+Bubrig         		Mean: 43.67 		Best: 185.97 		Nº:4
+Roussell       		Mean: 33.19 		Best: 185.97 		Nº:4
+Montgomery     		Mean: 44.84 		Best: 185.97 		Nº:4
+Desrochers     		Mean: 34.9 		Best: 185.97 		Nº:4
+Franklin       		Mean: 39.43 		Best: 185.97 		Nº:3
+Stephens       		Mean: 28.37 		Best: 185.97 		Nº:5
+Richardson     		Mean: 45.36 		Best: 185.97 		Nº:4
+Morrow         		Mean: 43.1 		Best: 185.97 		Nº:4
+Zins           		Mean: 14.49 		Best: 185.97 		Nº:6
+Richards       		Mean: 44.85 		Best: 185.97 		Nº:4
+Caines         		Mean: 29.14 		Best: 185.97 		Nº:5
+Huppert        		Mean: 27.64 		Best: 177.1 		Nº:5
+Leland         		Mean: 56.99 		Best: 177.1 		Nº:3
+Davis          		Mean: 14.25 		Best: 177.1 		Nº:6
+Cortez         		Mean: 86.2 		Best: 177.1 		Nº:2
+Jaquez         		Mean: 19.77 		Best: 177.1 		Nº:3
+Carter         		Mean: 32.64 		Best: 177.1 		Nº:4
+Compton        		Mean: 86.2 		Best: 177.1 		Nº:2
+Gray           		Mean: 55.98 		Best: 167.72 		Nº:3
+Wright         		Mean: 55.91 		Best: 167.72 		Nº:3
+
+########## REPORT GEN: 60 ##########
+SPECIES: 
+Roloff         		Mean: 28.36 		Best: 185.97 		Nº:5
+Leggett        		Mean: 34.35 		Best: 185.97 		Nº:4
+Bubrig         		Mean: 14.88 		Best: 185.97 		Nº:5
+Roussell       		Mean: 33.18 		Best: 185.97 		Nº:4
+Montgomery     		Mean: 28.32 		Best: 185.97 		Nº:5
+Desrochers     		Mean: 44.22 		Best: 185.97 		Nº:4
+Franklin       		Mean: 28.77 		Best: 185.97 		Nº:5
+Stephens       		Mean: 61.11 		Best: 185.97 		Nº:3
+Richardson     		Mean: 36.49 		Best: 185.97 		Nº:5
+Zins           		Mean: 60.03 		Best: 185.97 		Nº:3
+Leland         		Mean: 14.76 		Best: 185.97 		Nº:6
+Davis          		Mean: 57.97 		Best: 185.97 		Nº:3
+Cortez         		Mean: 33.17 		Best: 185.97 		Nº:4
+Jaquez         		Mean: 46.66 		Best: 185.97 		Nº:2
+Carter         		Mean: 33.2 		Best: 185.97 		Nº:4
+Gray           		Mean: 24.37 		Best: 185.97 		Nº:6
+Wright         		Mean: 24.33 		Best: 185.97 		Nº:6
+Winfield       		Mean: 18.91 		Best: 177.1 		Nº:6
+Morrow         		Mean: 27.24 		Best: 177.1 		Nº:5
+Richards       		Mean: 23.61 		Best: 177.1 		Nº:6
+Huppert        		Mean: 39.36 		Best: 177.1 		Nº:3
+Compton        		Mean: 33.21 		Best: 177.1 		Nº:4
+Wilson         		Mean: 88.55 		Best: 177.1 		Nº:2
+Caines         		Mean: 0.0  		Best: 0.0 		Nº:3
+
+########## REPORT GEN: 61 ##########
+SPECIES: 
+Roloff         		Mean: 21.63 		Best: 185.97 		Nº:5
+Leggett        		Mean: 24.85 		Best: 185.97 		Nº:6
+Bubrig         		Mean: 88.5 		Best: 185.97 		Nº:2
+Montgomery     		Mean: 14.52 		Best: 185.97 		Nº:5
+Desrochers     		Mean: 17.88 		Best: 185.97 		Nº:7
+Franklin       		Mean: 36.58 		Best: 185.97 		Nº:5
+Stephens       		Mean: 24.87 		Best: 185.97 		Nº:6
+Richardson     		Mean: 29.74 		Best: 185.97 		Nº:6
+Zins           		Mean: 24.58 		Best: 185.97 		Nº:6
+Davis          		Mean: 19.94 		Best: 185.97 		Nº:6
+Winfield       		Mean: 59.97 		Best: 185.97 		Nº:3
+Morrow         		Mean: 29.08 		Best: 185.97 		Nº:5
+Richards       		Mean: 46.57 		Best: 185.97 		Nº:4
+Compton        		Mean: 28.32 		Best: 185.97 		Nº:5
+Wilson         		Mean: 22.7 		Best: 185.97 		Nº:4
+Roussell       		Mean: 34.69 		Best: 177.1 		Nº:5
+Leland         		Mean: 57.03 		Best: 177.1 		Nº:3
+Cortez         		Mean: 27.96 		Best: 177.1 		Nº:5
+Jaquez         		Mean: 11.13 		Best: 177.1 		Nº:4
+Gray           		Mean: 11.08 		Best: 177.1 		Nº:4
+Wright         		Mean: 42.53 		Best: 177.1 		Nº:4
+Carter         		Mean: 6.72 		Best: 167.72 		Nº:5
+Huppert        		Mean: 9.32 		Best: 167.72 		Nº:6
+
+########## REPORT GEN: 62 ##########
+SPECIES: 
+Roloff         		Mean: 32.67 		Best: 185.97 		Nº:4
+Montgomery     		Mean: 59.97 		Best: 185.97 		Nº:3
+Desrochers     		Mean: 59.97 		Best: 185.97 		Nº:3
+Franklin       		Mean: 21.55 		Best: 185.97 		Nº:7
+Richardson     		Mean: 25.59 		Best: 185.97 		Nº:6
+Davis          		Mean: 44.81 		Best: 185.97 		Nº:4
+Winfield       		Mean: 19.65 		Best: 185.97 		Nº:6
+Morrow         		Mean: 19.48 		Best: 185.97 		Nº:6
+Richards       		Mean: 19.38 		Best: 185.97 		Nº:8
+Compton        		Mean: 19.67 		Best: 185.97 		Nº:6
+Leland         		Mean: 18.48 		Best: 185.97 		Nº:7
+Jaquez         		Mean: 46.67 		Best: 185.97 		Nº:2
+Wright         		Mean: 17.16 		Best: 185.97 		Nº:8
+Carter         		Mean: 46.53 		Best: 185.97 		Nº:2
+Leggett        		Mean: 14.18 		Best: 177.1 		Nº:5
+Bubrig         		Mean: 44.31 		Best: 177.1 		Nº:4
+Stephens       		Mean: 34.73 		Best: 177.1 		Nº:5
+Zins           		Mean: 20.89 		Best: 177.1 		Nº:5
+Roussell       		Mean: 17.32 		Best: 177.1 		Nº:7
+Cortez         		Mean: 19.42 		Best: 177.1 		Nº:6
+Huppert        		Mean: 38.31 		Best: 177.1 		Nº:3
+Wilson         		Mean: 20.98 		Best: 167.72 		Nº:4
+Gray           		Mean: 41.93 		Best: 167.72 		Nº:2
+
+########## REPORT GEN: 63 ##########
+SPECIES: 
+Roloff         		Mean: 27.63 		Best: 185.97 		Nº:5
+Montgomery     		Mean: 19.15 		Best: 185.97 		Nº:6
+Desrochers     		Mean: 29.74 		Best: 185.97 		Nº:6
+Franklin       		Mean: 60.15 		Best: 185.97 		Nº:3
+Richardson     		Mean: 33.78 		Best: 185.97 		Nº:4
+Davis          		Mean: 14.45 		Best: 185.97 		Nº:7
+Winfield       		Mean: 60.05 		Best: 185.97 		Nº:3
+Morrow         		Mean: 59.0 		Best: 185.97 		Nº:3
+Jaquez         		Mean: 22.78 		Best: 185.97 		Nº:4
+Wright         		Mean: 33.75 		Best: 185.97 		Nº:4
+Caines         		Mean: 90.77 		Best: 185.97 		Nº:2
+Bubrig         		Mean: 18.07 		Best: 185.97 		Nº:7
+Zins           		Mean: 62.04 		Best: 185.97 		Nº:3
+Cortez         		Mean: 39.31 		Best: 185.97 		Nº:3
+Huppert        		Mean: 24.83 		Best: 185.97 		Nº:6
+Wilson         		Mean: 59.0 		Best: 185.97 		Nº:3
+Gray           		Mean: 44.21 		Best: 185.97 		Nº:4
+Richards       		Mean: 32.09 		Best: 177.1 		Nº:4
+Compton        		Mean: 38.32 		Best: 177.1 		Nº:3
+Carter         		Mean: 32.05 		Best: 177.1 		Nº:4
+Leggett        		Mean: 44.32 		Best: 177.1 		Nº:2
+Stephens       		Mean: 24.22 		Best: 177.1 		Nº:6
+Roussell       		Mean: 39.38 		Best: 177.1 		Nº:3
+Leland         		Mean: 18.68 		Best: 167.72 		Nº:3
+
+########## REPORT GEN: 64 ##########
+SPECIES: 
+Desrochers     		Mean: 44.27 		Best: 185.97 		Nº:4
+Franklin       		Mean: 15.06 		Best: 185.97 		Nº:6
+Davis          		Mean: 40.36 		Best: 185.97 		Nº:3
+Morrow         		Mean: 25.08 		Best: 185.97 		Nº:6
+Wright         		Mean: 35.05 		Best: 185.97 		Nº:5
+Caines         		Mean: 21.63 		Best: 185.97 		Nº:5
+Bubrig         		Mean: 60.07 		Best: 185.97 		Nº:3
+Zins           		Mean: 19.68 		Best: 185.97 		Nº:6
+Wilson         		Mean: 20.18 		Best: 185.97 		Nº:6
+Gray           		Mean: 22.04 		Best: 185.97 		Nº:7
+Richards       		Mean: 21.27 		Best: 185.97 		Nº:5
+Compton        		Mean: 30.49 		Best: 185.97 		Nº:6
+Carter         		Mean: 34.28 		Best: 185.97 		Nº:5
+Leggett        		Mean: 33.21 		Best: 185.97 		Nº:4
+Roussell       		Mean: 24.33 		Best: 185.97 		Nº:6
+Roloff         		Mean: 32.04 		Best: 177.1 		Nº:4
+Montgomery     		Mean: 58.0 		Best: 177.1 		Nº:3
+Richardson     		Mean: 13.81 		Best: 177.1 		Nº:5
+Winfield       		Mean: 19.16 		Best: 177.1 		Nº:6
+Jaquez         		Mean: 19.78 		Best: 177.1 		Nº:3
+Huppert        		Mean: 11.07 		Best: 177.1 		Nº:4
+Cortez         		Mean: 18.64 		Best: 167.72 		Nº:6
+Stephens       		Mean: 37.57 		Best: 167.72 		Nº:3
+Leland         		Mean: 37.42 		Best: 167.72 		Nº:3
+
+########## REPORT GEN: 65 ##########
+SPECIES: 
+Desrochers     		Mean: 19.65 		Best: 185.97 		Nº:8
+Franklin       		Mean: 39.3 		Best: 185.97 		Nº:3
+Davis          		Mean: 19.92 		Best: 185.97 		Nº:6
+Morrow         		Mean: 36.12 		Best: 185.97 		Nº:5
+Wright         		Mean: 21.68 		Best: 185.97 		Nº:7
+Bubrig         		Mean: 24.59 		Best: 185.97 		Nº:6
+Wilson         		Mean: 23.26 		Best: 185.97 		Nº:4
+Gray           		Mean: 34.33 		Best: 185.97 		Nº:4
+Compton        		Mean: 14.99 		Best: 185.97 		Nº:6
+Carter         		Mean: 21.67 		Best: 185.97 		Nº:7
+Leggett        		Mean: 15.01 		Best: 185.97 		Nº:7
+Roussell       		Mean: 28.31 		Best: 185.97 		Nº:5
+Roloff         		Mean: 14.47 		Best: 185.97 		Nº:7
+Montgomery     		Mean: 25.08 		Best: 185.97 		Nº:6
+Winfield       		Mean: 33.74 		Best: 185.97 		Nº:4
+Cortez         		Mean: 33.77 		Best: 185.97 		Nº:4
+Stephens       		Mean: 15.11 		Best: 185.97 		Nº:6
+Zins           		Mean: 11.08 		Best: 177.1 		Nº:4
+Leland         		Mean: 14.56 		Best: 177.1 		Nº:6
+Caines         		Mean: 31.45 		Best: 167.72 		Nº:4
+Richards       		Mean: 31.46 		Best: 167.72 		Nº:4
+Jaquez         		Mean: 10.54 		Best: 167.72 		Nº:4
+Huppert        		Mean: 41.93 		Best: 167.72 		Nº:2
+Richardson     		Mean: 0.0  		Best: 0.0 		Nº:2
+
+########## REPORT GEN: 66 ##########
+SPECIES: 
+Desrochers     		Mean: 28.31 		Best: 185.97 		Nº:5
+Franklin       		Mean: 29.5 		Best: 185.97 		Nº:6
+Morrow         		Mean: 13.67 		Best: 185.97 		Nº:9
+Wright         		Mean: 36.5 		Best: 185.97 		Nº:5
+Bubrig         		Mean: 15.02 		Best: 185.97 		Nº:6
+Wilson         		Mean: 24.34 		Best: 185.97 		Nº:6
+Gray           		Mean: 22.12 		Best: 185.97 		Nº:8
+Compton        		Mean: 11.62 		Best: 185.97 		Nº:4
+Roussell       		Mean: 11.21 		Best: 185.97 		Nº:7
+Montgomery     		Mean: 19.66 		Best: 185.97 		Nº:6
+Winfield       		Mean: 16.6 		Best: 185.97 		Nº:8
+Cortez         		Mean: 17.02 		Best: 185.97 		Nº:8
+Stephens       		Mean: 33.4 		Best: 185.97 		Nº:4
+Leland         		Mean: 60.18 		Best: 185.97 		Nº:3
+Caines         		Mean: 11.2 		Best: 185.97 		Nº:8
+Richards       		Mean: 19.51 		Best: 185.97 		Nº:8
+Davis          		Mean: 33.93 		Best: 177.1 		Nº:5
+Carter         		Mean: 34.3 		Best: 177.1 		Nº:5
+Leggett        		Mean: 21.57 		Best: 177.1 		Nº:4
+Jaquez         		Mean: 38.45 		Best: 177.1 		Nº:3
+Roloff         		Mean: 37.29 		Best: 167.72 		Nº:3
+Zins           		Mean: 0.0  		Best: 0.0 		Nº:2
+Huppert        		Mean: 0.0  		Best: 0.0 		Nº:4
+
+########## REPORT GEN: 67 ##########
+SPECIES: 
+Desrochers     		Mean: 21.6 		Best: 185.97 		Nº:5
+Franklin       		Mean: 24.82 		Best: 185.97 		Nº:6
+Morrow         		Mean: 44.23 		Best: 185.97 		Nº:4
+Wright         		Mean: 14.45 		Best: 185.97 		Nº:7
+Gray           		Mean: 44.82 		Best: 185.97 		Nº:4
+Montgomery     		Mean: 33.76 		Best: 185.97 		Nº:4
+Winfield       		Mean: 43.66 		Best: 185.97 		Nº:4
+Cortez         		Mean: 44.25 		Best: 185.97 		Nº:4
+Stephens       		Mean: 22.13 		Best: 185.97 		Nº:7
+Leland         		Mean: 20.48 		Best: 185.97 		Nº:6
+Caines         		Mean: 44.26 		Best: 185.97 		Nº:4
+Davis          		Mean: 21.29 		Best: 185.97 		Nº:7
+Leggett        		Mean: 11.64 		Best: 185.97 		Nº:4
+Jaquez         		Mean: 10.13 		Best: 185.97 		Nº:6
+Richardson     		Mean: 90.77 		Best: 185.97 		Nº:2
+Roloff         		Mean: 30.01 		Best: 185.97 		Nº:6
+Bubrig         		Mean: 39.36 		Best: 177.1 		Nº:3
+Wilson         		Mean: 20.51 		Best: 177.1 		Nº:5
+Roussell       		Mean: 38.33 		Best: 177.1 		Nº:3
+Carter         		Mean: 21.31 		Best: 177.1 		Nº:7
+Richards       		Mean: 31.47 		Best: 167.72 		Nº:4
+Huppert        		Mean: 83.86 		Best: 167.72 		Nº:2
+Compton        		Mean: 0.0  		Best: 0.0 		Nº:3
+
+########## REPORT GEN: 68 ##########
+SPECIES: 
+Desrochers     		Mean: 59.03 		Best: 185.97 		Nº:3
+Franklin       		Mean: 34.33 		Best: 185.97 		Nº:4
+Morrow         		Mean: 17.5 		Best: 185.97 		Nº:7
+Wright         		Mean: 61.05 		Best: 185.97 		Nº:3
+Gray           		Mean: 18.24 		Best: 185.97 		Nº:7
+Montgomery     		Mean: 21.25 		Best: 185.97 		Nº:5
+Cortez         		Mean: 21.86 		Best: 185.97 		Nº:7
+Stephens       		Mean: 60.36 		Best: 185.97 		Nº:3
+Caines         		Mean: 14.83 		Best: 185.97 		Nº:7
+Davis          		Mean: 61.06 		Best: 185.97 		Nº:3
+Leggett        		Mean: 88.44 		Best: 185.97 		Nº:2
+Richardson     		Mean: 44.27 		Best: 185.97 		Nº:4
+Bubrig         		Mean: 19.15 		Best: 185.97 		Nº:6
+Wilson         		Mean: 20.68 		Best: 185.97 		Nº:3
+Roussell       		Mean: 21.77 		Best: 185.97 		Nº:7
+Carter         		Mean: 58.99 		Best: 185.97 		Nº:3
+Winfield       		Mean: 17.88 		Best: 177.1 		Nº:7
+Leland         		Mean: 39.52 		Best: 177.1 		Nº:3
+Jaquez         		Mean: 19.78 		Best: 177.1 		Nº:3
+Richards       		Mean: 20.52 		Best: 177.1 		Nº:5
+Zins           		Mean: 86.21 		Best: 177.1 		Nº:2
+Huppert        		Mean: 32.03 		Best: 177.1 		Nº:4
+Roloff         		Mean: 10.49 		Best: 167.72 		Nº:4
+
