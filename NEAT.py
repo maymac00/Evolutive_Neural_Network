@@ -3,7 +3,9 @@ from numpy.random import rand
 import IndividualFactory
 import copy
 
+
 class NEAT:
+    seed = 0
     adaptation = 0.3
     dropoff = 15
     blood_rate = 3
@@ -14,23 +16,32 @@ class NEAT:
     n_innovations = 0
     innovations = dict()
     max_len = 0
-    step = 2.5
-    species_pool_size = 15
+    step = 1
+    def_step = step
+    species_pool_size = 12
     reps = 1
     opt = "max"
 
-    distance_thld = 6.0
-    c1 = 1
-    c2 = 1
-    c3 = 0.3
+    game = "CartPole-v0"
+
+    distance_thld = 10.0
+    def_distance_thld = distance_thld
+    c1 = 2
+    c2 = 2
+    c3 = 1
 
     @staticmethod
-    def normalize(data, min=None, max=None):
-        if min != None:
+    def normalize01(data, min=None, max=None):
+        if min is not None:
             return (data - min) / (max - min)
         if data.max() - data.min() == 0:
             return np.ones_like(data)
         return (data - data.min()) / (data.max() - data.min())
+
+    # normalize data to [-1,1]
+    @staticmethod
+    def normalize_1_1(data, min=None, max=None):
+        return NEAT.normalize01(data, min=min, max=max) * 2 - 1
 
     @staticmethod
     def norm_variance(data, min, max):
