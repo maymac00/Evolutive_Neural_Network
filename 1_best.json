@@ -1,0 +1,76 @@
+{
+    "name": "Allen",
+    "fitness": -1.0,
+    "genome": [
+        {
+            "inp": 0,
+            "out": 3,
+            "w": -1.4619859517623208,
+            "enable": 1,
+            "innovation": 0
+        },
+        {
+            "inp": 1,
+            "out": 3,
+            "w": -1.4619859517623208,
+            "enable": 1,
+            "innovation": 1
+        },
+        {
+            "inp": 2,
+            "out": 3,
+            "w": -1.4619859517623208,
+            "enable": 0,
+            "innovation": 2
+        },
+        {
+            "inp": 6,
+            "out": 3,
+            "w": -1.4619859517623208,
+            "enable": 1,
+            "innovation": 3
+        },
+        {
+            "inp": 5,
+            "out": 3,
+            "w": -1.4619859517623208,
+            "enable": 0,
+            "innovation": 4
+        },
+        {
+            "inp": 2,
+            "out": 7,
+            "w": 1.0,
+            "enable": 1,
+            "innovation": 5
+        },
+        {
+            "inp": 7,
+            "out": 3,
+            "w": -1.4619859517623208,
+            "enable": 1,
+            "innovation": 6
+        },
+        {
+            "inp": 4,
+            "out": 3,
+            "w": -1.4619859517623208,
+            "enable": 1,
+            "innovation": 7
+        },
+        {
+            "inp": 5,
+            "out": 8,
+            "w": 1.0,
+            "enable": 1,
+            "innovation": 8
+        },
+        {
+            "inp": 8,
+            "out": 3,
+            "w": -1.4619859517623208,
+            "enable": 1,
+            "innovation": 9
+        }
+    ]
+}

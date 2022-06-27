@@ -7,6 +7,14 @@ from numpy.random import choice, rand
 from ConnectionGene import ConnectionGene
 import NEAT
 
+"""
+    Individual class
+    
+    This class is used to represent a neural network.
+    It contains the list of connection genes, the list of nodes and the fitness of the network among others.
+    It also contains the methods to create a new network from scratch, to mutate the network, to evaluate the network.
+"""
+
 
 class Individual:
     def get_graph(self):
@@ -234,6 +242,6 @@ class Individual:
 
     # Save individual to json file
     def save_individual(self):
-        with open(NEAT.NEAT.game+"/"+self.name+"_"+str(round(self.fitness, 3))+".json", 'w') as f:
+        with open(NEAT.NEAT.game + "/" + self.name + "_" + str(round(self.fitness, 3)) + ".json", 'w') as f:
             f.write(json.dumps(self.toJson(), indent=4))
         pass

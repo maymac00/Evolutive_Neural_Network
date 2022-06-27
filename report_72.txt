@@ -1,0 +1,1044 @@
+########## REPORT GEN: 2 ##########
+SPECIES: 
+Rodriguez      		Mean: 160.97 		Best: 932.88 		N:6
+Fields         		Mean: 59.49 		Best: 930.82 		N:17
+Foster         		Mean: 108.83 		Best: 931.77 		N:9
+Canfield       		Mean: 93.08 		Best: 928.24 		N:10
+Cunningham     		Mean: 140.41 		Best: 931.77 		N:7
+Kleypas        		Mean: 85.22 		Best: 928.24 		N:11
+Mathews        		Mean: 486.29 		Best: 928.24 		N:2
+Hendley        		Mean: 185.65 		Best: 928.24 		N:5
+Bass           		Mean: 233.39 		Best: 928.24 		N:4
+Solis          		Mean: 45.76 		Best: 930.82 		N:22
+Cook           		Mean: 320.29 		Best: 926.63 		N:3
+Sallade        		Mean: 238.54 		Best: 928.24 		N:4
+
+########## REPORT GEN: 3 ##########
+SPECIES: 
+Cunningham     		Mean: 66.74 		Best: 932.88 		N:15
+Sallade        		Mean: 240.79 		Best: 932.88 		N:4
+Fleagle        		Mean: 326.16 		Best: 932.88 		N:3
+Rodriguez      		Mean: 189.78 		Best: 928.24 		N:5
+Fields         		Mean: 140.15 		Best: 930.82 		N:7
+Canfield       		Mean: 323.36 		Best: 928.24 		N:3
+Mathews        		Mean: 142.2 		Best: 930.82 		N:7
+Hendley        		Mean: 186.85 		Best: 928.24 		N:5
+Bass           		Mean: 98.14 		Best: 931.77 		N:10
+Solis          		Mean: 83.3 		Best: 928.24 		N:12
+Brown          		Mean: 319.95 		Best: 931.77 		N:3
+Morton         		Mean: 194.38 		Best: 928.24 		N:5
+Foster         		Mean: 91.14 		Best: 930.82 		N:11
+Cook           		Mean: 123.51 		Best: 928.24 		N:8
+
+########## REPORT GEN: 4 ##########
+SPECIES: 
+Cunningham     		Mean: 195.25 		Best: 930.72 		N:5
+Sallade        		Mean: 120.7 		Best: 930.72 		N:8
+Foster         		Mean: 196.67 		Best: 930.72 		N:5
+Morton         		Mean: 89.57 		Best: 932.48 		N:11
+Fleagle        		Mean: 320.9 		Best: 932.88 		N:3
+Fields         		Mean: 108.61 		Best: 928.24 		N:9
+Kleypas        		Mean: 135.85 		Best: 928.24 		N:7
+Mathews        		Mean: 161.64 		Best: 928.24 		N:6
+Hendley        		Mean: 188.51 		Best: 928.24 		N:5
+Bass           		Mean: 194.33 		Best: 931.77 		N:5
+Brown          		Mean: 139.45 		Best: 933.55 		N:7
+Cook           		Mean: 108.23 		Best: 932.88 		N:9
+Mack           		Mean: 318.47 		Best: 928.24 		N:3
+Canfield       		Mean: 197.61 		Best: 928.24 		N:5
+Solis          		Mean: 162.74 		Best: 930.72 		N:6
+Brown          		Mean: 475.54 		Best: 925.85 		N:2
+Rodriguez      		Mean: 235.72 		Best: 928.24 		N:4
+
+########## REPORT GEN: 5 ##########
+SPECIES: 
+Canfield       		Mean: 195.47 		Best: 938.72 		N:5
+Fields         		Mean: 478.6 		Best: 932.88 		N:2
+Fleagle        		Mean: 161.44 		Best: 931.77 		N:6
+Brown          		Mean: 119.96 		Best: 931.77 		N:8
+Rodriguez      		Mean: 243.9 		Best: 929.51 		N:4
+Cunningham     		Mean: 108.05 		Best: 928.8 		N:9
+Foster         		Mean: 158.65 		Best: 928.24 		N:6
+Morton         		Mean: 236.44 		Best: 928.24 		N:4
+Kleypas        		Mean: 322.14 		Best: 928.24 		N:3
+Mathews        		Mean: 140.0 		Best: 930.82 		N:7
+Brown          		Mean: 320.43 		Best: 928.24 		N:3
+Cook           		Mean: 238.66 		Best: 928.24 		N:4
+Mack           		Mean: 163.37 		Best: 928.24 		N:6
+Sallade        		Mean: 98.05 		Best: 931.77 		N:10
+Hendley        		Mean: 158.78 		Best: 928.24 		N:6
+Bass           		Mean: 122.31 		Best: 928.24 		N:8
+Solis          		Mean: 119.14 		Best: 925.85 		N:8
+
+########## REPORT GEN: 6 ##########
+SPECIES: 
+Sallade        		Mean: 318.43 		Best: 940.32 		N:3
+Hendley        		Mean: 321.44 		Best: 938.72 		N:3
+Good           		Mean: 241.4 		Best: 933.81 		N:4
+Kleypas        		Mean: 120.22 		Best: 932.88 		N:8
+Canfield       		Mean: 319.26 		Best: 931.77 		N:3
+Fields         		Mean: 137.0 		Best: 931.77 		N:7
+Mathews        		Mean: 315.09 		Best: 931.77 		N:3
+Fleagle        		Mean: 97.31 		Best: 930.72 		N:10
+Mack           		Mean: 241.19 		Best: 930.72 		N:4
+Solis          		Mean: 191.61 		Best: 930.0 		N:5
+Rodriguez      		Mean: 478.54 		Best: 928.75 		N:2
+Cunningham     		Mean: 119.67 		Best: 928.24 		N:8
+Brown          		Mean: 74.78 		Best: 930.72 		N:13
+Cook           		Mean: 319.53 		Best: 928.24 		N:3
+Brown          		Mean: 138.16 		Best: 928.24 		N:7
+Foster         		Mean: 316.82 		Best: 927.19 		N:3
+Morton         		Mean: 137.45 		Best: 931.77 		N:7
+Bass           		Mean: 138.05 		Best: 928.24 		N:7
+
+########## REPORT GEN: 7 ##########
+SPECIES: 
+Solis          		Mean: 161.4 		Best: 940.32 		N:6
+Kleypas        		Mean: 194.86 		Best: 938.72 		N:5
+Cunningham     		Mean: 119.92 		Best: 940.32 		N:8
+Cook           		Mean: 96.45 		Best: 938.72 		N:10
+Bass           		Mean: 320.31 		Best: 938.72 		N:3
+Rodriguez      		Mean: 137.37 		Best: 933.81 		N:7
+Sallade        		Mean: 318.98 		Best: 931.77 		N:3
+Good           		Mean: 190.26 		Best: 931.77 		N:5
+Fields         		Mean: 192.71 		Best: 930.72 		N:5
+Hendley        		Mean: 136.54 		Best: 928.75 		N:7
+Brown          		Mean: 119.57 		Best: 928.75 		N:8
+Brown          		Mean: 120.94 		Best: 931.77 		N:8
+Foster         		Mean: 138.71 		Best: 930.0 		N:7
+Mack           		Mean: 233.28 		Best: 926.63 		N:4
+Canfield       		Mean: 157.58 		Best: 921.39 		N:6
+Morton         		Mean: 118.87 		Best: 926.63 		N:8
+
+########## REPORT GEN: 8 ##########
+SPECIES: 
+Kleypas        		Mean: 120.29 		Best: 945.63 		N:8
+Cunningham     		Mean: 160.5 		Best: 940.76 		N:6
+Canfield       		Mean: 136.74 		Best: 940.32 		N:7
+Bass           		Mean: 192.19 		Best: 938.72 		N:5
+Rodriguez      		Mean: 119.74 		Best: 938.72 		N:8
+Fields         		Mean: 137.15 		Best: 938.72 		N:7
+Brown          		Mean: 87.07 		Best: 938.72 		N:11
+Solis          		Mean: 159.51 		Best: 933.95 		N:6
+Morton         		Mean: 159.94 		Best: 932.77 		N:6
+Mack           		Mean: 472.12 		Best: 931.77 		N:2
+Hendley        		Mean: 105.83 		Best: 930.72 		N:9
+Cook           		Mean: 119.47 		Best: 928.24 		N:8
+Foster         		Mean: 312.91 		Best: 928.24 		N:3
+Sallade        		Mean: 137.3 		Best: 929.82 		N:7
+Brown          		Mean: 235.27 		Best: 927.19 		N:4
+Good           		Mean: 307.54 		Best: 916.02 		N:3
+
+########## REPORT GEN: 9 ##########
+SPECIES: 
+Fields         		Mean: 189.98 		Best: 945.63 		N:5
+Cunningham     		Mean: 95.56 		Best: 940.76 		N:10
+Solis          		Mean: 238.15 		Best: 940.37 		N:4
+Kleypas        		Mean: 106.68 		Best: 940.32 		N:9
+Mack           		Mean: 105.42 		Best: 938.72 		N:9
+Hendley        		Mean: 189.24 		Best: 938.72 		N:5
+Canfield       		Mean: 191.09 		Best: 933.95 		N:5
+Morton         		Mean: 117.76 		Best: 932.77 		N:8
+Brown          		Mean: 190.25 		Best: 931.77 		N:5
+Good           		Mean: 94.97 		Best: 930.72 		N:10
+Bass           		Mean: 465.3 		Best: 928.24 		N:2
+Brown          		Mean: 117.6 		Best: 928.24 		N:8
+Cook           		Mean: 158.27 		Best: 928.24 		N:6
+Sallade        		Mean: 104.38 		Best: 928.24 		N:9
+Rodriguez      		Mean: 236.1 		Best: 932.88 		N:4
+
+########## REPORT GEN: 10 ##########
+SPECIES: 
+Mack           		Mean: 94.95 		Best: 945.63 		N:10
+Canfield       		Mean: 117.99 		Best: 945.63 		N:8
+Cook           		Mean: 156.57 		Best: 945.63 		N:6
+Rodriguez      		Mean: 95.58 		Best: 940.37 		N:10
+Cunningham     		Mean: 239.15 		Best: 940.32 		N:4
+Foster         		Mean: 185.92 		Best: 938.72 		N:5
+Good           		Mean: 135.25 		Best: 933.95 		N:7
+Morton         		Mean: 236.51 		Best: 932.77 		N:4
+Fields         		Mean: 157.56 		Best: 932.88 		N:6
+Hendley        		Mean: 190.17 		Best: 932.88 		N:5
+Brown          		Mean: 316.02 		Best: 931.94 		N:3
+Bass           		Mean: 135.35 		Best: 930.72 		N:7
+Sallade        		Mean: 135.41 		Best: 930.72 		N:7
+Brown          		Mean: 134.54 		Best: 928.36 		N:7
+Kleypas        		Mean: 135.93 		Best: 928.24 		N:7
+Solis          		Mean: 186.62 		Best: 921.39 		N:5
+
+########## REPORT GEN: 11 ##########
+SPECIES: 
+Fields         		Mean: 136.07 		Best: 945.63 		N:7
+Hendley        		Mean: 95.02 		Best: 945.63 		N:10
+Kleypas        		Mean: 63.61 		Best: 945.63 		N:15
+Solis          		Mean: 117.56 		Best: 940.37 		N:8
+Foster         		Mean: 237.76 		Best: 938.72 		N:4
+Sallade        		Mean: 235.61 		Best: 931.85 		N:4
+Canfield       		Mean: 158.2 		Best: 932.88 		N:6
+Bass           		Mean: 135.93 		Best: 932.88 		N:7
+Cunningham     		Mean: 134.2 		Best: 940.32 		N:7
+Morton         		Mean: 187.77 		Best: 928.78 		N:5
+Rodriguez      		Mean: 132.62 		Best: 928.36 		N:7
+Brown          		Mean: 234.24 		Best: 928.24 		N:4
+Brown          		Mean: 157.77 		Best: 928.36 		N:6
+Good           		Mean: 229.92 		Best: 912.04 		N:4
+Mack           		Mean: 184.46 		Best: 909.94 		N:5
+
+########## REPORT GEN: 12 ##########
+SPECIES: 
+Cunningham     		Mean: 156.39 		Best: 945.63 		N:6
+Morton         		Mean: 188.96 		Best: 945.63 		N:5
+Kleypas        		Mean: 79.04 		Best: 940.88 		N:12
+Canfield       		Mean: 104.59 		Best: 940.37 		N:9
+Cook           		Mean: 235.88 		Best: 938.72 		N:4
+Fields         		Mean: 158.02 		Best: 937.83 		N:6
+Bass           		Mean: 134.8 		Best: 931.77 		N:7
+Good           		Mean: 156.81 		Best: 931.85 		N:6
+Hendley        		Mean: 116.79 		Best: 935.18 		N:8
+Foster         		Mean: 187.5 		Best: 928.36 		N:5
+Solis          		Mean: 133.6 		Best: 928.24 		N:7
+Rodriguez      		Mean: 469.58 		Best: 928.24 		N:2
+Brown          		Mean: 104.23 		Best: 928.24 		N:9
+Mack           		Mean: 229.85 		Best: 923.04 		N:4
+Brown          		Mean: 155.25 		Best: 923.04 		N:6
+Sallade        		Mean: 231.33 		Best: 916.02 		N:4
+
+########## REPORT GEN: 13 ##########
+SPECIES: 
+Morton         		Mean: 187.4 		Best: 946.76 		N:5
+Kleypas        		Mean: 84.62 		Best: 945.63 		N:11
+Bass           		Mean: 236.34 		Best: 945.63 		N:4
+Rodriguez      		Mean: 104.96 		Best: 944.08 		N:9
+Mack           		Mean: 104.85 		Best: 940.88 		N:9
+Cook           		Mean: 118.46 		Best: 940.32 		N:8
+Cunningham     		Mean: 188.98 		Best: 938.72 		N:5
+Brown          		Mean: 134.3 		Best: 934.45 		N:7
+Hendley        		Mean: 157.74 		Best: 933.6 		N:6
+Sallade        		Mean: 156.59 		Best: 931.77 		N:6
+Brown          		Mean: 186.18 		Best: 923.04 		N:5
+Good           		Mean: 132.63 		Best: 921.39 		N:7
+Canfield       		Mean: 116.53 		Best: 918.03 		N:8
+Foster         		Mean: 185.61 		Best: 916.02 		N:5
+Solis          		Mean: 231.51 		Best: 916.02 		N:4
+
+########## REPORT GEN: 14 ##########
+SPECIES: 
+Brown          		Mean: 157.37 		Best: 946.76 		N:6
+Canfield       		Mean: 234.44 		Best: 946.76 		N:4
+Kleypas        		Mean: 234.6 		Best: 945.63 		N:4
+Good           		Mean: 187.68 		Best: 945.63 		N:5
+Rodriguez      		Mean: 71.73 		Best: 944.08 		N:13
+Solis          		Mean: 117.45 		Best: 940.88 		N:8
+Fields         		Mean: 155.98 		Best: 940.32 		N:6
+Cunningham     		Mean: 187.42 		Best: 938.72 		N:5
+Mack           		Mean: 118.02 		Best: 934.45 		N:8
+Morton         		Mean: 236.5 		Best: 934.35 		N:4
+Bass           		Mean: 157.24 		Best: 931.77 		N:6
+Hendley        		Mean: 133.63 		Best: 929.51 		N:7
+Sallade        		Mean: 234.49 		Best: 927.87 		N:4
+Brown          		Mean: 186.1 		Best: 921.39 		N:5
+Cook           		Mean: 102.67 		Best: 916.02 		N:9
+Foster         		Mean: 154.67 		Best: 915.02 		N:6
+
+########## REPORT GEN: 15 ##########
+SPECIES: 
+Fields         		Mean: 237.55 		Best: 948.8 		N:4
+Brown          		Mean: 187.3 		Best: 946.76 		N:5
+Brown          		Mean: 157.11 		Best: 946.76 		N:6
+Foster         		Mean: 190.25 		Best: 945.63 		N:5
+Mack           		Mean: 134.01 		Best: 944.08 		N:7
+Cunningham     		Mean: 116.8 		Best: 941.21 		N:8
+Hendley        		Mean: 72.24 		Best: 940.88 		N:13
+Canfield       		Mean: 312.15 		Best: 940.32 		N:3
+Rodriguez      		Mean: 155.29 		Best: 935.18 		N:6
+Kleypas        		Mean: 233.42 		Best: 933.79 		N:4
+Bass           		Mean: 118.31 		Best: 933.6 		N:8
+Good           		Mean: 133.32 		Best: 929.51 		N:7
+Cook           		Mean: 115.78 		Best: 923.04 		N:8
+Solis          		Mean: 233.15 		Best: 921.39 		N:4
+Sallade        		Mean: 463.17 		Best: 919.54 		N:2
+Morton         		Mean: 92.84 		Best: 916.02 		N:10
+
+########## REPORT GEN: 16 ##########
+SPECIES: 
+Kleypas        		Mean: 117.45 		Best: 948.8 		N:8
+Bass           		Mean: 133.67 		Best: 948.8 		N:7
+Sallade        		Mean: 156.33 		Best: 948.8 		N:6
+Hendley        		Mean: 234.89 		Best: 946.76 		N:4
+Good           		Mean: 189.81 		Best: 946.76 		N:5
+Foster         		Mean: 134.42 		Best: 945.63 		N:7
+Rodriguez      		Mean: 93.83 		Best: 945.63 		N:10
+Solis          		Mean: 156.07 		Best: 945.63 		N:6
+Brown          		Mean: 156.75 		Best: 941.21 		N:6
+Brown          		Mean: 85.18 		Best: 940.57 		N:11
+Cook           		Mean: 155.37 		Best: 940.32 		N:6
+Fields         		Mean: 133.55 		Best: 934.13 		N:7
+Morton         		Mean: 313.56 		Best: 927.87 		N:3
+Mack           		Mean: 132.29 		Best: 918.78 		N:7
+Cunningham     		Mean: 231.85 		Best: 918.78 		N:4
+Canfield       		Mean: 307.57 		Best: 916.02 		N:3
+
+########## REPORT GEN: 17 ##########
+SPECIES: 
+Bass           		Mean: 117.53 		Best: 953.66 		N:8
+Hendley        		Mean: 189.3 		Best: 948.8 		N:5
+Rodriguez      		Mean: 237.5 		Best: 948.8 		N:4
+Canfield       		Mean: 104.41 		Best: 948.8 		N:9
+Foster         		Mean: 134.7 		Best: 946.76 		N:7
+Brown          		Mean: 314.1 		Best: 946.76 		N:3
+Brown          		Mean: 118.01 		Best: 945.63 		N:8
+Cunningham     		Mean: 104.91 		Best: 945.63 		N:9
+Solis          		Mean: 118.31 		Best: 946.76 		N:8
+Mack           		Mean: 134.22 		Best: 940.32 		N:7
+Kleypas        		Mean: 232.44 		Best: 933.79 		N:4
+Fields         		Mean: 116.08 		Best: 933.72 		N:8
+Morton         		Mean: 116.53 		Best: 932.71 		N:8
+Good           		Mean: 307.51 		Best: 916.02 		N:3
+Sallade        		Mean: 183.49 		Best: 912.04 		N:5
+Cook           		Mean: 231.37 		Best: 915.77 		N:4
+
+########## REPORT GEN: 18 ##########
+SPECIES: 
+Good           		Mean: 117.8 		Best: 953.66 		N:8
+Kleypas        		Mean: 156.48 		Best: 948.8 		N:6
+Fields         		Mean: 117.95 		Best: 948.8 		N:8
+Morton         		Mean: 103.91 		Best: 946.76 		N:9
+Sallade        		Mean: 310.17 		Best: 946.76 		N:3
+Cook           		Mean: 116.98 		Best: 946.76 		N:8
+Cunningham     		Mean: 187.6 		Best: 945.74 		N:5
+Brown          		Mean: 104.31 		Best: 945.63 		N:9
+Solis          		Mean: 187.78 		Best: 945.63 		N:5
+Foster         		Mean: 103.86 		Best: 945.63 		N:9
+Bass           		Mean: 186.93 		Best: 935.16 		N:5
+Brown          		Mean: 155.92 		Best: 934.94 		N:6
+Rodriguez      		Mean: 92.96 		Best: 933.79 		N:10
+Hendley        		Mean: 154.71 		Best: 932.71 		N:6
+Mack           		Mean: 312.25 		Best: 929.82 		N:3
+
+########## REPORT GEN: 19 ##########
+SPECIES: 
+Sallade        		Mean: 117.42 		Best: 953.66 		N:8
+Brown          		Mean: 134.35 		Best: 953.66 		N:7
+Fields         		Mean: 188.03 		Best: 948.8 		N:5
+Hendley        		Mean: 103.95 		Best: 948.8 		N:9
+Morton         		Mean: 135.14 		Best: 948.8 		N:7
+Cunningham     		Mean: 157.17 		Best: 946.76 		N:6
+Foster         		Mean: 134.5 		Best: 946.76 		N:7
+Cook           		Mean: 134.94 		Best: 946.72 		N:7
+Good           		Mean: 85.05 		Best: 946.06 		N:11
+Bass           		Mean: 116.97 		Best: 939.58 		N:8
+Mack           		Mean: 307.54 		Best: 926.32 		N:3
+Brown          		Mean: 185.44 		Best: 919.24 		N:5
+Kleypas        		Mean: 307.91 		Best: 916.02 		N:3
+Solis          		Mean: 132.12 		Best: 916.02 		N:7
+Rodriguez      		Mean: 131.71 		Best: 916.02 		N:7
+
+########## REPORT GEN: 20 ##########
+SPECIES: 
+Sallade        		Mean: 117.57 		Best: 953.66 		N:8
+Good           		Mean: 67.26 		Best: 953.66 		N:14
+Rodriguez      		Mean: 472.05 		Best: 953.66 		N:2
+Hendley        		Mean: 117.16 		Best: 948.8 		N:8
+Morton         		Mean: 103.57 		Best: 946.76 		N:9
+Cunningham     		Mean: 116.39 		Best: 946.76 		N:8
+Brown          		Mean: 315.82 		Best: 946.76 		N:3
+Fields         		Mean: 157.45 		Best: 946.76 		N:6
+Kleypas        		Mean: 155.53 		Best: 934.71 		N:6
+Solis          		Mean: 154.9 		Best: 934.63 		N:6
+Bass           		Mean: 186.29 		Best: 930.52 		N:5
+Brown          		Mean: 132.6 		Best: 922.38 		N:7
+Mack           		Mean: 184.86 		Best: 916.02 		N:5
+Cook           		Mean: 102.51 		Best: 912.04 		N:9
+Foster         		Mean: 184.94 		Best: 914.91 		N:5
+
+########## REPORT GEN: 21 ##########
+SPECIES: 
+Cunningham     		Mean: 104.38 		Best: 953.66 		N:9
+Brown          		Mean: 93.96 		Best: 953.66 		N:10
+Brown          		Mean: 186.09 		Best: 953.66 		N:5
+Hendley        		Mean: 92.69 		Best: 946.76 		N:10
+Mack           		Mean: 117.22 		Best: 946.76 		N:8
+Fields         		Mean: 314.73 		Best: 946.06 		N:3
+Cook           		Mean: 134.42 		Best: 946.04 		N:7
+Kleypas        		Mean: 134.52 		Best: 945.91 		N:7
+Solis          		Mean: 186.65 		Best: 944.19 		N:5
+Foster         		Mean: 133.34 		Best: 944.08 		N:7
+Morton         		Mean: 154.72 		Best: 940.59 		N:6
+Bass           		Mean: 185.76 		Best: 940.59 		N:5
+Good           		Mean: 116.42 		Best: 934.52 		N:8
+Sallade        		Mean: 102.72 		Best: 922.38 		N:9
+
+########## REPORT GEN: 22 ##########
+SPECIES: 
+Brown          		Mean: 132.62 		Best: 953.66 		N:7
+Hendley        		Mean: 117.77 		Best: 953.66 		N:8
+Rodriguez      		Mean: 155.23 		Best: 952.31 		N:6
+Morton         		Mean: 133.34 		Best: 946.76 		N:7
+Good           		Mean: 155.67 		Best: 946.76 		N:6
+Kleypas        		Mean: 117.09 		Best: 946.06 		N:8
+Sallade        		Mean: 188.97 		Best: 946.04 		N:5
+Cunningham     		Mean: 134.15 		Best: 945.91 		N:7
+Cook           		Mean: 77.69 		Best: 944.07 		N:12
+Mack           		Mean: 231.74 		Best: 933.72 		N:4
+Foster         		Mean: 187.07 		Best: 934.52 		N:5
+Fields         		Mean: 187.66 		Best: 934.94 		N:5
+Bass           		Mean: 231.25 		Best: 931.27 		N:4
+Brown          		Mean: 92.59 		Best: 919.52 		N:10
+Solis          		Mean: 153.59 		Best: 919.18 		N:6
+
+########## REPORT GEN: 23 ##########
+SPECIES: 
+Hendley        		Mean: 135.05 		Best: 953.66 		N:7
+Rodriguez      		Mean: 116.51 		Best: 953.66 		N:8
+Cook           		Mean: 85.09 		Best: 952.31 		N:11
+Sallade        		Mean: 185.41 		Best: 946.76 		N:5
+Mack           		Mean: 237.19 		Best: 946.76 		N:4
+Cunningham     		Mean: 133.88 		Best: 946.31 		N:7
+Kleypas        		Mean: 317.14 		Best: 946.06 		N:3
+Fields         		Mean: 103.19 		Best: 945.91 		N:9
+Good           		Mean: 103.92 		Best: 940.59 		N:9
+Bass           		Mean: 115.89 		Best: 935.76 		N:8
+Brown          		Mean: 132.01 		Best: 934.52 		N:7
+Morton         		Mean: 186.37 		Best: 933.7 		N:5
+Solis          		Mean: 186.36 		Best: 933.36 		N:5
+Foster         		Mean: 154.79 		Best: 932.88 		N:6
+Brown          		Mean: 153.76 		Best: 925.37 		N:6
+
+########## REPORT GEN: 24 ##########
+SPECIES: 
+Cook           		Mean: 104.14 		Best: 953.66 		N:9
+Sallade        		Mean: 186.82 		Best: 953.66 		N:5
+Solis          		Mean: 118.02 		Best: 952.31 		N:8
+Good           		Mean: 134.84 		Best: 946.76 		N:7
+Bass           		Mean: 72.02 		Best: 946.76 		N:13
+Morton         		Mean: 72.09 		Best: 946.76 		N:13
+Foster         		Mean: 93.08 		Best: 946.31 		N:10
+Hendley        		Mean: 84.9 		Best: 935.76 		N:11
+Cunningham     		Mean: 187.13 		Best: 935.64 		N:5
+Fields         		Mean: 155.26 		Best: 934.64 		N:6
+Rodriguez      		Mean: 233.44 		Best: 932.68 		N:4
+Brown          		Mean: 184.99 		Best: 931.92 		N:5
+Brown          		Mean: 463.66 		Best: 925.37 		N:2
+Mack           		Mean: 458.54 		Best: 909.27 		N:2
+
+########## REPORT GEN: 25 ##########
+SPECIES: 
+Cook           		Mean: 117.47 		Best: 953.66 		N:8
+Bass           		Mean: 104.76 		Best: 953.66 		N:9
+Hendley        		Mean: 155.81 		Best: 953.66 		N:6
+Rodriguez      		Mean: 104.52 		Best: 953.66 		N:9
+Sallade        		Mean: 188.05 		Best: 952.31 		N:5
+Solis          		Mean: 104.13 		Best: 946.76 		N:9
+Good           		Mean: 133.61 		Best: 946.76 		N:7
+Fields         		Mean: 133.71 		Best: 946.31 		N:7
+Cunningham     		Mean: 93.25 		Best: 936.44 		N:10
+Brown          		Mean: 132.83 		Best: 935.64 		N:7
+Brown          		Mean: 154.98 		Best: 934.84 		N:6
+Morton         		Mean: 133.14 		Best: 933.7 		N:7
+Foster         		Mean: 184.84 		Best: 931.92 		N:5
+Mack           		Mean: 185.04 		Best: 916.5 		N:5
+
+########## REPORT GEN: 26 ##########
+SPECIES: 
+Hendley        		Mean: 116.57 		Best: 953.66 		N:8
+Sallade        		Mean: 134.51 		Best: 953.66 		N:7
+Cunningham     		Mean: 104.78 		Best: 953.66 		N:9
+Brown          		Mean: 134.08 		Best: 953.66 		N:7
+Mack           		Mean: 157.41 		Best: 953.66 		N:6
+Rodriguez      		Mean: 116.93 		Best: 952.31 		N:8
+Brown          		Mean: 236.36 		Best: 952.31 		N:4
+Foster         		Mean: 155.41 		Best: 947.01 		N:6
+Solis          		Mean: 117.38 		Best: 946.76 		N:8
+Cook           		Mean: 103.55 		Best: 936.9 		N:9
+Fields         		Mean: 104.31 		Best: 935.76 		N:9
+Morton         		Mean: 132.9 		Best: 934.84 		N:7
+Good           		Mean: 115.55 		Best: 931.92 		N:8
+Bass           		Mean: 231.15 		Best: 925.37 		N:4
+
+########## REPORT GEN: 27 ##########
+SPECIES: 
+Hendley        		Mean: 72.15 		Best: 953.66 		N:13
+Sallade        		Mean: 157.7 		Best: 953.66 		N:6
+Mack           		Mean: 315.71 		Best: 953.66 		N:3
+Rodriguez      		Mean: 134.26 		Best: 953.66 		N:7
+Foster         		Mean: 188.08 		Best: 953.66 		N:5
+Morton         		Mean: 115.61 		Best: 953.66 		N:8
+Cook           		Mean: 92.95 		Best: 952.31 		N:10
+Fields         		Mean: 154.91 		Best: 952.31 		N:6
+Brown          		Mean: 133.16 		Best: 947.01 		N:7
+Cunningham     		Mean: 236.79 		Best: 946.76 		N:4
+Brown          		Mean: 186.13 		Best: 939.73 		N:5
+Good           		Mean: 187.37 		Best: 939.73 		N:5
+Solis          		Mean: 93.1 		Best: 938.54 		N:10
+Bass           		Mean: 84.77 		Best: 936.9 		N:11
+
+########## REPORT GEN: 28 ##########
+SPECIES: 
+Fields         		Mean: 105.69 		Best: 964.63 		N:9
+Brown          		Mean: 94.85 		Best: 964.59 		N:10
+Sallade        		Mean: 158.58 		Best: 953.66 		N:6
+Morton         		Mean: 71.87 		Best: 953.66 		N:13
+Cook           		Mean: 155.85 		Best: 953.66 		N:6
+Bass           		Mean: 156.7 		Best: 953.66 		N:6
+Hendley        		Mean: 236.49 		Best: 952.31 		N:4
+Cunningham     		Mean: 155.41 		Best: 952.31 		N:6
+Good           		Mean: 94.1 		Best: 952.31 		N:10
+Rodriguez      		Mean: 103.3 		Best: 947.01 		N:9
+Foster         		Mean: 134.1 		Best: 947.01 		N:7
+Brown          		Mean: 155.11 		Best: 935.12 		N:6
+Mack           		Mean: 232.77 		Best: 924.12 		N:4
+Solis          		Mean: 230.48 		Best: 913.2 		N:4
+
+########## REPORT GEN: 29 ##########
+SPECIES: 
+Cook           		Mean: 156.36 		Best: 967.02 		N:6
+Sallade        		Mean: 156.31 		Best: 964.59 		N:6
+Bass           		Mean: 238.33 		Best: 961.43 		N:4
+Good           		Mean: 118.46 		Best: 961.15 		N:8
+Cunningham     		Mean: 78.67 		Best: 960.48 		N:12
+Hendley        		Mean: 117.3 		Best: 953.66 		N:8
+Foster         		Mean: 117.9 		Best: 953.66 		N:8
+Brown          		Mean: 133.9 		Best: 953.66 		N:7
+Morton         		Mean: 116.99 		Best: 952.31 		N:8
+Mack           		Mean: 187.51 		Best: 952.31 		N:5
+Brown          		Mean: 93.86 		Best: 947.01 		N:10
+Solis          		Mean: 116.94 		Best: 942.41 		N:8
+Fields         		Mean: 155.41 		Best: 936.2 		N:6
+Rodriguez      		Mean: 231.82 		Best: 923.16 		N:4
+
+########## REPORT GEN: 30 ##########
+SPECIES: 
+Bass           		Mean: 105.1 		Best: 968.35 		N:9
+Sallade        		Mean: 186.9 		Best: 967.02 		N:5
+Rodriguez      		Mean: 242.85 		Best: 967.02 		N:4
+Cunningham     		Mean: 192.54 		Best: 964.59 		N:5
+Cook           		Mean: 157.41 		Best: 961.43 		N:6
+Foster         		Mean: 320.77 		Best: 961.15 		N:3
+Brown          		Mean: 103.71 		Best: 948.6 		N:9
+Morton         		Mean: 117.35 		Best: 947.79 		N:8
+Hendley        		Mean: 133.97 		Best: 944.97 		N:7
+Mack           		Mean: 103.86 		Best: 944.97 		N:9
+Good           		Mean: 133.04 		Best: 944.66 		N:7
+Brown          		Mean: 103.19 		Best: 939.49 		N:9
+Fields         		Mean: 93.8 		Best: 939.49 		N:10
+Solis          		Mean: 93.06 		Best: 939.49 		N:10
+
+########## REPORT GEN: 31 ##########
+SPECIES: 
+Cunningham     		Mean: 59.3 		Best: 968.49 		N:16
+Bass           		Mean: 68.04 		Best: 968.35 		N:14
+Hendley        		Mean: 137.28 		Best: 968.35 		N:7
+Foster         		Mean: 240.61 		Best: 967.02 		N:4
+Cook           		Mean: 105.88 		Best: 964.59 		N:9
+Sallade        		Mean: 78.07 		Best: 960.48 		N:12
+Fields         		Mean: 157.84 		Best: 964.59 		N:6
+Good           		Mean: 94.01 		Best: 953.66 		N:10
+Rodriguez      		Mean: 185.92 		Best: 952.96 		N:5
+Morton         		Mean: 188.51 		Best: 952.96 		N:5
+Mack           		Mean: 311.05 		Best: 934.19 		N:3
+Brown          		Mean: 232.55 		Best: 927.53 		N:4
+Solis          		Mean: 228.7 		Best: 915.72 		N:4
+
+########## REPORT GEN: 32 ##########
+SPECIES: 
+Fields         		Mean: 94.37 		Best: 968.35 		N:10
+Good           		Mean: 191.12 		Best: 968.35 		N:5
+Rodriguez      		Mean: 95.02 		Best: 968.49 		N:10
+Mack           		Mean: 136.63 		Best: 968.35 		N:7
+Brown          		Mean: 93.4 		Best: 967.02 		N:10
+Brown          		Mean: 155.93 		Best: 967.02 		N:6
+Cunningham     		Mean: 159.71 		Best: 968.35 		N:6
+Bass           		Mean: 157.73 		Best: 964.59 		N:6
+Sallade        		Mean: 94.13 		Best: 961.15 		N:10
+Morton         		Mean: 156.35 		Best: 960.48 		N:6
+Solis          		Mean: 118.59 		Best: 960.48 		N:8
+Cook           		Mean: 235.86 		Best: 952.31 		N:4
+Foster         		Mean: 116.97 		Best: 948.6 		N:8
+Hendley        		Mean: 231.93 		Best: 923.89 		N:4
+
+########## REPORT GEN: 33 ##########
+SPECIES: 
+Brown          		Mean: 136.28 		Best: 968.49 		N:7
+Hendley        		Mean: 104.95 		Best: 968.49 		N:9
+Bass           		Mean: 118.72 		Best: 968.35 		N:8
+Solis          		Mean: 135.17 		Best: 968.35 		N:7
+Rodriguez      		Mean: 157.38 		Best: 968.24 		N:6
+Mack           		Mean: 106.9 		Best: 968.35 		N:9
+Cunningham     		Mean: 156.59 		Best: 967.02 		N:6
+Foster         		Mean: 133.63 		Best: 966.68 		N:7
+Cook           		Mean: 103.83 		Best: 960.48 		N:9
+Brown          		Mean: 117.46 		Best: 959.67 		N:8
+Good           		Mean: 94.17 		Best: 953.77 		N:10
+Morton         		Mean: 191.1 		Best: 953.66 		N:5
+Fields         		Mean: 187.91 		Best: 948.6 		N:5
+Sallade        		Mean: 229.81 		Best: 913.66 		N:4
+
+########## REPORT GEN: 34 ##########
+SPECIES: 
+Rodriguez      		Mean: 135.65 		Best: 968.49 		N:7
+Mack           		Mean: 119.13 		Best: 968.49 		N:8
+Good           		Mean: 94.08 		Best: 968.35 		N:10
+Sallade        		Mean: 87.15 		Best: 968.35 		N:11
+Brown          		Mean: 238.41 		Best: 968.24 		N:4
+Cook           		Mean: 119.81 		Best: 961.01 		N:8
+Bass           		Mean: 93.92 		Best: 960.48 		N:10
+Fields         		Mean: 105.46 		Best: 959.67 		N:9
+Morton         		Mean: 156.79 		Best: 953.77 		N:6
+Brown          		Mean: 235.24 		Best: 953.66 		N:4
+Solis          		Mean: 118.12 		Best: 951.95 		N:8
+Foster         		Mean: 133.43 		Best: 951.95 		N:7
+Cunningham     		Mean: 187.92 		Best: 948.6 		N:5
+Hendley        		Mean: 310.95 		Best: 935.4 		N:3
+
+########## REPORT GEN: 35 ##########
+SPECIES: 
+Solis          		Mean: 106.19 		Best: 968.49 		N:9
+Hendley        		Mean: 96.38 		Best: 968.49 		N:10
+Cook           		Mean: 105.83 		Best: 968.35 		N:9
+Morton         		Mean: 137.93 		Best: 968.24 		N:7
+Bass           		Mean: 78.1 		Best: 967.02 		N:12
+Rodriguez      		Mean: 136.93 		Best: 966.68 		N:7
+Good           		Mean: 117.71 		Best: 960.48 		N:8
+Brown          		Mean: 105.23 		Best: 961.25 		N:9
+Fields         		Mean: 134.6 		Best: 953.77 		N:7
+Cunningham     		Mean: 186.48 		Best: 951.95 		N:5
+Sallade        		Mean: 234.01 		Best: 946.64 		N:4
+Mack           		Mean: 187.48 		Best: 945.06 		N:5
+Brown          		Mean: 187.04 		Best: 940.52 		N:5
+Foster         		Mean: 309.38 		Best: 935.15 		N:3
+
+########## REPORT GEN: 36 ##########
+SPECIES: 
+Bass           		Mean: 104.81 		Best: 968.49 		N:9
+Rodriguez      		Mean: 192.71 		Best: 968.35 		N:5
+Brown          		Mean: 79.1 		Best: 968.35 		N:12
+Hendley        		Mean: 106.36 		Best: 968.24 		N:9
+Cunningham     		Mean: 106.29 		Best: 968.49 		N:9
+Sallade        		Mean: 233.3 		Best: 967.02 		N:4
+Morton         		Mean: 159.66 		Best: 966.68 		N:6
+Mack           		Mean: 189.58 		Best: 959.67 		N:5
+Fields         		Mean: 187.64 		Best: 952.12 		N:5
+Solis          		Mean: 104.49 		Best: 950.92 		N:9
+Cook           		Mean: 93.18 		Best: 946.51 		N:10
+Good           		Mean: 156.72 		Best: 945.06 		N:6
+Brown          		Mean: 155.85 		Best: 937.67 		N:6
+Foster         		Mean: 185.72 		Best: 934.84 		N:5
+
+########## REPORT GEN: 37 ##########
+SPECIES: 
+Rodriguez      		Mean: 189.36 		Best: 968.35 		N:5
+Solis          		Mean: 119.04 		Best: 968.49 		N:8
+Brown          		Mean: 94.52 		Best: 968.24 		N:10
+Cook           		Mean: 155.89 		Best: 968.24 		N:6
+Good           		Mean: 158.04 		Best: 967.02 		N:6
+Bass           		Mean: 135.7 		Best: 966.68 		N:7
+Mack           		Mean: 78.61 		Best: 961.01 		N:12
+Hendley        		Mean: 189.75 		Best: 961.01 		N:5
+Cunningham     		Mean: 135.25 		Best: 959.67 		N:7
+Sallade        		Mean: 239.2 		Best: 959.67 		N:4
+Morton         		Mean: 312.62 		Best: 959.67 		N:3
+Fields         		Mean: 78.76 		Best: 959.67 		N:12
+Foster         		Mean: 93.88 		Best: 940.52 		N:10
+Brown          		Mean: 185.57 		Best: 934.8 		N:5
+
+########## REPORT GEN: 38 ##########
+SPECIES: 
+Cunningham     		Mean: 87.54 		Best: 968.49 		N:11
+Morton         		Mean: 190.77 		Best: 968.35 		N:5
+Brown          		Mean: 134.71 		Best: 968.24 		N:7
+Cook           		Mean: 159.48 		Best: 968.24 		N:6
+Good           		Mean: 156.65 		Best: 968.24 		N:6
+Solis          		Mean: 85.91 		Best: 967.02 		N:11
+Fields         		Mean: 93.72 		Best: 966.68 		N:10
+Foster         		Mean: 135.97 		Best: 959.67 		N:7
+Brown          		Mean: 135.38 		Best: 961.01 		N:7
+Mack           		Mean: 234.85 		Best: 940.52 		N:4
+Hendley        		Mean: 117.86 		Best: 940.32 		N:8
+Bass           		Mean: 185.97 		Best: 935.4 		N:5
+Rodriguez      		Mean: 93.55 		Best: 933.92 		N:10
+Sallade        		Mean: 310.57 		Best: 926.45 		N:3
+
+########## REPORT GEN: 39 ##########
+SPECIES: 
+Good           		Mean: 78.97 		Best: 968.24 		N:12
+Bass           		Mean: 106.28 		Best: 968.35 		N:9
+Cunningham     		Mean: 117.85 		Best: 967.02 		N:8
+Mack           		Mean: 94.98 		Best: 966.68 		N:10
+Cook           		Mean: 134.56 		Best: 959.67 		N:7
+Hendley        		Mean: 78.65 		Best: 959.67 		N:12
+Brown          		Mean: 312.74 		Best: 946.51 		N:3
+Brown          		Mean: 118.04 		Best: 946.51 		N:8
+Sallade        		Mean: 134.03 		Best: 945.06 		N:7
+Morton         		Mean: 156.8 		Best: 944.5 		N:6
+Foster         		Mean: 155.87 		Best: 939.93 		N:6
+Rodriguez      		Mean: 133.46 		Best: 933.52 		N:7
+Fields         		Mean: 232.42 		Best: 926.9 		N:4
+
+########## REPORT GEN: 40 ##########
+SPECIES: 
+Rodriguez      		Mean: 62.7 		Best: 968.49 		N:15
+Mack           		Mean: 105.15 		Best: 968.24 		N:9
+Hendley        		Mean: 317.75 		Best: 968.24 		N:3
+Morton         		Mean: 118.37 		Best: 968.24 		N:8
+Cunningham     		Mean: 156.0 		Best: 967.02 		N:6
+Good           		Mean: 105.67 		Best: 966.68 		N:9
+Brown          		Mean: 104.68 		Best: 961.44 		N:9
+Bass           		Mean: 315.05 		Best: 961.37 		N:3
+Cook           		Mean: 85.13 		Best: 961.37 		N:11
+Sallade        		Mean: 85.53 		Best: 959.67 		N:11
+Foster         		Mean: 186.9 		Best: 939.49 		N:5
+Brown          		Mean: 468.37 		Best: 936.74 		N:2
+Solis          		Mean: 133.37 		Best: 934.61 		N:7
+Fields         		Mean: 307.54 		Best: 926.9 		N:3
+
+########## REPORT GEN: 41 ##########
+SPECIES: 
+Solis          		Mean: 134.64 		Best: 968.49 		N:7
+Rodriguez      		Mean: 475.67 		Best: 968.24 		N:2
+Good           		Mean: 86.4 		Best: 968.24 		N:11
+Brown          		Mean: 78.93 		Best: 968.24 		N:12
+Fields         		Mean: 134.68 		Best: 968.24 		N:7
+Mack           		Mean: 94.18 		Best: 967.02 		N:10
+Brown          		Mean: 104.98 		Best: 961.44 		N:9
+Foster         		Mean: 85.32 		Best: 939.02 		N:11
+Hendley        		Mean: 133.14 		Best: 935.6 		N:7
+Bass           		Mean: 116.25 		Best: 935.4 		N:8
+Morton         		Mean: 133.79 		Best: 936.74 		N:7
+Cunningham     		Mean: 152.9 		Best: 926.9 		N:6
+Sallade        		Mean: 457.16 		Best: 910.31 		N:2
+
+########## REPORT GEN: 42 ##########
+SPECIES: 
+Good           		Mean: 78.69 		Best: 968.49 		N:12
+Solis          		Mean: 105.29 		Best: 968.24 		N:9
+Mack           		Mean: 192.45 		Best: 968.24 		N:5
+Foster         		Mean: 58.62 		Best: 966.68 		N:16
+Morton         		Mean: 94.01 		Best: 961.44 		N:10
+Cunningham     		Mean: 186.66 		Best: 953.77 		N:5
+Rodriguez      		Mean: 133.67 		Best: 946.51 		N:7
+Brown          		Mean: 156.1 		Best: 939.02 		N:6
+Hendley        		Mean: 186.8 		Best: 939.02 		N:5
+Sallade        		Mean: 153.87 		Best: 936.74 		N:6
+Brown          		Mean: 230.73 		Best: 935.6 		N:4
+Fields         		Mean: 184.55 		Best: 934.8 		N:5
+Cook           		Mean: 184.04 		Best: 923.99 		N:5
+Bass           		Mean: 184.32 		Best: 916.1 		N:5
+
+########## REPORT GEN: 43 ##########
+SPECIES: 
+Good           		Mean: 104.61 		Best: 968.49 		N:9
+Sallade        		Mean: 105.14 		Best: 968.24 		N:9
+Brown          		Mean: 66.5 		Best: 968.24 		N:14
+Cook           		Mean: 314.09 		Best: 966.68 		N:3
+Bass           		Mean: 133.45 		Best: 966.68 		N:7
+Hendley        		Mean: 77.53 		Best: 961.44 		N:12
+Cunningham     		Mean: 155.03 		Best: 946.51 		N:6
+Brown          		Mean: 154.68 		Best: 939.02 		N:6
+Rodriguez      		Mean: 464.38 		Best: 936.74 		N:2
+Fields         		Mean: 103.39 		Best: 934.8 		N:9
+Foster         		Mean: 462.37 		Best: 925.51 		N:2
+Morton         		Mean: 232.62 		Best: 923.99 		N:4
+Mack           		Mean: 77.02 		Best: 919.48 		N:12
+Solis          		Mean: 184.29 		Best: 916.55 		N:5
+
+########## REPORT GEN: 44 ##########
+SPECIES: 
+Solis          		Mean: 62.6 		Best: 968.49 		N:15
+Cook           		Mean: 157.26 		Best: 968.24 		N:6
+Cunningham     		Mean: 188.75 		Best: 968.24 		N:5
+Fields         		Mean: 232.32 		Best: 968.24 		N:4
+Brown          		Mean: 155.6 		Best: 966.68 		N:6
+Sallade        		Mean: 155.62 		Best: 961.44 		N:6
+Hendley        		Mean: 92.08 		Best: 940.54 		N:10
+Bass           		Mean: 186.9 		Best: 939.02 		N:5
+Foster         		Mean: 70.71 		Best: 939.02 		N:13
+Mack           		Mean: 102.58 		Best: 939.02 		N:9
+Brown          		Mean: 184.74 		Best: 936.74 		N:5
+Good           		Mean: 116.69 		Best: 934.8 		N:8
+Morton         		Mean: 185.76 		Best: 919.0 		N:5
+Rodriguez      		Mean: 307.51 		Best: 917.67 		N:3
+
+########## REPORT GEN: 45 ##########
+SPECIES: 
+Good           		Mean: 104.06 		Best: 968.83 		N:9
+Foster         		Mean: 472.48 		Best: 968.49 		N:2
+Cunningham     		Mean: 314.84 		Best: 968.24 		N:3
+Fields         		Mean: 71.91 		Best: 968.24 		N:13
+Mack           		Mean: 94.59 		Best: 968.24 		N:10
+Morton         		Mean: 133.37 		Best: 968.24 		N:7
+Hendley        		Mean: 316.44 		Best: 966.68 		N:3
+Cook           		Mean: 84.41 		Best: 941.57 		N:11
+Rodriguez      		Mean: 233.76 		Best: 941.42 		N:4
+Brown          		Mean: 131.66 		Best: 940.89 		N:7
+Bass           		Mean: 152.58 		Best: 939.02 		N:6
+Solis          		Mean: 84.09 		Best: 930.06 		N:11
+Brown          		Mean: 115.25 		Best: 917.67 		N:8
+Sallade        		Mean: 151.8 		Best: 904.06 		N:6
+
+########## REPORT GEN: 46 ##########
+SPECIES: 
+Sallade        		Mean: 104.8 		Best: 968.49 		N:9
+Cunningham     		Mean: 132.13 		Best: 968.24 		N:7
+Cook           		Mean: 156.87 		Best: 968.24 		N:6
+Brown          		Mean: 86.19 		Best: 968.83 		N:11
+Solis          		Mean: 156.29 		Best: 968.24 		N:6
+Hendley        		Mean: 49.16 		Best: 967.23 		N:19
+Mack           		Mean: 134.82 		Best: 966.68 		N:7
+Foster         		Mean: 133.53 		Best: 941.57 		N:7
+Morton         		Mean: 153.96 		Best: 930.06 		N:6
+Brown          		Mean: 181.71 		Best: 919.87 		N:5
+Good           		Mean: 304.91 		Best: 917.33 		N:3
+Fields         		Mean: 129.75 		Best: 913.19 		N:7
+Rodriguez      		Mean: 151.59 		Best: 913.19 		N:6
+
+########## REPORT GEN: 47 ##########
+SPECIES: 
+Sallade        		Mean: 103.62 		Best: 968.24 		N:9
+Cunningham     		Mean: 85.82 		Best: 968.24 		N:11
+Brown          		Mean: 104.4 		Best: 967.23 		N:9
+Morton         		Mean: 133.49 		Best: 966.68 		N:7
+Mack           		Mean: 66.89 		Best: 961.11 		N:14
+Foster         		Mean: 232.41 		Best: 943.96 		N:4
+Cook           		Mean: 187.76 		Best: 940.65 		N:5
+Fields         		Mean: 153.64 		Best: 939.02 		N:6
+Bass           		Mean: 230.62 		Best: 935.87 		N:4
+Good           		Mean: 230.22 		Best: 935.87 		N:4
+Solis          		Mean: 307.78 		Best: 922.65 		N:3
+Hendley        		Mean: 182.34 		Best: 919.87 		N:5
+Rodriguez      		Mean: 130.0 		Best: 919.87 		N:7
+Brown          		Mean: 130.64 		Best: 917.63 		N:7
+
+########## REPORT GEN: 48 ##########
+SPECIES: 
+Hendley        		Mean: 155.69 		Best: 968.24 		N:6
+Foster         		Mean: 156.27 		Best: 966.68 		N:6
+Solis          		Mean: 185.97 		Best: 961.11 		N:5
+Cunningham     		Mean: 234.29 		Best: 943.96 		N:4
+Fields         		Mean: 102.38 		Best: 940.65 		N:9
+Good           		Mean: 184.66 		Best: 935.87 		N:5
+Mack           		Mean: 102.44 		Best: 935.43 		N:9
+Bass           		Mean: 154.5 		Best: 934.7 		N:6
+Sallade        		Mean: 91.05 		Best: 919.87 		N:10
+Rodriguez      		Mean: 152.45 		Best: 919.87 		N:6
+Cook           		Mean: 227.69 		Best: 913.37 		N:4
+Morton         		Mean: 130.1 		Best: 911.65 		N:7
+Brown          		Mean: 181.49 		Best: 905.05 		N:5
+
+########## REPORT GEN: 49 ##########
+SPECIES: 
+Good           		Mean: 115.61 		Best: 966.68 		N:8
+Morton         		Mean: 102.09 		Best: 961.11 		N:9
+Hendley        		Mean: 114.13 		Best: 934.7 		N:8
+Fields         		Mean: 229.5 		Best: 928.11 		N:4
+Mack           		Mean: 91.67 		Best: 922.65 		N:10
+Bass           		Mean: 153.63 		Best: 922.65 		N:6
+Sallade        		Mean: 228.34 		Best: 919.87 		N:4
+Brown          		Mean: 227.39 		Best: 913.37 		N:4
+Foster         		Mean: 452.97 		Best: 905.69 		N:2
+Cook           		Mean: 226.27 		Best: 905.14 		N:4
+
+########## REPORT GEN: 50 ##########
+SPECIES: 
+Solis          		Mean: 153.76 		Best: 968.83 		N:6
+Morton         		Mean: 102.98 		Best: 968.66 		N:9
+Mack           		Mean: 114.9 		Best: 968.66 		N:8
+Foster         		Mean: 155.05 		Best: 968.66 		N:6
+Bass           		Mean: 474.19 		Best: 962.28 		N:2
+Sallade        		Mean: 236.82 		Best: 961.11 		N:4
+Hendley        		Mean: 130.78 		Best: 946.54 		N:7
+Brown          		Mean: 184.66 		Best: 945.37 		N:5
+Cook           		Mean: 458.7 		Best: 923.99 		N:2
+Fields         		Mean: 229.1 		Best: 917.83 		N:4
+
+########## REPORT GEN: 51 ##########
+SPECIES: 
+Sallade        		Mean: 188.75 		Best: 968.83 		N:5
+Solis          		Mean: 93.34 		Best: 968.66 		N:10
+Bass           		Mean: 237.25 		Best: 968.66 		N:4
+Cunningham     		Mean: 155.97 		Best: 968.66 		N:6
+Foster         		Mean: 186.22 		Best: 962.28 		N:5
+Hendley        		Mean: 303.02 		Best: 916.71 		N:3
+Mack           		Mean: 302.98 		Best: 908.54 		N:3
+Morton         		Mean: 82.59 		Best: 908.14 		N:11
+Cook           		Mean: 302.89 		Best: 907.39 		N:3
+
+########## REPORT GEN: 52 ##########
+SPECIES: 
+Bass           		Mean: 316.16 		Best: 968.66 		N:3
+Foster         		Mean: 157.07 		Best: 968.83 		N:6
+Solis          		Mean: 93.06 		Best: 958.19 		N:10
+Sallade        		Mean: 131.3 		Best: 953.86 		N:7
+Morton         		Mean: 60.64 		Best: 911.42 		N:15
+Cunningham     		Mean: 75.82 		Best: 908.79 		N:12
+Mack           		Mean: 113.69 		Best: 908.54 		N:8
+
+########## REPORT GEN: 53 ##########
+SPECIES: 
+Foster         		Mean: 158.62 		Best: 968.83 		N:6
+Solis          		Mean: 84.85 		Best: 968.66 		N:11
+Sallade        		Mean: 62.61 		Best: 968.66 		N:15
+Bass           		Mean: 133.8 		Best: 958.19 		N:7
+Morton         		Mean: 50.81 		Best: 953.86 		N:18
+Mack           		Mean: 39.57 		Best: 909.52 		N:23
+Cunningham     		Mean: 45.49 		Best: 908.54 		N:20
+
+########## REPORT GEN: 54 ##########
+SPECIES: 
+Solis          		Mean: 49.87 		Best: 968.66 		N:19
+Bass           		Mean: 58.58 		Best: 968.83 		N:16
+Sallade        		Mean: 84.78 		Best: 961.13 		N:11
+Foster         		Mean: 132.29 		Best: 933.21 		N:7
+Mack           		Mean: 65.14 		Best: 915.09 		N:14
+Cunningham     		Mean: 56.97 		Best: 909.52 		N:16
+Morton         		Mean: 53.55 		Best: 909.17 		N:17
+
+########## REPORT GEN: 55 ##########
+SPECIES: 
+Bass           		Mean: 58.79 		Best: 968.66 		N:16
+Foster         		Mean: 47.19 		Best: 968.66 		N:20
+Solis          		Mean: 54.74 		Best: 958.19 		N:17
+Sallade        		Mean: 77.07 		Best: 929.85 		N:12
+Cunningham     		Mean: 76.01 		Best: 915.09 		N:12
+Morton         		Mean: 65.16 		Best: 913.14 		N:14
+Mack           		Mean: 101.49 		Best: 909.52 		N:9
+
+########## REPORT GEN: 56 ##########
+SPECIES: 
+Foster         		Mean: 67.04 		Best: 968.66 		N:14
+Solis          		Mean: 72.16 		Best: 968.66 		N:13
+Sallade        		Mean: 85.46 		Best: 961.13 		N:11
+Bass           		Mean: 62.93 		Best: 961.13 		N:15
+Cunningham     		Mean: 70.23 		Best: 915.09 		N:13
+Morton         		Mean: 45.56 		Best: 913.14 		N:20
+Mack           		Mean: 65.12 		Best: 913.11 		N:14
+
+########## REPORT GEN: 57 ##########
+SPECIES: 
+Solis          		Mean: 78.76 		Best: 968.66 		N:12
+Bass           		Mean: 58.62 		Best: 968.66 		N:16
+Foster         		Mean: 59.03 		Best: 961.1 		N:16
+Sallade        		Mean: 55.33 		Best: 961.13 		N:17
+Mack           		Mean: 48.13 		Best: 915.09 		N:19
+Cunningham     		Mean: 76.06 		Best: 911.73 		N:12
+Morton         		Mean: 113.99 		Best: 911.01 		N:8
+
+########## REPORT GEN: 58 ##########
+SPECIES: 
+Bass           		Mean: 79.94 		Best: 968.66 		N:12
+Solis          		Mean: 72.29 		Best: 961.13 		N:13
+Foster         		Mean: 47.44 		Best: 961.13 		N:20
+Sallade        		Mean: 86.38 		Best: 961.13 		N:11
+Mack           		Mean: 45.76 		Best: 917.03 		N:20
+Cunningham     		Mean: 91.58 		Best: 915.09 		N:10
+Morton         		Mean: 65.23 		Best: 914.09 		N:14
+
+########## REPORT GEN: 59 ##########
+SPECIES: 
+Foster         		Mean: 56.16 		Best: 968.66 		N:17
+Bass           		Mean: 118.24 		Best: 961.21 		N:8
+Solis          		Mean: 41.34 		Best: 961.13 		N:23
+Sallade        		Mean: 86.06 		Best: 961.13 		N:11
+Mack           		Mean: 76.78 		Best: 935.33 		N:12
+Cunningham     		Mean: 76.24 		Best: 920.82 		N:12
+Morton         		Mean: 53.81 		Best: 911.47 		N:17
+
+########## REPORT GEN: 60 ##########
+SPECIES: 
+Solis          		Mean: 55.37 		Best: 968.83 		N:17
+Foster         		Mean: 160.07 		Best: 968.66 		N:6
+Sallade        		Mean: 42.8 		Best: 961.33 		N:22
+Bass           		Mean: 59.96 		Best: 961.21 		N:16
+Mack           		Mean: 70.75 		Best: 935.33 		N:13
+Cunningham     		Mean: 76.43 		Best: 914.28 		N:12
+Morton         		Mean: 61.24 		Best: 914.28 		N:15
+
+########## REPORT GEN: 61 ##########
+SPECIES: 
+Foster         		Mean: 73.5 		Best: 968.83 		N:13
+Sallade        		Mean: 63.29 		Best: 961.33 		N:15
+Bass           		Mean: 73.49 		Best: 961.21 		N:13
+Solis          		Mean: 72.99 		Best: 961.33 		N:13
+Cunningham     		Mean: 70.95 		Best: 935.33 		N:13
+Mack           		Mean: 54.0 		Best: 911.73 		N:17
+Morton         		Mean: 57.31 		Best: 911.2 		N:16
+
+########## REPORT GEN: 62 ##########
+SPECIES: 
+Solis          		Mean: 53.27 		Best: 968.83 		N:18
+Foster         		Mean: 68.0 		Best: 968.22 		N:14
+Bass           		Mean: 59.17 		Best: 961.73 		N:16
+Sallade        		Mean: 72.81 		Best: 961.07 		N:13
+Mack           		Mean: 71.01 		Best: 935.33 		N:13
+Cunningham     		Mean: 183.68 		Best: 910.56 		N:5
+Morton         		Mean: 70.54 		Best: 911.73 		N:13
+Moore          		Mean: 113.86 		Best: 907.45 		N:8
+
+########## REPORT GEN: 63 ##########
+SPECIES: 
+Sallade        		Mean: 63.77 		Best: 968.83 		N:15
+Foster         		Mean: 63.49 		Best: 968.22 		N:15
+Bass           		Mean: 86.86 		Best: 961.73 		N:11
+Solis          		Mean: 158.62 		Best: 961.17 		N:6
+Moore          		Mean: 70.62 		Best: 935.33 		N:13
+Morton         		Mean: 35.04 		Best: 920.08 		N:26
+Core           		Mean: 101.79 		Best: 910.96 		N:9
+Cunningham     		Mean: 228.28 		Best: 910.56 		N:4
+
+########## REPORT GEN: 64 ##########
+SPECIES: 
+Solis          		Mean: 95.45 		Best: 968.83 		N:10
+Foster         		Mean: 79.38 		Best: 968.22 		N:12
+Bass           		Mean: 86.1 		Best: 961.73 		N:11
+Sallade        		Mean: 135.21 		Best: 961.33 		N:7
+Leung          		Mean: 234.05 		Best: 935.41 		N:4
+Core           		Mean: 83.61 		Best: 935.33 		N:11
+Lewis          		Mean: 308.43 		Best: 925.24 		N:3
+Mack           		Mean: 114.51 		Best: 910.96 		N:8
+Cunningham     		Mean: 114.22 		Best: 912.12 		N:8
+Moore          		Mean: 76.13 		Best: 905.89 		N:12
+Morton         		Mean: 65.31 		Best: 905.89 		N:14
+
+########## REPORT GEN: 65 ##########
+SPECIES: 
+Solis          		Mean: 240.4 		Best: 968.83 		N:4
+Bass           		Mean: 188.97 		Best: 968.22 		N:5
+Foster         		Mean: 86.27 		Best: 961.73 		N:11
+Leung          		Mean: 49.98 		Best: 961.33 		N:19
+Lewis          		Mean: 103.83 		Best: 961.33 		N:9
+Cunningham     		Mean: 70.5 		Best: 953.46 		N:13
+Morton         		Mean: 230.65 		Best: 935.33 		N:4
+Mallard        		Mean: 310.32 		Best: 926.93 		N:3
+Sallade        		Mean: 463.07 		Best: 926.14 		N:2
+Leffert        		Mean: 459.83 		Best: 916.27 		N:2
+Mack           		Mean: 114.71 		Best: 910.96 		N:8
+Moore          		Mean: 82.74 		Best: 907.25 		N:11
+Berry          		Mean: 113.89 		Best: 904.99 		N:8
+
+########## REPORT GEN: 66 ##########
+SPECIES: 
+Foster         		Mean: 118.27 		Best: 961.73 		N:8
+Lewis          		Mean: 157.35 		Best: 961.33 		N:6
+Cunningham     		Mean: 101.91 		Best: 953.46 		N:9
+Sallade        		Mean: 78.21 		Best: 936.03 		N:12
+Bass           		Mean: 156.3 		Best: 933.9 		N:6
+Leffert        		Mean: 133.09 		Best: 932.81 		N:7
+Leung          		Mean: 156.12 		Best: 926.74 		N:6
+Mallard        		Mean: 117.34 		Best: 926.74 		N:8
+Morton         		Mean: 229.43 		Best: 907.25 		N:4
+Moore          		Mean: 303.41 		Best: 906.7 		N:3
+Berry          		Mean: 181.95 		Best: 904.99 		N:5
+
+########## REPORT GEN: 67 ##########
+SPECIES: 
+Bass           		Mean: 104.02 		Best: 961.73 		N:9
+Lewis          		Mean: 236.36 		Best: 961.33 		N:4
+Foster         		Mean: 103.9 		Best: 933.9 		N:9
+Havard         		Mean: 116.49 		Best: 926.74 		N:8
+Sallade        		Mean: 155.03 		Best: 926.14 		N:6
+Leung          		Mean: 464.61 		Best: 926.14 		N:2
+Mallard        		Mean: 463.05 		Best: 926.14 		N:2
+Leffert        		Mean: 308.44 		Best: 922.07 		N:3
+Moore          		Mean: 91.23 		Best: 911.01 		N:10
+Core           		Mean: 227.24 		Best: 907.81 		N:4
+Berry          		Mean: 181.6 		Best: 906.7 		N:5
+

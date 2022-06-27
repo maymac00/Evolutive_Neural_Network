@@ -1,0 +1,1494 @@
+########## REPORT GEN: 2 ##########
+SPECIES: 
+Leon           		Mean: 193.2 		Best: 909.33 		N:5
+Ross           		Mean: 458.19 		Best: 906.75 		N:2
+Maisonet       		Mean: 462.93 		Best: 906.75 		N:2
+Rehkop         		Mean: 107.29 		Best: 905.83 		N:9
+Henry          		Mean: 464.48 		Best: 905.83 		N:2
+Bell           		Mean: 88.02 		Best: 906.59 		N:11
+Livezey        		Mean: 236.01 		Best: 905.65 		N:4
+Berrios        		Mean: 310.51 		Best: 905.65 		N:3
+Cassidy        		Mean: 240.5 		Best: 905.65 		N:4
+Hess           		Mean: 235.87 		Best: 909.33 		N:4
+Saavedra       		Mean: 309.55 		Best: 905.65 		N:3
+Heminger       		Mean: 306.43 		Best: 905.65 		N:3
+Sheppard       		Mean: 467.82 		Best: 905.65 		N:2
+Chang          		Mean: 80.29 		Best: 905.65 		N:12
+Roach          		Mean: 229.02 		Best: 906.59 		N:4
+
+########## REPORT GEN: 3 ##########
+SPECIES: 
+Madrigal       		Mean: 192.12 		Best: 909.33 		N:5
+Cassidy        		Mean: 160.65 		Best: 909.33 		N:6
+Bell           		Mean: 314.38 		Best: 906.75 		N:3
+Livezey        		Mean: 240.02 		Best: 905.9 		N:4
+Heminger       		Mean: 236.85 		Best: 906.75 		N:4
+Maisonet       		Mean: 106.67 		Best: 909.33 		N:9
+Rehkop         		Mean: 188.76 		Best: 905.65 		N:5
+Hess           		Mean: 460.06 		Best: 905.65 		N:2
+Saavedra       		Mean: 315.48 		Best: 905.65 		N:3
+Sheppard       		Mean: 80.66 		Best: 906.75 		N:12
+Chang          		Mean: 237.51 		Best: 905.65 		N:4
+Roach          		Mean: 188.7 		Best: 905.65 		N:5
+
+########## REPORT GEN: 4 ##########
+SPECIES: 
+Heminger       		Mean: 311.32 		Best: 909.33 		N:3
+Berrios        		Mean: 188.92 		Best: 909.21 		N:5
+Bell           		Mean: 460.94 		Best: 906.75 		N:2
+Chang          		Mean: 158.86 		Best: 906.75 		N:6
+Livezey        		Mean: 188.57 		Best: 906.61 		N:5
+Cassidy        		Mean: 188.89 		Best: 905.65 		N:5
+Ross           		Mean: 190.83 		Best: 909.33 		N:5
+Maisonet       		Mean: 462.26 		Best: 905.65 		N:2
+White          		Mean: 316.84 		Best: 905.65 		N:3
+Hess           		Mean: 310.85 		Best: 905.65 		N:3
+Roach          		Mean: 189.16 		Best: 906.75 		N:5
+Saavedra       		Mean: 311.94 		Best: 905.9 		N:3
+
+########## REPORT GEN: 5 ##########
+SPECIES: 
+White          		Mean: 134.2 		Best: 915.87 		N:7
+Cassidy        		Mean: 94.51 		Best: 910.18 		N:10
+Saavedra       		Mean: 313.58 		Best: 909.33 		N:3
+Ross           		Mean: 312.08 		Best: 906.75 		N:3
+Berrios        		Mean: 312.51 		Best: 906.75 		N:3
+Felipe         		Mean: 466.6 		Best: 906.16 		N:2
+Bell           		Mean: 235.87 		Best: 909.33 		N:4
+Chang          		Mean: 314.78 		Best: 905.65 		N:3
+Livezey        		Mean: 186.65 		Best: 905.65 		N:5
+Maisonet       		Mean: 456.75 		Best: 905.65 		N:2
+Roach          		Mean: 314.07 		Best: 906.75 		N:3
+Rehkop         		Mean: 234.2 		Best: 905.9 		N:4
+Hess           		Mean: 311.61 		Best: 906.75 		N:3
+Heminger       		Mean: 451.41 		Best: 902.82 		N:2
+
+########## REPORT GEN: 6 ##########
+SPECIES: 
+Berrios        		Mean: 187.18 		Best: 915.87 		N:5
+Ross           		Mean: 134.55 		Best: 910.18 		N:7
+Felipe         		Mean: 234.79 		Best: 909.33 		N:4
+Livezey        		Mean: 85.96 		Best: 909.33 		N:11
+Bell           		Mean: 156.49 		Best: 907.76 		N:6
+Chang          		Mean: 310.96 		Best: 906.61 		N:3
+Maisonet       		Mean: 312.04 		Best: 906.61 		N:3
+Hess           		Mean: 187.73 		Best: 906.61 		N:5
+Cassidy        		Mean: 134.37 		Best: 907.2 		N:7
+White          		Mean: 156.85 		Best: 905.99 		N:6
+Saavedra       		Mean: 307.66 		Best: 905.65 		N:3
+Rehkop         		Mean: 310.04 		Best: 905.65 		N:3
+Heminger       		Mean: 155.68 		Best: 905.65 		N:6
+
+########## REPORT GEN: 7 ##########
+SPECIES: 
+Livezey        		Mean: 188.49 		Best: 915.87 		N:5
+Felipe         		Mean: 156.53 		Best: 910.18 		N:6
+Maisonet       		Mean: 186.65 		Best: 907.76 		N:5
+Ross           		Mean: 117.1 		Best: 905.65 		N:8
+Saavedra       		Mean: 185.47 		Best: 905.65 		N:5
+Roach          		Mean: 155.72 		Best: 906.61 		N:6
+Berrios        		Mean: 232.27 		Best: 904.31 		N:4
+Cassidy        		Mean: 186.97 		Best: 909.33 		N:5
+Rehkop         		Mean: 232.58 		Best: 905.65 		N:4
+Hess           		Mean: 310.01 		Best: 904.31 		N:3
+Heminger       		Mean: 232.99 		Best: 905.65 		N:4
+Bell           		Mean: 155.37 		Best: 909.33 		N:6
+Chang          		Mean: 186.97 		Best: 906.61 		N:5
+
+########## REPORT GEN: 8 ##########
+SPECIES: 
+Maisonet       		Mean: 465.72 		Best: 915.87 		N:2
+Cassidy        		Mean: 132.86 		Best: 910.18 		N:7
+Roach          		Mean: 155.22 		Best: 909.33 		N:6
+Livezey        		Mean: 185.28 		Best: 906.61 		N:5
+Bell           		Mean: 84.93 		Best: 906.61 		N:11
+Ross           		Mean: 309.16 		Best: 905.65 		N:3
+Saavedra       		Mean: 155.95 		Best: 905.65 		N:6
+Berrios        		Mean: 155.24 		Best: 905.65 		N:6
+Chang          		Mean: 232.3 		Best: 905.65 		N:4
+Hess           		Mean: 308.72 		Best: 905.26 		N:3
+Rehkop         		Mean: 185.59 		Best: 905.65 		N:5
+Heminger       		Mean: 460.76 		Best: 902.89 		N:2
+White          		Mean: 155.76 		Best: 905.65 		N:6
+
+########## REPORT GEN: 9 ##########
+SPECIES: 
+Roach          		Mean: 186.36 		Best: 915.87 		N:5
+Chang          		Mean: 186.0 		Best: 915.87 		N:5
+Heminger       		Mean: 186.94 		Best: 910.18 		N:5
+Livezey        		Mean: 231.3 		Best: 909.33 		N:4
+Saavedra       		Mean: 232.22 		Best: 906.61 		N:4
+Bell           		Mean: 307.55 		Best: 906.16 		N:3
+Ross           		Mean: 103.22 		Best: 905.65 		N:9
+Hess           		Mean: 229.5 		Best: 905.65 		N:4
+White          		Mean: 306.91 		Best: 905.26 		N:3
+Maisonet       		Mean: 154.11 		Best: 902.4 		N:6
+Berrios        		Mean: 459.19 		Best: 902.4 		N:2
+Cassidy        		Mean: 155.12 		Best: 906.61 		N:6
+
+########## REPORT GEN: 10 ##########
+SPECIES: 
+Roach          		Mean: 154.89 		Best: 915.87 		N:6
+Berrios        		Mean: 77.43 		Best: 915.87 		N:12
+Rehkop         		Mean: 310.34 		Best: 915.87 		N:3
+Saavedra       		Mean: 232.34 		Best: 910.18 		N:4
+Maisonet       		Mean: 132.19 		Best: 909.33 		N:7
+Hess           		Mean: 460.14 		Best: 906.61 		N:2
+Cassidy        		Mean: 116.21 		Best: 905.65 		N:8
+Heminger       		Mean: 459.97 		Best: 905.26 		N:2
+Chang          		Mean: 303.7 		Best: 902.82 		N:3
+Bell           		Mean: 231.03 		Best: 902.82 		N:4
+Felipe         		Mean: 453.25 		Best: 902.4 		N:2
+Livezey        		Mean: 306.88 		Best: 906.16 		N:3
+White          		Mean: 305.88 		Best: 902.33 		N:3
+
+########## REPORT GEN: 11 ##########
+SPECIES: 
+Berrios        		Mean: 116.21 		Best: 915.87 		N:8
+Rehkop         		Mean: 231.06 		Best: 915.87 		N:4
+Saavedra       		Mean: 132.67 		Best: 915.87 		N:7
+Cassidy        		Mean: 230.53 		Best: 915.87 		N:4
+Livezey        		Mean: 185.27 		Best: 909.33 		N:5
+White          		Mean: 460.19 		Best: 909.33 		N:2
+Felipe         		Mean: 185.29 		Best: 906.61 		N:5
+Heminger       		Mean: 131.0 		Best: 905.65 		N:7
+Bell           		Mean: 307.88 		Best: 905.65 		N:3
+Hess           		Mean: 230.11 		Best: 902.82 		N:4
+Roach          		Mean: 229.57 		Best: 903.26 		N:4
+Chang          		Mean: 305.27 		Best: 901.55 		N:3
+Maisonet       		Mean: 229.66 		Best: 902.4 		N:4
+Ross           		Mean: 229.88 		Best: 902.4 		N:4
+
+########## REPORT GEN: 12 ##########
+SPECIES: 
+Berrios        		Mean: 154.65 		Best: 915.87 		N:6
+Rehkop         		Mean: 185.34 		Best: 915.87 		N:5
+White          		Mean: 132.15 		Best: 915.87 		N:7
+Roach          		Mean: 132.44 		Best: 915.87 		N:7
+Felipe         		Mean: 231.12 		Best: 909.33 		N:4
+Ross           		Mean: 154.25 		Best: 909.33 		N:6
+Saavedra       		Mean: 154.02 		Best: 906.61 		N:6
+Chang          		Mean: 184.91 		Best: 905.65 		N:5
+Hess           		Mean: 183.73 		Best: 902.82 		N:5
+Livezey        		Mean: 131.85 		Best: 902.4 		N:7
+Cassidy        		Mean: 131.4 		Best: 901.55 		N:7
+Heminger       		Mean: 131.17 		Best: 902.4 		N:7
+Bell           		Mean: 305.16 		Best: 902.4 		N:3
+Maisonet       		Mean: 183.24 		Best: 902.33 		N:5
+
+########## REPORT GEN: 13 ##########
+SPECIES: 
+Berrios        		Mean: 102.95 		Best: 915.87 		N:9
+Ross           		Mean: 231.53 		Best: 915.87 		N:4
+Hess           		Mean: 116.24 		Best: 915.87 		N:8
+Rehkop         		Mean: 153.99 		Best: 909.33 		N:6
+Heminger       		Mean: 184.62 		Best: 909.33 		N:5
+Chang          		Mean: 115.31 		Best: 906.61 		N:8
+Livezey        		Mean: 130.71 		Best: 906.61 		N:7
+Saavedra       		Mean: 230.62 		Best: 905.65 		N:4
+Maisonet       		Mean: 102.3 		Best: 905.65 		N:9
+White          		Mean: 153.28 		Best: 902.82 		N:6
+Felipe         		Mean: 304.74 		Best: 902.4 		N:3
+Bell           		Mean: 153.1 		Best: 902.26 		N:6
+Cassidy        		Mean: 183.67 		Best: 901.46 		N:5
+Roach          		Mean: 183.28 		Best: 902.18 		N:5
+
+########## REPORT GEN: 14 ##########
+SPECIES: 
+Ross           		Mean: 229.47 		Best: 915.87 		N:4
+Cassidy        		Mean: 102.54 		Best: 915.87 		N:9
+Rehkop         		Mean: 230.63 		Best: 909.33 		N:4
+Chang          		Mean: 76.5 		Best: 909.33 		N:12
+Felipe         		Mean: 115.31 		Best: 909.33 		N:8
+Hess           		Mean: 101.95 		Best: 906.61 		N:9
+Roach          		Mean: 306.51 		Best: 906.61 		N:3
+Heminger       		Mean: 229.56 		Best: 905.65 		N:4
+Saavedra       		Mean: 131.1 		Best: 905.65 		N:7
+Livezey        		Mean: 130.95 		Best: 902.4 		N:7
+White          		Mean: 229.49 		Best: 902.4 		N:4
+Berrios        		Mean: 131.28 		Best: 901.46 		N:7
+Maisonet       		Mean: 456.69 		Best: 901.15 		N:2
+Bell           		Mean: 455.87 		Best: 901.15 		N:2
+
+########## REPORT GEN: 15 ##########
+SPECIES: 
+Cassidy        		Mean: 183.98 		Best: 915.87 		N:5
+Roach          		Mean: 92.51 		Best: 915.87 		N:10
+Berrios        		Mean: 183.81 		Best: 915.87 		N:5
+Heminger       		Mean: 153.35 		Best: 909.33 		N:6
+White          		Mean: 183.82 		Best: 909.33 		N:5
+Bell           		Mean: 114.78 		Best: 909.33 		N:8
+Hess           		Mean: 305.33 		Best: 906.61 		N:3
+Chang          		Mean: 229.55 		Best: 905.65 		N:4
+Maisonet       		Mean: 306.44 		Best: 905.65 		N:3
+Rehkop         		Mean: 113.86 		Best: 901.2 		N:8
+Livezey        		Mean: 152.27 		Best: 901.2 		N:6
+Ross           		Mean: 301.78 		Best: 900.88 		N:3
+Saavedra       		Mean: 302.48 		Best: 900.86 		N:3
+Felipe         		Mean: 304.03 		Best: 901.2 		N:3
+
+########## REPORT GEN: 16 ##########
+SPECIES: 
+Berrios        		Mean: 230.14 		Best: 915.87 		N:4
+Hess           		Mean: 114.83 		Best: 915.87 		N:8
+Heminger       		Mean: 114.62 		Best: 909.33 		N:8
+Maisonet       		Mean: 152.12 		Best: 909.33 		N:6
+Bell           		Mean: 130.4 		Best: 907.02 		N:7
+Chang          		Mean: 304.62 		Best: 906.61 		N:3
+Saavedra       		Mean: 131.09 		Best: 906.61 		N:7
+Livezey        		Mean: 130.82 		Best: 905.83 		N:7
+Rehkop         		Mean: 130.37 		Best: 905.65 		N:7
+Felipe         		Mean: 152.83 		Best: 905.65 		N:6
+Roach          		Mean: 152.21 		Best: 901.2 		N:6
+Cassidy        		Mean: 302.46 		Best: 900.94 		N:3
+Ross           		Mean: 180.47 		Best: 900.84 		N:5
+
+########## REPORT GEN: 17 ##########
+SPECIES: 
+Heminger       		Mean: 183.63 		Best: 915.87 		N:5
+Cassidy        		Mean: 228.63 		Best: 915.87 		N:4
+Saavedra       		Mean: 305.67 		Best: 910.12 		N:3
+Berrios        		Mean: 152.22 		Best: 909.33 		N:6
+Chang          		Mean: 152.6 		Best: 909.33 		N:6
+Hess           		Mean: 114.45 		Best: 907.02 		N:8
+Roach          		Mean: 113.96 		Best: 906.61 		N:8
+Rehkop         		Mean: 131.22 		Best: 905.83 		N:7
+Felipe         		Mean: 456.06 		Best: 901.12 		N:2
+Maisonet       		Mean: 302.06 		Best: 901.08 		N:3
+White          		Mean: 226.17 		Best: 900.86 		N:4
+Bell           		Mean: 302.3 		Best: 900.88 		N:3
+Livezey        		Mean: 302.2 		Best: 900.92 		N:3
+Ross           		Mean: 452.82 		Best: 900.84 		N:2
+
+########## REPORT GEN: 18 ##########
+SPECIES: 
+Heminger       		Mean: 91.75 		Best: 915.87 		N:10
+Cassidy        		Mean: 229.91 		Best: 915.87 		N:4
+Saavedra       		Mean: 153.17 		Best: 910.12 		N:6
+Ross           		Mean: 131.39 		Best: 910.12 		N:7
+Felipe         		Mean: 113.88 		Best: 907.02 		N:8
+Chang          		Mean: 182.41 		Best: 906.61 		N:5
+Rehkop         		Mean: 129.99 		Best: 905.65 		N:7
+Hess           		Mean: 229.1 		Best: 903.9 		N:4
+Roach          		Mean: 304.18 		Best: 901.12 		N:3
+Livezey        		Mean: 452.44 		Best: 900.88 		N:2
+Maisonet       		Mean: 302.6 		Best: 900.86 		N:3
+Bell           		Mean: 453.42 		Best: 900.86 		N:2
+White          		Mean: 180.6 		Best: 900.85 		N:5
+Berrios        		Mean: 452.69 		Best: 900.82 		N:2
+
+########## REPORT GEN: 19 ##########
+SPECIES: 
+Chang          		Mean: 183.53 		Best: 915.87 		N:5
+Roach          		Mean: 458.61 		Best: 915.87 		N:2
+Berrios        		Mean: 228.65 		Best: 915.87 		N:4
+Heminger       		Mean: 130.74 		Best: 910.33 		N:7
+Maisonet       		Mean: 152.91 		Best: 910.33 		N:6
+Saavedra       		Mean: 101.26 		Best: 910.12 		N:9
+Rehkop         		Mean: 131.1 		Best: 910.12 		N:7
+Ross           		Mean: 151.92 		Best: 903.9 		N:6
+Livezey        		Mean: 182.45 		Best: 901.12 		N:5
+Cassidy        		Mean: 301.74 		Best: 900.94 		N:3
+White          		Mean: 302.32 		Best: 900.89 		N:3
+Hess           		Mean: 453.01 		Best: 900.86 		N:2
+Bell           		Mean: 181.05 		Best: 900.84 		N:5
+Felipe         		Mean: 301.45 		Best: 900.81 		N:3
+
+########## REPORT GEN: 20 ##########
+SPECIES: 
+Heminger       		Mean: 91.24 		Best: 915.87 		N:10
+Saavedra       		Mean: 306.36 		Best: 915.87 		N:3
+Ross           		Mean: 230.32 		Best: 915.87 		N:4
+White          		Mean: 130.81 		Best: 910.81 		N:7
+Maisonet       		Mean: 182.63 		Best: 910.35 		N:5
+Bell           		Mean: 183.31 		Best: 910.33 		N:5
+Cassidy        		Mean: 183.03 		Best: 910.12 		N:5
+Livezey        		Mean: 113.47 		Best: 900.89 		N:8
+Rehkop         		Mean: 452.84 		Best: 900.82 		N:2
+Felipe         		Mean: 181.52 		Best: 900.86 		N:5
+Chang          		Mean: 181.26 		Best: 900.84 		N:5
+Berrios        		Mean: 181.67 		Best: 900.88 		N:5
+Hess           		Mean: 226.29 		Best: 900.81 		N:4
+
+########## REPORT GEN: 21 ##########
+SPECIES: 
+Saavedra       		Mean: 101.52 		Best: 915.87 		N:9
+Bell           		Mean: 131.28 		Best: 915.87 		N:7
+Cassidy        		Mean: 228.52 		Best: 915.87 		N:4
+Felipe         		Mean: 183.47 		Best: 915.87 		N:5
+Chang          		Mean: 153.24 		Best: 915.87 		N:6
+Maisonet       		Mean: 152.09 		Best: 910.17 		N:6
+White          		Mean: 152.11 		Best: 910.12 		N:6
+Berrios        		Mean: 228.2 		Best: 907.02 		N:4
+Hess           		Mean: 303.71 		Best: 903.41 		N:3
+Rehkop         		Mean: 130.33 		Best: 903.17 		N:7
+Livezey        		Mean: 450.83 		Best: 900.86 		N:2
+Heminger       		Mean: 181.6 		Best: 900.82 		N:5
+
+########## REPORT GEN: 22 ##########
+SPECIES: 
+Bell           		Mean: 305.22 		Best: 915.87 		N:3
+Berrios        		Mean: 153.48 		Best: 915.87 		N:6
+Roach          		Mean: 182.42 		Best: 915.87 		N:5
+Livezey        		Mean: 152.53 		Best: 912.06 		N:6
+Heminger       		Mean: 228.87 		Best: 910.17 		N:4
+Cassidy        		Mean: 152.68 		Best: 910.12 		N:6
+Ross           		Mean: 304.42 		Best: 903.17 		N:3
+Felipe         		Mean: 452.08 		Best: 900.82 		N:2
+Hess           		Mean: 181.72 		Best: 900.84 		N:5
+Saavedra       		Mean: 181.61 		Best: 900.74 		N:5
+Rehkop         		Mean: 226.29 		Best: 900.81 		N:4
+
+########## REPORT GEN: 23 ##########
+SPECIES: 
+Berrios        		Mean: 183.37 		Best: 915.87 		N:5
+Felipe         		Mean: 228.42 		Best: 915.87 		N:4
+Chang          		Mean: 458.14 		Best: 915.87 		N:2
+Bell           		Mean: 304.65 		Best: 912.06 		N:3
+Livezey        		Mean: 152.72 		Best: 911.02 		N:6
+Saavedra       		Mean: 228.01 		Best: 903.41 		N:4
+White          		Mean: 303.49 		Best: 903.17 		N:3
+Rehkop         		Mean: 227.08 		Best: 900.84 		N:4
+Cassidy        		Mean: 181.23 		Best: 900.81 		N:5
+Roach          		Mean: 452.85 		Best: 900.8 		N:2
+Ross           		Mean: 302.36 		Best: 900.7 		N:3
+Hess           		Mean: 302.14 		Best: 900.8 		N:3
+
+########## REPORT GEN: 24 ##########
+SPECIES: 
+Bell           		Mean: 228.42 		Best: 915.87 		N:4
+White          		Mean: 152.64 		Best: 915.87 		N:6
+Roach          		Mean: 130.57 		Best: 915.87 		N:7
+Livezey        		Mean: 182.22 		Best: 912.06 		N:5
+Chang          		Mean: 228.47 		Best: 911.02 		N:4
+Rehkop         		Mean: 228.3 		Best: 910.12 		N:4
+Hess           		Mean: 228.38 		Best: 910.12 		N:4
+Maisonet       		Mean: 130.16 		Best: 903.41 		N:7
+Heminger       		Mean: 455.78 		Best: 903.17 		N:2
+Berrios        		Mean: 452.55 		Best: 900.84 		N:2
+Felipe         		Mean: 301.99 		Best: 900.82 		N:3
+Saavedra       		Mean: 302.33 		Best: 900.57 		N:3
+
+########## REPORT GEN: 25 ##########
+SPECIES: 
+Heminger       		Mean: 228.95 		Best: 915.87 		N:4
+Felipe         		Mean: 229.53 		Best: 915.87 		N:4
+Chang          		Mean: 228.4 		Best: 912.06 		N:4
+Berrios        		Mean: 130.14 		Best: 910.12 		N:7
+Maisonet       		Mean: 182.33 		Best: 905.26 		N:5
+Rehkop         		Mean: 227.89 		Best: 903.41 		N:4
+Cassidy        		Mean: 304.16 		Best: 903.17 		N:3
+Bell           		Mean: 228.0 		Best: 902.3 		N:4
+Saavedra       		Mean: 227.82 		Best: 901.71 		N:4
+White          		Mean: 100.83 		Best: 900.84 		N:9
+Hess           		Mean: 453.44 		Best: 900.67 		N:2
+Livezey        		Mean: 302.65 		Best: 900.75 		N:3
+
+########## REPORT GEN: 26 ##########
+SPECIES: 
+Felipe         		Mean: 152.41 		Best: 915.87 		N:6
+Cassidy        		Mean: 305.71 		Best: 915.87 		N:3
+Bell           		Mean: 101.33 		Best: 915.87 		N:9
+Hess           		Mean: 101.77 		Best: 915.87 		N:9
+Berrios        		Mean: 182.94 		Best: 912.06 		N:5
+Livezey        		Mean: 183.19 		Best: 911.02 		N:5
+Ross           		Mean: 182.55 		Best: 910.17 		N:5
+Heminger       		Mean: 304.05 		Best: 903.17 		N:3
+Maisonet       		Mean: 182.31 		Best: 902.58 		N:5
+Chang          		Mean: 226.61 		Best: 900.75 		N:4
+White          		Mean: 452.99 		Best: 900.62 		N:2
+Saavedra       		Mean: 129.81 		Best: 900.81 		N:7
+Rehkop         		Mean: 226.7 		Best: 900.82 		N:4
+
+########## REPORT GEN: 27 ##########
+SPECIES: 
+Berrios        		Mean: 130.4 		Best: 915.87 		N:7
+Heminger       		Mean: 152.33 		Best: 915.87 		N:6
+Maisonet       		Mean: 152.51 		Best: 915.87 		N:6
+White          		Mean: 113.79 		Best: 915.87 		N:8
+Saavedra       		Mean: 76.04 		Best: 915.87 		N:12
+Livezey        		Mean: 182.24 		Best: 912.06 		N:5
+Rehkop         		Mean: 182.32 		Best: 911.02 		N:5
+Cassidy        		Mean: 228.08 		Best: 910.33 		N:4
+Ross           		Mean: 304.2 		Best: 903.17 		N:3
+Chang          		Mean: 182.11 		Best: 902.58 		N:5
+Bell           		Mean: 182.01 		Best: 902.3 		N:5
+Felipe         		Mean: 181.58 		Best: 900.82 		N:5
+Hess           		Mean: 450.95 		Best: 900.49 		N:2
+
+########## REPORT GEN: 28 ##########
+SPECIES: 
+Berrios        		Mean: 130.14 		Best: 915.87 		N:7
+Saavedra       		Mean: 101.62 		Best: 915.87 		N:9
+Rehkop         		Mean: 228.08 		Best: 915.87 		N:4
+Chang          		Mean: 152.28 		Best: 915.87 		N:6
+Bell           		Mean: 182.86 		Best: 915.87 		N:5
+Cassidy        		Mean: 69.97 		Best: 911.02 		N:13
+Hess           		Mean: 130.06 		Best: 910.17 		N:7
+Livezey        		Mean: 302.94 		Best: 905.26 		N:3
+White          		Mean: 130.0 		Best: 903.17 		N:7
+Ross           		Mean: 303.83 		Best: 903.17 		N:3
+Heminger       		Mean: 151.64 		Best: 902.61 		N:6
+Maisonet       		Mean: 113.76 		Best: 902.58 		N:8
+Felipe         		Mean: 227.22 		Best: 900.72 		N:4
+
+########## REPORT GEN: 29 ##########
+SPECIES: 
+Bell           		Mean: 152.5 		Best: 915.87 		N:6
+Hess           		Mean: 152.24 		Best: 915.87 		N:6
+White          		Mean: 114.24 		Best: 915.87 		N:8
+Maisonet       		Mean: 130.68 		Best: 915.87 		N:7
+Felipe         		Mean: 101.32 		Best: 915.87 		N:9
+Saavedra       		Mean: 101.5 		Best: 911.02 		N:9
+Livezey        		Mean: 130.01 		Best: 905.26 		N:7
+Heminger       		Mean: 181.89 		Best: 905.26 		N:5
+Berrios        		Mean: 182.25 		Best: 903.17 		N:5
+Rehkop         		Mean: 151.89 		Best: 903.17 		N:6
+Cassidy        		Mean: 226.17 		Best: 900.73 		N:4
+Ross           		Mean: 453.71 		Best: 900.5 		N:2
+Chang          		Mean: 151.1 		Best: 900.55 		N:6
+
+########## REPORT GEN: 30 ##########
+SPECIES: 
+Hess           		Mean: 182.37 		Best: 915.87 		N:5
+Maisonet       		Mean: 101.12 		Best: 915.87 		N:9
+Felipe         		Mean: 304.51 		Best: 915.87 		N:3
+Saavedra       		Mean: 91.24 		Best: 915.87 		N:10
+Livezey        		Mean: 100.98 		Best: 915.87 		N:9
+Berrios        		Mean: 114.02 		Best: 915.87 		N:8
+Chang          		Mean: 130.28 		Best: 915.87 		N:7
+Cassidy        		Mean: 130.24 		Best: 911.02 		N:7
+Rehkop         		Mean: 454.96 		Best: 903.17 		N:2
+Heminger       		Mean: 226.53 		Best: 900.55 		N:4
+White          		Mean: 226.54 		Best: 900.49 		N:4
+Bell           		Mean: 180.74 		Best: 900.5 		N:5
+Ross           		Mean: 225.66 		Best: 900.52 		N:4
+
+########## REPORT GEN: 31 ##########
+SPECIES: 
+Hess           		Mean: 228.24 		Best: 915.87 		N:4
+Maisonet       		Mean: 91.17 		Best: 915.87 		N:10
+Livezey        		Mean: 130.09 		Best: 915.87 		N:7
+Cassidy        		Mean: 91.55 		Best: 915.87 		N:10
+Rehkop         		Mean: 457.25 		Best: 915.87 		N:2
+Berrios        		Mean: 129.43 		Best: 905.26 		N:7
+Saavedra       		Mean: 113.32 		Best: 900.67 		N:8
+Chang          		Mean: 151.25 		Best: 900.5 		N:6
+Bell           		Mean: 226.69 		Best: 900.55 		N:4
+Heminger       		Mean: 452.83 		Best: 900.49 		N:2
+Felipe         		Mean: 226.59 		Best: 900.47 		N:4
+Ross           		Mean: 100.73 		Best: 900.49 		N:9
+White          		Mean: 227.29 		Best: 902.61 		N:4
+
+########## REPORT GEN: 32 ##########
+SPECIES: 
+Maisonet       		Mean: 182.3 		Best: 915.87 		N:5
+Livezey        		Mean: 227.98 		Best: 915.87 		N:4
+Rehkop         		Mean: 130.12 		Best: 915.87 		N:7
+Saavedra       		Mean: 151.91 		Best: 915.87 		N:6
+Chang          		Mean: 130.51 		Best: 915.87 		N:7
+Bell           		Mean: 152.43 		Best: 915.87 		N:6
+Hess           		Mean: 181.8 		Best: 905.26 		N:5
+Cassidy        		Mean: 113.65 		Best: 900.72 		N:8
+Heminger       		Mean: 181.1 		Best: 900.67 		N:5
+Felipe         		Mean: 301.76 		Best: 900.46 		N:3
+Berrios        		Mean: 180.98 		Best: 900.46 		N:5
+White          		Mean: 129.57 		Best: 900.51 		N:7
+Ross           		Mean: 301.93 		Best: 900.45 		N:3
+
+########## REPORT GEN: 33 ##########
+SPECIES: 
+Maisonet       		Mean: 182.2 		Best: 915.87 		N:5
+Saavedra       		Mean: 129.96 		Best: 915.87 		N:7
+Berrios        		Mean: 130.02 		Best: 915.87 		N:7
+White          		Mean: 75.87 		Best: 915.87 		N:12
+Ross           		Mean: 304.64 		Best: 915.87 		N:3
+Heminger       		Mean: 181.94 		Best: 905.26 		N:5
+Livezey        		Mean: 303.13 		Best: 903.26 		N:3
+Chang          		Mean: 82.39 		Best: 900.59 		N:11
+Rehkop         		Mean: 100.8 		Best: 900.54 		N:9
+Bell           		Mean: 150.82 		Best: 900.44 		N:6
+Felipe         		Mean: 181.25 		Best: 900.55 		N:5
+Hess           		Mean: 180.95 		Best: 900.45 		N:5
+Cassidy        		Mean: 301.15 		Best: 900.41 		N:3
+
+########## REPORT GEN: 34 ##########
+SPECIES: 
+Maisonet       		Mean: 113.45 		Best: 915.87 		N:8
+Saavedra       		Mean: 182.17 		Best: 915.87 		N:5
+White          		Mean: 113.51 		Best: 915.87 		N:8
+Ross           		Mean: 129.94 		Best: 915.87 		N:7
+Chang          		Mean: 130.1 		Best: 915.87 		N:7
+Berrios        		Mean: 181.62 		Best: 905.26 		N:5
+Livezey        		Mean: 226.82 		Best: 905.26 		N:4
+Rehkop         		Mean: 227.23 		Best: 903.26 		N:4
+Felipe         		Mean: 151.38 		Best: 903.26 		N:6
+Hess           		Mean: 100.82 		Best: 903.26 		N:9
+Bell           		Mean: 151.4 		Best: 900.72 		N:6
+Cassidy        		Mean: 151.12 		Best: 900.49 		N:6
+Heminger       		Mean: 451.2 		Best: 900.45 		N:2
+
+########## REPORT GEN: 35 ##########
+SPECIES: 
+Rehkop         		Mean: 130.49 		Best: 915.87 		N:7
+White          		Mean: 182.17 		Best: 915.87 		N:5
+Felipe         		Mean: 182.13 		Best: 915.87 		N:5
+Cassidy        		Mean: 101.59 		Best: 915.87 		N:9
+Hess           		Mean: 82.63 		Best: 905.26 		N:11
+Livezey        		Mean: 181.44 		Best: 903.26 		N:5
+Maisonet       		Mean: 150.7 		Best: 900.72 		N:6
+Saavedra       		Mean: 451.58 		Best: 900.59 		N:2
+Ross           		Mean: 129.21 		Best: 900.46 		N:7
+Bell           		Mean: 129.37 		Best: 900.46 		N:7
+Chang          		Mean: 301.99 		Best: 900.44 		N:3
+Berrios        		Mean: 452.82 		Best: 900.43 		N:2
+Heminger       		Mean: 180.18 		Best: 900.43 		N:5
+
+########## REPORT GEN: 36 ##########
+SPECIES: 
+Rehkop         		Mean: 100.89 		Best: 915.87 		N:9
+Cassidy        		Mean: 113.83 		Best: 915.87 		N:8
+Hess           		Mean: 304.53 		Best: 915.87 		N:3
+Bell           		Mean: 151.49 		Best: 915.87 		N:6
+Heminger       		Mean: 227.72 		Best: 915.87 		N:4
+Chang          		Mean: 182.03 		Best: 910.17 		N:5
+Livezey        		Mean: 181.29 		Best: 906.5 		N:5
+Saavedra       		Mean: 181.62 		Best: 905.54 		N:5
+Felipe         		Mean: 451.54 		Best: 900.55 		N:2
+Berrios        		Mean: 181.33 		Best: 900.44 		N:5
+White          		Mean: 450.22 		Best: 900.43 		N:2
+Ross           		Mean: 181.1 		Best: 900.43 		N:5
+Maisonet       		Mean: 129.4 		Best: 900.42 		N:7
+
+########## REPORT GEN: 37 ##########
+SPECIES: 
+Rehkop         		Mean: 303.89 		Best: 915.87 		N:3
+Cassidy        		Mean: 228.32 		Best: 915.87 		N:4
+Saavedra       		Mean: 151.91 		Best: 915.87 		N:6
+Berrios        		Mean: 304.08 		Best: 915.87 		N:3
+Maisonet       		Mean: 182.46 		Best: 910.17 		N:5
+Hess           		Mean: 150.98 		Best: 905.54 		N:6
+Chang          		Mean: 181.69 		Best: 903.26 		N:5
+Heminger       		Mean: 129.78 		Best: 902.41 		N:7
+Felipe         		Mean: 100.72 		Best: 900.55 		N:9
+Livezey        		Mean: 150.77 		Best: 900.44 		N:6
+White          		Mean: 181.35 		Best: 900.49 		N:5
+Ross           		Mean: 129.54 		Best: 900.42 		N:7
+Bell           		Mean: 301.7 		Best: 900.44 		N:3
+
+########## REPORT GEN: 38 ##########
+SPECIES: 
+Rehkop         		Mean: 151.88 		Best: 915.87 		N:6
+Heminger       		Mean: 100.98 		Best: 915.87 		N:9
+Livezey        		Mean: 91.11 		Best: 915.87 		N:10
+White          		Mean: 181.87 		Best: 915.87 		N:5
+Bell           		Mean: 182.19 		Best: 915.87 		N:5
+Maisonet       		Mean: 181.91 		Best: 910.17 		N:5
+Berrios        		Mean: 129.68 		Best: 903.26 		N:7
+Saavedra       		Mean: 113.64 		Best: 902.59 		N:8
+Felipe         		Mean: 226.7 		Best: 900.46 		N:4
+Cassidy        		Mean: 129.49 		Best: 900.44 		N:7
+Hess           		Mean: 150.67 		Best: 900.38 		N:6
+Ross           		Mean: 302.21 		Best: 900.36 		N:3
+Chang          		Mean: 150.87 		Best: 900.42 		N:6
+
+########## REPORT GEN: 39 ##########
+SPECIES: 
+Rehkop         		Mean: 151.56 		Best: 915.87 		N:6
+Livezey        		Mean: 151.57 		Best: 915.87 		N:6
+Bell           		Mean: 90.99 		Best: 915.87 		N:10
+Saavedra       		Mean: 129.9 		Best: 915.87 		N:7
+Cassidy        		Mean: 181.72 		Best: 915.87 		N:5
+Ross           		Mean: 129.99 		Best: 915.87 		N:7
+Chang          		Mean: 227.28 		Best: 915.87 		N:4
+Hess           		Mean: 303.86 		Best: 910.62 		N:3
+Maisonet       		Mean: 113.53 		Best: 905.54 		N:8
+Heminger       		Mean: 90.75 		Best: 903.56 		N:10
+White          		Mean: 100.74 		Best: 902.41 		N:9
+Berrios        		Mean: 113.33 		Best: 902.41 		N:8
+Felipe         		Mean: 452.69 		Best: 900.45 		N:2
+
+########## REPORT GEN: 40 ##########
+SPECIES: 
+Livezey        		Mean: 114.36 		Best: 915.87 		N:8
+Saavedra       		Mean: 100.96 		Best: 915.87 		N:9
+Cassidy        		Mean: 228.68 		Best: 915.87 		N:4
+Ross           		Mean: 113.84 		Best: 915.87 		N:8
+White          		Mean: 182.16 		Best: 915.87 		N:5
+Maisonet       		Mean: 181.65 		Best: 904.63 		N:5
+Berrios        		Mean: 151.17 		Best: 903.91 		N:6
+Bell           		Mean: 227.0 		Best: 903.56 		N:4
+Rehkop         		Mean: 302.11 		Best: 902.41 		N:3
+Heminger       		Mean: 452.87 		Best: 900.4 		N:2
+Hess           		Mean: 129.47 		Best: 900.42 		N:7
+Felipe         		Mean: 181.12 		Best: 900.45 		N:5
+Chang          		Mean: 129.43 		Best: 900.54 		N:7
+
+########## REPORT GEN: 41 ##########
+SPECIES: 
+Heminger       		Mean: 129.98 		Best: 915.87 		N:7
+Saavedra       		Mean: 151.99 		Best: 915.87 		N:6
+Maisonet       		Mean: 182.52 		Best: 915.87 		N:5
+Felipe         		Mean: 152.17 		Best: 915.87 		N:6
+Chang          		Mean: 129.91 		Best: 915.87 		N:7
+Hess           		Mean: 129.99 		Best: 910.62 		N:7
+Rehkop         		Mean: 113.45 		Best: 903.56 		N:8
+Cassidy        		Mean: 151.17 		Best: 902.41 		N:6
+Ross           		Mean: 302.05 		Best: 902.41 		N:3
+Livezey        		Mean: 150.85 		Best: 900.83 		N:6
+Berrios        		Mean: 181.01 		Best: 900.4 		N:5
+White          		Mean: 180.74 		Best: 900.43 		N:5
+Bell           		Mean: 181.22 		Best: 900.43 		N:5
+
+########## REPORT GEN: 42 ##########
+SPECIES: 
+Rehkop         		Mean: 227.7 		Best: 915.87 		N:4
+Heminger       		Mean: 227.67 		Best: 915.87 		N:4
+Maisonet       		Mean: 90.91 		Best: 915.87 		N:10
+Chang          		Mean: 100.96 		Best: 915.87 		N:9
+Hess           		Mean: 456.88 		Best: 915.87 		N:2
+Cassidy        		Mean: 129.94 		Best: 915.87 		N:7
+Berrios        		Mean: 151.74 		Best: 915.87 		N:6
+White          		Mean: 75.6 		Best: 903.91 		N:12
+Ross           		Mean: 75.68 		Best: 902.51 		N:12
+Felipe         		Mean: 113.39 		Best: 902.41 		N:8
+Bell           		Mean: 181.14 		Best: 900.41 		N:5
+Saavedra       		Mean: 181.24 		Best: 900.4 		N:5
+Livezey        		Mean: 181.16 		Best: 900.39 		N:5
+
+########## REPORT GEN: 43 ##########
+SPECIES: 
+Cassidy        		Mean: 113.98 		Best: 915.87 		N:8
+White          		Mean: 82.89 		Best: 915.87 		N:11
+Heminger       		Mean: 227.91 		Best: 915.87 		N:4
+Chang          		Mean: 227.87 		Best: 915.87 		N:4
+Hess           		Mean: 227.87 		Best: 915.87 		N:4
+Ross           		Mean: 90.88 		Best: 915.87 		N:10
+Felipe         		Mean: 129.39 		Best: 907.76 		N:7
+Berrios        		Mean: 181.45 		Best: 903.91 		N:5
+Bell           		Mean: 226.35 		Best: 900.52 		N:4
+Maisonet       		Mean: 100.68 		Best: 900.41 		N:9
+Saavedra       		Mean: 451.15 		Best: 900.33 		N:2
+Livezey        		Mean: 151.01 		Best: 900.4 		N:6
+Rehkop         		Mean: 129.35 		Best: 900.39 		N:7
+
+########## REPORT GEN: 44 ##########
+SPECIES: 
+Chang          		Mean: 304.08 		Best: 915.87 		N:3
+Heminger       		Mean: 182.16 		Best: 915.87 		N:5
+Berrios        		Mean: 130.31 		Best: 915.87 		N:7
+Bell           		Mean: 130.07 		Best: 915.87 		N:7
+Rehkop         		Mean: 113.84 		Best: 915.87 		N:8
+Felipe         		Mean: 129.57 		Best: 903.91 		N:7
+Hess           		Mean: 113.45 		Best: 903.26 		N:8
+Ross           		Mean: 113.42 		Best: 902.41 		N:8
+Maisonet       		Mean: 452.68 		Best: 900.52 		N:2
+White          		Mean: 181.05 		Best: 900.43 		N:5
+Livezey        		Mean: 150.94 		Best: 900.38 		N:6
+Cassidy        		Mean: 150.79 		Best: 900.35 		N:6
+Saavedra       		Mean: 181.23 		Best: 900.41 		N:5
+
+########## REPORT GEN: 45 ##########
+SPECIES: 
+Bell           		Mean: 303.48 		Best: 915.87 		N:3
+Hess           		Mean: 227.79 		Best: 915.87 		N:4
+Chang          		Mean: 113.85 		Best: 915.87 		N:8
+Rehkop         		Mean: 228.4 		Best: 915.87 		N:4
+Felipe         		Mean: 113.51 		Best: 915.87 		N:8
+White          		Mean: 100.94 		Best: 915.87 		N:9
+Livezey        		Mean: 101.03 		Best: 915.87 		N:9
+Heminger       		Mean: 226.39 		Best: 900.52 		N:4
+Saavedra       		Mean: 150.49 		Best: 900.37 		N:6
+Berrios        		Mean: 226.24 		Best: 900.31 		N:4
+Maisonet       		Mean: 226.35 		Best: 900.35 		N:4
+Cassidy        		Mean: 151.06 		Best: 901.05 		N:6
+
+########## REPORT GEN: 46 ##########
+SPECIES: 
+Chang          		Mean: 100.99 		Best: 915.87 		N:9
+Heminger       		Mean: 151.73 		Best: 915.87 		N:6
+Ross           		Mean: 101.03 		Best: 915.87 		N:9
+Maisonet       		Mean: 129.92 		Best: 915.87 		N:7
+Hess           		Mean: 303.87 		Best: 915.87 		N:3
+Rehkop         		Mean: 182.0 		Best: 915.87 		N:5
+White          		Mean: 228.36 		Best: 915.87 		N:4
+Livezey        		Mean: 129.88 		Best: 915.87 		N:7
+Cassidy        		Mean: 181.85 		Best: 915.87 		N:5
+Berrios        		Mean: 151.19 		Best: 902.41 		N:6
+Bell           		Mean: 300.34 		Best: 900.29 		N:3
+Felipe         		Mean: 302.14 		Best: 900.33 		N:3
+
+########## REPORT GEN: 47 ##########
+SPECIES: 
+Rehkop         		Mean: 100.92 		Best: 915.87 		N:9
+White          		Mean: 113.6 		Best: 915.87 		N:8
+Livezey        		Mean: 456.69 		Best: 915.87 		N:2
+Chang          		Mean: 305.35 		Best: 915.87 		N:3
+Cassidy        		Mean: 75.42 		Best: 915.87 		N:12
+Berrios        		Mean: 181.87 		Best: 915.87 		N:5
+Bell           		Mean: 113.55 		Best: 915.87 		N:8
+Felipe         		Mean: 113.96 		Best: 915.87 		N:8
+Ross           		Mean: 150.91 		Best: 900.37 		N:6
+Heminger       		Mean: 452.59 		Best: 900.28 		N:2
+Maisonet       		Mean: 181.07 		Best: 900.29 		N:5
+Hess           		Mean: 150.38 		Best: 900.61 		N:6
+
+########## REPORT GEN: 48 ##########
+SPECIES: 
+White          		Mean: 130.33 		Best: 915.87 		N:7
+Livezey        		Mean: 151.2 		Best: 915.87 		N:6
+Ross           		Mean: 152.6 		Best: 915.87 		N:6
+Hess           		Mean: 152.09 		Best: 915.87 		N:6
+Berrios        		Mean: 456.52 		Best: 915.87 		N:2
+Heminger       		Mean: 130.17 		Best: 915.87 		N:7
+Felipe         		Mean: 226.46 		Best: 902.73 		N:4
+Chang          		Mean: 113.17 		Best: 900.37 		N:8
+Maisonet       		Mean: 452.62 		Best: 900.34 		N:2
+Cassidy        		Mean: 301.59 		Best: 900.37 		N:3
+Bell           		Mean: 150.88 		Best: 900.28 		N:6
+Rehkop         		Mean: 180.78 		Best: 900.25 		N:5
+
+########## REPORT GEN: 49 ##########
+SPECIES: 
+Heminger       		Mean: 114.17 		Best: 915.87 		N:8
+Felipe         		Mean: 100.9 		Best: 915.87 		N:9
+Cassidy        		Mean: 181.97 		Best: 915.87 		N:5
+Bell           		Mean: 129.74 		Best: 915.87 		N:7
+White          		Mean: 303.61 		Best: 915.87 		N:3
+Chang          		Mean: 129.34 		Best: 905.3 		N:7
+Livezey        		Mean: 181.02 		Best: 900.36 		N:5
+Ross           		Mean: 226.21 		Best: 900.4 		N:4
+Maisonet       		Mean: 301.51 		Best: 900.25 		N:3
+Rehkop         		Mean: 180.64 		Best: 900.37 		N:5
+Berrios        		Mean: 180.67 		Best: 900.28 		N:5
+
+########## REPORT GEN: 50 ##########
+SPECIES: 
+Heminger       		Mean: 130.11 		Best: 915.87 		N:7
+Cassidy        		Mean: 181.92 		Best: 915.87 		N:5
+Ross           		Mean: 182.37 		Best: 915.87 		N:5
+Rehkop         		Mean: 303.9 		Best: 915.87 		N:3
+Hess           		Mean: 129.8 		Best: 915.87 		N:7
+Chang          		Mean: 129.45 		Best: 905.3 		N:7
+Bell           		Mean: 150.95 		Best: 900.37 		N:6
+Livezey        		Mean: 181.21 		Best: 900.37 		N:5
+Maisonet       		Mean: 180.74 		Best: 900.33 		N:5
+Berrios        		Mean: 180.99 		Best: 900.33 		N:5
+White          		Mean: 180.94 		Best: 900.5 		N:5
+Felipe         		Mean: 225.96 		Best: 900.28 		N:4
+
+########## REPORT GEN: 51 ##########
+SPECIES: 
+Hess           		Mean: 129.79 		Best: 915.87 		N:7
+Livezey        		Mean: 129.87 		Best: 915.87 		N:7
+Maisonet       		Mean: 152.22 		Best: 915.87 		N:6
+White          		Mean: 101.27 		Best: 915.87 		N:9
+Rehkop         		Mean: 100.9 		Best: 915.87 		N:9
+Chang          		Mean: 90.74 		Best: 915.87 		N:10
+Berrios        		Mean: 181.97 		Best: 915.87 		N:5
+Ross           		Mean: 151.05 		Best: 901.47 		N:6
+Cassidy        		Mean: 226.34 		Best: 900.33 		N:4
+Heminger       		Mean: 225.83 		Best: 900.31 		N:4
+Felipe         		Mean: 82.32 		Best: 900.5 		N:11
+Bell           		Mean: 129.26 		Best: 900.44 		N:7
+
+########## REPORT GEN: 52 ##########
+SPECIES: 
+Hess           		Mean: 113.48 		Best: 915.87 		N:8
+White          		Mean: 82.49 		Best: 915.87 		N:11
+Ross           		Mean: 151.45 		Best: 915.87 		N:6
+Cassidy        		Mean: 129.8 		Best: 915.87 		N:7
+Livezey        		Mean: 227.52 		Best: 915.87 		N:4
+Rehkop         		Mean: 129.97 		Best: 915.87 		N:7
+Berrios        		Mean: 64.97 		Best: 915.87 		N:14
+Heminger       		Mean: 151.13 		Best: 906.74 		N:6
+Chang          		Mean: 150.88 		Best: 900.38 		N:6
+Maisonet       		Mean: 226.24 		Best: 900.28 		N:4
+Bell           		Mean: 129.34 		Best: 900.5 		N:7
+Felipe         		Mean: 180.88 		Best: 900.32 		N:5
+
+########## REPORT GEN: 53 ##########
+SPECIES: 
+Cassidy        		Mean: 129.69 		Best: 915.87 		N:7
+Maisonet       		Mean: 69.87 		Best: 915.87 		N:13
+Bell           		Mean: 227.64 		Best: 915.87 		N:4
+Ross           		Mean: 181.74 		Best: 915.87 		N:5
+Rehkop         		Mean: 113.63 		Best: 915.87 		N:8
+Berrios        		Mean: 75.68 		Best: 915.87 		N:12
+Heminger       		Mean: 151.3 		Best: 915.87 		N:6
+White          		Mean: 82.2 		Best: 903.26 		N:11
+Chang          		Mean: 180.99 		Best: 901.47 		N:5
+Felipe         		Mean: 150.52 		Best: 900.33 		N:6
+Livezey        		Mean: 180.88 		Best: 900.31 		N:5
+Hess           		Mean: 129.27 		Best: 900.28 		N:7
+
+########## REPORT GEN: 54 ##########
+SPECIES: 
+Cassidy        		Mean: 151.44 		Best: 915.87 		N:6
+Livezey        		Mean: 129.59 		Best: 915.87 		N:7
+Maisonet       		Mean: 100.88 		Best: 915.87 		N:9
+Ross           		Mean: 114.02 		Best: 915.87 		N:8
+Chang          		Mean: 129.74 		Best: 915.87 		N:7
+Felipe         		Mean: 129.66 		Best: 915.87 		N:7
+White          		Mean: 82.29 		Best: 901.47 		N:11
+Hess           		Mean: 180.73 		Best: 900.31 		N:5
+Heminger       		Mean: 150.52 		Best: 900.25 		N:6
+Berrios        		Mean: 129.17 		Best: 900.24 		N:7
+Rehkop         		Mean: 129.26 		Best: 900.25 		N:7
+Bell           		Mean: 75.26 		Best: 900.22 		N:12
+
+########## REPORT GEN: 55 ##########
+SPECIES: 
+Chang          		Mean: 113.73 		Best: 915.87 		N:8
+Heminger       		Mean: 69.74 		Best: 915.87 		N:13
+Rehkop         		Mean: 100.87 		Best: 915.87 		N:9
+Cassidy        		Mean: 100.8 		Best: 915.87 		N:9
+White          		Mean: 227.4 		Best: 915.87 		N:4
+Hess           		Mean: 75.63 		Best: 915.87 		N:12
+Bell           		Mean: 150.96 		Best: 915.87 		N:6
+Ross           		Mean: 90.37 		Best: 900.31 		N:10
+Livezey        		Mean: 129.24 		Best: 900.25 		N:7
+Maisonet       		Mean: 225.16 		Best: 900.18 		N:4
+Felipe         		Mean: 129.17 		Best: 900.33 		N:7
+Berrios        		Mean: 129.01 		Best: 900.24 		N:7
+
+########## REPORT GEN: 56 ##########
+SPECIES: 
+Hess           		Mean: 90.79 		Best: 915.87 		N:10
+Berrios        		Mean: 129.67 		Best: 915.87 		N:7
+Heminger       		Mean: 129.54 		Best: 915.87 		N:7
+Ross           		Mean: 226.98 		Best: 915.87 		N:4
+Felipe         		Mean: 113.26 		Best: 915.87 		N:8
+Maisonet       		Mean: 100.56 		Best: 903.26 		N:9
+White          		Mean: 112.97 		Best: 900.29 		N:8
+Bell           		Mean: 128.98 		Best: 900.21 		N:7
+Cassidy        		Mean: 112.96 		Best: 900.23 		N:8
+Rehkop         		Mean: 452.17 		Best: 900.17 		N:2
+Chang          		Mean: 181.01 		Best: 900.31 		N:5
+Livezey        		Mean: 90.25 		Best: 900.21 		N:10
+
+########## REPORT GEN: 57 ##########
+SPECIES: 
+Hess           		Mean: 130.03 		Best: 915.87 		N:7
+Cassidy        		Mean: 113.38 		Best: 915.87 		N:8
+Ross           		Mean: 303.73 		Best: 915.87 		N:3
+Maisonet       		Mean: 113.24 		Best: 915.87 		N:8
+Rehkop         		Mean: 129.84 		Best: 915.87 		N:7
+White          		Mean: 113.15 		Best: 900.31 		N:8
+Berrios        		Mean: 150.18 		Best: 900.26 		N:6
+Felipe         		Mean: 225.3 		Best: 900.24 		N:4
+Livezey        		Mean: 452.25 		Best: 900.21 		N:2
+Chang          		Mean: 150.47 		Best: 900.21 		N:6
+Bell           		Mean: 180.64 		Best: 900.22 		N:5
+Heminger       		Mean: 113.08 		Best: 900.29 		N:8
+
+########## REPORT GEN: 58 ##########
+SPECIES: 
+Ross           		Mean: 113.22 		Best: 915.87 		N:8
+Felipe         		Mean: 151.8 		Best: 915.87 		N:6
+Cassidy        		Mean: 129.51 		Best: 915.87 		N:7
+Maisonet       		Mean: 228.41 		Best: 915.87 		N:4
+Chang          		Mean: 113.62 		Best: 915.87 		N:8
+Hess           		Mean: 301.38 		Best: 900.31 		N:3
+Bell           		Mean: 226.14 		Best: 900.29 		N:4
+Livezey        		Mean: 150.72 		Best: 900.2 		N:6
+Rehkop         		Mean: 129.23 		Best: 900.17 		N:7
+White          		Mean: 301.32 		Best: 900.21 		N:3
+Berrios        		Mean: 100.27 		Best: 900.23 		N:9
+Heminger       		Mean: 180.73 		Best: 900.26 		N:5
+
+########## REPORT GEN: 59 ##########
+SPECIES: 
+Ross           		Mean: 228.35 		Best: 915.87 		N:4
+Hess           		Mean: 90.73 		Best: 915.87 		N:10
+Rehkop         		Mean: 129.98 		Best: 915.87 		N:7
+Livezey        		Mean: 227.39 		Best: 915.87 		N:4
+White          		Mean: 129.65 		Best: 915.87 		N:7
+Chang          		Mean: 129.13 		Best: 900.29 		N:7
+Maisonet       		Mean: 90.51 		Best: 900.31 		N:10
+Berrios        		Mean: 150.76 		Best: 900.21 		N:6
+Heminger       		Mean: 150.76 		Best: 900.15 		N:6
+Bell           		Mean: 150.52 		Best: 900.6 		N:6
+Cassidy        		Mean: 150.54 		Best: 900.34 		N:6
+Felipe         		Mean: 301.34 		Best: 900.14 		N:3
+
+########## REPORT GEN: 60 ##########
+SPECIES: 
+Ross           		Mean: 182.46 		Best: 915.87 		N:5
+Hess           		Mean: 129.49 		Best: 915.87 		N:7
+White          		Mean: 100.91 		Best: 915.87 		N:9
+Heminger       		Mean: 100.78 		Best: 915.87 		N:9
+Bell           		Mean: 151.35 		Best: 915.87 		N:6
+Cassidy        		Mean: 113.4 		Best: 915.87 		N:8
+Felipe         		Mean: 151.84 		Best: 915.87 		N:6
+Maisonet       		Mean: 129.56 		Best: 910.12 		N:7
+Rehkop         		Mean: 180.88 		Best: 900.18 		N:5
+Berrios        		Mean: 113.09 		Best: 900.2 		N:8
+Chang          		Mean: 225.2 		Best: 900.15 		N:4
+Livezey        		Mean: 129.16 		Best: 900.17 		N:7
+
+########## REPORT GEN: 61 ##########
+SPECIES: 
+White          		Mean: 100.75 		Best: 915.87 		N:9
+Heminger       		Mean: 113.4 		Best: 915.87 		N:8
+Bell           		Mean: 227.36 		Best: 915.87 		N:4
+Cassidy        		Mean: 129.66 		Best: 915.87 		N:7
+Felipe         		Mean: 101.03 		Best: 915.87 		N:9
+Rehkop         		Mean: 75.67 		Best: 915.87 		N:12
+Hess           		Mean: 129.29 		Best: 915.87 		N:7
+Maisonet       		Mean: 129.98 		Best: 915.87 		N:7
+Livezey        		Mean: 150.47 		Best: 900.23 		N:6
+Ross           		Mean: 150.73 		Best: 900.17 		N:6
+Berrios        		Mean: 180.85 		Best: 900.14 		N:5
+Chang          		Mean: 128.97 		Best: 900.77 		N:7
+
+########## REPORT GEN: 62 ##########
+SPECIES: 
+Cassidy        		Mean: 82.4 		Best: 915.87 		N:11
+Hess           		Mean: 113.39 		Best: 915.87 		N:8
+Maisonet       		Mean: 129.48 		Best: 915.87 		N:7
+Heminger       		Mean: 130.39 		Best: 915.87 		N:7
+Felipe         		Mean: 90.86 		Best: 915.87 		N:10
+Rehkop         		Mean: 151.29 		Best: 915.87 		N:6
+Ross           		Mean: 113.7 		Best: 915.87 		N:8
+Livezey        		Mean: 180.83 		Best: 900.24 		N:5
+White          		Mean: 100.46 		Best: 900.23 		N:9
+Chang          		Mean: 301.35 		Best: 900.13 		N:3
+Bell           		Mean: 82.21 		Best: 900.22 		N:11
+Berrios        		Mean: 150.18 		Best: 900.17 		N:6
+
+########## REPORT GEN: 63 ##########
+SPECIES: 
+Felipe         		Mean: 113.36 		Best: 915.87 		N:8
+White          		Mean: 129.65 		Best: 915.87 		N:7
+Cassidy        		Mean: 113.33 		Best: 915.87 		N:8
+Maisonet       		Mean: 101.24 		Best: 915.87 		N:9
+Rehkop         		Mean: 228.25 		Best: 915.87 		N:4
+Berrios        		Mean: 90.82 		Best: 915.87 		N:10
+Livezey        		Mean: 150.48 		Best: 900.19 		N:6
+Ross           		Mean: 112.94 		Best: 900.23 		N:8
+Hess           		Mean: 129.17 		Best: 900.15 		N:7
+Chang          		Mean: 129.19 		Best: 900.16 		N:7
+Heminger       		Mean: 301.37 		Best: 900.13 		N:3
+Bell           		Mean: 180.65 		Best: 900.23 		N:5
+
+########## REPORT GEN: 64 ##########
+SPECIES: 
+Berrios        		Mean: 129.48 		Best: 915.87 		N:7
+Felipe         		Mean: 151.58 		Best: 915.87 		N:6
+Cassidy        		Mean: 75.52 		Best: 915.87 		N:12
+Chang          		Mean: 100.97 		Best: 915.87 		N:9
+Bell           		Mean: 100.94 		Best: 915.87 		N:9
+Hess           		Mean: 82.18 		Best: 900.18 		N:11
+Ross           		Mean: 450.38 		Best: 900.18 		N:2
+Maisonet       		Mean: 180.84 		Best: 900.21 		N:5
+Rehkop         		Mean: 129.13 		Best: 900.18 		N:7
+White          		Mean: 150.43 		Best: 900.2 		N:6
+Livezey        		Mean: 226.15 		Best: 900.24 		N:4
+Heminger       		Mean: 180.84 		Best: 900.21 		N:5
+
+########## REPORT GEN: 65 ##########
+SPECIES: 
+Cassidy        		Mean: 129.47 		Best: 915.87 		N:7
+White          		Mean: 182.4 		Best: 915.87 		N:5
+Livezey        		Mean: 69.7 		Best: 915.87 		N:13
+Heminger       		Mean: 129.61 		Best: 915.87 		N:7
+Hess           		Mean: 226.04 		Best: 900.23 		N:4
+Ross           		Mean: 450.44 		Best: 900.21 		N:2
+Rehkop         		Mean: 301.32 		Best: 900.18 		N:3
+Berrios        		Mean: 113.03 		Best: 900.15 		N:8
+Felipe         		Mean: 180.19 		Best: 900.15 		N:5
+Chang          		Mean: 100.43 		Best: 900.13 		N:9
+Bell           		Mean: 90.42 		Best: 900.18 		N:10
+Maisonet       		Mean: 225.92 		Best: 900.2 		N:4
+
+########## REPORT GEN: 66 ##########
+SPECIES: 
+Cassidy        		Mean: 82.38 		Best: 915.87 		N:11
+Hess           		Mean: 227.21 		Best: 915.87 		N:4
+Berrios        		Mean: 129.6 		Best: 915.87 		N:7
+Bell           		Mean: 113.34 		Best: 915.87 		N:8
+Ross           		Mean: 226.1 		Best: 900.21 		N:4
+Felipe         		Mean: 301.16 		Best: 900.15 		N:3
+Rehkop         		Mean: 75.25 		Best: 900.18 		N:12
+Heminger       		Mean: 301.32 		Best: 900.13 		N:3
+Livezey        		Mean: 225.21 		Best: 900.12 		N:4
+Chang          		Mean: 128.91 		Best: 900.12 		N:7
+Maisonet       		Mean: 100.4 		Best: 900.21 		N:9
+
+########## REPORT GEN: 67 ##########
+SPECIES: 
+Bell           		Mean: 129.59 		Best: 915.87 		N:7
+Heminger       		Mean: 100.95 		Best: 915.87 		N:9
+Livezey        		Mean: 181.53 		Best: 915.87 		N:5
+Chang          		Mean: 150.73 		Best: 900.21 		N:6
+Felipe         		Mean: 100.48 		Best: 900.18 		N:9
+Ross           		Mean: 150.7 		Best: 900.16 		N:6
+Berrios        		Mean: 129.15 		Best: 900.18 		N:7
+Maisonet       		Mean: 226.05 		Best: 900.13 		N:4
+Cassidy        		Mean: 225.85 		Best: 900.15 		N:4
+Hess           		Mean: 112.83 		Best: 900.22 		N:8
+Rehkop         		Mean: 225.84 		Best: 900.12 		N:4
+
+########## REPORT GEN: 68 ##########
+SPECIES: 
+Berrios        		Mean: 181.6 		Best: 915.87 		N:5
+Maisonet       		Mean: 100.74 		Best: 915.87 		N:9
+Cassidy        		Mean: 227.22 		Best: 915.87 		N:4
+Ross           		Mean: 129.16 		Best: 900.2 		N:7
+Livezey        		Mean: 112.94 		Best: 900.18 		N:8
+Bell           		Mean: 75.31 		Best: 900.16 		N:12
+Chang          		Mean: 113.0 		Best: 900.16 		N:8
+Felipe         		Mean: 113.01 		Best: 900.15 		N:8
+Rehkop         		Mean: 112.98 		Best: 900.18 		N:8
+Heminger       		Mean: 301.07 		Best: 900.12 		N:3
+Hess           		Mean: 113.02 		Best: 900.15 		N:8
+
+########## REPORT GEN: 69 ##########
+SPECIES: 
+Cassidy        		Mean: 82.49 		Best: 915.87 		N:11
+Bell           		Mean: 150.94 		Best: 915.87 		N:6
+Hess           		Mean: 150.65 		Best: 900.2 		N:6
+Heminger       		Mean: 129.17 		Best: 900.18 		N:7
+Livezey        		Mean: 112.9 		Best: 900.18 		N:8
+Rehkop         		Mean: 150.68 		Best: 900.18 		N:6
+Maisonet       		Mean: 226.08 		Best: 900.15 		N:4
+Chang          		Mean: 100.47 		Best: 900.15 		N:9
+Ross           		Mean: 129.07 		Best: 900.14 		N:7
+Felipe         		Mean: 128.93 		Best: 900.15 		N:7
+Berrios        		Mean: 112.9 		Best: 900.18 		N:8
+
+########## REPORT GEN: 70 ##########
+SPECIES: 
+Hess           		Mean: 129.67 		Best: 915.87 		N:7
+Berrios        		Mean: 90.71 		Best: 915.87 		N:10
+Cassidy        		Mean: 180.84 		Best: 900.2 		N:5
+Rehkop         		Mean: 129.17 		Best: 900.18 		N:7
+Chang          		Mean: 100.5 		Best: 900.15 		N:9
+Maisonet       		Mean: 112.97 		Best: 900.13 		N:8
+Ross           		Mean: 112.9 		Best: 900.13 		N:8
+Livezey        		Mean: 60.24 		Best: 900.2 		N:15
+Heminger       		Mean: 180.54 		Best: 900.18 		N:5
+Felipe         		Mean: 112.92 		Best: 900.13 		N:8
+Bell           		Mean: 150.61 		Best: 900.13 		N:6
+
+########## REPORT GEN: 71 ##########
+SPECIES: 
+Maisonet       		Mean: 75.5 		Best: 915.87 		N:12
+Heminger       		Mean: 151.27 		Best: 915.87 		N:6
+Cassidy        		Mean: 100.47 		Best: 900.29 		N:9
+Ross           		Mean: 225.85 		Best: 900.18 		N:4
+Hess           		Mean: 100.45 		Best: 900.16 		N:9
+Berrios        		Mean: 113.01 		Best: 900.2 		N:8
+Livezey        		Mean: 60.28 		Best: 900.16 		N:15
+Felipe         		Mean: 112.92 		Best: 900.16 		N:8
+Chang          		Mean: 100.36 		Best: 900.15 		N:9
+Rehkop         		Mean: 180.79 		Best: 900.12 		N:5
+Bell           		Mean: 113.0 		Best: 900.18 		N:8
+
+########## REPORT GEN: 72 ##########
+SPECIES: 
+Ross           		Mean: 181.54 		Best: 915.87 		N:5
+Berrios        		Mean: 75.49 		Best: 915.87 		N:12
+Felipe         		Mean: 113.36 		Best: 915.87 		N:8
+Maisonet       		Mean: 112.99 		Best: 900.29 		N:8
+Hess           		Mean: 113.0 		Best: 900.2 		N:8
+Bell           		Mean: 100.45 		Best: 900.2 		N:9
+Rehkop         		Mean: 129.15 		Best: 900.14 		N:7
+Livezey        		Mean: 82.21 		Best: 900.16 		N:11
+Chang          		Mean: 129.12 		Best: 900.19 		N:7
+Heminger       		Mean: 129.07 		Best: 900.18 		N:7
+Cassidy        		Mean: 180.78 		Best: 900.14 		N:5
+
+########## REPORT GEN: 73 ##########
+SPECIES: 
+Ross           		Mean: 181.66 		Best: 915.87 		N:5
+Heminger       		Mean: 69.61 		Best: 915.87 		N:13
+Berrios        		Mean: 82.33 		Best: 910.33 		N:11
+Bell           		Mean: 129.09 		Best: 900.29 		N:7
+Felipe         		Mean: 100.35 		Best: 900.22 		N:9
+Maisonet       		Mean: 82.17 		Best: 900.2 		N:11
+Cassidy        		Mean: 129.17 		Best: 900.17 		N:7
+Hess           		Mean: 113.01 		Best: 900.14 		N:8
+Rehkop         		Mean: 129.1 		Best: 900.18 		N:7
+Chang          		Mean: 113.0 		Best: 900.16 		N:8
+Livezey        		Mean: 225.78 		Best: 900.2 		N:4
+
+########## REPORT GEN: 74 ##########
+SPECIES: 
+Heminger       		Mean: 75.67 		Best: 915.87 		N:12
+Chang          		Mean: 151.24 		Best: 915.87 		N:6
+Ross           		Mean: 181.4 		Best: 910.33 		N:5
+Berrios        		Mean: 113.04 		Best: 900.19 		N:8
+Felipe         		Mean: 69.56 		Best: 900.18 		N:13
+Maisonet       		Mean: 150.61 		Best: 900.2 		N:6
+Cassidy        		Mean: 69.54 		Best: 900.17 		N:13
+Bell           		Mean: 150.48 		Best: 900.16 		N:6
+Rehkop         		Mean: 150.64 		Best: 900.23 		N:6
+Livezey        		Mean: 112.94 		Best: 900.16 		N:8
+Hess           		Mean: 301.22 		Best: 900.2 		N:3
+
+########## REPORT GEN: 75 ##########
+SPECIES: 
+Felipe         		Mean: 113.46 		Best: 915.87 		N:8
+Hess           		Mean: 75.45 		Best: 915.87 		N:12
+Rehkop         		Mean: 150.68 		Best: 900.18 		N:6
+Chang          		Mean: 129.17 		Best: 900.16 		N:7
+Ross           		Mean: 82.19 		Best: 900.14 		N:11
+Maisonet       		Mean: 180.62 		Best: 900.14 		N:5
+Berrios        		Mean: 150.59 		Best: 900.17 		N:6
+Bell           		Mean: 100.26 		Best: 900.18 		N:9
+Cassidy        		Mean: 129.11 		Best: 900.18 		N:7
+Livezey        		Mean: 112.99 		Best: 900.24 		N:8
+Heminger       		Mean: 128.89 		Best: 900.14 		N:7
+
+########## REPORT GEN: 76 ##########
+SPECIES: 
+Heminger       		Mean: 75.62 		Best: 915.87 		N:12
+Bell           		Mean: 82.19 		Best: 900.18 		N:11
+Livezey        		Mean: 180.8 		Best: 900.18 		N:5
+Maisonet       		Mean: 113.01 		Best: 900.18 		N:8
+Ross           		Mean: 180.77 		Best: 900.14 		N:5
+Cassidy        		Mean: 128.98 		Best: 900.13 		N:7
+Felipe         		Mean: 128.96 		Best: 900.13 		N:7
+Hess           		Mean: 64.58 		Best: 900.2 		N:14
+Chang          		Mean: 129.11 		Best: 900.13 		N:7
+Berrios        		Mean: 82.2 		Best: 900.27 		N:11
+Rehkop         		Mean: 100.45 		Best: 900.24 		N:9
+
+########## REPORT GEN: 77 ##########
+SPECIES: 
+Felipe         		Mean: 100.7 		Best: 915.87 		N:9
+Maisonet       		Mean: 69.55 		Best: 900.22 		N:13
+Berrios        		Mean: 90.4 		Best: 900.18 		N:10
+Cassidy        		Mean: 100.47 		Best: 900.15 		N:9
+Ross           		Mean: 180.74 		Best: 900.14 		N:5
+Heminger       		Mean: 150.47 		Best: 900.15 		N:6
+Bell           		Mean: 90.42 		Best: 900.13 		N:10
+Rehkop         		Mean: 180.77 		Best: 900.12 		N:5
+Hess           		Mean: 90.37 		Best: 900.15 		N:10
+Chang          		Mean: 100.44 		Best: 900.15 		N:9
+Livezey        		Mean: 225.92 		Best: 900.1 		N:4
+
+########## REPORT GEN: 78 ##########
+SPECIES: 
+Heminger       		Mean: 69.65 		Best: 915.87 		N:13
+Bell           		Mean: 129.09 		Best: 900.18 		N:7
+Rehkop         		Mean: 100.36 		Best: 900.15 		N:9
+Cassidy        		Mean: 69.53 		Best: 900.15 		N:13
+Hess           		Mean: 100.42 		Best: 900.18 		N:9
+Maisonet       		Mean: 450.17 		Best: 900.11 		N:2
+Berrios        		Mean: 129.06 		Best: 900.15 		N:7
+Chang          		Mean: 300.34 		Best: 900.14 		N:3
+Livezey        		Mean: 301.18 		Best: 900.11 		N:3
+Ross           		Mean: 90.24 		Best: 900.15 		N:10
+Felipe         		Mean: 129.13 		Best: 900.17 		N:7
+
+########## REPORT GEN: 79 ##########
+SPECIES: 
+Heminger       		Mean: 151.2 		Best: 915.87 		N:6
+Berrios        		Mean: 113.52 		Best: 915.87 		N:8
+Hess           		Mean: 180.57 		Best: 900.18 		N:5
+Ross           		Mean: 150.48 		Best: 900.15 		N:6
+Chang          		Mean: 180.5 		Best: 900.15 		N:5
+Cassidy        		Mean: 301.23 		Best: 900.16 		N:3
+Maisonet       		Mean: 113.03 		Best: 900.16 		N:8
+Livezey        		Mean: 180.81 		Best: 900.12 		N:5
+Felipe         		Mean: 150.58 		Best: 900.17 		N:6
+Rehkop         		Mean: 180.7 		Best: 900.17 		N:5
+Bell           		Mean: 150.65 		Best: 900.12 		N:6
+
+########## REPORT GEN: 80 ##########
+SPECIES: 
+Ross           		Mean: 151.18 		Best: 915.87 		N:6
+Livezey        		Mean: 69.74 		Best: 915.87 		N:13
+Rehkop         		Mean: 150.68 		Best: 903.76 		N:6
+Heminger       		Mean: 180.77 		Best: 900.18 		N:5
+Berrios        		Mean: 129.15 		Best: 900.15 		N:7
+Hess           		Mean: 100.26 		Best: 900.15 		N:9
+Cassidy        		Mean: 112.9 		Best: 902.09 		N:8
+Maisonet       		Mean: 113.01 		Best: 900.14 		N:8
+Bell           		Mean: 90.37 		Best: 900.14 		N:10
+Felipe         		Mean: 129.1 		Best: 900.15 		N:7
+Chang          		Mean: 112.95 		Best: 900.19 		N:8
+
+########## REPORT GEN: 81 ##########
+SPECIES: 
+Ross           		Mean: 226.64 		Best: 915.87 		N:4
+Hess           		Mean: 100.75 		Best: 915.87 		N:9
+Maisonet       		Mean: 75.44 		Best: 915.87 		N:12
+Felipe         		Mean: 150.73 		Best: 905.55 		N:6
+Berrios        		Mean: 69.56 		Best: 903.76 		N:13
+Chang          		Mean: 82.18 		Best: 903.76 		N:11
+Rehkop         		Mean: 100.45 		Best: 900.17 		N:9
+Bell           		Mean: 112.98 		Best: 900.15 		N:8
+Heminger       		Mean: 113.0 		Best: 900.18 		N:8
+Cassidy        		Mean: 100.38 		Best: 900.18 		N:9
+Livezey        		Mean: 150.47 		Best: 900.41 		N:6
+
+########## REPORT GEN: 82 ##########
+SPECIES: 
+Hess           		Mean: 82.38 		Best: 915.87 		N:11
+Berrios        		Mean: 129.53 		Best: 915.87 		N:7
+Rehkop         		Mean: 303.22 		Best: 915.87 		N:3
+Cassidy        		Mean: 129.42 		Best: 915.87 		N:7
+Felipe         		Mean: 90.41 		Best: 903.76 		N:10
+Heminger       		Mean: 113.01 		Best: 903.76 		N:8
+Chang          		Mean: 128.94 		Best: 901.3 		N:7
+Bell           		Mean: 112.99 		Best: 900.93 		N:8
+Ross           		Mean: 90.38 		Best: 900.44 		N:10
+Maisonet       		Mean: 112.93 		Best: 900.16 		N:8
+Livezey        		Mean: 150.6 		Best: 900.21 		N:6
+
+########## REPORT GEN: 83 ##########
+SPECIES: 
+Cassidy        		Mean: 82.45 		Best: 915.87 		N:11
+Chang          		Mean: 151.22 		Best: 915.87 		N:6
+Felipe         		Mean: 100.59 		Best: 910.53 		N:9
+Hess           		Mean: 226.18 		Best: 903.76 		N:4
+Ross           		Mean: 75.36 		Best: 903.51 		N:12
+Berrios        		Mean: 150.56 		Best: 900.4 		N:6
+Heminger       		Mean: 150.6 		Best: 900.31 		N:6
+Livezey        		Mean: 300.08 		Best: 900.14 		N:3
+Rehkop         		Mean: 112.79 		Best: 900.14 		N:8
+Bell           		Mean: 180.5 		Best: 900.15 		N:5
+Maisonet       		Mean: 112.96 		Best: 901.3 		N:8
+
+########## REPORT GEN: 84 ##########
+SPECIES: 
+Berrios        		Mean: 90.52 		Best: 915.87 		N:10
+Rehkop         		Mean: 82.29 		Best: 910.53 		N:11
+Bell           		Mean: 150.8 		Best: 903.94 		N:6
+Ross           		Mean: 150.65 		Best: 903.76 		N:6
+Livezey        		Mean: 129.17 		Best: 903.76 		N:7
+Felipe         		Mean: 129.18 		Best: 903.05 		N:7
+Heminger       		Mean: 180.09 		Best: 900.31 		N:5
+Hess           		Mean: 100.38 		Best: 900.4 		N:9
+Maisonet       		Mean: 100.37 		Best: 900.14 		N:9
+Cassidy        		Mean: 225.69 		Best: 900.19 		N:4
+Chang          		Mean: 150.54 		Best: 900.11 		N:6
+
+########## REPORT GEN: 85 ##########
+SPECIES: 
+Rehkop         		Mean: 113.24 		Best: 915.87 		N:8
+Ross           		Mean: 129.45 		Best: 915.87 		N:7
+Felipe         		Mean: 226.69 		Best: 910.53 		N:4
+Berrios        		Mean: 64.61 		Best: 903.94 		N:14
+Livezey        		Mean: 129.09 		Best: 903.94 		N:7
+Cassidy        		Mean: 90.4 		Best: 903.05 		N:10
+Bell           		Mean: 100.38 		Best: 900.44 		N:9
+Chang          		Mean: 112.93 		Best: 900.15 		N:8
+Hess           		Mean: 180.51 		Best: 900.34 		N:5
+Maisonet       		Mean: 112.94 		Best: 900.33 		N:8
+Heminger       		Mean: 129.0 		Best: 900.17 		N:7
+
+########## REPORT GEN: 86 ##########
+SPECIES: 
+Cassidy        		Mean: 181.36 		Best: 915.87 		N:5
+Chang          		Mean: 90.64 		Best: 915.87 		N:10
+Maisonet       		Mean: 100.67 		Best: 915.87 		N:9
+Felipe         		Mean: 90.48 		Best: 910.53 		N:10
+Berrios        		Mean: 90.42 		Best: 905.55 		N:10
+Hess           		Mean: 129.27 		Best: 905.23 		N:7
+Ross           		Mean: 129.23 		Best: 904.68 		N:7
+Rehkop         		Mean: 150.36 		Best: 900.11 		N:6
+Bell           		Mean: 129.01 		Best: 900.17 		N:7
+Livezey        		Mean: 112.98 		Best: 900.17 		N:8
+Heminger       		Mean: 90.37 		Best: 900.25 		N:10
+
+########## REPORT GEN: 87 ##########
+SPECIES: 
+Maisonet       		Mean: 181.36 		Best: 915.87 		N:5
+Felipe         		Mean: 82.33 		Best: 915.87 		N:11
+Hess           		Mean: 181.47 		Best: 915.87 		N:5
+Rehkop         		Mean: 90.48 		Best: 910.53 		N:10
+Livezey        		Mean: 129.31 		Best: 905.55 		N:7
+Berrios        		Mean: 100.6 		Best: 905.23 		N:9
+Cassidy        		Mean: 113.07 		Best: 903.95 		N:8
+Chang          		Mean: 129.1 		Best: 903.94 		N:7
+Ross           		Mean: 75.31 		Best: 900.49 		N:12
+Heminger       		Mean: 90.39 		Best: 900.47 		N:10
+Bell           		Mean: 225.4 		Best: 900.12 		N:4
+
+########## REPORT GEN: 88 ##########
+SPECIES: 
+Maisonet       		Mean: 90.57 		Best: 915.87 		N:10
+Rehkop         		Mean: 75.48 		Best: 915.87 		N:12
+Chang          		Mean: 151.14 		Best: 915.87 		N:6
+Ross           		Mean: 90.71 		Best: 915.87 		N:10
+Berrios        		Mean: 90.52 		Best: 905.55 		N:10
+Cassidy        		Mean: 180.92 		Best: 903.94 		N:5
+Felipe         		Mean: 128.95 		Best: 900.16 		N:7
+Heminger       		Mean: 112.82 		Best: 900.13 		N:8
+Livezey        		Mean: 150.63 		Best: 900.24 		N:6
+Hess           		Mean: 150.59 		Best: 900.14 		N:6
+Bell           		Mean: 150.59 		Best: 900.44 		N:6
+
+########## REPORT GEN: 89 ##########
+SPECIES: 
+Chang          		Mean: 75.5 		Best: 915.87 		N:12
+Berrios        		Mean: 100.58 		Best: 915.87 		N:9
+Hess           		Mean: 113.2 		Best: 915.87 		N:8
+Bell           		Mean: 129.5 		Best: 915.87 		N:7
+Rehkop         		Mean: 100.47 		Best: 902.16 		N:9
+Heminger       		Mean: 128.97 		Best: 901.14 		N:7
+Livezey        		Mean: 100.37 		Best: 900.22 		N:9
+Cassidy        		Mean: 128.96 		Best: 900.13 		N:7
+Maisonet       		Mean: 129.09 		Best: 900.24 		N:7
+Ross           		Mean: 100.38 		Best: 900.12 		N:9
+Felipe         		Mean: 112.9 		Best: 900.12 		N:8
+
+########## REPORT GEN: 90 ##########
+SPECIES: 
+Chang          		Mean: 90.72 		Best: 915.87 		N:10
+Berrios        		Mean: 113.21 		Best: 915.87 		N:8
+Hess           		Mean: 90.56 		Best: 915.87 		N:10
+Ross           		Mean: 129.26 		Best: 915.87 		N:7
+Rehkop         		Mean: 100.47 		Best: 904.62 		N:9
+Livezey        		Mean: 150.67 		Best: 902.09 		N:6
+Maisonet       		Mean: 150.72 		Best: 901.76 		N:6
+Bell           		Mean: 82.1 		Best: 900.13 		N:11
+Heminger       		Mean: 100.32 		Best: 901.14 		N:9
+Cassidy        		Mean: 60.24 		Best: 900.16 		N:15
+Felipe         		Mean: 150.63 		Best: 900.53 		N:6
+
+########## REPORT GEN: 91 ##########
+SPECIES: 
+Rehkop         		Mean: 90.73 		Best: 915.87 		N:10
+Maisonet       		Mean: 90.62 		Best: 915.87 		N:10
+Cassidy        		Mean: 100.66 		Best: 915.87 		N:9
+Bell           		Mean: 82.16 		Best: 902.09 		N:11
+Hess           		Mean: 69.52 		Best: 901.76 		N:13
+Livezey        		Mean: 100.43 		Best: 901.76 		N:9
+Heminger       		Mean: 112.99 		Best: 901.3 		N:8
+Berrios        		Mean: 112.98 		Best: 900.67 		N:8
+Chang          		Mean: 150.52 		Best: 900.34 		N:6
+Ross           		Mean: 90.35 		Best: 900.19 		N:10
+Felipe         		Mean: 225.78 		Best: 900.12 		N:4
+
+########## REPORT GEN: 92 ##########
+SPECIES: 
+Livezey        		Mean: 90.53 		Best: 915.87 		N:10
+Heminger       		Mean: 56.57 		Best: 915.87 		N:16
+Chang          		Mean: 113.31 		Best: 915.87 		N:8
+Maisonet       		Mean: 113.1 		Best: 906.99 		N:8
+Rehkop         		Mean: 113.01 		Best: 904.77 		N:8
+Cassidy        		Mean: 150.66 		Best: 902.09 		N:6
+Hess           		Mean: 112.99 		Best: 902.04 		N:8
+Berrios        		Mean: 90.39 		Best: 901.76 		N:10
+Felipe         		Mean: 180.93 		Best: 901.76 		N:5
+Bell           		Mean: 150.55 		Best: 901.14 		N:6
+Ross           		Mean: 450.61 		Best: 900.1 		N:2
+
+########## REPORT GEN: 93 ##########
+SPECIES: 
+Heminger       		Mean: 151.35 		Best: 915.87 		N:6
+Rehkop         		Mean: 227.02 		Best: 915.87 		N:4
+Berrios        		Mean: 100.72 		Best: 915.87 		N:9
+Livezey        		Mean: 180.99 		Best: 906.66 		N:5
+Cassidy        		Mean: 82.24 		Best: 906.66 		N:11
+Ross           		Mean: 150.82 		Best: 904.77 		N:6
+Bell           		Mean: 180.77 		Best: 902.09 		N:5
+Felipe         		Mean: 129.09 		Best: 902.04 		N:7
+Hess           		Mean: 180.72 		Best: 901.23 		N:5
+Maisonet       		Mean: 100.38 		Best: 901.14 		N:9
+Chang          		Mean: 100.41 		Best: 900.13 		N:9
+
+########## REPORT GEN: 94 ##########
+SPECIES: 
+Heminger       		Mean: 226.68 		Best: 915.87 		N:4
+Berrios        		Mean: 90.53 		Best: 915.87 		N:10
+Livezey        		Mean: 60.36 		Best: 915.87 		N:15
+Felipe         		Mean: 181.51 		Best: 915.87 		N:5
+Maisonet       		Mean: 113.2 		Best: 915.87 		N:8
+Chang          		Mean: 129.74 		Best: 915.87 		N:7
+Ross           		Mean: 129.5 		Best: 906.66 		N:7
+Bell           		Mean: 180.96 		Best: 906.66 		N:5
+Rehkop         		Mean: 90.36 		Best: 902.04 		N:10
+Cassidy        		Mean: 82.17 		Best: 901.23 		N:11
+Hess           		Mean: 180.7 		Best: 902.32 		N:5
+
+########## REPORT GEN: 95 ##########
+SPECIES: 
+Rehkop         		Mean: 64.75 		Best: 924.15 		N:14
+Heminger       		Mean: 113.2 		Best: 915.87 		N:8
+Livezey        		Mean: 129.52 		Best: 915.87 		N:7
+Ross           		Mean: 69.81 		Best: 915.87 		N:13
+Cassidy        		Mean: 151.04 		Best: 915.87 		N:6
+Hess           		Mean: 181.38 		Best: 915.87 		N:5
+Chang          		Mean: 180.96 		Best: 906.66 		N:5
+Maisonet       		Mean: 180.68 		Best: 902.09 		N:5
+Bell           		Mean: 82.16 		Best: 900.89 		N:11
+Berrios        		Mean: 180.7 		Best: 900.16 		N:5
+Felipe         		Mean: 150.45 		Best: 900.11 		N:6
+
+########## REPORT GEN: 96 ##########
+SPECIES: 
+Livezey        		Mean: 129.68 		Best: 924.15 		N:7
+Heminger       		Mean: 60.37 		Best: 915.87 		N:15
+Maisonet       		Mean: 130.03 		Best: 915.87 		N:7
+Bell           		Mean: 100.61 		Best: 915.87 		N:9
+Ross           		Mean: 112.99 		Best: 904.33 		N:8
+Felipe         		Mean: 82.17 		Best: 903.95 		N:11
+Berrios        		Mean: 90.39 		Best: 903.75 		N:10
+Rehkop         		Mean: 100.37 		Best: 903.4 		N:9
+Chang          		Mean: 150.64 		Best: 902.09 		N:6
+Cassidy        		Mean: 112.95 		Best: 901.04 		N:8
+Hess           		Mean: 225.89 		Best: 900.59 		N:4
+
+########## REPORT GEN: 97 ##########
+SPECIES: 
+Cassidy        		Mean: 75.62 		Best: 924.15 		N:12
+Livezey        		Mean: 75.45 		Best: 915.87 		N:12
+Berrios        		Mean: 181.39 		Best: 915.87 		N:5
+Chang          		Mean: 90.64 		Best: 915.87 		N:10
+Hess           		Mean: 100.51 		Best: 906.66 		N:9
+Bell           		Mean: 180.64 		Best: 904.31 		N:5
+Maisonet       		Mean: 225.75 		Best: 903.4 		N:4
+Ross           		Mean: 129.05 		Best: 902.09 		N:7
+Rehkop         		Mean: 75.29 		Best: 902.09 		N:12
+Felipe         		Mean: 112.93 		Best: 900.89 		N:8
+Heminger       		Mean: 225.82 		Best: 900.13 		N:4
+
+########## REPORT GEN: 98 ##########
+SPECIES: 
+Berrios        		Mean: 129.64 		Best: 924.15 		N:7
+Maisonet       		Mean: 151.48 		Best: 924.15 		N:6
+Livezey        		Mean: 150.95 		Best: 915.87 		N:6
+Hess           		Mean: 113.17 		Best: 915.87 		N:8
+Rehkop         		Mean: 90.52 		Best: 915.87 		N:10
+Felipe         		Mean: 129.47 		Best: 915.87 		N:7
+Chang          		Mean: 90.3 		Best: 906.66 		N:10
+Bell           		Mean: 129.18 		Best: 904.31 		N:7
+Heminger       		Mean: 100.36 		Best: 904.31 		N:9
+Ross           		Mean: 150.63 		Best: 904.09 		N:6
+Cassidy        		Mean: 180.62 		Best: 903.4 		N:5
+
+########## REPORT GEN: 99 ##########
+SPECIES: 
+Livezey        		Mean: 69.65 		Best: 924.15 		N:13
+Heminger       		Mean: 90.92 		Best: 924.15 		N:10
+Berrios        		Mean: 82.33 		Best: 915.87 		N:11
+Hess           		Mean: 181.33 		Best: 915.87 		N:5
+Chang          		Mean: 90.48 		Best: 915.87 		N:10
+Cassidy        		Mean: 129.49 		Best: 915.87 		N:7
+Ross           		Mean: 112.96 		Best: 904.76 		N:8
+Felipe         		Mean: 100.44 		Best: 904.38 		N:9
+Maisonet       		Mean: 150.6 		Best: 903.4 		N:6
+Bell           		Mean: 129.05 		Best: 901.7 		N:7
+Rehkop         		Mean: 129.02 		Best: 900.39 		N:7
+
+########## REPORT GEN: 100 ##########
+SPECIES: 
+Livezey        		Mean: 100.7 		Best: 924.15 		N:9
+Berrios        		Mean: 64.72 		Best: 924.15 		N:14
+Chang          		Mean: 64.94 		Best: 924.15 		N:14
+Maisonet       		Mean: 129.41 		Best: 924.15 		N:7
+Rehkop         		Mean: 151.25 		Best: 924.15 		N:6
+Hess           		Mean: 90.68 		Best: 915.87 		N:10
+Heminger       		Mean: 90.4 		Best: 904.97 		N:10
+Cassidy        		Mean: 100.41 		Best: 904.76 		N:9
+Felipe         		Mean: 129.01 		Best: 902.72 		N:7
+Bell           		Mean: 180.39 		Best: 900.08 		N:5
+Ross           		Mean: 451.38 		Best: 900.07 		N:2
+

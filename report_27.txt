@@ -1,0 +1,1386 @@
+########## REPORT GEN: 2 ##########
+SPECIES: 
+Weber          		Mean: 15.79 		Best: 51.25 		N:2
+Castillo       		Mean: 14.35 		Best: 45.25 		N:2
+Ingles         		Mean: 1.53 		Best: 40.57 		N:9
+Levine         		Mean: 9.87 		Best: 40.11 		N:3
+Larson         		Mean: 1.79 		Best: 39.31 		N:10
+Calloway       		Mean: 16.47 		Best: 38.45 		N:2
+Bennet         		Mean: 11.57 		Best: 34.57 		N:2
+Pierson        		Mean: 3.38 		Best: 34.44 		N:5
+Jarvis         		Mean: 1.99 		Best: 34.25 		N:7
+Downs          		Mean: 1.79 		Best: 31.98 		N:8
+Meredith       		Mean: 9.52 		Best: 26.65 		N:2
+Weich          		Mean: 5.44 		Best: 11.75 		N:2
+Wilson         		Mean: 5.32 		Best: 11.5 		N:2
+Corcoran       		Mean: 5.25 		Best: 11.25 		N:2
+Clay           		Mean: 3.58 		Best: 10.75 		N:3
+Beasley        		Mean: 5.22 		Best: 10.75 		N:2
+Foster         		Mean: 5.14 		Best: 10.5 		N:2
+Hernandez      		Mean: 5.1  		Best: 10.25 		N:2
+Boykins        		Mean: 4.94 		Best: 10.0 		N:2
+
+########## REPORT GEN: 3 ##########
+SPECIES: 
+Castillo       		Mean: 4.96 		Best: 47.75 		N:4
+Levine         		Mean: 5.23 		Best: 47.75 		N:5
+Weber          		Mean: 4.69 		Best: 42.5 		N:4
+Pierson        		Mean: 4.62 		Best: 41.5 		N:4
+Ingles         		Mean: 9.33 		Best: 38.77 		N:3
+Benson         		Mean: 4.52 		Best: 38.6 		N:4
+Bennet         		Mean: 5.89 		Best: 37.97 		N:4
+Clay           		Mean: 7.67 		Best: 36.25 		N:3
+Foster         		Mean: 4.32 		Best: 35.93 		N:4
+Calloway       		Mean: 6.5  		Best: 35.25 		N:4
+Wilson         		Mean: 6.36 		Best: 35.06 		N:3
+Hernandez      		Mean: 2.94 		Best: 32.7 		N:6
+Larson         		Mean: 5.64 		Best: 29.81 		N:3
+Corcoran       		Mean: 3.58 		Best: 11.25 		N:3
+Weich          		Mean: 3.5  		Best: 11.0 		N:3
+Beasley        		Mean: 3.32 		Best: 10.5 		N:3
+Walsh          		Mean: 5.08 		Best: 10.25 		N:2
+Boykins        		Mean: 3.19 		Best: 9.75 		N:3
+Laramore       		Mean: 4.57 		Best: 9.25 		N:2
+
+########## REPORT GEN: 4 ##########
+SPECIES: 
+Weber          		Mean: 7.37 		Best: 50.11 		N:4
+Laramore       		Mean: 11.22 		Best: 47.0 		N:3
+Benson         		Mean: 5.22 		Best: 44.79 		N:5
+Downs          		Mean: 4.69 		Best: 44.0 		N:4
+Walsh          		Mean: 13.68 		Best: 43.45 		N:2
+Foster         		Mean: 19.18 		Best: 42.24 		N:2
+Bennet         		Mean: 3.02 		Best: 39.75 		N:7
+Ingles         		Mean: 4.36 		Best: 38.75 		N:4
+Calloway       		Mean: 8.65 		Best: 37.75 		N:3
+Castillo       		Mean: 3.1  		Best: 36.06 		N:5
+Beasley        		Mean: 10.68 		Best: 31.63 		N:2
+Clay           		Mean: 2.7  		Best: 11.25 		N:4
+Larson         		Mean: 3.75 		Best: 11.25 		N:3
+
+########## REPORT GEN: 5 ##########
+SPECIES: 
+Boykins        		Mean: 7.08 		Best: 44.75 		N:3
+Wilson         		Mean: 7.31 		Best: 43.34 		N:3
+Corcoran       		Mean: 8.88 		Best: 42.47 		N:3
+Bennet         		Mean: 4.54 		Best: 42.0 		N:5
+Laramore       		Mean: 7.47 		Best: 41.35 		N:4
+Walsh          		Mean: 5.82 		Best: 40.28 		N:4
+Foster         		Mean: 5.88 		Best: 35.88 		N:5
+Ingles         		Mean: 6.02 		Best: 31.55 		N:3
+Benson         		Mean: 10.68 		Best: 30.67 		N:2
+Levine         		Mean: 3.39 		Best: 25.38 		N:5
+Calloway       		Mean: 8.72 		Best: 22.42 		N:2
+Downs          		Mean: 1.49 		Best: 10.5 		N:7
+Voll           		Mean: 4.83 		Best: 10.0 		N:2
+
+########## REPORT GEN: 6 ##########
+SPECIES: 
+Corcoran       		Mean: 9.83 		Best: 45.0 		N:3
+Laramore       		Mean: 3.43 		Best: 44.75 		N:5
+Foster         		Mean: 7.22 		Best: 42.75 		N:3
+Boykins        		Mean: 9.02 		Best: 42.0 		N:3
+Benson         		Mean: 3.21 		Best: 41.48 		N:8
+Beasley        		Mean: 6.78 		Best: 40.3 		N:5
+Ingles         		Mean: 4.33 		Best: 39.75 		N:5
+Wilson         		Mean: 8.02 		Best: 35.07 		N:3
+Walsh          		Mean: 6.25 		Best: 34.06 		N:3
+Levine         		Mean: 11.14 		Best: 33.45 		N:2
+Downs          		Mean: 5.23 		Best: 32.68 		N:4
+Calloway       		Mean: 7.49 		Best: 28.37 		N:3
+Bennet         		Mean: 3.56 		Best: 27.0 		N:4
+Larson         		Mean: 3.21 		Best: 19.65 		N:4
+Voll           		Mean: 5.14 		Best: 10.75 		N:2
+
+########## REPORT GEN: 7 ##########
+SPECIES: 
+Ingles         		Mean: 3.74 		Best: 49.3 		N:7
+Laramore       		Mean: 6.88 		Best: 40.36 		N:3
+Benson         		Mean: 3.43 		Best: 39.9 		N:8
+Corcoran       		Mean: 4.31 		Best: 37.75 		N:4
+Levine         		Mean: 12.18 		Best: 37.74 		N:2
+Calloway       		Mean: 3.88 		Best: 37.33 		N:6
+Buckley        		Mean: 9.26 		Best: 35.75 		N:3
+Peterson       		Mean: 3.36 		Best: 34.31 		N:6
+Bennet         		Mean: 10.62 		Best: 34.14 		N:3
+Larson         		Mean: 6.48 		Best: 34.03 		N:3
+Beasley        		Mean: 3.08 		Best: 33.75 		N:5
+Wilson         		Mean: 2.86 		Best: 33.62 		N:6
+Downs          		Mean: 14.99 		Best: 32.9 		N:2
+Foster         		Mean: 12.84 		Best: 27.26 		N:2
+Voll           		Mean: 2.78 		Best: 27.21 		N:5
+Walsh          		Mean: 5.21 		Best: 10.25 		N:2
+
+########## REPORT GEN: 8 ##########
+SPECIES: 
+Downs          		Mean: 8.46 		Best: 49.75 		N:4
+Benson         		Mean: 3.78 		Best: 46.25 		N:7
+Bennet         		Mean: 11.41 		Best: 45.03 		N:3
+Beasley        		Mean: 6.53 		Best: 43.58 		N:5
+Voll           		Mean: 9.01 		Best: 42.0 		N:3
+Corcoran       		Mean: 13.11 		Best: 41.77 		N:2
+Walsh          		Mean: 9.19 		Best: 41.02 		N:3
+Laramore       		Mean: 16.69 		Best: 36.64 		N:2
+Peterson       		Mean: 6.5  		Best: 36.25 		N:4
+Levine         		Mean: 10.05 		Best: 34.73 		N:3
+Calloway       		Mean: 2.61 		Best: 34.54 		N:6
+Foster         		Mean: 2.17 		Best: 30.42 		N:7
+Buckley        		Mean: 12.34 		Best: 29.25 		N:2
+Ingles         		Mean: 4.75 		Best: 27.74 		N:4
+Larson         		Mean: 2.09 		Best: 11.0 		N:5
+
+########## REPORT GEN: 9 ##########
+SPECIES: 
+Calloway       		Mean: 8.57 		Best: 50.25 		N:4
+Wilson         		Mean: 20.43 		Best: 44.05 		N:2
+Levine         		Mean: 12.41 		Best: 43.91 		N:3
+Bennet         		Mean: 2.94 		Best: 43.75 		N:9
+Walsh          		Mean: 8.04 		Best: 43.25 		N:4
+Corcoran       		Mean: 3.12 		Best: 41.47 		N:6
+Boykins        		Mean: 4.36 		Best: 41.0 		N:8
+Downs          		Mean: 4.27 		Best: 40.0 		N:7
+Voll           		Mean: 6.01 		Best: 40.0 		N:5
+Larson         		Mean: 6.23 		Best: 35.38 		N:3
+Benson         		Mean: 9.77 		Best: 29.67 		N:2
+Laramore       		Mean: 7.26 		Best: 28.49 		N:3
+Foster         		Mean: 13.45 		Best: 26.85 		N:2
+Peterson       		Mean: 13.28 		Best: 26.5 		N:2
+Ingles         		Mean: 3.12 		Best: 20.02 		N:4
+
+########## REPORT GEN: 10 ##########
+SPECIES: 
+Downs          		Mean: 7.31 		Best: 54.35 		N:5
+Bennet         		Mean: 5.4  		Best: 50.5 		N:5
+Walsh          		Mean: 5.1  		Best: 48.91 		N:6
+Boykins        		Mean: 4.6  		Best: 44.75 		N:6
+Buckley        		Mean: 6.5  		Best: 44.0 		N:5
+Ingles         		Mean: 6.71 		Best: 43.5 		N:5
+Beasley        		Mean: 9.69 		Best: 42.75 		N:3
+Levine         		Mean: 11.74 		Best: 41.5 		N:3
+Wilson         		Mean: 10.19 		Best: 40.0 		N:3
+Corcoran       		Mean: 19.78 		Best: 39.71 		N:2
+Voll           		Mean: 18.1 		Best: 39.6 		N:2
+Foster         		Mean: 7.16 		Best: 39.5 		N:4
+Peterson       		Mean: 5.08 		Best: 33.75 		N:4
+Benson         		Mean: 6.33 		Best: 32.74 		N:4
+Laramore       		Mean: 10.33 		Best: 31.51 		N:2
+Calloway       		Mean: 5.7  		Best: 11.25 		N:2
+
+########## REPORT GEN: 11 ##########
+SPECIES: 
+Larson         		Mean: 3.69 		Best: 48.57 		N:9
+Corcoran       		Mean: 3.46 		Best: 47.0 		N:8
+Laramore       		Mean: 21.42 		Best: 44.5 		N:2
+Wilson         		Mean: 5.82 		Best: 44.0 		N:6
+Beasley        		Mean: 3.18 		Best: 43.5 		N:7
+Boykins        		Mean: 7.86 		Best: 42.02 		N:5
+Walsh          		Mean: 5.21 		Best: 40.14 		N:4
+Voll           		Mean: 19.3 		Best: 39.01 		N:2
+Foster         		Mean: 18.47 		Best: 38.93 		N:2
+Buckley        		Mean: 4.3  		Best: 36.46 		N:6
+Ingles         		Mean: 4.47 		Best: 35.89 		N:5
+Downs          		Mean: 5.37 		Best: 34.75 		N:4
+Peterson       		Mean: 4.42 		Best: 26.78 		N:4
+Levine         		Mean: 4.88 		Best: 10.0 		N:2
+
+########## REPORT GEN: 12 ##########
+SPECIES: 
+Larson         		Mean: 22.69 		Best: 48.5 		N:2
+Buckley        		Mean: 8.28 		Best: 45.5 		N:4
+Laramore       		Mean: 13.76 		Best: 44.75 		N:2
+Downs          		Mean: 6.41 		Best: 41.5 		N:4
+Wilson         		Mean: 7.84 		Best: 40.5 		N:4
+Peterson       		Mean: 6.03 		Best: 40.5 		N:5
+Boykins        		Mean: 5.81 		Best: 39.0 		N:4
+Beasley        		Mean: 7.37 		Best: 37.62 		N:4
+Benson         		Mean: 5.78 		Best: 37.06 		N:5
+Bennet         		Mean: 3.94 		Best: 34.96 		N:5
+Calloway       		Mean: 5.16 		Best: 34.85 		N:4
+Levine         		Mean: 6.13 		Best: 34.76 		N:3
+Foster         		Mean: 3.47 		Best: 34.72 		N:6
+Ingles         		Mean: 13.89 		Best: 27.72 		N:2
+Walsh          		Mean: 9.06 		Best: 25.77 		N:2
+
+########## REPORT GEN: 13 ##########
+SPECIES: 
+Bennet         		Mean: 4.96 		Best: 48.66 		N:6
+Corcoran       		Mean: 8.74 		Best: 47.75 		N:4
+Downs          		Mean: 11.99 		Best: 45.35 		N:3
+Walsh          		Mean: 8.81 		Best: 44.5 		N:3
+Laramore       		Mean: 9.42 		Best: 43.75 		N:3
+Wilson         		Mean: 5.34 		Best: 41.81 		N:5
+Foster         		Mean: 18.58 		Best: 41.18 		N:2
+Boykins        		Mean: 4.57 		Best: 41.08 		N:5
+Voll           		Mean: 8.95 		Best: 37.02 		N:3
+Larson         		Mean: 7.39 		Best: 34.94 		N:3
+Beasley        		Mean: 5.76 		Best: 32.3 		N:4
+Ingles         		Mean: 10.44 		Best: 31.92 		N:2
+Levine         		Mean: 10.1 		Best: 29.3 		N:2
+Peterson       		Mean: 6.0  		Best: 29.2 		N:3
+Buckley        		Mean: 13.33 		Best: 26.38 		N:2
+Calloway       		Mean: 5.14 		Best: 10.5 		N:2
+
+########## REPORT GEN: 14 ##########
+SPECIES: 
+Boykins        		Mean: 9.55 		Best: 135.69 		N:5
+Voll           		Mean: 3.38 		Best: 54.75 		N:7
+Larson         		Mean: 5.24 		Best: 44.25 		N:6
+Benson         		Mean: 3.26 		Best: 41.55 		N:7
+Downs          		Mean: 4.84 		Best: 41.5 		N:6
+Buckley        		Mean: 10.13 		Best: 41.36 		N:3
+Wilson         		Mean: 3.86 		Best: 39.11 		N:7
+Laramore       		Mean: 8.89 		Best: 38.25 		N:3
+Bennet         		Mean: 11.5 		Best: 35.09 		N:2
+Corcoran       		Mean: 14.69 		Best: 34.8 		N:2
+Beasley        		Mean: 11.13 		Best: 33.4 		N:2
+Ingles         		Mean: 5.08 		Best: 32.41 		N:4
+Calloway       		Mean: 5.98 		Best: 30.13 		N:4
+Foster         		Mean: 9.59 		Best: 28.01 		N:2
+Peterson       		Mean: 1.96 		Best: 17.46 		N:6
+
+########## REPORT GEN: 15 ##########
+SPECIES: 
+Corcoran       		Mean: 18.03 		Best: 113.55 		N:3
+Benson         		Mean: 13.51 		Best: 47.25 		N:3
+Walsh          		Mean: 3.97 		Best: 45.0 		N:6
+Laramore       		Mean: 9.86 		Best: 44.58 		N:3
+Wilson         		Mean: 6.02 		Best: 41.86 		N:4
+Buckley        		Mean: 12.1 		Best: 40.95 		N:3
+Boykins        		Mean: 6.06 		Best: 39.92 		N:4
+Foster         		Mean: 3.65 		Best: 38.58 		N:6
+Beasley        		Mean: 2.71 		Best: 38.02 		N:8
+Calloway       		Mean: 2.95 		Best: 37.75 		N:6
+Levine         		Mean: 11.66 		Best: 35.03 		N:2
+Voll           		Mean: 5.52 		Best: 26.32 		N:3
+Ingles         		Mean: 4.23 		Best: 23.72 		N:4
+Larson         		Mean: 3.26 		Best: 10.25 		N:3
+
+########## REPORT GEN: 16 ##########
+SPECIES: 
+Beasley        		Mean: 3.36 		Best: 102.12 		N:9
+Levine         		Mean: 14.87 		Best: 48.75 		N:2
+Larson         		Mean: 5.71 		Best: 45.0 		N:5
+Ingles         		Mean: 5.44 		Best: 44.42 		N:5
+Laramore       		Mean: 6.3  		Best: 40.23 		N:4
+Downs          		Mean: 3.24 		Best: 39.82 		N:7
+Walsh          		Mean: 12.29 		Best: 38.75 		N:2
+Boykins        		Mean: 8.91 		Best: 37.82 		N:3
+Benson         		Mean: 11.59 		Best: 36.25 		N:2
+Buckley        		Mean: 2.58 		Best: 33.73 		N:7
+Bennet         		Mean: 6.83 		Best: 31.5 		N:4
+Corcoran       		Mean: 3.6  		Best: 25.98 		N:4
+Calloway       		Mean: 3.01 		Best: 15.24 		N:4
+Voll           		Mean: 5.42 		Best: 11.25 		N:2
+
+########## REPORT GEN: 17 ##########
+SPECIES: 
+Corcoran       		Mean: 5.15 		Best: 55.63 		N:7
+Walsh          		Mean: 4.73 		Best: 52.99 		N:6
+Benson         		Mean: 11.06 		Best: 50.25 		N:3
+Buckley        		Mean: 7.15 		Best: 44.25 		N:3
+Calloway       		Mean: 3.23 		Best: 39.72 		N:5
+Wilson         		Mean: 4.31 		Best: 38.91 		N:5
+Downs          		Mean: 8.69 		Best: 36.67 		N:3
+Laramore       		Mean: 3.79 		Best: 36.44 		N:5
+Voll           		Mean: 4.96 		Best: 34.38 		N:4
+Boykins        		Mean: 6.47 		Best: 33.5 		N:4
+Beasley        		Mean: 3.02 		Best: 31.75 		N:5
+Foster         		Mean: 8.18 		Best: 22.65 		N:2
+Ingles         		Mean: 3.48 		Best: 11.75 		N:3
+
+########## REPORT GEN: 18 ##########
+SPECIES: 
+Walsh          		Mean: 4.55 		Best: 44.93 		N:5
+Corcoran       		Mean: 9.81 		Best: 39.38 		N:3
+Foster         		Mean: 3.61 		Best: 39.0 		N:5
+Bennet         		Mean: 5.94 		Best: 38.76 		N:4
+Levine         		Mean: 14.58 		Best: 38.59 		N:2
+Buckley        		Mean: 4.94 		Best: 36.16 		N:5
+Wilson         		Mean: 3.68 		Best: 35.75 		N:5
+Downs          		Mean: 2.74 		Best: 32.75 		N:6
+Ingles         		Mean: 5.42 		Best: 29.92 		N:4
+Benson         		Mean: 5.33 		Best: 29.26 		N:3
+Laramore       		Mean: 5.19 		Best: 26.9 		N:3
+Beasley        		Mean: 4.49 		Best: 20.28 		N:3
+Calloway       		Mean: 2.12 		Best: 12.25 		N:5
+
+########## REPORT GEN: 19 ##########
+SPECIES: 
+Downs          		Mean: 5.41 		Best: 102.5 		N:6
+Walsh          		Mean: 3.6  		Best: 45.18 		N:6
+Benson         		Mean: 4.34 		Best: 40.0 		N:5
+Ingles         		Mean: 4.19 		Best: 38.08 		N:6
+Larson         		Mean: 14.09 		Best: 37.17 		N:2
+Corcoran       		Mean: 4.78 		Best: 36.0 		N:4
+Bennet         		Mean: 2.95 		Best: 33.54 		N:6
+Laramore       		Mean: 2.55 		Best: 32.25 		N:7
+Foster         		Mean: 1.92 		Best: 32.21 		N:7
+Voll           		Mean: 7.1  		Best: 18.91 		N:2
+Buckley        		Mean: 5.11 		Best: 11.25 		N:2
+Calloway       		Mean: 2.44 		Best: 10.25 		N:4
+
+########## REPORT GEN: 20 ##########
+SPECIES: 
+Larson         		Mean: 28.24 		Best: 103.1 		N:2
+Corcoran       		Mean: 2.87 		Best: 45.23 		N:7
+Bennet         		Mean: 14.74 		Best: 42.01 		N:2
+Walsh          		Mean: 4.31 		Best: 39.55 		N:4
+Laramore       		Mean: 8.43 		Best: 38.76 		N:3
+Wilson         		Mean: 11.22 		Best: 33.99 		N:2
+Foster         		Mean: 2.25 		Best: 33.3 		N:9
+Levine         		Mean: 5.08 		Best: 33.17 		N:4
+Downs          		Mean: 3.67 		Best: 31.86 		N:5
+Ingles         		Mean: 9.46 		Best: 29.03 		N:2
+Calloway       		Mean: 3.42 		Best: 28.38 		N:5
+Voll           		Mean: 3.09 		Best: 9.5 		N:3
+
+########## REPORT GEN: 21 ##########
+SPECIES: 
+Corcoran       		Mean: 2.99 		Best: 42.24 		N:6
+Laramore       		Mean: 1.9  		Best: 41.44 		N:11
+Walsh          		Mean: 3.91 		Best: 38.25 		N:7
+Levine         		Mean: 12.1 		Best: 37.25 		N:2
+Foster         		Mean: 4.04 		Best: 36.25 		N:4
+Ingles         		Mean: 3.53 		Best: 33.97 		N:6
+Bennet         		Mean: 4.91 		Best: 24.9 		N:3
+Wilson         		Mean: 3.26 		Best: 10.25 		N:3
+Benson         		Mean: 4.98 		Best: 10.25 		N:2
+
+########## REPORT GEN: 22 ##########
+SPECIES: 
+Levine         		Mean: 34.91 		Best: 105.61 		N:2
+Calloway       		Mean: 7.86 		Best: 95.53 		N:4
+Benson         		Mean: 7.94 		Best: 46.56 		N:4
+Ingles         		Mean: 7.08 		Best: 43.79 		N:3
+Laramore       		Mean: 6.6  		Best: 40.15 		N:3
+Walsh          		Mean: 8.85 		Best: 38.86 		N:3
+Bennet         		Mean: 3.02 		Best: 36.19 		N:6
+Foster         		Mean: 10.83 		Best: 34.01 		N:2
+Corcoran       		Mean: 1.65 		Best: 11.0 		N:6
+Larson         		Mean: 4.85 		Best: 10.0 		N:2
+Wilson         		Mean: 4.44 		Best: 9.25 		N:2
+Voll           		Mean: 4.44 		Best: 9.25 		N:2
+
+########## REPORT GEN: 23 ##########
+SPECIES: 
+Larson         		Mean: 9.89 		Best: 104.55 		N:4
+Levine         		Mean: 2.39 		Best: 47.17 		N:10
+Walsh          		Mean: 2.57 		Best: 42.5 		N:7
+Foster         		Mean: 2.95 		Best: 42.28 		N:7
+Benson         		Mean: 4.16 		Best: 41.76 		N:5
+Calloway       		Mean: 4.35 		Best: 40.5 		N:4
+Bennet         		Mean: 6.71 		Best: 39.58 		N:4
+Ingles         		Mean: 5.43 		Best: 33.81 		N:4
+Voll           		Mean: 2.09 		Best: 11.5 		N:5
+Wilson         		Mean: 3.22 		Best: 10.5 		N:3
+Laramore       		Mean: 2.38 		Best: 9.75 		N:4
+
+########## REPORT GEN: 24 ##########
+SPECIES: 
+Voll           		Mean: 3.13 		Best: 139.44 		N:10
+Walsh          		Mean: 6.13 		Best: 99.5 		N:5
+Levine         		Mean: 3.5  		Best: 43.44 		N:6
+Calloway       		Mean: 8.98 		Best: 42.81 		N:3
+Ingles         		Mean: 3.63 		Best: 40.75 		N:6
+Wilson         		Mean: 5.45 		Best: 39.32 		N:4
+Benson         		Mean: 4.07 		Best: 37.06 		N:4
+Foster         		Mean: 3.03 		Best: 34.92 		N:6
+Corcoran       		Mean: 3.57 		Best: 31.54 		N:5
+Larson         		Mean: 1.51 		Best: 28.8 		N:9
+Bennet         		Mean: 2.42 		Best: 10.25 		N:4
+Laramore       		Mean: 2.43 		Best: 9.75 		N:4
+
+########## REPORT GEN: 25 ##########
+SPECIES: 
+Larson         		Mean: 3.21 		Best: 96.72 		N:9
+Calloway       		Mean: 3.78 		Best: 92.89 		N:8
+Corcoran       		Mean: 1.98 		Best: 36.83 		N:7
+Levine         		Mean: 3.13 		Best: 36.52 		N:6
+Walsh          		Mean: 1.92 		Best: 34.12 		N:7
+Bennet         		Mean: 2.79 		Best: 32.79 		N:6
+Voll           		Mean: 3.71 		Best: 30.23 		N:4
+Laramore       		Mean: 2.21 		Best: 29.83 		N:7
+Benson         		Mean: 1.47 		Best: 25.5 		N:8
+Wilson         		Mean: 1.69 		Best: 11.25 		N:6
+Ingles         		Mean: 1.66 		Best: 11.0 		N:6
+Foster         		Mean: 1.95 		Best: 10.25 		N:5
+
+########## REPORT GEN: 26 ##########
+SPECIES: 
+Walsh          		Mean: 2.6  		Best: 97.37 		N:8
+Wilson         		Mean: 2.3  		Best: 96.39 		N:10
+Laramore       		Mean: 1.57 		Best: 49.21 		N:9
+Voll           		Mean: 1.93 		Best: 40.0 		N:9
+Levine         		Mean: 3.04 		Best: 39.06 		N:6
+Bennet         		Mean: 2.62 		Best: 36.25 		N:8
+Ingles         		Mean: 1.61 		Best: 35.66 		N:8
+Foster         		Mean: 2.12 		Best: 29.26 		N:6
+Calloway       		Mean: 1.53 		Best: 27.55 		N:8
+Benson         		Mean: 1.65 		Best: 11.25 		N:6
+Larson         		Mean: 1.98 		Best: 10.5 		N:5
+Corcoran       		Mean: 1.91 		Best: 10.0 		N:5
+
+########## REPORT GEN: 27 ##########
+SPECIES: 
+Walsh          		Mean: 1.65 		Best: 97.57 		N:13
+Corcoran       		Mean: 2.44 		Best: 45.87 		N:8
+Calloway       		Mean: 1.1  		Best: 43.5 		N:13
+Wilson         		Mean: 1.45 		Best: 39.88 		N:9
+Laramore       		Mean: 1.14 		Best: 36.26 		N:12
+Benson         		Mean: 2.91 		Best: 35.26 		N:6
+Larson         		Mean: 1.48 		Best: 26.5 		N:8
+Ingles         		Mean: 1.42 		Best: 11.0 		N:7
+Levine         		Mean: 3.22 		Best: 10.0 		N:3
+Bennet         		Mean: 1.3  		Best: 10.0 		N:7
+Foster         		Mean: 1.35 		Best: 9.75 		N:7
+
+########## REPORT GEN: 28 ##########
+SPECIES: 
+Foster         		Mean: 5.65 		Best: 101.94 		N:5
+Laramore       		Mean: 1.49 		Best: 42.69 		N:9
+Bennet         		Mean: 3.79 		Best: 38.05 		N:5
+Levine         		Mean: 11.94 		Best: 37.93 		N:2
+Voll           		Mean: 2.4  		Best: 35.14 		N:6
+Wilson         		Mean: 2.29 		Best: 34.11 		N:6
+Corcoran       		Mean: 1.36 		Best: 32.35 		N:9
+Calloway       		Mean: 2.07 		Best: 25.13 		N:6
+Ingles         		Mean: 1.63 		Best: 10.75 		N:6
+Walsh          		Mean: 1.55 		Best: 10.0 		N:6
+Benson         		Mean: 2.37 		Best: 9.5 		N:4
+Larson         		Mean: 4.56 		Best: 9.25 		N:2
+
+########## REPORT GEN: 29 ##########
+SPECIES: 
+Benson         		Mean: 4.14 		Best: 100.03 		N:6
+Walsh          		Mean: 2.4  		Best: 99.32 		N:9
+Bennet         		Mean: 2.57 		Best: 41.46 		N:7
+Levine         		Mean: 2.53 		Best: 38.57 		N:6
+Laramore       		Mean: 6.88 		Best: 38.0 		N:4
+Foster         		Mean: 1.71 		Best: 37.15 		N:9
+Voll           		Mean: 4.04 		Best: 34.31 		N:4
+Larson         		Mean: 5.51 		Best: 30.7 		N:3
+Wilson         		Mean: 1.97 		Best: 11.0 		N:5
+Corcoran       		Mean: 1.36 		Best: 9.75 		N:7
+
+########## REPORT GEN: 30 ##########
+SPECIES: 
+Voll           		Mean: 4.33 		Best: 104.92 		N:7
+Levine         		Mean: 3.14 		Best: 49.75 		N:7
+Walsh          		Mean: 3.16 		Best: 37.7 		N:5
+Calloway       		Mean: 2.37 		Best: 37.57 		N:6
+Laramore       		Mean: 1.99 		Best: 35.16 		N:8
+Wilson         		Mean: 1.25 		Best: 34.75 		N:11
+Larson         		Mean: 1.79 		Best: 32.08 		N:7
+Bennet         		Mean: 1.53 		Best: 31.55 		N:8
+Benson         		Mean: 9.53 		Best: 28.61 		N:2
+Foster         		Mean: 3.25 		Best: 10.0 		N:3
+
+########## REPORT GEN: 31 ##########
+SPECIES: 
+Bennet         		Mean: 5.28 		Best: 105.41 		N:6
+Voll           		Mean: 2.14 		Best: 47.5 		N:7
+Levine         		Mean: 1.49 		Best: 43.75 		N:9
+Calloway       		Mean: 1.48 		Best: 42.05 		N:10
+Foster         		Mean: 1.95 		Best: 40.31 		N:8
+Wilson         		Mean: 1.68 		Best: 38.12 		N:9
+Laramore       		Mean: 5.94 		Best: 33.75 		N:3
+Larson         		Mean: 1.5  		Best: 29.77 		N:8
+Walsh          		Mean: 4.97 		Best: 10.25 		N:2
+Benson         		Mean: 1.54 		Best: 9.5 		N:6
+
+########## REPORT GEN: 32 ##########
+SPECIES: 
+Bennet         		Mean: 8.65 		Best: 108.36 		N:4
+Foster         		Mean: 3.68 		Best: 99.09 		N:7
+Walsh          		Mean: 1.76 		Best: 44.15 		N:9
+Voll           		Mean: 1.7  		Best: 43.5 		N:8
+Benson         		Mean: 2.02 		Best: 39.2 		N:8
+Calloway       		Mean: 6.15 		Best: 36.19 		N:3
+Laramore       		Mean: 3.37 		Best: 24.94 		N:4
+Larson         		Mean: 4.85 		Best: 23.82 		N:3
+Wilson         		Mean: 1.37 		Best: 10.75 		N:7
+Levine         		Mean: 1.2  		Best: 9.75 		N:8
+
+########## REPORT GEN: 33 ##########
+SPECIES: 
+Laramore       		Mean: 4.32 		Best: 100.0 		N:7
+Calloway       		Mean: 13.4 		Best: 99.79 		N:4
+Wilson         		Mean: 6.72 		Best: 51.95 		N:4
+Walsh          		Mean: 1.17 		Best: 32.67 		N:10
+Bennet         		Mean: 4.85 		Best: 29.22 		N:4
+Larson         		Mean: 2.1  		Best: 28.16 		N:6
+Voll           		Mean: 1.65 		Best: 11.75 		N:6
+Foster         		Mean: 1.58 		Best: 10.0 		N:6
+Benson         		Mean: 1.87 		Best: 9.75 		N:5
+Levine         		Mean: 1.32 		Best: 9.5 		N:7
+
+########## REPORT GEN: 34 ##########
+SPECIES: 
+Bennet         		Mean: 2.56 		Best: 97.14 		N:8
+Calloway       		Mean: 2.49 		Best: 47.39 		N:9
+Larson         		Mean: 3.16 		Best: 40.72 		N:5
+Voll           		Mean: 3.46 		Best: 39.7 		N:6
+Foster         		Mean: 1.09 		Best: 37.13 		N:11
+Levine         		Mean: 3.8  		Best: 33.21 		N:5
+Laramore       		Mean: 1.95 		Best: 10.25 		N:5
+Wilson         		Mean: 3.3  		Best: 10.25 		N:3
+Benson         		Mean: 1.89 		Best: 10.0 		N:5
+Walsh          		Mean: 2.37 		Best: 9.75 		N:4
+
+########## REPORT GEN: 35 ##########
+SPECIES: 
+Levine         		Mean: 1.98 		Best: 63.0 		N:10
+Larson         		Mean: 0.97 		Best: 49.75 		N:13
+Walsh          		Mean: 1.38 		Best: 39.35 		N:12
+Voll           		Mean: 2.4  		Best: 38.83 		N:9
+Calloway       		Mean: 1.32 		Best: 31.53 		N:9
+Wilson         		Mean: 2.12 		Best: 29.82 		N:6
+Foster         		Mean: 1.94 		Best: 10.75 		N:5
+Bennet         		Mean: 1.04 		Best: 10.0 		N:9
+Laramore       		Mean: 1.6  		Best: 10.0 		N:6
+Benson         		Mean: 1.54 		Best: 9.5 		N:6
+
+########## REPORT GEN: 36 ##########
+SPECIES: 
+Bennet         		Mean: 2.2  		Best: 105.04 		N:12
+Larson         		Mean: 1.46 		Best: 103.16 		N:12
+Voll           		Mean: 1.63 		Best: 39.46 		N:8
+Wilson         		Mean: 1.09 		Best: 37.0 		N:11
+Levine         		Mean: 2.19 		Best: 32.93 		N:6
+Calloway       		Mean: 1.24 		Best: 11.25 		N:8
+Foster         		Mean: 0.95 		Best: 10.0 		N:10
+Walsh          		Mean: 1.89 		Best: 9.75 		N:5
+Laramore       		Mean: 0.95 		Best: 9.75 		N:10
+Benson         		Mean: 0.78 		Best: 9.75 		N:12
+
+########## REPORT GEN: 37 ##########
+SPECIES: 
+Calloway       		Mean: 4.55 		Best: 98.63 		N:7
+Levine         		Mean: 1.52 		Best: 42.0 		N:10
+Voll           		Mean: 3.14 		Best: 39.5 		N:5
+Benson         		Mean: 1.16 		Best: 39.25 		N:12
+Foster         		Mean: 1.21 		Best: 35.87 		N:10
+Laramore       		Mean: 1.5  		Best: 32.41 		N:9
+Larson         		Mean: 0.95 		Best: 10.25 		N:10
+Wilson         		Mean: 0.73 		Best: 10.25 		N:13
+Bennet         		Mean: 1.34 		Best: 10.0 		N:7
+Walsh          		Mean: 1.18 		Best: 9.75 		N:8
+
+########## REPORT GEN: 38 ##########
+SPECIES: 
+Foster         		Mean: 1.55 		Best: 51.56 		N:9
+Voll           		Mean: 2.24 		Best: 46.36 		N:9
+Bennet         		Mean: 1.15 		Best: 43.12 		N:11
+Levine         		Mean: 1.45 		Best: 41.19 		N:10
+Benson         		Mean: 1.47 		Best: 37.0 		N:10
+Calloway       		Mean: 1.88 		Best: 36.31 		N:7
+Laramore       		Mean: 1.93 		Best: 10.5 		N:5
+Wilson         		Mean: 1.89 		Best: 10.25 		N:5
+Walsh          		Mean: 1.16 		Best: 9.5 		N:8
+Larson         		Mean: 4.57 		Best: 9.25 		N:2
+
+########## REPORT GEN: 39 ##########
+SPECIES: 
+Laramore       		Mean: 2.32 		Best: 60.76 		N:8
+Larson         		Mean: 0.99 		Best: 53.73 		N:13
+Calloway       		Mean: 2.68 		Best: 50.64 		N:7
+Benson         		Mean: 1.03 		Best: 39.5 		N:13
+Bennet         		Mean: 1.97 		Best: 38.96 		N:7
+Levine         		Mean: 1.89 		Best: 35.64 		N:7
+Wilson         		Mean: 2.41 		Best: 10.0 		N:4
+Walsh          		Mean: 1.18 		Best: 10.0 		N:8
+Voll           		Mean: 2.36 		Best: 9.75 		N:4
+Foster         		Mean: 1.88 		Best: 9.5 		N:5
+
+########## REPORT GEN: 40 ##########
+SPECIES: 
+Voll           		Mean: 4.28 		Best: 110.92 		N:8
+Bennet         		Mean: 1.63 		Best: 101.92 		N:11
+Laramore       		Mean: 2.04 		Best: 100.76 		N:10
+Levine         		Mean: 1.1  		Best: 53.59 		N:12
+Benson         		Mean: 1.53 		Best: 39.17 		N:13
+Calloway       		Mean: 1.09 		Best: 11.0 		N:9
+Walsh          		Mean: 0.88 		Best: 10.75 		N:11
+Larson         		Mean: 0.94 		Best: 10.0 		N:10
+Foster         		Mean: 1.83 		Best: 9.75 		N:5
+Wilson         		Mean: 2.95 		Best: 9.25 		N:3
+
+########## REPORT GEN: 41 ##########
+SPECIES: 
+Wilson         		Mean: 1.49 		Best: 112.06 		N:13
+Voll           		Mean: 1.54 		Best: 39.4 		N:9
+Benson         		Mean: 1.23 		Best: 37.56 		N:10
+Larson         		Mean: 1.88 		Best: 34.33 		N:7
+Foster         		Mean: 1.07 		Best: 33.66 		N:11
+Laramore       		Mean: 1.92 		Best: 10.0 		N:5
+Levine         		Mean: 1.17 		Best: 10.0 		N:8
+Bennet         		Mean: 1.55 		Best: 9.75 		N:6
+Calloway       		Mean: 1.32 		Best: 9.75 		N:7
+Walsh          		Mean: 2.38 		Best: 9.75 		N:4
+
+########## REPORT GEN: 42 ##########
+SPECIES: 
+Larson         		Mean: 4.03 		Best: 96.47 		N:6
+Levine         		Mean: 1.21 		Best: 46.84 		N:12
+Benson         		Mean: 2.02 		Best: 42.21 		N:7
+Bennet         		Mean: 1.25 		Best: 38.56 		N:10
+Wilson         		Mean: 2.3  		Best: 34.9 		N:6
+Voll           		Mean: 1.37 		Best: 10.25 		N:7
+Laramore       		Mean: 1.59 		Best: 10.25 		N:6
+Calloway       		Mean: 0.85 		Best: 10.25 		N:11
+Foster         		Mean: 0.59 		Best: 10.0 		N:16
+Walsh          		Mean: 1.59 		Best: 9.75 		N:6
+
+########## REPORT GEN: 43 ##########
+SPECIES: 
+Voll           		Mean: 0.79 		Best: 51.01 		N:17
+Benson         		Mean: 2.04 		Best: 44.46 		N:7
+Walsh          		Mean: 1.15 		Best: 40.98 		N:12
+Laramore       		Mean: 1.51 		Best: 31.66 		N:8
+Larson         		Mean: 0.67 		Best: 10.25 		N:14
+Wilson         		Mean: 1.36 		Best: 10.0 		N:7
+Foster         		Mean: 1.2  		Best: 10.0 		N:8
+Levine         		Mean: 2.33 		Best: 9.75 		N:4
+Bennet         		Mean: 0.95 		Best: 9.75 		N:10
+Calloway       		Mean: 4.63 		Best: 9.5 		N:2
+
+########## REPORT GEN: 44 ##########
+SPECIES: 
+Walsh          		Mean: 2.54 		Best: 97.4 		N:8
+Levine         		Mean: 1.66 		Best: 84.38 		N:11
+Laramore       		Mean: 1.38 		Best: 42.88 		N:11
+Benson         		Mean: 2.38 		Best: 36.82 		N:6
+Foster         		Mean: 0.95 		Best: 11.0 		N:10
+Bennet         		Mean: 1.9  		Best: 10.25 		N:5
+Voll           		Mean: 1.59 		Best: 10.0 		N:6
+Wilson         		Mean: 1.17 		Best: 10.0 		N:8
+Larson         		Mean: 2.32 		Best: 9.5 		N:4
+Calloway       		Mean: 1.83 		Best: 9.5 		N:5
+
+########## REPORT GEN: 45 ##########
+SPECIES: 
+Benson         		Mean: 1.61 		Best: 100.81 		N:11
+Larson         		Mean: 4.02 		Best: 96.22 		N:6
+Laramore       		Mean: 1.62 		Best: 37.34 		N:8
+Foster         		Mean: 1.08 		Best: 36.9 		N:11
+Voll           		Mean: 1.59 		Best: 34.12 		N:8
+Walsh          		Mean: 0.87 		Best: 11.0 		N:11
+Calloway       		Mean: 1.18 		Best: 10.0 		N:8
+Levine         		Mean: 1.54 		Best: 9.75 		N:6
+Bennet         		Mean: 0.66 		Best: 9.75 		N:14
+Wilson         		Mean: 1.56 		Best: 9.75 		N:6
+
+########## REPORT GEN: 46 ##########
+SPECIES: 
+Walsh          		Mean: 1.76 		Best: 150.87 		N:12
+Foster         		Mean: 1.71 		Best: 44.92 		N:8
+Benson         		Mean: 1.72 		Best: 44.46 		N:8
+Wilson         		Mean: 3.35 		Best: 44.29 		N:5
+Laramore       		Mean: 0.88 		Best: 34.75 		N:13
+Voll           		Mean: 1.23 		Best: 10.5 		N:8
+Larson         		Mean: 1.18 		Best: 10.0 		N:8
+Calloway       		Mean: 1.36 		Best: 10.0 		N:7
+Levine         		Mean: 1.18 		Best: 9.75 		N:8
+Bennet         		Mean: 1.17 		Best: 9.75 		N:8
+
+########## REPORT GEN: 47 ##########
+SPECIES: 
+Wilson         		Mean: 2.04 		Best: 118.31 		N:10
+Larson         		Mean: 1.81 		Best: 48.13 		N:8
+Voll           		Mean: 2.11 		Best: 46.52 		N:7
+Levine         		Mean: 1.4  		Best: 37.98 		N:9
+Laramore       		Mean: 1.58 		Best: 35.29 		N:8
+Calloway       		Mean: 1.17 		Best: 10.0 		N:8
+Bennet         		Mean: 1.05 		Best: 10.0 		N:9
+Foster         		Mean: 0.77 		Best: 9.75 		N:12
+Benson         		Mean: 1.06 		Best: 9.75 		N:9
+Walsh          		Mean: 2.32 		Best: 9.5 		N:4
+
+########## REPORT GEN: 48 ##########
+SPECIES: 
+Laramore       		Mean: 1.72 		Best: 111.91 		N:11
+Walsh          		Mean: 1.41 		Best: 101.02 		N:13
+Bennet         		Mean: 1.52 		Best: 46.72 		N:9
+Levine         		Mean: 3.18 		Best: 41.34 		N:5
+Wilson         		Mean: 0.86 		Best: 10.0 		N:11
+Larson         		Mean: 3.23 		Best: 10.0 		N:3
+Calloway       		Mean: 1.36 		Best: 10.0 		N:7
+Benson         		Mean: 0.79 		Best: 10.0 		N:12
+Voll           		Mean: 0.92 		Best: 9.5 		N:10
+Foster         		Mean: 1.14 		Best: 9.5 		N:8
+
+########## REPORT GEN: 49 ##########
+SPECIES: 
+Larson         		Mean: 18.31 		Best: 144.35 		N:3
+Voll           		Mean: 2.43 		Best: 104.66 		N:10
+Foster         		Mean: 5.26 		Best: 93.22 		N:5
+Calloway       		Mean: 1.76 		Best: 46.25 		N:8
+Bennet         		Mean: 1.92 		Best: 36.65 		N:7
+Walsh          		Mean: 1.32 		Best: 10.0 		N:7
+Wilson         		Mean: 1.02 		Best: 9.75 		N:9
+Benson         		Mean: 1.18 		Best: 9.75 		N:8
+Levine         		Mean: 1.03 		Best: 9.5 		N:9
+Laramore       		Mean: 1.12 		Best: 9.25 		N:8
+
+########## REPORT GEN: 50 ##########
+SPECIES: 
+Larson         		Mean: 17.62 		Best: 103.89 		N:3
+Bennet         		Mean: 3.52 		Best: 101.54 		N:8
+Levine         		Mean: 6.95 		Best: 43.03 		N:3
+Walsh          		Mean: 3.9  		Best: 34.38 		N:4
+Voll           		Mean: 0.87 		Best: 10.25 		N:11
+Laramore       		Mean: 2.38 		Best: 9.75 		N:4
+Foster         		Mean: 1.32 		Best: 9.5 		N:7
+Calloway       		Mean: 4.69 		Best: 9.5 		N:2
+Wilson         		Mean: 1.87 		Best: 9.5 		N:5
+Benson         		Mean: 2.35 		Best: 9.5 		N:4
+
+########## REPORT GEN: 51 ##########
+SPECIES: 
+Walsh          		Mean: 27.56 		Best: 101.02 		N:2
+Larson         		Mean: 5.22 		Best: 54.55 		N:4
+Bennet         		Mean: 3.67 		Best: 53.75 		N:5
+Levine         		Mean: 1.91 		Best: 49.6 		N:9
+Foster         		Mean: 1.29 		Best: 37.0 		N:11
+Wilson         		Mean: 3.23 		Best: 10.0 		N:3
+Benson         		Mean: 1.58 		Best: 10.0 		N:6
+Voll           		Mean: 1.18 		Best: 9.5 		N:8
+Calloway       		Mean: 2.3  		Best: 9.25 		N:4
+
+########## REPORT GEN: 52 ##########
+SPECIES: 
+Larson         		Mean: 10.93 		Best: 104.16 		N:4
+Walsh          		Mean: 9.14 		Best: 63.59 		N:3
+Laramore       		Mean: 3.75 		Best: 54.29 		N:6
+Wilson         		Mean: 3.29 		Best: 45.66 		N:5
+Calloway       		Mean: 3.1  		Best: 38.95 		N:5
+Levine         		Mean: 3.75 		Best: 32.21 		N:4
+Bennet         		Mean: 2.37 		Best: 10.0 		N:4
+Foster         		Mean: 3.23 		Best: 9.75 		N:3
+Voll           		Mean: 1.35 		Best: 9.75 		N:7
+Benson         		Mean: 2.29 		Best: 9.25 		N:4
+
+########## REPORT GEN: 53 ##########
+SPECIES: 
+Wilson         		Mean: 4.81 		Best: 143.37 		N:10
+Laramore       		Mean: 1.95 		Best: 58.67 		N:8
+Benson         		Mean: 3.62 		Best: 48.5 		N:6
+Voll           		Mean: 2.04 		Best: 42.75 		N:7
+Calloway       		Mean: 1.66 		Best: 40.07 		N:8
+Levine         		Mean: 2.9  		Best: 17.96 		N:4
+Larson         		Mean: 1.61 		Best: 10.25 		N:6
+Walsh          		Mean: 1.9  		Best: 10.0 		N:5
+Foster         		Mean: 1.86 		Best: 9.75 		N:5
+Bennet         		Mean: 2.26 		Best: 9.5 		N:4
+
+########## REPORT GEN: 54 ##########
+SPECIES: 
+Benson         		Mean: 1.6  		Best: 53.79 		N:9
+Larson         		Mean: 3.57 		Best: 49.95 		N:5
+Walsh          		Mean: 1.31 		Best: 46.29 		N:11
+Wilson         		Mean: 2.46 		Best: 41.44 		N:6
+Foster         		Mean: 1.26 		Best: 40.0 		N:10
+Voll           		Mean: 1.62 		Best: 37.5 		N:8
+Laramore       		Mean: 0.87 		Best: 32.9 		N:13
+Calloway       		Mean: 1.06 		Best: 10.0 		N:9
+Levine         		Mean: 0.96 		Best: 10.0 		N:10
+Bennet         		Mean: 1.33 		Best: 10.0 		N:7
+
+########## REPORT GEN: 55 ##########
+SPECIES: 
+Laramore       		Mean: 2.26 		Best: 106.11 		N:9
+Voll           		Mean: 1.41 		Best: 98.38 		N:13
+Levine         		Mean: 3.29 		Best: 68.2 		N:8
+Bennet         		Mean: 2.44 		Best: 63.25 		N:7
+Benson         		Mean: 1.8  		Best: 61.76 		N:10
+Walsh          		Mean: 1.93 		Best: 10.25 		N:5
+Larson         		Mean: 1.16 		Best: 9.75 		N:8
+Wilson         		Mean: 1.16 		Best: 9.75 		N:8
+Foster         		Mean: 1.57 		Best: 9.75 		N:6
+Calloway       		Mean: 1.33 		Best: 9.75 		N:7
+
+########## REPORT GEN: 56 ##########
+SPECIES: 
+Foster         		Mean: 3.85 		Best: 193.97 		N:10
+Laramore       		Mean: 1.23 		Best: 93.07 		N:13
+Larson         		Mean: 2.37 		Best: 63.62 		N:9
+Bennet         		Mean: 2.44 		Best: 58.52 		N:8
+Walsh          		Mean: 2.02 		Best: 56.42 		N:9
+Levine         		Mean: 1.59 		Best: 10.75 		N:6
+Benson         		Mean: 0.87 		Best: 10.25 		N:11
+Voll           		Mean: 1.35 		Best: 10.0 		N:7
+Calloway       		Mean: 1.18 		Best: 10.0 		N:8
+Wilson         		Mean: 0.71 		Best: 9.75 		N:13
+
+########## REPORT GEN: 57 ##########
+SPECIES: 
+Calloway       		Mean: 2.57 		Best: 125.71 		N:10
+Larson         		Mean: 1.45 		Best: 64.5 		N:12
+Walsh          		Mean: 3.46 		Best: 50.49 		N:6
+Bennet         		Mean: 1.46 		Best: 41.47 		N:10
+Wilson         		Mean: 0.64 		Best: 36.07 		N:17
+Laramore       		Mean: 1.55 		Best: 33.34 		N:8
+Foster         		Mean: 1.94 		Best: 23.62 		N:6
+Levine         		Mean: 0.59 		Best: 10.0 		N:16
+Benson         		Mean: 1.36 		Best: 10.0 		N:7
+Voll           		Mean: 2.37 		Best: 10.0 		N:4
+
+########## REPORT GEN: 58 ##########
+SPECIES: 
+Foster         		Mean: 5.51 		Best: 106.74 		N:6
+Walsh          		Mean: 1.28 		Best: 51.54 		N:14
+Benson         		Mean: 1.52 		Best: 47.81 		N:10
+Wilson         		Mean: 1.16 		Best: 45.5 		N:11
+Laramore       		Mean: 0.9  		Best: 43.22 		N:15
+Bennet         		Mean: 1.7  		Best: 43.02 		N:8
+Levine         		Mean: 2.12 		Best: 29.61 		N:6
+Calloway       		Mean: 0.84 		Best: 10.25 		N:11
+Larson         		Mean: 1.37 		Best: 10.25 		N:7
+Voll           		Mean: 2.38 		Best: 9.75 		N:4
+
+########## REPORT GEN: 59 ##########
+SPECIES: 
+Larson         		Mean: 2.38 		Best: 104.94 		N:12
+Levine         		Mean: 3.29 		Best: 64.59 		N:8
+Laramore       		Mean: 1.31 		Best: 46.81 		N:10
+Wilson         		Mean: 1.04 		Best: 45.55 		N:12
+Voll           		Mean: 2.06 		Best: 44.68 		N:7
+Foster         		Mean: 2.32 		Best: 10.0 		N:4
+Benson         		Mean: 1.19 		Best: 10.0 		N:8
+Calloway       		Mean: 2.46 		Best: 10.0 		N:4
+Walsh          		Mean: 1.57 		Best: 9.75 		N:6
+Bennet         		Mean: 1.04 		Best: 9.75 		N:9
+
+########## REPORT GEN: 60 ##########
+SPECIES: 
+Laramore       		Mean: 3.44 		Best: 87.52 		N:10
+Calloway       		Mean: 1.85 		Best: 61.43 		N:11
+Walsh          		Mean: 1.16 		Best: 57.76 		N:14
+Voll           		Mean: 1.6  		Best: 48.02 		N:10
+Larson         		Mean: 3.08 		Best: 38.95 		N:5
+Wilson         		Mean: 1.21 		Best: 11.25 		N:8
+Levine         		Mean: 1.2  		Best: 10.5 		N:8
+Foster         		Mean: 0.94 		Best: 9.75 		N:10
+Benson         		Mean: 1.53 		Best: 9.75 		N:6
+Bennet         		Mean: 1.55 		Best: 9.75 		N:6
+
+########## REPORT GEN: 61 ##########
+SPECIES: 
+Wilson         		Mean: 1.34 		Best: 104.17 		N:17
+Larson         		Mean: 1.38 		Best: 75.74 		N:15
+Laramore       		Mean: 2.05 		Best: 64.36 		N:9
+Foster         		Mean: 5.09 		Best: 53.29 		N:4
+Bennet         		Mean: 1.27 		Best: 40.88 		N:10
+Voll           		Mean: 2.36 		Best: 38.81 		N:6
+Calloway       		Mean: 1.89 		Best: 34.27 		N:7
+Walsh          		Mean: 0.81 		Best: 10.25 		N:12
+Benson         		Mean: 1.54 		Best: 9.5 		N:6
+Levine         		Mean: 2.27 		Best: 9.25 		N:4
+
+########## REPORT GEN: 62 ##########
+SPECIES: 
+Levine         		Mean: 4.33 		Best: 107.57 		N:6
+Wilson         		Mean: 7.52 		Best: 91.2 		N:4
+Walsh          		Mean: 2.25 		Best: 57.61 		N:10
+Larson         		Mean: 1.52 		Best: 55.27 		N:11
+Laramore       		Mean: 1.84 		Best: 51.78 		N:8
+Bennet         		Mean: 1.12 		Best: 42.25 		N:11
+Calloway       		Mean: 2.5  		Best: 39.75 		N:7
+Voll           		Mean: 1.52 		Best: 31.85 		N:8
+Foster         		Mean: 1.32 		Best: 10.0 		N:7
+Benson         		Mean: 1.18 		Best: 10.0 		N:8
+
+########## REPORT GEN: 63 ##########
+SPECIES: 
+Wilson         		Mean: 2.99 		Best: 78.29 		N:9
+Calloway       		Mean: 2.15 		Best: 53.17 		N:9
+Levine         		Mean: 3.06 		Best: 38.08 		N:5
+Larson         		Mean: 2.44 		Best: 28.23 		N:6
+Laramore       		Mean: 1.04 		Best: 10.25 		N:9
+Walsh          		Mean: 1.16 		Best: 9.75 		N:8
+Voll           		Mean: 0.93 		Best: 9.75 		N:10
+Foster         		Mean: 1.81 		Best: 9.75 		N:5
+Benson         		Mean: 3.15 		Best: 9.75 		N:3
+Bennet         		Mean: 1.54 		Best: 9.5 		N:6
+
+########## REPORT GEN: 64 ##########
+SPECIES: 
+Walsh          		Mean: 1.35 		Best: 51.92 		N:10
+Larson         		Mean: 2.02 		Best: 43.25 		N:7
+Bennet         		Mean: 1.8  		Best: 43.0 		N:9
+Benson         		Mean: 3.11 		Best: 41.46 		N:6
+Calloway       		Mean: 0.92 		Best: 27.94 		N:12
+Wilson         		Mean: 0.95 		Best: 10.0 		N:10
+Levine         		Mean: 1.53 		Best: 9.75 		N:6
+Laramore       		Mean: 0.86 		Best: 9.75 		N:11
+Foster         		Mean: 1.19 		Best: 9.75 		N:8
+Voll           		Mean: 3.01 		Best: 9.0 		N:3
+
+########## REPORT GEN: 65 ##########
+SPECIES: 
+Levine         		Mean: 1.79 		Best: 87.22 		N:11
+Voll           		Mean: 5.06 		Best: 66.86 		N:5
+Laramore       		Mean: 1.2  		Best: 50.7 		N:11
+Larson         		Mean: 1.74 		Best: 30.92 		N:7
+Bennet         		Mean: 0.78 		Best: 29.66 		N:14
+Wilson         		Mean: 1.74 		Best: 27.77 		N:7
+Calloway       		Mean: 1.96 		Best: 24.56 		N:6
+Foster         		Mean: 2.44 		Best: 10.0 		N:4
+Walsh          		Mean: 2.33 		Best: 9.75 		N:4
+Benson         		Mean: 0.84 		Best: 9.75 		N:11
+
+########## REPORT GEN: 66 ##########
+SPECIES: 
+Larson         		Mean: 5.83 		Best: 101.71 		N:6
+Wilson         		Mean: 2.58 		Best: 49.47 		N:8
+Foster         		Mean: 1.3  		Best: 46.5 		N:15
+Benson         		Mean: 1.42 		Best: 39.88 		N:9
+Calloway       		Mean: 4.26 		Best: 39.75 		N:4
+Levine         		Mean: 1.9  		Best: 33.7 		N:8
+Bennet         		Mean: 0.92 		Best: 28.26 		N:12
+Voll           		Mean: 1.16 		Best: 9.75 		N:8
+Laramore       		Mean: 1.86 		Best: 9.5 		N:5
+Walsh          		Mean: 2.95 		Best: 9.0 		N:3
+
+########## REPORT GEN: 67 ##########
+SPECIES: 
+Benson         		Mean: 3.05 		Best: 93.64 		N:8
+Laramore       		Mean: 2.21 		Best: 59.5 		N:9
+Calloway       		Mean: 5.07 		Best: 58.75 		N:6
+Walsh          		Mean: 1.94 		Best: 37.03 		N:9
+Voll           		Mean: 2.25 		Best: 34.0 		N:6
+Foster         		Mean: 1.57 		Best: 33.98 		N:8
+Larson         		Mean: 1.33 		Best: 32.45 		N:9
+Levine         		Mean: 2.07 		Best: 26.9 		N:6
+Wilson         		Mean: 1.6  		Best: 10.0 		N:6
+Bennet         		Mean: 1.32 		Best: 9.75 		N:7
+
+########## REPORT GEN: 68 ##########
+SPECIES: 
+Wilson         		Mean: 4.89 		Best: 111.15 		N:6
+Bennet         		Mean: 3.75 		Best: 60.34 		N:7
+Foster         		Mean: 2.5  		Best: 50.75 		N:7
+Voll           		Mean: 1.6  		Best: 48.31 		N:10
+Calloway       		Mean: 0.94 		Best: 40.94 		N:15
+Larson         		Mean: 1.62 		Best: 36.04 		N:9
+Walsh          		Mean: 1.06 		Best: 10.75 		N:9
+Benson         		Mean: 1.55 		Best: 10.0 		N:6
+Laramore       		Mean: 0.78 		Best: 10.0 		N:12
+Levine         		Mean: 2.34 		Best: 9.5 		N:4
+
+########## REPORT GEN: 69 ##########
+SPECIES: 
+Calloway       		Mean: 1.57 		Best: 43.6 		N:11
+Voll           		Mean: 2.4  		Best: 43.24 		N:9
+Larson         		Mean: 1.75 		Best: 40.3 		N:9
+Walsh          		Mean: 0.99 		Best: 38.5 		N:12
+Bennet         		Mean: 1.48 		Best: 27.42 		N:9
+Benson         		Mean: 3.29 		Best: 10.25 		N:3
+Laramore       		Mean: 1.57 		Best: 10.0 		N:6
+Levine         		Mean: 0.95 		Best: 10.0 		N:10
+Wilson         		Mean: 1.04 		Best: 9.75 		N:9
+Foster         		Mean: 1.52 		Best: 9.75 		N:6
+
+########## REPORT GEN: 70 ##########
+SPECIES: 
+Bennet         		Mean: 2.2  		Best: 104.71 		N:10
+Voll           		Mean: 4.2  		Best: 95.14 		N:7
+Benson         		Mean: 1.62 		Best: 57.75 		N:11
+Foster         		Mean: 3.03 		Best: 37.87 		N:5
+Larson         		Mean: 1.36 		Best: 35.74 		N:9
+Walsh          		Mean: 1.14 		Best: 30.25 		N:10
+Laramore       		Mean: 0.74 		Best: 10.0 		N:13
+Levine         		Mean: 1.35 		Best: 9.75 		N:7
+Wilson         		Mean: 1.52 		Best: 9.75 		N:6
+Calloway       		Mean: 1.85 		Best: 9.5 		N:5
+
+########## REPORT GEN: 71 ##########
+SPECIES: 
+Wilson         		Mean: 1.21 		Best: 104.8 		N:15
+Laramore       		Mean: 2.24 		Best: 75.25 		N:10
+Levine         		Mean: 3.43 		Best: 42.15 		N:7
+Benson         		Mean: 1.6  		Best: 35.27 		N:8
+Foster         		Mean: 4.08 		Best: 35.13 		N:5
+Walsh          		Mean: 0.84 		Best: 28.11 		N:13
+Larson         		Mean: 1.01 		Best: 26.19 		N:11
+Voll           		Mean: 1.49 		Best: 17.48 		N:7
+Bennet         		Mean: 2.32 		Best: 10.0 		N:4
+Calloway       		Mean: 1.88 		Best: 9.5 		N:5
+
+########## REPORT GEN: 72 ##########
+SPECIES: 
+Bennet         		Mean: 1.89 		Best: 67.59 		N:10
+Wilson         		Mean: 1.15 		Best: 54.07 		N:14
+Voll           		Mean: 2.67 		Best: 49.0 		N:6
+Walsh          		Mean: 2.33 		Best: 37.38 		N:6
+Larson         		Mean: 0.78 		Best: 33.73 		N:16
+Benson         		Mean: 1.91 		Best: 32.88 		N:8
+Levine         		Mean: 1.06 		Best: 32.27 		N:12
+Calloway       		Mean: 2.32 		Best: 20.28 		N:5
+Laramore       		Mean: 1.86 		Best: 10.25 		N:5
+Foster         		Mean: 3.12 		Best: 9.5 		N:3
+
+########## REPORT GEN: 73 ##########
+SPECIES: 
+Foster         		Mean: 4.59 		Best: 76.76 		N:5
+Laramore       		Mean: 0.96 		Best: 60.42 		N:15
+Benson         		Mean: 2.16 		Best: 49.54 		N:7
+Larson         		Mean: 2.1  		Best: 48.0 		N:8
+Wilson         		Mean: 0.99 		Best: 45.88 		N:14
+Bennet         		Mean: 2.37 		Best: 36.41 		N:7
+Voll           		Mean: 0.87 		Best: 34.24 		N:13
+Walsh          		Mean: 1.54 		Best: 32.75 		N:8
+Calloway       		Mean: 2.12 		Best: 28.8 		N:6
+Levine         		Mean: 1.55 		Best: 9.75 		N:6
+
+########## REPORT GEN: 74 ##########
+SPECIES: 
+Calloway       		Mean: 3.41 		Best: 103.19 		N:8
+Walsh          		Mean: 1.52 		Best: 88.13 		N:13
+Larson         		Mean: 2.48 		Best: 43.69 		N:7
+Foster         		Mean: 4.52 		Best: 43.68 		N:4
+Levine         		Mean: 1.44 		Best: 39.86 		N:10
+Wilson         		Mean: 0.76 		Best: 31.99 		N:16
+Laramore       		Mean: 1.36 		Best: 31.25 		N:10
+Bennet         		Mean: 0.9  		Best: 26.27 		N:12
+Voll           		Mean: 2.41 		Best: 10.0 		N:4
+Benson         		Mean: 1.86 		Best: 9.5 		N:5
+
+########## REPORT GEN: 75 ##########
+SPECIES: 
+Laramore       		Mean: 2.19 		Best: 103.27 		N:9
+Walsh          		Mean: 3.68 		Best: 80.9 		N:7
+Benson         		Mean: 1.8  		Best: 62.67 		N:10
+Foster         		Mean: 1.44 		Best: 57.52 		N:11
+Voll           		Mean: 1.81 		Best: 34.67 		N:8
+Bennet         		Mean: 1.6  		Best: 32.32 		N:9
+Calloway       		Mean: 1.58 		Best: 21.36 		N:7
+Wilson         		Mean: 1.05 		Best: 10.25 		N:9
+Levine         		Mean: 1.54 		Best: 9.75 		N:6
+Larson         		Mean: 1.17 		Best: 9.5 		N:8
+
+########## REPORT GEN: 76 ##########
+SPECIES: 
+Larson         		Mean: 2.1  		Best: 122.58 		N:10
+Calloway       		Mean: 3.09 		Best: 72.71 		N:8
+Benson         		Mean: 2.23 		Best: 44.5 		N:9
+Foster         		Mean: 1.55 		Best: 35.22 		N:8
+Voll           		Mean: 0.96 		Best: 34.57 		N:12
+Levine         		Mean: 0.8  		Best: 10.75 		N:12
+Bennet         		Mean: 0.94 		Best: 10.25 		N:10
+Laramore       		Mean: 2.32 		Best: 9.75 		N:4
+Walsh          		Mean: 1.57 		Best: 9.75 		N:6
+Wilson         		Mean: 0.93 		Best: 9.75 		N:10
+
+########## REPORT GEN: 77 ##########
+SPECIES: 
+Laramore       		Mean: 4.19 		Best: 116.51 		N:7
+Benson         		Mean: 3.37 		Best: 107.04 		N:7
+Calloway       		Mean: 1.18 		Best: 60.93 		N:14
+Bennet         		Mean: 1.12 		Best: 41.25 		N:11
+Walsh          		Mean: 2.04 		Best: 38.61 		N:8
+Wilson         		Mean: 1.39 		Best: 37.0 		N:9
+Levine         		Mean: 1.38 		Best: 10.0 		N:7
+Larson         		Mean: 1.05 		Best: 9.75 		N:9
+Foster         		Mean: 0.85 		Best: 9.75 		N:11
+Voll           		Mean: 1.54 		Best: 9.5 		N:6
+
+########## REPORT GEN: 78 ##########
+SPECIES: 
+Calloway       		Mean: 1.98 		Best: 118.8 		N:13
+Voll           		Mean: 1.62 		Best: 104.56 		N:12
+Bennet         		Mean: 3.84 		Best: 102.61 		N:7
+Levine         		Mean: 3.06 		Best: 63.89 		N:8
+Benson         		Mean: 3.08 		Best: 39.49 		N:5
+Walsh          		Mean: 1.18 		Best: 34.57 		N:10
+Foster         		Mean: 1.04 		Best: 32.27 		N:11
+Wilson         		Mean: 1.18 		Best: 10.0 		N:8
+Laramore       		Mean: 3.17 		Best: 9.75 		N:3
+Larson         		Mean: 1.32 		Best: 9.75 		N:7
+
+########## REPORT GEN: 79 ##########
+SPECIES: 
+Wilson         		Mean: 4.55 		Best: 119.11 		N:7
+Walsh          		Mean: 4.38 		Best: 109.81 		N:6
+Bennet         		Mean: 2.83 		Best: 90.58 		N:8
+Larson         		Mean: 1.47 		Best: 48.21 		N:11
+Voll           		Mean: 1.79 		Best: 44.28 		N:10
+Laramore       		Mean: 2.38 		Best: 39.6 		N:6
+Calloway       		Mean: 1.55 		Best: 10.0 		N:6
+Levine         		Mean: 1.55 		Best: 9.75 		N:6
+Benson         		Mean: 1.03 		Best: 9.75 		N:9
+Foster         		Mean: 0.78 		Best: 9.75 		N:12
+
+########## REPORT GEN: 80 ##########
+SPECIES: 
+Walsh          		Mean: 2.57 		Best: 94.64 		N:9
+Levine         		Mean: 4.45 		Best: 73.2 		N:5
+Bennet         		Mean: 1.33 		Best: 49.02 		N:10
+Larson         		Mean: 1.49 		Best: 48.08 		N:9
+Calloway       		Mean: 1.5  		Best: 46.02 		N:9
+Laramore       		Mean: 1.16 		Best: 45.8 		N:11
+Foster         		Mean: 1.62 		Best: 34.8 		N:9
+Wilson         		Mean: 0.79 		Best: 9.75 		N:12
+Voll           		Mean: 2.38 		Best: 9.75 		N:4
+Benson         		Mean: 1.34 		Best: 9.5 		N:7
+
+########## REPORT GEN: 81 ##########
+SPECIES: 
+Laramore       		Mean: 2.09 		Best: 108.76 		N:11
+Benson         		Mean: 1.33 		Best: 66.71 		N:11
+Foster         		Mean: 1.59 		Best: 51.59 		N:9
+Calloway       		Mean: 1.05 		Best: 45.41 		N:12
+Wilson         		Mean: 1.59 		Best: 37.24 		N:8
+Levine         		Mean: 2.14 		Best: 30.94 		N:6
+Bennet         		Mean: 1.85 		Best: 10.0 		N:5
+Larson         		Mean: 1.19 		Best: 10.0 		N:8
+Walsh          		Mean: 1.54 		Best: 9.75 		N:6
+Voll           		Mean: 1.9  		Best: 9.75 		N:5
+
+########## REPORT GEN: 82 ##########
+SPECIES: 
+Benson         		Mean: 3.34 		Best: 138.89 		N:9
+Walsh          		Mean: 1.62 		Best: 76.17 		N:10
+Wilson         		Mean: 1.23 		Best: 54.74 		N:11
+Bennet         		Mean: 1.15 		Best: 45.5 		N:11
+Foster         		Mean: 4.47 		Best: 42.81 		N:4
+Levine         		Mean: 1.29 		Best: 28.83 		N:9
+Laramore       		Mean: 0.87 		Best: 10.0 		N:11
+Larson         		Mean: 1.03 		Best: 10.0 		N:9
+Calloway       		Mean: 1.36 		Best: 9.75 		N:7
+Voll           		Mean: 0.85 		Best: 9.75 		N:11
+
+########## REPORT GEN: 83 ##########
+SPECIES: 
+Foster         		Mean: 2.2  		Best: 102.17 		N:9
+Walsh          		Mean: 2.2  		Best: 50.99 		N:10
+Levine         		Mean: 1.15 		Best: 45.94 		N:13
+Wilson         		Mean: 2.1  		Best: 44.44 		N:7
+Voll           		Mean: 1.48 		Best: 43.11 		N:9
+Benson         		Mean: 1.18 		Best: 33.0 		N:10
+Laramore       		Mean: 1.6  		Best: 10.25 		N:6
+Larson         		Mean: 3.18 		Best: 9.75 		N:3
+Calloway       		Mean: 1.16 		Best: 9.75 		N:8
+Bennet         		Mean: 4.7  		Best: 9.5 		N:2
+
+########## REPORT GEN: 84 ##########
+SPECIES: 
+Benson         		Mean: 2.62 		Best: 62.25 		N:8
+Walsh          		Mean: 2.26 		Best: 56.2 		N:8
+Wilson         		Mean: 2.15 		Best: 47.85 		N:7
+Foster         		Mean: 1.42 		Best: 47.83 		N:11
+Levine         		Mean: 2.73 		Best: 31.76 		N:5
+Larson         		Mean: 1.93 		Best: 23.39 		N:6
+Calloway       		Mean: 1.83 		Best: 10.0 		N:5
+Voll           		Mean: 1.84 		Best: 9.5 		N:5
+Laramore       		Mean: 1.04 		Best: 9.5 		N:9
+Bennet         		Mean: 1.33 		Best: 9.5 		N:7
+
+########## REPORT GEN: 85 ##########
+SPECIES: 
+Voll           		Mean: 1.33 		Best: 137.42 		N:14
+Bennet         		Mean: 1.84 		Best: 53.0 		N:8
+Laramore       		Mean: 1.32 		Best: 49.21 		N:12
+Foster         		Mean: 1.11 		Best: 40.0 		N:11
+Wilson         		Mean: 2.88 		Best: 34.79 		N:5
+Benson         		Mean: 0.94 		Best: 10.25 		N:10
+Walsh          		Mean: 1.85 		Best: 10.0 		N:5
+Levine         		Mean: 1.2  		Best: 10.0 		N:8
+Larson         		Mean: 0.78 		Best: 9.75 		N:12
+Calloway       		Mean: 1.56 		Best: 9.75 		N:6
+
+########## REPORT GEN: 86 ##########
+SPECIES: 
+Laramore       		Mean: 1.63 		Best: 59.25 		N:9
+Levine         		Mean: 1.32 		Best: 45.24 		N:11
+Walsh          		Mean: 1.67 		Best: 39.32 		N:8
+Bennet         		Mean: 0.97 		Best: 38.98 		N:12
+Larson         		Mean: 1.72 		Best: 27.63 		N:7
+Wilson         		Mean: 0.95 		Best: 10.0 		N:10
+Voll           		Mean: 1.88 		Best: 9.75 		N:5
+Foster         		Mean: 0.95 		Best: 9.75 		N:10
+Benson         		Mean: 0.85 		Best: 9.75 		N:11
+Calloway       		Mean: 4.64 		Best: 9.5 		N:2
+
+########## REPORT GEN: 87 ##########
+SPECIES: 
+Bennet         		Mean: 1.91 		Best: 80.18 		N:9
+Calloway       		Mean: 4.05 		Best: 63.0 		N:5
+Levine         		Mean: 1.58 		Best: 35.01 		N:8
+Larson         		Mean: 5.84 		Best: 33.89 		N:3
+Walsh          		Mean: 1.77 		Best: 29.69 		N:7
+Benson         		Mean: 1.62 		Best: 10.25 		N:6
+Laramore       		Mean: 1.19 		Best: 10.0 		N:8
+Wilson         		Mean: 0.95 		Best: 10.0 		N:10
+Foster         		Mean: 1.36 		Best: 10.0 		N:7
+Voll           		Mean: 1.16 		Best: 9.75 		N:8
+
+########## REPORT GEN: 88 ##########
+SPECIES: 
+Foster         		Mean: 2.67 		Best: 103.14 		N:8
+Calloway       		Mean: 4.31 		Best: 68.79 		N:5
+Levine         		Mean: 1.86 		Best: 53.0 		N:8
+Bennet         		Mean: 4.62 		Best: 46.09 		N:4
+Walsh          		Mean: 1.45 		Best: 25.46 		N:8
+Benson         		Mean: 1.98 		Best: 24.95 		N:6
+Laramore       		Mean: 0.94 		Best: 10.25 		N:10
+Larson         		Mean: 1.55 		Best: 9.75 		N:6
+Wilson         		Mean: 1.89 		Best: 9.75 		N:5
+Voll           		Mean: 1.34 		Best: 9.75 		N:7
+
+########## REPORT GEN: 89 ##########
+SPECIES: 
+Calloway       		Mean: 3.03 		Best: 127.48 		N:10
+Laramore       		Mean: 2.26 		Best: 106.01 		N:9
+Benson         		Mean: 1.87 		Best: 52.8 		N:8
+Bennet         		Mean: 1.51 		Best: 50.82 		N:11
+Wilson         		Mean: 3.95 		Best: 38.35 		N:5
+Foster         		Mean: 8.58 		Best: 24.49 		N:2
+Larson         		Mean: 0.97 		Best: 10.25 		N:10
+Levine         		Mean: 1.94 		Best: 10.0 		N:5
+Walsh          		Mean: 1.06 		Best: 10.0 		N:9
+Voll           		Mean: 1.58 		Best: 9.75 		N:6
+
+########## REPORT GEN: 90 ##########
+SPECIES: 
+Calloway       		Mean: 3.59 		Best: 120.72 		N:8
+Larson         		Mean: 5.46 		Best: 116.38 		N:7
+Laramore       		Mean: 2.25 		Best: 82.93 		N:9
+Benson         		Mean: 2.62 		Best: 45.79 		N:6
+Wilson         		Mean: 2.07 		Best: 45.3 		N:7
+Levine         		Mean: 2.57 		Best: 39.75 		N:9
+Voll           		Mean: 1.88 		Best: 10.0 		N:5
+Bennet         		Mean: 1.55 		Best: 9.5 		N:6
+Foster         		Mean: 2.32 		Best: 9.5 		N:4
+Walsh          		Mean: 1.87 		Best: 9.5 		N:5
+
+########## REPORT GEN: 91 ##########
+SPECIES: 
+Calloway       		Mean: 5.22 		Best: 124.71 		N:8
+Larson         		Mean: 2.29 		Best: 108.38 		N:9
+Laramore       		Mean: 1.77 		Best: 107.62 		N:12
+Wilson         		Mean: 4.98 		Best: 104.63 		N:6
+Bennet         		Mean: 0.77 		Best: 28.31 		N:14
+Benson         		Mean: 2.08 		Best: 27.0 		N:6
+Walsh          		Mean: 1.2  		Best: 10.0 		N:8
+Levine         		Mean: 0.72 		Best: 9.75 		N:13
+Foster         		Mean: 1.88 		Best: 9.75 		N:5
+Voll           		Mean: 1.31 		Best: 9.5 		N:7
+
+########## REPORT GEN: 92 ##########
+SPECIES: 
+Larson         		Mean: 11.03 		Best: 122.85 		N:4
+Calloway       		Mean: 1.31 		Best: 85.37 		N:12
+Voll           		Mean: 3.5  		Best: 63.99 		N:7
+Foster         		Mean: 0.89 		Best: 50.75 		N:17
+Levine         		Mean: 1.54 		Best: 48.47 		N:9
+Walsh          		Mean: 1.19 		Best: 48.0 		N:11
+Laramore       		Mean: 1.39 		Best: 10.5 		N:7
+Benson         		Mean: 1.91 		Best: 10.25 		N:5
+Wilson         		Mean: 1.21 		Best: 10.0 		N:8
+Bennet         		Mean: 1.86 		Best: 10.0 		N:5
+
+########## REPORT GEN: 93 ##########
+SPECIES: 
+Voll           		Mean: 4.34 		Best: 106.54 		N:7
+Laramore       		Mean: 3.79 		Best: 89.46 		N:6
+Larson         		Mean: 4.01 		Best: 61.04 		N:5
+Foster         		Mean: 1.76 		Best: 46.77 		N:8
+Calloway       		Mean: 1.31 		Best: 45.34 		N:11
+Walsh          		Mean: 2.14 		Best: 40.66 		N:8
+Benson         		Mean: 2.29 		Best: 37.14 		N:6
+Bennet         		Mean: 1.75 		Best: 26.04 		N:7
+Levine         		Mean: 1.35 		Best: 9.75 		N:7
+Wilson         		Mean: 3.12 		Best: 9.75 		N:3
+
+########## REPORT GEN: 94 ##########
+SPECIES: 
+Voll           		Mean: 2.33 		Best: 129.79 		N:11
+Benson         		Mean: 4.39 		Best: 109.92 		N:6
+Wilson         		Mean: 2.21 		Best: 103.4 		N:9
+Calloway       		Mean: 1.41 		Best: 101.92 		N:12
+Laramore       		Mean: 2.07 		Best: 91.69 		N:9
+Larson         		Mean: 3.19 		Best: 65.7 		N:6
+Bennet         		Mean: 3.76 		Best: 55.66 		N:5
+Levine         		Mean: 1.93 		Best: 55.23 		N:9
+Walsh          		Mean: 1.76 		Best: 42.83 		N:9
+Foster         		Mean: 2.24 		Best: 34.61 		N:6
+
+########## REPORT GEN: 95 ##########
+SPECIES: 
+Levine         		Mean: 2.37 		Best: 115.37 		N:11
+Laramore       		Mean: 2.35 		Best: 99.81 		N:10
+Voll           		Mean: 7.19 		Best: 83.01 		N:5
+Foster         		Mean: 2.5  		Best: 70.41 		N:10
+Calloway       		Mean: 1.17 		Best: 44.84 		N:12
+Benson         		Mean: 1.45 		Best: 40.94 		N:9
+Wilson         		Mean: 1.62 		Best: 37.69 		N:8
+Larson         		Mean: 0.92 		Best: 9.75 		N:10
+Bennet         		Mean: 1.16 		Best: 9.75 		N:8
+Walsh          		Mean: 3.12 		Best: 9.5 		N:3
+
+########## REPORT GEN: 96 ##########
+SPECIES: 
+Levine         		Mean: 2.73 		Best: 109.13 		N:8
+Benson         		Mean: 2.2  		Best: 102.75 		N:9
+Walsh          		Mean: 1.15 		Best: 70.14 		N:14
+Calloway       		Mean: 4.2  		Best: 67.95 		N:5
+Wilson         		Mean: 2.91 		Best: 56.25 		N:6
+Voll           		Mean: 3.71 		Best: 53.37 		N:5
+Larson         		Mean: 2.34 		Best: 52.25 		N:8
+Bennet         		Mean: 1.25 		Best: 38.95 		N:10
+Laramore       		Mean: 1.91 		Best: 10.0 		N:5
+Foster         		Mean: 3.15 		Best: 9.5 		N:3
+
+########## REPORT GEN: 97 ##########
+SPECIES: 
+Larson         		Mean: 2.79 		Best: 111.28 		N:8
+Calloway       		Mean: 3.96 		Best: 108.9 		N:8
+Wilson         		Mean: 1.77 		Best: 89.04 		N:12
+Levine         		Mean: 4.23 		Best: 66.31 		N:5
+Benson         		Mean: 2.66 		Best: 65.25 		N:8
+Voll           		Mean: 2.62 		Best: 47.81 		N:6
+Walsh          		Mean: 0.84 		Best: 10.25 		N:11
+Foster         		Mean: 1.62 		Best: 10.0 		N:6
+Bennet         		Mean: 0.94 		Best: 9.75 		N:10
+Laramore       		Mean: 1.05 		Best: 9.75 		N:9
+
+########## REPORT GEN: 98 ##########
+SPECIES: 
+Benson         		Mean: 2.44 		Best: 122.03 		N:9
+Wilson         		Mean: 2.42 		Best: 78.5 		N:9
+Foster         		Mean: 1.63 		Best: 51.3 		N:10
+Bennet         		Mean: 1.81 		Best: 50.41 		N:8
+Walsh          		Mean: 1.2  		Best: 49.57 		N:11
+Levine         		Mean: 0.98 		Best: 36.12 		N:12
+Voll           		Mean: 0.86 		Best: 10.25 		N:11
+Laramore       		Mean: 1.19 		Best: 10.0 		N:8
+Larson         		Mean: 1.56 		Best: 9.75 		N:6
+Calloway       		Mean: 1.6  		Best: 9.75 		N:6
+
+########## REPORT GEN: 99 ##########
+SPECIES: 
+Benson         		Mean: 5.91 		Best: 103.75 		N:6
+Levine         		Mean: 1.44 		Best: 84.0 		N:13
+Calloway       		Mean: 1.82 		Best: 72.95 		N:9
+Bennet         		Mean: 1.94 		Best: 39.12 		N:7
+Walsh          		Mean: 1.54 		Best: 34.1 		N:8
+Wilson         		Mean: 0.79 		Best: 10.25 		N:12
+Voll           		Mean: 0.73 		Best: 10.25 		N:13
+Foster         		Mean: 1.33 		Best: 9.75 		N:7
+Laramore       		Mean: 1.16 		Best: 9.75 		N:8
+Larson         		Mean: 0.79 		Best: 9.75 		N:12
+
+########## REPORT GEN: 100 ##########
+SPECIES: 
+Walsh          		Mean: 2.32 		Best: 113.36 		N:9
+Bennet         		Mean: 2.92 		Best: 85.91 		N:7
+Calloway       		Mean: 2.14 		Best: 71.19 		N:8
+Levine         		Mean: 2.6  		Best: 69.13 		N:7
+Benson         		Mean: 1.71 		Best: 49.48 		N:10
+Foster         		Mean: 1.75 		Best: 44.27 		N:8
+Voll           		Mean: 1.05 		Best: 10.25 		N:9
+Wilson         		Mean: 1.35 		Best: 10.0 		N:7
+Larson         		Mean: 1.34 		Best: 10.0 		N:7
+Laramore       		Mean: 1.05 		Best: 9.75 		N:9
+

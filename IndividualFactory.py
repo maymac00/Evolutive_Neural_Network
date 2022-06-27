@@ -2,8 +2,13 @@ import json
 
 import numpy as np
 
-from Evolutive_Neural_Network.ConnectionGene import ConnectionGene
+from ConnectionGene import ConnectionGene
 from Individual import Individual
+
+"""
+
+    This class is used to build a new individual from a genome either randomly, from a file or from a new genome.
+"""
 
 
 class IndividualFactory:

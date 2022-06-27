@@ -1,0 +1,733 @@
+########## REPORT GEN: 2 ##########
+SPECIES: 
+Ailes          		Mean: 85.13 		Best: 902.76 		N:11
+Maciel         		Mean: 464.27 		Best: 900.88 		N:2
+Reid           		Mean: 459.92 		Best: 900.72 		N:2
+Wyatt          		Mean: 230.69 		Best: 900.71 		N:4
+Walker         		Mean: 85.76 		Best: 900.76 		N:11
+Karban         		Mean: 132.8 		Best: 900.67 		N:7
+Garza          		Mean: 306.52 		Best: 900.67 		N:3
+Ernest         		Mean: 230.0 		Best: 900.67 		N:4
+Hager          		Mean: 452.89 		Best: 900.67 		N:2
+Whittingham    		Mean: 154.98 		Best: 900.67 		N:6
+Necaise        		Mean: 117.34 		Best: 900.71 		N:8
+Smith          		Mean: 450.31 		Best: 900.61 		N:2
+Eddings        		Mean: 154.53 		Best: 900.72 		N:6
+Freeney        		Mean: 450.09 		Best: 900.18 		N:2
+
+########## REPORT GEN: 3 ##########
+SPECIES: 
+Eddings        		Mean: 463.09 		Best: 903.88 		N:2
+Reid           		Mean: 307.32 		Best: 900.72 		N:3
+Ailes          		Mean: 310.99 		Best: 900.67 		N:3
+Walker         		Mean: 156.29 		Best: 902.76 		N:6
+Garza          		Mean: 152.33 		Best: 900.98 		N:6
+Ernest         		Mean: 462.26 		Best: 900.67 		N:2
+Necaise        		Mean: 134.13 		Best: 903.39 		N:7
+Hager          		Mean: 300.21 		Best: 900.64 		N:3
+Maciel         		Mean: 156.72 		Best: 900.71 		N:6
+Whittingham    		Mean: 104.16 		Best: 900.88 		N:9
+Smith          		Mean: 153.28 		Best: 900.61 		N:6
+Wyatt          		Mean: 117.12 		Best: 901.72 		N:8
+
+########## REPORT GEN: 4 ##########
+SPECIES: 
+Whittingham    		Mean: 310.13 		Best: 903.88 		N:3
+Ernest         		Mean: 185.83 		Best: 900.69 		N:5
+Eddings        		Mean: 450.32 		Best: 900.67 		N:2
+Ailes          		Mean: 186.36 		Best: 900.72 		N:5
+Walker         		Mean: 232.9 		Best: 900.67 		N:4
+Wyatt          		Mean: 183.49 		Best: 900.71 		N:5
+Maciel         		Mean: 232.68 		Best: 900.67 		N:4
+Hager          		Mean: 230.3 		Best: 900.64 		N:4
+Reid           		Mean: 155.49 		Best: 900.67 		N:6
+Necaise        		Mean: 185.75 		Best: 900.64 		N:5
+Smith          		Mean: 458.56 		Best: 900.61 		N:2
+Jones          		Mean: 301.66 		Best: 900.66 		N:3
+Freeney        		Mean: 229.68 		Best: 900.61 		N:4
+
+########## REPORT GEN: 5 ##########
+SPECIES: 
+Wyatt          		Mean: 133.26 		Best: 903.88 		N:7
+Jones          		Mean: 184.67 		Best: 900.67 		N:5
+Whittingham    		Mean: 459.91 		Best: 900.66 		N:2
+Maciel         		Mean: 116.6 		Best: 900.71 		N:8
+Walker         		Mean: 186.43 		Best: 900.71 		N:5
+Freeney        		Mean: 153.01 		Best: 900.64 		N:6
+Ernest         		Mean: 155.08 		Best: 900.67 		N:6
+Hager          		Mean: 133.45 		Best: 900.67 		N:7
+Duncan         		Mean: 458.48 		Best: 900.61 		N:2
+Eddings        		Mean: 186.6 		Best: 901.2 		N:5
+Smith          		Mean: 450.2 		Best: 900.41 		N:2
+Reid           		Mean: 231.85 		Best: 900.88 		N:4
+
+########## REPORT GEN: 6 ##########
+SPECIES: 
+Hager          		Mean: 308.43 		Best: 903.88 		N:3
+Jones          		Mean: 459.02 		Best: 901.56 		N:2
+Whittingham    		Mean: 459.98 		Best: 900.92 		N:2
+Freeney        		Mean: 457.97 		Best: 900.82 		N:2
+Eddings        		Mean: 305.16 		Best: 900.76 		N:3
+Smith          		Mean: 457.93 		Best: 900.66 		N:2
+Ernest         		Mean: 458.76 		Best: 900.64 		N:2
+Reid           		Mean: 305.09 		Best: 900.69 		N:3
+Duncan         		Mean: 152.5 		Best: 900.61 		N:6
+Taylor         		Mean: 455.7 		Best: 900.54 		N:2
+Maciel         		Mean: 93.38 		Best: 900.67 		N:10
+Walker         		Mean: 307.47 		Best: 900.66 		N:3
+Necaise        		Mean: 186.38 		Best: 900.67 		N:5
+
+########## REPORT GEN: 7 ##########
+SPECIES: 
+Wyatt          		Mean: 185.29 		Best: 903.88 		N:5
+Duncan         		Mean: 456.24 		Best: 902.76 		N:2
+Garza          		Mean: 307.59 		Best: 901.56 		N:3
+Freeney        		Mean: 132.52 		Best: 901.38 		N:7
+Maciel         		Mean: 457.01 		Best: 901.2 		N:2
+Necaise        		Mean: 154.73 		Best: 900.76 		N:6
+Whittingham    		Mean: 306.35 		Best: 900.67 		N:3
+Eddings        		Mean: 306.55 		Best: 900.67 		N:3
+Ernest         		Mean: 231.0 		Best: 900.67 		N:4
+Smith          		Mean: 308.0 		Best: 900.66 		N:3
+Reid           		Mean: 132.21 		Best: 900.76 		N:7
+Hager          		Mean: 231.41 		Best: 900.66 		N:4
+Walker         		Mean: 154.61 		Best: 901.56 		N:6
+
+########## REPORT GEN: 8 ##########
+SPECIES: 
+Freeney        		Mean: 455.99 		Best: 902.76 		N:2
+Duncan         		Mean: 457.24 		Best: 901.56 		N:2
+Maciel         		Mean: 132.07 		Best: 900.69 		N:7
+Necaise        		Mean: 131.99 		Best: 901.38 		N:7
+Eddings        		Mean: 71.36 		Best: 903.88 		N:13
+Hager          		Mean: 131.67 		Best: 900.69 		N:7
+Walker         		Mean: 455.98 		Best: 900.61 		N:2
+Wyatt          		Mean: 153.7 		Best: 900.64 		N:6
+Ernest         		Mean: 306.0 		Best: 900.42 		N:3
+Garza          		Mean: 184.37 		Best: 901.2 		N:5
+Smith          		Mean: 115.57 		Best: 901.2 		N:8
+
+########## REPORT GEN: 9 ##########
+SPECIES: 
+Garza          		Mean: 183.42 		Best: 908.17 		N:5
+Reid           		Mean: 306.31 		Best: 907.82 		N:3
+Necaise        		Mean: 154.18 		Best: 903.39 		N:6
+Walker         		Mean: 229.84 		Best: 901.56 		N:4
+Freeney        		Mean: 457.67 		Best: 901.2 		N:2
+Maciel         		Mean: 228.85 		Best: 902.76 		N:4
+Ernest         		Mean: 455.82 		Best: 900.61 		N:2
+Eddings        		Mean: 115.79 		Best: 900.67 		N:8
+Whittingham    		Mean: 229.13 		Best: 900.61 		N:4
+Wyatt          		Mean: 184.67 		Best: 900.67 		N:5
+Smith          		Mean: 185.08 		Best: 901.6 		N:5
+
+########## REPORT GEN: 10 ##########
+SPECIES: 
+Duncan         		Mean: 153.8 		Best: 908.17 		N:6
+Freeney        		Mean: 153.62 		Best: 908.17 		N:6
+Smith          		Mean: 153.23 		Best: 908.17 		N:6
+Walker         		Mean: 132.03 		Best: 907.82 		N:7
+Maciel         		Mean: 131.9 		Best: 903.39 		N:7
+Ernest         		Mean: 229.51 		Best: 902.76 		N:4
+Eddings        		Mean: 305.36 		Best: 902.76 		N:3
+Wyatt          		Mean: 182.74 		Best: 900.69 		N:5
+Whittingham    		Mean: 153.6 		Best: 900.82 		N:6
+Necaise        		Mean: 456.53 		Best: 900.61 		N:2
+Reid           		Mean: 226.03 		Best: 900.42 		N:4
+Garza          		Mean: 229.04 		Best: 900.64 		N:4
+
+########## REPORT GEN: 11 ##########
+SPECIES: 
+Freeney        		Mean: 307.0 		Best: 908.17 		N:3
+Maciel         		Mean: 131.51 		Best: 908.17 		N:7
+Reid           		Mean: 115.59 		Best: 908.17 		N:8
+Eddings        		Mean: 102.0 		Best: 903.39 		N:9
+Walker         		Mean: 183.58 		Best: 901.56 		N:5
+Garza          		Mean: 114.64 		Best: 901.2 		N:8
+Whittingham    		Mean: 91.7 		Best: 900.67 		N:10
+Smith          		Mean: 305.5 		Best: 900.69 		N:3
+Ernest         		Mean: 228.84 		Best: 900.61 		N:4
+Wyatt          		Mean: 458.13 		Best: 900.42 		N:2
+Necaise        		Mean: 102.73 		Best: 902.76 		N:9
+Duncan         		Mean: 129.78 		Best: 900.54 		N:7
+
+########## REPORT GEN: 12 ##########
+SPECIES: 
+Ernest         		Mean: 230.69 		Best: 908.17 		N:4
+Duncan         		Mean: 130.51 		Best: 903.39 		N:7
+Necaise        		Mean: 131.57 		Best: 901.56 		N:7
+Whittingham    		Mean: 152.62 		Best: 901.2 		N:6
+Reid           		Mean: 303.52 		Best: 900.61 		N:3
+Walker         		Mean: 182.89 		Best: 900.61 		N:5
+Smith          		Mean: 114.14 		Best: 900.61 		N:8
+Maciel         		Mean: 184.08 		Best: 901.2 		N:5
+Garza          		Mean: 101.91 		Best: 900.61 		N:9
+Freeney        		Mean: 183.28 		Best: 900.61 		N:5
+Eddings        		Mean: 184.27 		Best: 908.17 		N:5
+
+########## REPORT GEN: 13 ##########
+SPECIES: 
+Reid           		Mean: 153.27 		Best: 908.17 		N:6
+Smith          		Mean: 152.53 		Best: 908.17 		N:6
+Whittingham    		Mean: 113.99 		Best: 901.56 		N:8
+Maciel         		Mean: 228.76 		Best: 900.91 		N:4
+Duncan         		Mean: 101.99 		Best: 901.03 		N:9
+Freeney        		Mean: 183.1 		Best: 900.54 		N:5
+Eddings        		Mean: 153.37 		Best: 903.39 		N:6
+Necaise        		Mean: 302.47 		Best: 900.38 		N:3
+Ernest         		Mean: 182.6 		Best: 900.42 		N:5
+Walker         		Mean: 304.99 		Best: 900.38 		N:3
+Garza          		Mean: 183.2 		Best: 900.61 		N:5
+
+########## REPORT GEN: 14 ##########
+SPECIES: 
+Whittingham    		Mean: 306.15 		Best: 908.17 		N:3
+Duncan         		Mean: 183.38 		Best: 908.17 		N:5
+Wyatt          		Mean: 131.07 		Best: 908.17 		N:7
+Freeney        		Mean: 102.11 		Best: 908.17 		N:9
+Garza          		Mean: 153.05 		Best: 908.17 		N:6
+Necaise        		Mean: 457.5 		Best: 901.56 		N:2
+Eddings        		Mean: 101.96 		Best: 900.46 		N:9
+Reid           		Mean: 114.58 		Best: 901.07 		N:8
+Ernest         		Mean: 452.65 		Best: 900.38 		N:2
+Smith          		Mean: 182.82 		Best: 901.13 		N:5
+Walker         		Mean: 183.67 		Best: 900.67 		N:5
+
+########## REPORT GEN: 15 ##########
+SPECIES: 
+Garza          		Mean: 459.26 		Best: 908.17 		N:2
+Eddings        		Mean: 152.92 		Best: 908.17 		N:6
+Maciel         		Mean: 184.09 		Best: 908.17 		N:5
+Smith          		Mean: 153.48 		Best: 908.17 		N:6
+Whittingham    		Mean: 114.6 		Best: 901.56 		N:8
+Duncan         		Mean: 456.25 		Best: 900.42 		N:2
+Wyatt          		Mean: 183.72 		Best: 900.61 		N:5
+Reid           		Mean: 455.46 		Best: 900.42 		N:2
+Freeney        		Mean: 305.12 		Best: 900.74 		N:3
+Ernest         		Mean: 152.32 		Best: 900.54 		N:6
+Walker         		Mean: 456.02 		Best: 900.23 		N:2
+Necaise        		Mean: 228.35 		Best: 900.38 		N:4
+
+########## REPORT GEN: 16 ##########
+SPECIES: 
+Eddings        		Mean: 229.52 		Best: 908.17 		N:4
+Maciel         		Mean: 114.66 		Best: 908.17 		N:8
+Smith          		Mean: 306.27 		Best: 908.17 		N:3
+Reid           		Mean: 131.14 		Best: 908.17 		N:7
+Freeney        		Mean: 183.65 		Best: 908.17 		N:5
+Wyatt          		Mean: 229.0 		Best: 901.56 		N:4
+Garza          		Mean: 456.15 		Best: 900.42 		N:2
+Duncan         		Mean: 114.46 		Best: 900.61 		N:8
+Ernest         		Mean: 228.44 		Best: 900.42 		N:4
+Whittingham    		Mean: 228.78 		Best: 900.42 		N:4
+Necaise        		Mean: 228.63 		Best: 900.39 		N:4
+Walker         		Mean: 303.89 		Best: 900.79 		N:3
+
+########## REPORT GEN: 17 ##########
+SPECIES: 
+Reid           		Mean: 91.79 		Best: 909.11 		N:10
+Eddings        		Mean: 181.68 		Best: 908.17 		N:5
+Smith          		Mean: 61.2 		Best: 908.17 		N:15
+Duncan         		Mean: 130.93 		Best: 908.17 		N:7
+Ernest         		Mean: 183.22 		Best: 908.17 		N:5
+Whittingham    		Mean: 102.01 		Best: 908.17 		N:9
+Necaise        		Mean: 152.52 		Best: 901.56 		N:6
+Walker         		Mean: 455.69 		Best: 900.42 		N:2
+Garza          		Mean: 304.96 		Best: 900.39 		N:3
+Freeney        		Mean: 303.92 		Best: 900.31 		N:3
+Maciel         		Mean: 114.38 		Best: 900.46 		N:8
+
+########## REPORT GEN: 18 ##########
+SPECIES: 
+Duncan         		Mean: 130.97 		Best: 909.11 		N:7
+Reid           		Mean: 183.61 		Best: 908.17 		N:5
+Whittingham    		Mean: 152.08 		Best: 908.17 		N:6
+Walker         		Mean: 152.48 		Best: 908.17 		N:6
+Wyatt          		Mean: 229.6 		Best: 908.17 		N:4
+Maciel         		Mean: 304.17 		Best: 908.17 		N:3
+Smith          		Mean: 228.85 		Best: 900.42 		N:4
+Necaise        		Mean: 300.94 		Best: 900.37 		N:3
+Freeney        		Mean: 130.29 		Best: 900.37 		N:7
+Garza          		Mean: 453.45 		Best: 900.22 		N:2
+Eddings        		Mean: 180.23 		Best: 900.17 		N:5
+Ernest         		Mean: 128.83 		Best: 900.17 		N:7
+
+########## REPORT GEN: 19 ##########
+SPECIES: 
+Whittingham    		Mean: 229.15 		Best: 908.17 		N:4
+Walker         		Mean: 228.69 		Best: 908.17 		N:4
+Wyatt          		Mean: 153.03 		Best: 908.17 		N:6
+Maciel         		Mean: 114.55 		Best: 909.11 		N:8
+Smith          		Mean: 130.9 		Best: 908.17 		N:7
+Freeney        		Mean: 151.36 		Best: 908.17 		N:6
+Ernest         		Mean: 91.61 		Best: 908.17 		N:10
+Garza          		Mean: 455.13 		Best: 900.82 		N:2
+Duncan         		Mean: 181.57 		Best: 900.37 		N:5
+Necaise        		Mean: 114.02 		Best: 900.31 		N:8
+Eddings        		Mean: 151.76 		Best: 900.28 		N:6
+Reid           		Mean: 227.8 		Best: 900.53 		N:4
+
+########## REPORT GEN: 20 ##########
+SPECIES: 
+Ernest         		Mean: 131.12 		Best: 927.88 		N:7
+Wyatt          		Mean: 130.88 		Best: 909.11 		N:7
+Whittingham    		Mean: 228.64 		Best: 908.17 		N:4
+Maciel         		Mean: 101.71 		Best: 908.17 		N:9
+Smith          		Mean: 458.09 		Best: 908.17 		N:2
+Garza          		Mean: 130.76 		Best: 908.17 		N:7
+Necaise        		Mean: 101.59 		Best: 908.17 		N:9
+Reid           		Mean: 83.07 		Best: 908.17 		N:11
+Eddings        		Mean: 182.2 		Best: 901.13 		N:5
+Duncan         		Mean: 227.67 		Best: 900.73 		N:4
+Walker         		Mean: 129.07 		Best: 900.76 		N:7
+Freeney        		Mean: 182.35 		Best: 900.42 		N:5
+
+########## REPORT GEN: 21 ##########
+SPECIES: 
+Eddings        		Mean: 231.3 		Best: 934.4 		N:4
+Necaise        		Mean: 227.74 		Best: 909.11 		N:4
+Reid           		Mean: 152.41 		Best: 909.11 		N:6
+Ernest         		Mean: 304.34 		Best: 908.17 		N:3
+Whittingham    		Mean: 181.5 		Best: 908.17 		N:5
+Smith          		Mean: 101.63 		Best: 908.17 		N:9
+Garza          		Mean: 113.79 		Best: 908.17 		N:8
+Duncan         		Mean: 151.88 		Best: 908.17 		N:6
+Freeney        		Mean: 151.85 		Best: 908.17 		N:6
+Maciel         		Mean: 90.9 		Best: 900.82 		N:10
+Walker         		Mean: 227.17 		Best: 900.35 		N:4
+Wyatt          		Mean: 113.57 		Best: 900.82 		N:8
+
+########## REPORT GEN: 22 ##########
+SPECIES: 
+Necaise        		Mean: 131.56 		Best: 934.4 		N:7
+Smith          		Mean: 65.49 		Best: 934.4 		N:14
+Maciel         		Mean: 153.05 		Best: 934.4 		N:6
+Eddings        		Mean: 183.02 		Best: 927.88 		N:5
+Duncan         		Mean: 152.11 		Best: 909.11 		N:6
+Reid           		Mean: 456.07 		Best: 908.17 		N:2
+Freeney        		Mean: 101.22 		Best: 908.17 		N:9
+Walker         		Mean: 228.22 		Best: 908.17 		N:4
+Wyatt          		Mean: 114.36 		Best: 909.11 		N:8
+Whittingham    		Mean: 181.33 		Best: 900.37 		N:5
+Ernest         		Mean: 300.82 		Best: 900.42 		N:3
+Garza          		Mean: 101.22 		Best: 900.82 		N:9
+
+########## REPORT GEN: 23 ##########
+SPECIES: 
+Necaise        		Mean: 230.02 		Best: 934.4 		N:4
+Duncan         		Mean: 101.77 		Best: 934.4 		N:9
+Wyatt          		Mean: 130.6 		Best: 934.4 		N:7
+Ernest         		Mean: 183.92 		Best: 919.44 		N:5
+Whittingham    		Mean: 91.18 		Best: 909.11 		N:10
+Walker         		Mean: 82.67 		Best: 908.17 		N:11
+Smith          		Mean: 113.15 		Best: 900.37 		N:8
+Eddings        		Mean: 129.0 		Best: 900.23 		N:7
+Maciel         		Mean: 151.54 		Best: 900.23 		N:6
+Freeney        		Mean: 227.05 		Best: 900.23 		N:4
+Reid           		Mean: 451.2 		Best: 900.15 		N:2
+Garza          		Mean: 454.09 		Best: 900.11 		N:2
+
+########## REPORT GEN: 24 ##########
+SPECIES: 
+Duncan         		Mean: 183.95 		Best: 934.4 		N:5
+Reid           		Mean: 153.03 		Best: 934.4 		N:6
+Eddings        		Mean: 229.59 		Best: 929.58 		N:4
+Ernest         		Mean: 183.38 		Best: 919.44 		N:5
+Maciel         		Mean: 181.65 		Best: 909.11 		N:5
+Freeney        		Mean: 130.62 		Best: 909.11 		N:7
+Whittingham    		Mean: 82.87 		Best: 903.59 		N:11
+Walker         		Mean: 226.89 		Best: 900.22 		N:4
+Necaise        		Mean: 129.89 		Best: 900.22 		N:7
+Smith          		Mean: 451.4 		Best: 900.15 		N:2
+Garza          		Mean: 451.53 		Best: 900.15 		N:2
+Wyatt          		Mean: 113.71 		Best: 900.22 		N:8
+
+########## REPORT GEN: 25 ##########
+SPECIES: 
+Duncan         		Mean: 101.74 		Best: 934.4 		N:9
+Necaise        		Mean: 91.74 		Best: 934.4 		N:10
+Garza          		Mean: 184.9 		Best: 934.4 		N:5
+Ernest         		Mean: 182.34 		Best: 919.51 		N:5
+Reid           		Mean: 113.75 		Best: 909.11 		N:8
+Walker         		Mean: 113.8 		Best: 909.11 		N:8
+Smith          		Mean: 226.92 		Best: 900.54 		N:4
+Eddings        		Mean: 151.72 		Best: 900.24 		N:6
+Freeney        		Mean: 181.6 		Best: 900.23 		N:5
+Whittingham    		Mean: 300.87 		Best: 900.15 		N:3
+Wyatt          		Mean: 450.58 		Best: 900.11 		N:2
+Maciel         		Mean: 129.97 		Best: 900.17 		N:7
+
+########## REPORT GEN: 26 ##########
+SPECIES: 
+Ernest         		Mean: 228.98 		Best: 934.4 		N:4
+Wyatt          		Mean: 184.65 		Best: 934.4 		N:5
+Maciel         		Mean: 101.89 		Best: 929.58 		N:9
+Walker         		Mean: 228.01 		Best: 919.51 		N:4
+Eddings        		Mean: 130.22 		Best: 919.51 		N:7
+Smith          		Mean: 91.32 		Best: 919.44 		N:10
+Whittingham    		Mean: 227.45 		Best: 909.11 		N:4
+Necaise        		Mean: 227.42 		Best: 900.34 		N:4
+Reid           		Mean: 130.21 		Best: 900.37 		N:7
+Duncan         		Mean: 227.11 		Best: 900.17 		N:4
+Garza          		Mean: 151.4 		Best: 900.12 		N:6
+Freeney        		Mean: 113.64 		Best: 900.22 		N:8
+
+########## REPORT GEN: 27 ##########
+SPECIES: 
+Walker         		Mean: 101.28 		Best: 934.4 		N:9
+Reid           		Mean: 83.62 		Best: 934.4 		N:11
+Ernest         		Mean: 101.88 		Best: 929.58 		N:9
+Smith          		Mean: 101.28 		Best: 919.47 		N:9
+Garza          		Mean: 101.5 		Best: 919.44 		N:9
+Maciel         		Mean: 113.95 		Best: 909.11 		N:8
+Wyatt          		Mean: 130.06 		Best: 900.26 		N:7
+Duncan         		Mean: 300.93 		Best: 900.15 		N:3
+Eddings        		Mean: 129.27 		Best: 900.13 		N:7
+Whittingham    		Mean: 451.01 		Best: 900.12 		N:2
+Freeney        		Mean: 303.28 		Best: 900.11 		N:3
+Necaise        		Mean: 181.61 		Best: 900.34 		N:5
+
+########## REPORT GEN: 28 ##########
+SPECIES: 
+Reid           		Mean: 463.39 		Best: 934.4 		N:2
+Duncan         		Mean: 183.82 		Best: 934.4 		N:5
+Smith          		Mean: 113.87 		Best: 929.58 		N:8
+Ernest         		Mean: 101.29 		Best: 919.47 		N:9
+Freeney        		Mean: 129.71 		Best: 909.11 		N:7
+Wyatt          		Mean: 302.98 		Best: 900.23 		N:3
+Walker         		Mean: 227.62 		Best: 900.17 		N:4
+Necaise        		Mean: 151.58 		Best: 900.29 		N:6
+Whittingham    		Mean: 151.13 		Best: 900.34 		N:6
+Eddings        		Mean: 113.82 		Best: 900.39 		N:8
+Garza          		Mean: 302.95 		Best: 900.15 		N:3
+
+########## REPORT GEN: 29 ##########
+SPECIES: 
+Reid           		Mean: 231.82 		Best: 934.4 		N:4
+Smith          		Mean: 231.82 		Best: 934.4 		N:4
+Eddings        		Mean: 229.44 		Best: 929.58 		N:4
+Garza          		Mean: 130.59 		Best: 919.47 		N:7
+Whittingham    		Mean: 113.92 		Best: 909.11 		N:8
+Duncan         		Mean: 151.54 		Best: 900.11 		N:6
+Necaise        		Mean: 451.32 		Best: 900.09 		N:2
+Wyatt          		Mean: 129.72 		Best: 900.13 		N:7
+Freeney        		Mean: 301.86 		Best: 900.08 		N:3
+Ernest         		Mean: 227.42 		Best: 900.08 		N:4
+Maciel         		Mean: 227.22 		Best: 900.08 		N:4
+Walker         		Mean: 303.0 		Best: 900.17 		N:3
+
+########## REPORT GEN: 30 ##########
+SPECIES: 
+Eddings        		Mean: 131.37 		Best: 934.4 		N:7
+Garza          		Mean: 131.3 		Best: 934.4 		N:7
+Necaise        		Mean: 183.53 		Best: 934.4 		N:5
+Freeney        		Mean: 114.41 		Best: 934.4 		N:8
+Walker         		Mean: 183.36 		Best: 934.4 		N:5
+Whittingham    		Mean: 130.8 		Best: 929.58 		N:7
+Wyatt          		Mean: 229.35 		Best: 929.58 		N:4
+Ernest         		Mean: 153.1 		Best: 929.58 		N:6
+Duncan         		Mean: 114.07 		Best: 921.96 		N:8
+Reid           		Mean: 228.21 		Best: 909.11 		N:4
+Maciel         		Mean: 90.95 		Best: 900.11 		N:10
+Smith          		Mean: 301.91 		Best: 900.07 		N:3
+
+########## REPORT GEN: 31 ##########
+SPECIES: 
+Freeney        		Mean: 130.88 		Best: 934.4 		N:7
+Ernest         		Mean: 114.47 		Best: 934.4 		N:8
+Reid           		Mean: 153.66 		Best: 934.4 		N:6
+Smith          		Mean: 185.49 		Best: 934.4 		N:5
+Necaise        		Mean: 114.88 		Best: 929.58 		N:8
+Maciel         		Mean: 459.69 		Best: 921.96 		N:2
+Garza          		Mean: 75.97 		Best: 911.25 		N:12
+Whittingham    		Mean: 113.9 		Best: 909.11 		N:8
+Duncan         		Mean: 101.17 		Best: 900.11 		N:9
+Eddings        		Mean: 128.98 		Best: 900.07 		N:7
+Walker         		Mean: 303.16 		Best: 900.23 		N:3
+Wyatt          		Mean: 129.72 		Best: 900.09 		N:7
+
+########## REPORT GEN: 32 ##########
+SPECIES: 
+Walker         		Mean: 91.71 		Best: 937.24 		N:10
+Maciel         		Mean: 153.42 		Best: 934.4 		N:6
+Garza          		Mean: 152.26 		Best: 934.4 		N:6
+Whittingham    		Mean: 152.31 		Best: 934.4 		N:6
+Duncan         		Mean: 183.95 		Best: 934.4 		N:5
+Wyatt          		Mean: 183.1 		Best: 934.4 		N:5
+Ernest         		Mean: 185.28 		Best: 929.58 		N:5
+Necaise        		Mean: 151.32 		Best: 911.25 		N:6
+Reid           		Mean: 114.0 		Best: 909.11 		N:8
+Smith          		Mean: 181.16 		Best: 900.14 		N:5
+Freeney        		Mean: 227.26 		Best: 900.07 		N:4
+Eddings        		Mean: 151.41 		Best: 900.77 		N:6
+
+########## REPORT GEN: 33 ##########
+SPECIES: 
+Smith          		Mean: 91.27 		Best: 937.24 		N:10
+Maciel         		Mean: 115.21 		Best: 934.4 		N:8
+Reid           		Mean: 102.02 		Best: 934.4 		N:9
+Freeney        		Mean: 152.32 		Best: 934.4 		N:6
+Necaise        		Mean: 154.63 		Best: 933.3 		N:6
+Eddings        		Mean: 152.46 		Best: 927.32 		N:6
+Ernest         		Mean: 152.28 		Best: 923.95 		N:6
+Garza          		Mean: 113.6 		Best: 900.72 		N:8
+Whittingham    		Mean: 129.43 		Best: 900.09 		N:7
+Walker         		Mean: 129.9 		Best: 900.09 		N:7
+Duncan         		Mean: 129.82 		Best: 900.07 		N:7
+Wyatt          		Mean: 100.43 		Best: 900.09 		N:9
+
+########## REPORT GEN: 34 ##########
+SPECIES: 
+Wyatt          		Mean: 83.38 		Best: 937.24 		N:11
+Smith          		Mean: 114.57 		Best: 934.4 		N:8
+Maciel         		Mean: 152.58 		Best: 934.4 		N:6
+Garza          		Mean: 131.35 		Best: 934.4 		N:7
+Walker         		Mean: 183.11 		Best: 934.4 		N:5
+Reid           		Mean: 76.14 		Best: 933.3 		N:12
+Eddings        		Mean: 131.15 		Best: 929.58 		N:7
+Whittingham    		Mean: 114.0 		Best: 929.58 		N:8
+Ernest         		Mean: 114.33 		Best: 927.32 		N:8
+Duncan         		Mean: 130.0 		Best: 911.25 		N:7
+Freeney        		Mean: 151.72 		Best: 900.72 		N:6
+Necaise        		Mean: 113.51 		Best: 900.45 		N:8
+
+########## REPORT GEN: 35 ##########
+SPECIES: 
+Smith          		Mean: 70.46 		Best: 937.24 		N:13
+Maciel         		Mean: 82.95 		Best: 934.4 		N:11
+Whittingham    		Mean: 184.46 		Best: 934.4 		N:5
+Ernest         		Mean: 76.42 		Best: 934.4 		N:12
+Freeney        		Mean: 183.74 		Best: 934.4 		N:5
+Eddings        		Mean: 129.83 		Best: 934.34 		N:7
+Necaise        		Mean: 114.1 		Best: 923.76 		N:8
+Garza          		Mean: 182.14 		Best: 911.25 		N:5
+Wyatt          		Mean: 302.09 		Best: 900.3 		N:3
+Walker         		Mean: 82.37 		Best: 900.18 		N:11
+Reid           		Mean: 90.57 		Best: 901.81 		N:10
+Duncan         		Mean: 302.33 		Best: 900.09 		N:3
+
+########## REPORT GEN: 36 ##########
+SPECIES: 
+Duncan         		Mean: 183.12 		Best: 937.24 		N:5
+Smith          		Mean: 76.18 		Best: 934.4 		N:12
+Maciel         		Mean: 101.37 		Best: 934.4 		N:9
+Ernest         		Mean: 101.73 		Best: 934.4 		N:9
+Wyatt          		Mean: 114.44 		Best: 934.4 		N:8
+Garza          		Mean: 229.2 		Best: 934.34 		N:4
+Reid           		Mean: 113.89 		Best: 933.3 		N:8
+Eddings        		Mean: 129.93 		Best: 921.96 		N:7
+Necaise        		Mean: 226.44 		Best: 900.07 		N:4
+Whittingham    		Mean: 100.61 		Best: 901.81 		N:9
+Walker         		Mean: 180.98 		Best: 900.08 		N:5
+Freeney        		Mean: 226.52 		Best: 900.09 		N:4
+
+########## REPORT GEN: 37 ##########
+SPECIES: 
+Maciel         		Mean: 230.1 		Best: 937.24 		N:4
+Freeney        		Mean: 101.67 		Best: 937.24 		N:9
+Duncan         		Mean: 130.27 		Best: 934.4 		N:7
+Ernest         		Mean: 130.44 		Best: 934.4 		N:7
+Wyatt          		Mean: 130.56 		Best: 934.4 		N:7
+Walker         		Mean: 91.39 		Best: 934.4 		N:10
+Necaise        		Mean: 151.2 		Best: 934.34 		N:6
+Whittingham    		Mean: 112.59 		Best: 901.81 		N:8
+Garza          		Mean: 100.6 		Best: 900.07 		N:9
+Smith          		Mean: 75.54 		Best: 900.07 		N:12
+Reid           		Mean: 226.57 		Best: 900.06 		N:4
+Eddings        		Mean: 302.41 		Best: 900.09 		N:3
+
+########## REPORT GEN: 38 ##########
+SPECIES: 
+Walker         		Mean: 113.86 		Best: 937.24 		N:8
+Eddings        		Mean: 228.58 		Best: 937.24 		N:4
+Ernest         		Mean: 184.54 		Best: 934.4 		N:5
+Whittingham    		Mean: 70.65 		Best: 934.4 		N:13
+Smith          		Mean: 129.84 		Best: 934.34 		N:7
+Garza          		Mean: 114.22 		Best: 923.59 		N:8
+Wyatt          		Mean: 181.84 		Best: 921.96 		N:5
+Reid           		Mean: 100.9 		Best: 921.96 		N:9
+Maciel         		Mean: 113.19 		Best: 911.5 		N:8
+Duncan         		Mean: 226.85 		Best: 900.51 		N:4
+Freeney        		Mean: 226.91 		Best: 900.06 		N:4
+Necaise        		Mean: 300.02 		Best: 899.72 		N:3
+
+########## REPORT GEN: 39 ##########
+SPECIES: 
+Eddings        		Mean: 130.39 		Best: 937.24 		N:7
+Garza          		Mean: 83.15 		Best: 937.24 		N:11
+Maciel         		Mean: 76.25 		Best: 937.24 		N:12
+Smith          		Mean: 306.14 		Best: 934.4 		N:3
+Reid           		Mean: 130.53 		Best: 934.4 		N:7
+Walker         		Mean: 303.06 		Best: 924.74 		N:3
+Duncan         		Mean: 82.26 		Best: 923.59 		N:11
+Necaise        		Mean: 150.72 		Best: 921.96 		N:6
+Whittingham    		Mean: 181.95 		Best: 921.96 		N:5
+Ernest         		Mean: 128.82 		Best: 906.75 		N:7
+Freeney        		Mean: 151.12 		Best: 900.06 		N:6
+Wyatt          		Mean: 453.32 		Best: 900.06 		N:2
+
+########## REPORT GEN: 40 ##########
+SPECIES: 
+Eddings        		Mean: 153.31 		Best: 937.24 		N:6
+Maciel         		Mean: 305.96 		Best: 937.24 		N:3
+Walker         		Mean: 184.39 		Best: 937.24 		N:5
+Necaise        		Mean: 114.2 		Best: 934.4 		N:8
+Whittingham    		Mean: 101.19 		Best: 934.4 		N:9
+Duncan         		Mean: 182.4 		Best: 924.74 		N:5
+Smith          		Mean: 151.4 		Best: 923.59 		N:6
+Ernest         		Mean: 227.86 		Best: 923.17 		N:4
+Reid           		Mean: 181.68 		Best: 921.96 		N:5
+Wyatt          		Mean: 152.0 		Best: 921.96 		N:6
+Freeney        		Mean: 128.81 		Best: 903.01 		N:7
+Garza          		Mean: 225.27 		Best: 899.72 		N:4
+
+########## REPORT GEN: 41 ##########
+SPECIES: 
+Walker         		Mean: 115.26 		Best: 937.24 		N:8
+Whittingham    		Mean: 184.46 		Best: 937.24 		N:5
+Reid           		Mean: 76.16 		Best: 937.24 		N:12
+Freeney        		Mean: 69.85 		Best: 934.4 		N:13
+Wyatt          		Mean: 183.26 		Best: 932.58 		N:5
+Eddings        		Mean: 129.62 		Best: 923.59 		N:7
+Necaise        		Mean: 113.96 		Best: 923.17 		N:8
+Ernest         		Mean: 454.77 		Best: 918.32 		N:2
+Maciel         		Mean: 226.21 		Best: 900.17 		N:4
+Garza          		Mean: 226.58 		Best: 903.01 		N:4
+Smith          		Mean: 151.07 		Best: 902.79 		N:6
+Duncan         		Mean: 90.12 		Best: 899.72 		N:10
+
+########## REPORT GEN: 42 ##########
+SPECIES: 
+Walker         		Mean: 152.85 		Best: 937.24 		N:6
+Reid           		Mean: 152.31 		Best: 937.24 		N:6
+Ernest         		Mean: 91.56 		Best: 937.24 		N:10
+Maciel         		Mean: 83.34 		Best: 937.24 		N:11
+Necaise        		Mean: 91.19 		Best: 934.4 		N:10
+Freeney        		Mean: 228.53 		Best: 928.35 		N:4
+Wyatt          		Mean: 130.06 		Best: 928.35 		N:7
+Smith          		Mean: 114.07 		Best: 923.59 		N:8
+Whittingham    		Mean: 129.34 		Best: 923.17 		N:7
+Eddings        		Mean: 304.35 		Best: 921.92 		N:3
+Duncan         		Mean: 301.84 		Best: 900.06 		N:3
+Garza          		Mean: 300.35 		Best: 899.72 		N:3
+
+########## REPORT GEN: 43 ##########
+SPECIES: 
+Walker         		Mean: 60.72 		Best: 937.24 		N:15
+Freeney        		Mean: 114.21 		Best: 937.24 		N:8
+Wyatt          		Mean: 151.67 		Best: 937.24 		N:6
+Duncan         		Mean: 461.08 		Best: 937.24 		N:2
+Maciel         		Mean: 232.23 		Best: 934.4 		N:4
+Eddings        		Mean: 130.69 		Best: 928.25 		N:7
+Garza          		Mean: 151.47 		Best: 923.59 		N:6
+Reid           		Mean: 151.51 		Best: 919.3 		N:6
+Necaise        		Mean: 150.86 		Best: 918.32 		N:6
+Smith          		Mean: 150.29 		Best: 902.33 		N:6
+Whittingham    		Mean: 301.82 		Best: 900.06 		N:3
+Ernest         		Mean: 180.26 		Best: 899.72 		N:5
+
+########## REPORT GEN: 44 ##########
+SPECIES: 
+Freeney        		Mean: 130.27 		Best: 937.24 		N:7
+Wyatt          		Mean: 100.89 		Best: 937.24 		N:9
+Ernest         		Mean: 92.31 		Best: 937.24 		N:10
+Necaise        		Mean: 228.42 		Best: 934.4 		N:4
+Whittingham    		Mean: 151.64 		Best: 928.35 		N:6
+Garza          		Mean: 151.49 		Best: 928.25 		N:6
+Reid           		Mean: 181.69 		Best: 921.92 		N:5
+Walker         		Mean: 181.05 		Best: 921.92 		N:5
+Duncan         		Mean: 150.26 		Best: 902.33 		N:6
+Eddings        		Mean: 129.1 		Best: 900.16 		N:7
+Smith          		Mean: 180.23 		Best: 899.72 		N:5
+Maciel         		Mean: 225.44 		Best: 900.41 		N:4
+
+########## REPORT GEN: 45 ##########
+SPECIES: 
+Ernest         		Mean: 182.33 		Best: 937.24 		N:5
+Whittingham    		Mean: 114.38 		Best: 937.24 		N:8
+Garza          		Mean: 130.2 		Best: 937.24 		N:7
+Reid           		Mean: 90.98 		Best: 934.4 		N:10
+Smith          		Mean: 100.79 		Best: 934.34 		N:9
+Necaise        		Mean: 129.96 		Best: 928.35 		N:7
+Maciel         		Mean: 113.11 		Best: 928.35 		N:8
+Walker         		Mean: 90.46 		Best: 928.25 		N:10
+Duncan         		Mean: 150.91 		Best: 923.09 		N:6
+Freeney        		Mean: 180.55 		Best: 902.79 		N:5
+Eddings        		Mean: 150.62 		Best: 900.06 		N:6
+Wyatt          		Mean: 180.2 		Best: 899.72 		N:5
+
+########## REPORT GEN: 46 ##########
+SPECIES: 
+Ernest         		Mean: 182.52 		Best: 937.24 		N:5
+Garza          		Mean: 113.7 		Best: 937.24 		N:8
+Reid           		Mean: 130.78 		Best: 937.24 		N:7
+Smith          		Mean: 113.97 		Best: 937.24 		N:8
+Walker         		Mean: 83.36 		Best: 937.24 		N:11
+Wyatt          		Mean: 130.15 		Best: 934.34 		N:7
+Maciel         		Mean: 129.55 		Best: 933.46 		N:7
+Whittingham    		Mean: 82.43 		Best: 928.72 		N:11
+Eddings        		Mean: 100.52 		Best: 928.35 		N:9
+Duncan         		Mean: 90.55 		Best: 923.09 		N:10
+Necaise        		Mean: 100.48 		Best: 921.92 		N:9
+Freeney        		Mean: 300.15 		Best: 899.57 		N:3
+
+########## REPORT GEN: 47 ##########
+SPECIES: 
+Maciel         		Mean: 113.62 		Best: 940.3 		N:8
+Reid           		Mean: 113.57 		Best: 937.24 		N:8
+Walker         		Mean: 114.52 		Best: 937.24 		N:8
+Eddings        		Mean: 182.48 		Best: 937.24 		N:5
+Necaise        		Mean: 182.17 		Best: 937.24 		N:5
+Smith          		Mean: 113.28 		Best: 935.4 		N:8
+Duncan         		Mean: 113.36 		Best: 934.61 		N:8
+Freeney        		Mean: 101.57 		Best: 934.34 		N:9
+Garza          		Mean: 113.59 		Best: 933.8 		N:8
+Whittingham    		Mean: 151.68 		Best: 928.37 		N:6
+Wyatt          		Mean: 150.7 		Best: 921.92 		N:6
+Ernest         		Mean: 449.8 		Best: 899.53 		N:2
+
+########## REPORT GEN: 48 ##########
+SPECIES: 
+Reid           		Mean: 113.92 		Best: 940.3 		N:8
+Maciel         		Mean: 152.57 		Best: 937.24 		N:6
+Walker         		Mean: 102.29 		Best: 937.24 		N:9
+Necaise        		Mean: 152.61 		Best: 937.24 		N:6
+Whittingham    		Mean: 183.64 		Best: 937.24 		N:5
+Wyatt          		Mean: 82.2 		Best: 928.35 		N:11
+Freeney        		Mean: 180.4 		Best: 902.79 		N:5
+Smith          		Mean: 300.71 		Best: 902.68 		N:3
+Duncan         		Mean: 112.67 		Best: 902.33 		N:8
+Eddings        		Mean: 450.46 		Best: 899.72 		N:2
+Garza          		Mean: 225.1 		Best: 899.34 		N:4
+Ernest         		Mean: 180.15 		Best: 899.34 		N:5
+
+########## REPORT GEN: 49 ##########
+SPECIES: 
+Whittingham    		Mean: 113.58 		Best: 940.3 		N:8
+Smith          		Mean: 131.3 		Best: 940.3 		N:7
+Duncan         		Mean: 151.63 		Best: 937.24 		N:6
+Eddings        		Mean: 82.73 		Best: 937.24 		N:11
+Garza          		Mean: 114.82 		Best: 937.24 		N:8
+Reid           		Mean: 304.18 		Best: 934.34 		N:3
+Wyatt          		Mean: 227.17 		Best: 928.37 		N:4
+Walker         		Mean: 75.34 		Best: 928.35 		N:12
+Freeney        		Mean: 180.51 		Best: 903.69 		N:5
+Ernest         		Mean: 300.74 		Best: 903.69 		N:3
+Maciel         		Mean: 150.26 		Best: 902.68 		N:6
+Necaise        		Mean: 450.46 		Best: 900.45 		N:2
+
+########## REPORT GEN: 50 ##########
+SPECIES: 
+Smith          		Mean: 70.22 		Best: 940.3 		N:13
+Duncan         		Mean: 153.18 		Best: 940.3 		N:6
+Garza          		Mean: 130.71 		Best: 940.3 		N:7
+Wyatt          		Mean: 305.76 		Best: 937.24 		N:3
+Necaise        		Mean: 91.34 		Best: 937.24 		N:10
+Eddings        		Mean: 459.62 		Best: 934.34 		N:2
+Freeney        		Mean: 114.32 		Best: 931.77 		N:8
+Reid           		Mean: 227.13 		Best: 928.35 		N:4
+Whittingham    		Mean: 150.85 		Best: 923.59 		N:6
+Ernest         		Mean: 225.35 		Best: 902.79 		N:4
+Maciel         		Mean: 451.37 		Best: 902.2 		N:2
+Walker         		Mean: 225.26 		Best: 899.41 		N:4
+

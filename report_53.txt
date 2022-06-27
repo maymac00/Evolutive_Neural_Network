@@ -1,0 +1,3428 @@
+########## REPORT GEN: 2 ##########
+SPECIES: 
+Toca           		Mean: 323.97 		Best: 941.16 		N:3
+Field          		Mean: 167.76 		Best: 941.16 		N:6
+Layton         		Mean: 53.94 		Best: 941.16 		N:19
+Zana           		Mean: 91.31 		Best: 941.16 		N:11
+Nelson         		Mean: 473.94 		Best: 941.16 		N:2
+Mashburn       		Mean: 141.77 		Best: 941.16 		N:7
+Hernandez      		Mean: 242.84 		Best: 941.16 		N:4
+Lockridge      		Mean: 164.84 		Best: 941.16 		N:6
+Day            		Mean: 242.35 		Best: 941.16 		N:4
+Atkins         		Mean: 461.92 		Best: 923.85 		N:2
+
+########## REPORT GEN: 3 ##########
+SPECIES: 
+Toca           		Mean: 127.02 		Best: 941.16 		N:8
+Savage         		Mean: 478.34 		Best: 941.16 		N:2
+Field          		Mean: 127.28 		Best: 941.16 		N:8
+Layton         		Mean: 167.65 		Best: 941.16 		N:6
+Zana           		Mean: 128.28 		Best: 941.16 		N:8
+Nelson         		Mean: 237.83 		Best: 941.16 		N:4
+Mashburn       		Mean: 475.49 		Best: 941.16 		N:2
+Hernandez      		Mean: 201.7 		Best: 941.16 		N:5
+Cheek          		Mean: 470.58 		Best: 941.16 		N:2
+Lockridge      		Mean: 246.79 		Best: 941.16 		N:4
+Gabbert        		Mean: 237.14 		Best: 941.16 		N:4
+Atkins         		Mean: 230.96 		Best: 923.85 		N:4
+
+########## REPORT GEN: 4 ##########
+SPECIES: 
+Savage         		Mean: 189.67 		Best: 941.16 		N:5
+Gabbert        		Mean: 157.53 		Best: 941.16 		N:6
+Toca           		Mean: 249.8 		Best: 941.16 		N:4
+Field          		Mean: 141.03 		Best: 941.16 		N:7
+Layton         		Mean: 484.64 		Best: 941.16 		N:2
+Zana           		Mean: 330.31 		Best: 941.16 		N:3
+Nelson         		Mean: 135.83 		Best: 941.16 		N:7
+Hernandez      		Mean: 240.78 		Best: 941.16 		N:4
+Cheek          		Mean: 241.88 		Best: 941.16 		N:4
+Lockridge      		Mean: 195.48 		Best: 941.16 		N:5
+Atkins         		Mean: 134.23 		Best: 925.7 		N:7
+Mashburn       		Mean: 242.54 		Best: 941.16 		N:4
+Mercado        		Mean: 317.41 		Best: 929.42 		N:3
+
+########## REPORT GEN: 5 ##########
+SPECIES: 
+Church         		Mean: 319.51 		Best: 941.16 		N:3
+Mercado        		Mean: 137.0 		Best: 941.16 		N:7
+Toca           		Mean: 198.01 		Best: 941.16 		N:5
+Field          		Mean: 125.56 		Best: 941.16 		N:8
+Layton         		Mean: 241.44 		Best: 941.16 		N:4
+Cheek          		Mean: 166.94 		Best: 941.16 		N:6
+Lockridge      		Mean: 319.71 		Best: 941.16 		N:3
+Gilchrist      		Mean: 316.33 		Best: 941.16 		N:3
+Atkins         		Mean: 240.88 		Best: 939.13 		N:4
+Mashburn       		Mean: 163.11 		Best: 923.72 		N:6
+Savage         		Mean: 461.24 		Best: 922.48 		N:2
+Gabbert        		Mean: 307.26 		Best: 917.74 		N:3
+
+########## REPORT GEN: 6 ##########
+SPECIES: 
+Field          		Mean: 143.45 		Best: 941.16 		N:7
+Smith          		Mean: 166.32 		Best: 941.16 		N:6
+Gabbert        		Mean: 136.51 		Best: 941.16 		N:7
+Church         		Mean: 236.85 		Best: 941.16 		N:4
+Cheek          		Mean: 487.64 		Best: 941.16 		N:2
+Lockridge      		Mean: 195.13 		Best: 941.16 		N:5
+Thurmond       		Mean: 318.31 		Best: 941.16 		N:3
+Mashburn       		Mean: 159.26 		Best: 941.16 		N:6
+Gilchrist      		Mean: 160.36 		Best: 941.16 		N:6
+Atkins         		Mean: 309.31 		Best: 922.48 		N:3
+Savage         		Mean: 232.28 		Best: 922.48 		N:4
+Mercado        		Mean: 458.87 		Best: 917.74 		N:2
+
+########## REPORT GEN: 7 ##########
+SPECIES: 
+Church         		Mean: 138.16 		Best: 941.16 		N:7
+Mercado        		Mean: 191.33 		Best: 941.16 		N:5
+Toca           		Mean: 470.58 		Best: 941.16 		N:2
+Thurmond       		Mean: 157.59 		Best: 941.16 		N:6
+Buchanan       		Mean: 472.75 		Best: 941.16 		N:2
+Gilchrist      		Mean: 490.55 		Best: 941.16 		N:2
+Mashburn       		Mean: 97.83 		Best: 941.16 		N:10
+Atkins         		Mean: 154.63 		Best: 922.48 		N:6
+Savage         		Mean: 233.69 		Best: 922.48 		N:4
+Gabbert        		Mean: 458.87 		Best: 917.74 		N:2
+
+########## REPORT GEN: 8 ##########
+SPECIES: 
+Mercado        		Mean: 235.47 		Best: 941.16 		N:4
+Church         		Mean: 249.78 		Best: 941.16 		N:4
+Toca           		Mean: 235.29 		Best: 941.16 		N:4
+Cheek          		Mean: 472.63 		Best: 941.16 		N:2
+Lockridge      		Mean: 325.52 		Best: 941.16 		N:3
+Buchanan       		Mean: 237.91 		Best: 941.16 		N:4
+Mashburn       		Mean: 143.21 		Best: 941.16 		N:7
+Smith          		Mean: 325.48 		Best: 941.16 		N:3
+Atkins         		Mean: 309.45 		Best: 922.48 		N:3
+Savage         		Mean: 310.49 		Best: 919.81 		N:3
+Thurmond       		Mean: 459.93 		Best: 919.37 		N:2
+Gabbert        		Mean: 463.37 		Best: 917.74 		N:2
+
+########## REPORT GEN: 9 ##########
+SPECIES: 
+Gabbert        		Mean: 233.84 		Best: 941.16 		N:4
+Church         		Mean: 109.14 		Best: 941.16 		N:9
+Toca           		Mean: 236.2 		Best: 941.16 		N:4
+Cheek          		Mean: 235.29 		Best: 941.16 		N:4
+Lockridge      		Mean: 482.96 		Best: 941.16 		N:2
+Buchanan       		Mean: 239.66 		Best: 941.16 		N:4
+Randell        		Mean: 468.22 		Best: 941.16 		N:2
+Gilchrist      		Mean: 140.08 		Best: 941.16 		N:7
+Smith          		Mean: 469.57 		Best: 939.13 		N:2
+Atkins         		Mean: 185.55 		Best: 922.48 		N:5
+Savage         		Mean: 188.05 		Best: 919.92 		N:5
+Mercado        		Mean: 231.01 		Best: 917.74 		N:4
+Thurmond       		Mean: 230.67 		Best: 919.37 		N:4
+
+########## REPORT GEN: 10 ##########
+SPECIES: 
+Smith          		Mean: 142.87 		Best: 941.16 		N:7
+Mercado        		Mean: 133.61 		Best: 941.16 		N:7
+Toca           		Mean: 190.53 		Best: 941.16 		N:5
+Cheek          		Mean: 188.23 		Best: 941.16 		N:5
+Lockridge      		Mean: 188.84 		Best: 941.16 		N:5
+Buchanan       		Mean: 192.93 		Best: 941.16 		N:5
+Randell        		Mean: 232.81 		Best: 941.16 		N:4
+Church         		Mean: 316.54 		Best: 939.13 		N:3
+Gilchrist      		Mean: 319.76 		Best: 941.16 		N:3
+Allen          		Mean: 464.71 		Best: 929.42 		N:2
+Atkins         		Mean: 233.57 		Best: 922.48 		N:4
+Savage         		Mean: 233.46 		Best: 919.81 		N:4
+Thurmond       		Mean: 184.66 		Best: 919.37 		N:5
+Gabbert        		Mean: 308.52 		Best: 917.74 		N:3
+
+########## REPORT GEN: 11 ##########
+SPECIES: 
+Robinson       		Mean: 241.24 		Best: 941.16 		N:4
+Smith          		Mean: 136.74 		Best: 941.16 		N:7
+Toca           		Mean: 192.01 		Best: 941.16 		N:5
+Cheek          		Mean: 188.62 		Best: 941.16 		N:5
+Lockridge      		Mean: 191.95 		Best: 941.16 		N:5
+Buchanan       		Mean: 191.01 		Best: 941.16 		N:5
+Randell        		Mean: 155.76 		Best: 941.16 		N:6
+Church         		Mean: 318.3 		Best: 939.13 		N:3
+Gilchrist      		Mean: 318.11 		Best: 939.13 		N:3
+Gabbert        		Mean: 158.61 		Best: 941.16 		N:6
+Allen          		Mean: 232.89 		Best: 929.42 		N:4
+Mercado        		Mean: 187.32 		Best: 927.73 		N:5
+Atkins         		Mean: 133.86 		Best: 922.48 		N:7
+Savage         		Mean: 133.2 		Best: 919.81 		N:7
+Thurmond       		Mean: 184.44 		Best: 919.37 		N:5
+
+########## REPORT GEN: 12 ##########
+SPECIES: 
+Robinson       		Mean: 194.61 		Best: 941.16 		N:5
+Church         		Mean: 121.36 		Best: 941.16 		N:8
+Toca           		Mean: 159.83 		Best: 941.16 		N:6
+Cheek          		Mean: 157.42 		Best: 941.16 		N:6
+Lockridge      		Mean: 237.01 		Best: 941.16 		N:4
+Buchanan       		Mean: 158.55 		Best: 941.16 		N:6
+Truax          		Mean: 470.03 		Best: 941.16 		N:2
+Gilchrist      		Mean: 158.75 		Best: 939.13 		N:6
+Allen          		Mean: 133.41 		Best: 929.42 		N:7
+Gabbert        		Mean: 232.94 		Best: 927.73 		N:4
+Mercado        		Mean: 156.29 		Best: 927.73 		N:6
+Atkins         		Mean: 233.38 		Best: 922.48 		N:4
+Savage         		Mean: 233.74 		Best: 919.81 		N:4
+Smith          		Mean: 96.78 		Best: 939.13 		N:10
+Randell        		Mean: 157.75 		Best: 941.16 		N:6
+Thurmond       		Mean: 305.8 		Best: 917.4 		N:3
+
+########## REPORT GEN: 13 ##########
+SPECIES: 
+Lockridge      		Mean: 106.99 		Best: 941.16 		N:9
+Smith          		Mean: 121.03 		Best: 941.16 		N:8
+Church         		Mean: 193.32 		Best: 941.16 		N:5
+Toca           		Mean: 236.65 		Best: 941.16 		N:4
+Cheek          		Mean: 236.89 		Best: 941.16 		N:4
+Truax          		Mean: 309.58 		Best: 941.16 		N:3
+Thurmond       		Mean: 188.69 		Best: 941.16 		N:5
+Robinson       		Mean: 162.17 		Best: 941.16 		N:6
+Allen          		Mean: 234.06 		Best: 929.42 		N:4
+Gabbert        		Mean: 116.75 		Best: 927.73 		N:8
+Mercado        		Mean: 311.84 		Best: 927.73 		N:3
+Randell        		Mean: 236.7 		Best: 923.8 		N:4
+Atkins         		Mean: 132.92 		Best: 922.48 		N:7
+Wheeler        		Mean: 307.15 		Best: 919.98 		N:3
+Savage         		Mean: 133.15 		Best: 919.91 		N:7
+
+########## REPORT GEN: 14 ##########
+SPECIES: 
+Smith          		Mean: 160.9 		Best: 941.16 		N:6
+Gajate         		Mean: 316.6 		Best: 941.16 		N:3
+Lockridge      		Mean: 473.6 		Best: 941.16 		N:2
+Toca           		Mean: 189.03 		Best: 941.16 		N:5
+Cheek          		Mean: 186.83 		Best: 941.16 		N:5
+Buchanan       		Mean: 134.25 		Best: 941.16 		N:7
+Robinson       		Mean: 322.98 		Best: 941.16 		N:3
+Mercado        		Mean: 117.2 		Best: 932.65 		N:8
+Allen          		Mean: 187.55 		Best: 929.42 		N:5
+Gabbert        		Mean: 136.26 		Best: 927.73 		N:7
+Randell        		Mean: 461.9 		Best: 923.8 		N:2
+Jones          		Mean: 467.45 		Best: 922.48 		N:2
+Savage         		Mean: 464.97 		Best: 919.81 		N:2
+Church         		Mean: 134.79 		Best: 941.16 		N:7
+Thurmond       		Mean: 469.59 		Best: 917.4 		N:2
+Truax          		Mean: 453.96 		Best: 902.7 		N:2
+
+########## REPORT GEN: 15 ##########
+SPECIES: 
+Toca           		Mean: 322.64 		Best: 941.16 		N:3
+Savage         		Mean: 117.24 		Best: 941.16 		N:8
+Lockridge      		Mean: 187.12 		Best: 941.16 		N:5
+Cheek          		Mean: 465.46 		Best: 941.16 		N:2
+Buchanan       		Mean: 473.58 		Best: 941.16 		N:2
+Robinson       		Mean: 238.24 		Best: 941.16 		N:4
+Church         		Mean: 312.84 		Best: 941.16 		N:3
+Thurmond       		Mean: 188.07 		Best: 941.16 		N:5
+Truax          		Mean: 312.12 		Best: 941.16 		N:3
+Randell        		Mean: 232.5 		Best: 939.13 		N:4
+Allen          		Mean: 464.71 		Best: 929.42 		N:2
+Smith          		Mean: 470.45 		Best: 923.25 		N:2
+Jones          		Mean: 232.33 		Best: 922.48 		N:4
+Wheeler        		Mean: 309.18 		Best: 919.98 		N:3
+Atkins         		Mean: 458.59 		Best: 915.94 		N:2
+Mercado        		Mean: 188.28 		Best: 917.4 		N:5
+
+########## REPORT GEN: 16 ##########
+SPECIES: 
+Gabbert        		Mean: 190.47 		Best: 941.16 		N:5
+Toca           		Mean: 471.37 		Best: 941.16 		N:2
+Cheek          		Mean: 230.26 		Best: 941.16 		N:4
+Buchanan       		Mean: 155.31 		Best: 941.16 		N:6
+Church         		Mean: 237.08 		Best: 941.16 		N:4
+Truax          		Mean: 116.6 		Best: 941.16 		N:8
+Smith          		Mean: 325.07 		Best: 941.16 		N:3
+Wheeler        		Mean: 315.75 		Best: 941.16 		N:3
+Mercado        		Mean: 106.22 		Best: 941.16 		N:9
+Randell        		Mean: 467.23 		Best: 939.13 		N:2
+Allen          		Mean: 232.76 		Best: 929.42 		N:4
+Jones          		Mean: 185.48 		Best: 922.48 		N:5
+Thurmond       		Mean: 466.07 		Best: 917.4 		N:2
+Robinson       		Mean: 233.98 		Best: 917.19 		N:4
+Atkins         		Mean: 459.12 		Best: 915.83 		N:2
+
+########## REPORT GEN: 17 ##########
+SPECIES: 
+Truax          		Mean: 240.27 		Best: 941.16 		N:4
+Gabbert        		Mean: 190.42 		Best: 941.16 		N:5
+Cheek          		Mean: 238.73 		Best: 941.16 		N:4
+Church         		Mean: 475.53 		Best: 941.16 		N:2
+Wheeler        		Mean: 315.52 		Best: 941.16 		N:3
+Savage         		Mean: 238.61 		Best: 941.16 		N:4
+Thurmond       		Mean: 68.64 		Best: 941.16 		N:14
+Robinson       		Mean: 312.81 		Best: 941.16 		N:3
+Allen          		Mean: 311.19 		Best: 929.42 		N:3
+Mercado        		Mean: 236.32 		Best: 927.73 		N:4
+Randell        		Mean: 462.33 		Best: 924.65 		N:2
+Smith          		Mean: 462.44 		Best: 923.72 		N:2
+Lockridge      		Mean: 236.57 		Best: 923.64 		N:4
+Atkins         		Mean: 306.54 		Best: 915.94 		N:3
+Jones          		Mean: 459.02 		Best: 915.89 		N:2
+
+########## REPORT GEN: 18 ##########
+SPECIES: 
+Truax          		Mean: 190.59 		Best: 941.16 		N:5
+Gabbert        		Mean: 95.89 		Best: 941.16 		N:10
+Toca           		Mean: 471.76 		Best: 941.16 		N:2
+Buchanan       		Mean: 471.25 		Best: 941.16 		N:2
+Church         		Mean: 468.35 		Best: 941.16 		N:2
+Wheeler        		Mean: 185.65 		Best: 941.16 		N:5
+Savage         		Mean: 189.11 		Best: 941.16 		N:5
+Robinson       		Mean: 318.88 		Best: 941.16 		N:3
+Smith          		Mean: 469.96 		Best: 941.16 		N:2
+Lockridge      		Mean: 474.83 		Best: 941.16 		N:2
+Allen          		Mean: 232.89 		Best: 929.42 		N:4
+Thurmond       		Mean: 464.69 		Best: 927.73 		N:2
+Randell        		Mean: 116.54 		Best: 928.69 		N:8
+Atkins         		Mean: 230.47 		Best: 915.94 		N:4
+Jones          		Mean: 459.37 		Best: 915.89 		N:2
+Mercado        		Mean: 454.62 		Best: 909.24 		N:2
+
+########## REPORT GEN: 19 ##########
+SPECIES: 
+Smith          		Mean: 479.5 		Best: 941.16 		N:2
+Truax          		Mean: 120.22 		Best: 941.16 		N:8
+Buchanan       		Mean: 471.07 		Best: 941.16 		N:2
+Church         		Mean: 312.87 		Best: 941.16 		N:3
+Wheeler        		Mean: 118.53 		Best: 941.16 		N:8
+Robinson       		Mean: 472.64 		Best: 941.16 		N:2
+Lockridge      		Mean: 161.23 		Best: 941.16 		N:6
+Thurmond       		Mean: 119.49 		Best: 941.16 		N:8
+Savage         		Mean: 317.01 		Best: 941.16 		N:3
+Allen          		Mean: 233.09 		Best: 929.42 		N:4
+Gabbert        		Mean: 186.52 		Best: 925.73 		N:5
+Savage         		Mean: 312.19 		Best: 925.73 		N:3
+Toca           		Mean: 465.22 		Best: 917.4 		N:2
+Atkins         		Mean: 310.34 		Best: 917.4 		N:3
+Jones          		Mean: 460.13 		Best: 915.89 		N:2
+Mercado        		Mean: 455.88 		Best: 909.24 		N:2
+
+########## REPORT GEN: 20 ##########
+SPECIES: 
+Truax          		Mean: 314.32 		Best: 941.16 		N:3
+Smith          		Mean: 68.14 		Best: 941.16 		N:14
+Church         		Mean: 237.72 		Best: 941.16 		N:4
+Wheeler        		Mean: 479.49 		Best: 941.16 		N:2
+Lockridge      		Mean: 105.05 		Best: 941.16 		N:9
+Thurmond       		Mean: 189.46 		Best: 941.16 		N:5
+Randell        		Mean: 234.43 		Best: 941.16 		N:4
+Savage         		Mean: 158.55 		Best: 941.16 		N:6
+Toca           		Mean: 96.8 		Best: 941.16 		N:10
+Allen          		Mean: 464.72 		Best: 929.42 		N:2
+Robinson       		Mean: 231.95 		Best: 917.4 		N:4
+Atkins         		Mean: 306.76 		Best: 915.91 		N:3
+Savage         		Mean: 311.86 		Best: 925.73 		N:3
+
+########## REPORT GEN: 21 ##########
+SPECIES: 
+Allen          		Mean: 155.79 		Best: 948.91 		N:6
+Smith          		Mean: 73.57 		Best: 941.16 		N:13
+Wheeler        		Mean: 137.26 		Best: 941.16 		N:7
+Thurmond       		Mean: 158.27 		Best: 941.16 		N:6
+Randell        		Mean: 308.8 		Best: 941.16 		N:3
+Toca           		Mean: 317.45 		Best: 941.16 		N:3
+Truax          		Mean: 307.1 		Best: 920.75 		N:3
+Lockridge      		Mean: 132.03 		Best: 919.57 		N:7
+Robinson       		Mean: 229.25 		Best: 918.97 		N:4
+Church         		Mean: 155.07 		Best: 920.75 		N:6
+Atkins         		Mean: 184.05 		Best: 915.96 		N:5
+Mercado        		Mean: 304.46 		Best: 909.24 		N:3
+
+########## REPORT GEN: 22 ##########
+SPECIES: 
+Allen          		Mean: 314.58 		Best: 948.91 		N:3
+Savage         		Mean: 237.78 		Best: 941.16 		N:4
+Savage         		Mean: 63.62 		Best: 941.16 		N:15
+Robinson       		Mean: 239.68 		Best: 941.16 		N:4
+Randell        		Mean: 184.06 		Best: 920.75 		N:5
+Church         		Mean: 117.95 		Best: 919.57 		N:8
+Thurmond       		Mean: 466.37 		Best: 917.4 		N:2
+Truax          		Mean: 312.04 		Best: 923.72 		N:3
+Atkins         		Mean: 460.44 		Best: 915.91 		N:2
+Lockridge      		Mean: 457.93 		Best: 915.89 		N:2
+Toca           		Mean: 457.11 		Best: 914.22 		N:2
+Mercado        		Mean: 152.41 		Best: 909.24 		N:6
+
+########## REPORT GEN: 23 ##########
+SPECIES: 
+Allen          		Mean: 232.89 		Best: 948.91 		N:4
+Savage         		Mean: 311.59 		Best: 948.91 		N:3
+Thurmond       		Mean: 133.45 		Best: 941.16 		N:7
+Savage         		Mean: 187.18 		Best: 941.16 		N:5
+Wheeler        		Mean: 313.01 		Best: 941.16 		N:3
+Robinson       		Mean: 158.2 		Best: 941.16 		N:6
+Church         		Mean: 157.23 		Best: 941.16 		N:6
+Truax          		Mean: 231.13 		Best: 941.16 		N:4
+Toca           		Mean: 313.51 		Best: 941.16 		N:3
+Lockridge      		Mean: 232.29 		Best: 917.4 		N:4
+Smith          		Mean: 306.79 		Best: 915.91 		N:3
+Atkins         		Mean: 306.27 		Best: 915.91 		N:3
+Mercado        		Mean: 228.62 		Best: 909.24 		N:4
+
+########## REPORT GEN: 24 ##########
+SPECIES: 
+Allen          		Mean: 116.36 		Best: 948.91 		N:8
+Savage         		Mean: 185.95 		Best: 941.16 		N:5
+Wheeler        		Mean: 235.1 		Best: 941.16 		N:4
+Robinson       		Mean: 186.03 		Best: 941.16 		N:5
+Church         		Mean: 236.14 		Best: 941.16 		N:4
+Truax          		Mean: 134.33 		Best: 941.16 		N:7
+Toca           		Mean: 317.63 		Best: 941.16 		N:3
+Savage         		Mean: 230.11 		Best: 919.95 		N:4
+Randell        		Mean: 460.2 		Best: 919.49 		N:2
+Atkins         		Mean: 232.86 		Best: 917.4 		N:4
+Thurmond       		Mean: 230.83 		Best: 915.91 		N:4
+Smith          		Mean: 153.76 		Best: 915.91 		N:6
+Lockridge      		Mean: 183.76 		Best: 915.89 		N:5
+Mercado        		Mean: 181.47 		Best: 909.24 		N:5
+
+########## REPORT GEN: 25 ##########
+SPECIES: 
+Savage         		Mean: 154.87 		Best: 948.91 		N:6
+Wheeler        		Mean: 158.09 		Best: 941.16 		N:6
+Savage         		Mean: 132.0 		Best: 941.16 		N:7
+Robinson       		Mean: 92.47 		Best: 941.16 		N:10
+Church         		Mean: 189.82 		Best: 941.16 		N:5
+Truax          		Mean: 470.58 		Best: 941.16 		N:2
+Randell        		Mean: 154.76 		Best: 941.16 		N:6
+Toca           		Mean: 229.19 		Best: 920.47 		N:4
+Allen          		Mean: 184.32 		Best: 919.95 		N:5
+Atkins         		Mean: 186.42 		Best: 917.4 		N:5
+Smith          		Mean: 153.95 		Best: 915.91 		N:6
+Thurmond       		Mean: 132.03 		Best: 915.91 		N:7
+Lockridge      		Mean: 183.73 		Best: 915.89 		N:5
+Mercado        		Mean: 181.48 		Best: 909.24 		N:5
+
+########## REPORT GEN: 26 ##########
+SPECIES: 
+Allen          		Mean: 115.96 		Best: 948.91 		N:8
+Savage         		Mean: 186.71 		Best: 941.16 		N:5
+Wheeler        		Mean: 104.49 		Best: 941.16 		N:9
+Savage         		Mean: 306.96 		Best: 941.16 		N:3
+Robinson       		Mean: 314.17 		Best: 941.16 		N:3
+Church         		Mean: 116.76 		Best: 941.16 		N:8
+Truax          		Mean: 185.06 		Best: 941.16 		N:5
+Randell        		Mean: 311.11 		Best: 941.16 		N:3
+Toca           		Mean: 237.81 		Best: 941.16 		N:4
+Atkins         		Mean: 158.41 		Best: 941.16 		N:6
+Smith          		Mean: 115.46 		Best: 920.0 		N:8
+Thurmond       		Mean: 102.57 		Best: 915.93 		N:9
+Lockridge      		Mean: 184.98 		Best: 915.91 		N:5
+Mercado        		Mean: 151.31 		Best: 909.24 		N:6
+
+########## REPORT GEN: 27 ##########
+SPECIES: 
+Allen          		Mean: 186.27 		Best: 948.91 		N:5
+Wheeler        		Mean: 157.97 		Best: 941.16 		N:6
+Atkins         		Mean: 159.21 		Best: 941.16 		N:6
+Savage         		Mean: 113.9 		Best: 941.16 		N:8
+Robinson       		Mean: 186.61 		Best: 941.16 		N:5
+Truax          		Mean: 155.26 		Best: 941.16 		N:6
+Randell        		Mean: 132.78 		Best: 941.16 		N:7
+Toca           		Mean: 155.59 		Best: 941.16 		N:6
+Church         		Mean: 230.05 		Best: 924.22 		N:4
+Lockridge      		Mean: 154.01 		Best: 920.0 		N:6
+Savage         		Mean: 230.85 		Best: 919.74 		N:4
+Thurmond       		Mean: 132.04 		Best: 919.46 		N:7
+Smith          		Mean: 308.53 		Best: 915.93 		N:3
+Mercado        		Mean: 181.62 		Best: 909.24 		N:5
+
+########## REPORT GEN: 28 ##########
+SPECIES: 
+Allen          		Mean: 103.91 		Best: 948.91 		N:9
+Wheeler        		Mean: 186.23 		Best: 941.16 		N:5
+Atkins         		Mean: 94.96 		Best: 941.16 		N:10
+Savage         		Mean: 185.47 		Best: 941.16 		N:5
+Truax          		Mean: 154.42 		Best: 941.16 		N:6
+Randell        		Mean: 235.46 		Best: 941.16 		N:4
+Church         		Mean: 134.31 		Best: 941.16 		N:7
+Toca           		Mean: 131.52 		Best: 924.22 		N:7
+Smith          		Mean: 185.27 		Best: 920.0 		N:5
+Lockridge      		Mean: 309.27 		Best: 919.91 		N:3
+Savage         		Mean: 131.86 		Best: 919.95 		N:7
+Thurmond       		Mean: 103.17 		Best: 919.46 		N:9
+Robinson       		Mean: 305.75 		Best: 914.55 		N:3
+Mercado        		Mean: 129.7 		Best: 909.24 		N:7
+
+########## REPORT GEN: 29 ##########
+SPECIES: 
+Randell        		Mean: 132.49 		Best: 941.16 		N:7
+Toca           		Mean: 312.22 		Best: 941.16 		N:3
+Robinson       		Mean: 132.87 		Best: 941.16 		N:7
+Wheeler        		Mean: 133.03 		Best: 941.16 		N:7
+Atkins         		Mean: 155.48 		Best: 941.16 		N:6
+Savage         		Mean: 132.99 		Best: 941.16 		N:7
+Truax          		Mean: 116.46 		Best: 941.16 		N:8
+Church         		Mean: 184.11 		Best: 920.47 		N:5
+Thurmond       		Mean: 154.92 		Best: 920.0 		N:6
+Smith          		Mean: 132.87 		Best: 919.91 		N:7
+Allen          		Mean: 230.6 		Best: 919.74 		N:4
+Savage         		Mean: 185.18 		Best: 919.61 		N:5
+Lockridge      		Mean: 229.03 		Best: 915.87 		N:4
+Mercado        		Mean: 181.93 		Best: 909.24 		N:5
+
+########## REPORT GEN: 30 ##########
+SPECIES: 
+Allen          		Mean: 77.43 		Best: 948.91 		N:12
+Robinson       		Mean: 186.96 		Best: 941.16 		N:5
+Wheeler        		Mean: 312.92 		Best: 941.16 		N:3
+Toca           		Mean: 117.05 		Best: 941.16 		N:8
+Truax          		Mean: 115.09 		Best: 941.16 		N:8
+Tompkins       		Mean: 318.51 		Best: 941.16 		N:3
+Smith          		Mean: 153.7 		Best: 920.0 		N:6
+Lockridge      		Mean: 92.93 		Best: 920.0 		N:10
+Thurmond       		Mean: 309.08 		Best: 919.91 		N:3
+Savage         		Mean: 184.81 		Best: 919.74 		N:5
+Church         		Mean: 130.87 		Best: 914.58 		N:7
+Atkins         		Mean: 228.79 		Best: 914.47 		N:4
+Mercado        		Mean: 130.16 		Best: 909.24 		N:7
+Randell        		Mean: 181.47 		Best: 901.52 		N:5
+
+########## REPORT GEN: 31 ##########
+SPECIES: 
+Savage         		Mean: 186.22 		Best: 948.91 		N:5
+Allen          		Mean: 103.5 		Best: 941.16 		N:9
+Wheeler        		Mean: 312.29 		Best: 941.16 		N:3
+Toca           		Mean: 132.79 		Best: 941.16 		N:7
+Church         		Mean: 117.23 		Best: 941.16 		N:8
+Tompkins       		Mean: 138.27 		Best: 941.16 		N:7
+Atkins         		Mean: 117.04 		Best: 941.16 		N:8
+Smith          		Mean: 185.21 		Best: 920.0 		N:5
+Lockridge      		Mean: 102.69 		Best: 920.0 		N:9
+Thurmond       		Mean: 308.72 		Best: 919.91 		N:3
+Robinson       		Mean: 228.82 		Best: 914.25 		N:4
+Mercado        		Mean: 182.33 		Best: 909.24 		N:5
+Randell        		Mean: 181.04 		Best: 901.52 		N:5
+Truax          		Mean: 226.55 		Best: 901.52 		N:4
+
+########## REPORT GEN: 32 ##########
+SPECIES: 
+Savage         		Mean: 103.83 		Best: 948.91 		N:9
+Wheeler        		Mean: 186.54 		Best: 941.16 		N:5
+Toca           		Mean: 92.88 		Best: 941.16 		N:10
+Atkins         		Mean: 312.63 		Best: 941.16 		N:3
+Allen          		Mean: 189.14 		Best: 941.16 		N:5
+Church         		Mean: 234.8 		Best: 941.16 		N:4
+Robinson       		Mean: 156.8 		Best: 941.16 		N:6
+Truax          		Mean: 101.65 		Best: 941.16 		N:9
+Smith          		Mean: 132.56 		Best: 920.0 		N:7
+Thurmond       		Mean: 186.17 		Best: 920.0 		N:5
+Lockridge      		Mean: 184.93 		Best: 919.91 		N:5
+Mercado        		Mean: 130.05 		Best: 909.24 		N:7
+Randell        		Mean: 129.56 		Best: 901.52 		N:7
+
+########## REPORT GEN: 33 ##########
+SPECIES: 
+Savage         		Mean: 132.92 		Best: 948.91 		N:7
+Atkins         		Mean: 84.62 		Best: 941.16 		N:11
+Robinson       		Mean: 132.76 		Best: 941.16 		N:7
+Wheeler        		Mean: 85.43 		Best: 941.16 		N:11
+Toca           		Mean: 472.82 		Best: 941.16 		N:2
+Church         		Mean: 155.57 		Best: 941.16 		N:6
+Lockridge      		Mean: 84.3 		Best: 920.0 		N:11
+Smith          		Mean: 116.08 		Best: 920.0 		N:8
+Thurmond       		Mean: 308.74 		Best: 918.45 		N:3
+Allen          		Mean: 306.14 		Best: 914.57 		N:3
+Mercado        		Mean: 151.98 		Best: 909.24 		N:6
+Randell        		Mean: 181.14 		Best: 901.52 		N:5
+Truax          		Mean: 227.0 		Best: 901.52 		N:4
+
+########## REPORT GEN: 34 ##########
+SPECIES: 
+Savage         		Mean: 233.95 		Best: 948.91 		N:4
+Toca           		Mean: 186.25 		Best: 941.16 		N:5
+Allen          		Mean: 134.01 		Best: 941.16 		N:7
+Robinson       		Mean: 116.26 		Best: 941.16 		N:8
+Patrick        		Mean: 470.58 		Best: 941.16 		N:2
+Thurmond       		Mean: 185.98 		Best: 920.0 		N:5
+Atkins         		Mean: 306.4 		Best: 914.57 		N:3
+Church         		Mean: 307.98 		Best: 916.94 		N:3
+Smith          		Mean: 153.54 		Best: 915.87 		N:6
+Lockridge      		Mean: 230.54 		Best: 915.87 		N:4
+Mercado        		Mean: 228.22 		Best: 909.24 		N:4
+Truax          		Mean: 113.29 		Best: 901.52 		N:8
+Randell        		Mean: 302.66 		Best: 901.52 		N:3
+
+########## REPORT GEN: 35 ##########
+SPECIES: 
+Savage         		Mean: 188.25 		Best: 948.91 		N:5
+Robinson       		Mean: 135.0 		Best: 941.16 		N:7
+Patrick        		Mean: 235.78 		Best: 941.16 		N:4
+Priddy         		Mean: 312.01 		Best: 941.16 		N:3
+Lockridge      		Mean: 153.62 		Best: 920.0 		N:6
+Church         		Mean: 307.84 		Best: 916.94 		N:3
+Smith          		Mean: 153.9 		Best: 915.87 		N:6
+Allen          		Mean: 228.81 		Best: 915.38 		N:4
+Toca           		Mean: 153.58 		Best: 914.6 		N:6
+Atkins         		Mean: 306.48 		Best: 914.57 		N:3
+Mercado        		Mean: 305.31 		Best: 909.24 		N:3
+Henley         		Mean: 452.12 		Best: 901.54 		N:2
+Truax          		Mean: 226.55 		Best: 901.52 		N:4
+Randell        		Mean: 181.21 		Best: 901.52 		N:5
+
+########## REPORT GEN: 36 ##########
+SPECIES: 
+Mclean         		Mean: 188.87 		Best: 948.91 		N:5
+Robinson       		Mean: 156.68 		Best: 941.16 		N:6
+Patrick        		Mean: 118.31 		Best: 941.16 		N:8
+Priddy         		Mean: 231.08 		Best: 941.16 		N:4
+Lockridge      		Mean: 309.45 		Best: 920.0 		N:3
+Allen          		Mean: 153.88 		Best: 916.94 		N:6
+Toca           		Mean: 153.09 		Best: 916.94 		N:6
+Smith          		Mean: 183.14 		Best: 915.74 		N:5
+Church         		Mean: 153.12 		Best: 914.57 		N:6
+Atkins         		Mean: 305.41 		Best: 914.55 		N:3
+Mercado        		Mean: 152.48 		Best: 909.24 		N:6
+Henley         		Mean: 225.98 		Best: 901.54 		N:4
+Truax          		Mean: 181.98 		Best: 901.52 		N:5
+Randell        		Mean: 150.66 		Best: 901.52 		N:6
+
+########## REPORT GEN: 37 ##########
+SPECIES: 
+Mclean         		Mean: 311.64 		Best: 948.91 		N:3
+Ulrich         		Mean: 237.75 		Best: 948.91 		N:4
+Patrick        		Mean: 314.17 		Best: 941.16 		N:3
+Priddy         		Mean: 183.96 		Best: 941.16 		N:5
+Church         		Mean: 155.04 		Best: 941.16 		N:6
+Truax          		Mean: 83.75 		Best: 941.16 		N:11
+Lockridge      		Mean: 115.59 		Best: 920.0 		N:8
+Smith          		Mean: 232.21 		Best: 920.0 		N:4
+Robinson       		Mean: 91.83 		Best: 916.94 		N:10
+Toca           		Mean: 183.94 		Best: 914.61 		N:5
+Atkins         		Mean: 461.99 		Best: 914.59 		N:2
+Allen          		Mean: 303.9 		Best: 914.19 		N:3
+Mercado        		Mean: 151.94 		Best: 909.24 		N:6
+Henley         		Mean: 129.27 		Best: 901.54 		N:7
+Randell        		Mean: 227.21 		Best: 901.52 		N:4
+
+########## REPORT GEN: 38 ##########
+SPECIES: 
+Mclean         		Mean: 118.42 		Best: 948.91 		N:8
+Ulrich         		Mean: 133.91 		Best: 948.91 		N:7
+Patrick        		Mean: 313.26 		Best: 941.16 		N:3
+Church         		Mean: 188.54 		Best: 941.16 		N:5
+Truax          		Mean: 132.27 		Best: 941.16 		N:7
+Toca           		Mean: 155.26 		Best: 941.16 		N:6
+Lockridge      		Mean: 154.74 		Best: 920.0 		N:6
+Smith          		Mean: 185.01 		Best: 919.46 		N:5
+Allen          		Mean: 153.14 		Best: 915.38 		N:6
+Robinson       		Mean: 183.16 		Best: 915.38 		N:5
+Atkins         		Mean: 184.48 		Best: 914.61 		N:5
+Henley         		Mean: 182.67 		Best: 909.24 		N:5
+Priddy         		Mean: 227.12 		Best: 901.99 		N:4
+Mercado        		Mean: 300.79 		Best: 901.54 		N:3
+Randell        		Mean: 151.43 		Best: 901.52 		N:6
+
+########## REPORT GEN: 39 ##########
+SPECIES: 
+Mclean         		Mean: 234.55 		Best: 948.91 		N:4
+Ulrich         		Mean: 234.31 		Best: 948.91 		N:4
+Patrick        		Mean: 187.09 		Best: 941.16 		N:5
+Church         		Mean: 94.12 		Best: 941.16 		N:10
+Robinson       		Mean: 154.67 		Best: 941.16 		N:6
+Randell        		Mean: 70.17 		Best: 941.16 		N:13
+Smith          		Mean: 153.93 		Best: 920.0 		N:6
+Lockridge      		Mean: 184.03 		Best: 915.96 		N:5
+Priddy         		Mean: 227.35 		Best: 914.62 		N:4
+Toca           		Mean: 306.73 		Best: 914.59 		N:3
+Atkins         		Mean: 153.48 		Best: 914.58 		N:6
+Allen          		Mean: 227.46 		Best: 914.57 		N:4
+Henley         		Mean: 129.66 		Best: 909.24 		N:7
+Mercado        		Mean: 181.83 		Best: 909.24 		N:5
+
+########## REPORT GEN: 40 ##########
+SPECIES: 
+Mclean         		Mean: 84.75 		Best: 948.91 		N:11
+Ulrich         		Mean: 134.26 		Best: 948.91 		N:7
+Church         		Mean: 314.76 		Best: 941.16 		N:3
+Priddy         		Mean: 114.95 		Best: 941.16 		N:8
+Atkins         		Mean: 116.26 		Best: 941.16 		N:8
+Patrick        		Mean: 186.01 		Best: 929.42 		N:5
+Lockridge      		Mean: 102.49 		Best: 920.0 		N:9
+Smith          		Mean: 229.36 		Best: 915.93 		N:4
+Randell        		Mean: 151.74 		Best: 914.74 		N:6
+Toca           		Mean: 183.16 		Best: 914.59 		N:5
+Robinson       		Mean: 102.11 		Best: 914.6 		N:9
+Allen          		Mean: 114.14 		Best: 914.57 		N:8
+Henley         		Mean: 304.19 		Best: 909.24 		N:3
+Mercado        		Mean: 100.79 		Best: 909.24 		N:9
+
+########## REPORT GEN: 41 ##########
+SPECIES: 
+Mclean         		Mean: 132.71 		Best: 948.91 		N:7
+Church         		Mean: 85.35 		Best: 941.16 		N:11
+Priddy         		Mean: 229.76 		Best: 941.16 		N:4
+Smith          		Mean: 184.99 		Best: 920.0 		N:5
+Ulrich         		Mean: 307.75 		Best: 919.42 		N:3
+Lockridge      		Mean: 131.4 		Best: 915.93 		N:7
+Randell        		Mean: 129.49 		Best: 914.74 		N:7
+Atkins         		Mean: 182.31 		Best: 914.59 		N:5
+Robinson       		Mean: 152.28 		Best: 914.59 		N:6
+Toca           		Mean: 151.75 		Best: 914.58 		N:6
+Patrick        		Mean: 229.67 		Best: 914.57 		N:4
+Mercado        		Mean: 152.22 		Best: 909.24 		N:6
+Allen          		Mean: 227.0 		Best: 902.9 		N:4
+Henley         		Mean: 225.6 		Best: 901.52 		N:4
+
+########## REPORT GEN: 42 ##########
+SPECIES: 
+Ulrich         		Mean: 154.73 		Best: 948.91 		N:6
+Priddy         		Mean: 184.34 		Best: 941.16 		N:5
+Allen          		Mean: 91.93 		Best: 941.16 		N:10
+Mclean         		Mean: 185.47 		Best: 929.13 		N:5
+Patrick        		Mean: 131.12 		Best: 922.94 		N:7
+Lockridge      		Mean: 309.68 		Best: 920.0 		N:3
+Smith          		Mean: 101.92 		Best: 915.93 		N:9
+Toca           		Mean: 115.24 		Best: 915.91 		N:8
+Robinson       		Mean: 182.41 		Best: 914.59 		N:5
+Mercado        		Mean: 129.8 		Best: 909.24 		N:7
+Atkins         		Mean: 91.14 		Best: 902.9 		N:10
+Henley         		Mean: 128.95 		Best: 901.52 		N:7
+Randell        		Mean: 113.79 		Best: 901.52 		N:8
+
+########## REPORT GEN: 43 ##########
+SPECIES: 
+Mclean         		Mean: 132.82 		Best: 948.91 		N:7
+Priddy         		Mean: 131.14 		Best: 941.16 		N:7
+Toca           		Mean: 102.26 		Best: 941.16 		N:9
+Robinson       		Mean: 152.92 		Best: 922.94 		N:6
+Lockridge      		Mean: 231.32 		Best: 920.0 		N:4
+Patrick        		Mean: 305.6 		Best: 915.91 		N:3
+Allen          		Mean: 114.54 		Best: 914.72 		N:8
+Ulrich         		Mean: 91.77 		Best: 915.7 		N:10
+Smith          		Mean: 131.35 		Best: 915.99 		N:7
+Atkins         		Mean: 182.31 		Best: 903.52 		N:5
+Henley         		Mean: 300.9 		Best: 901.52 		N:3
+Randell        		Mean: 129.03 		Best: 901.52 		N:7
+Mercado        		Mean: 112.87 		Best: 901.52 		N:8
+
+########## REPORT GEN: 44 ##########
+SPECIES: 
+Mclean         		Mean: 234.93 		Best: 948.91 		N:4
+Priddy         		Mean: 308.16 		Best: 941.16 		N:3
+Allen          		Mean: 185.35 		Best: 941.16 		N:5
+Randell        		Mean: 184.12 		Best: 941.16 		N:5
+Toca           		Mean: 131.46 		Best: 922.94 		N:7
+Lockridge      		Mean: 115.98 		Best: 920.0 		N:8
+Patrick        		Mean: 304.28 		Best: 915.91 		N:3
+Atkins         		Mean: 227.87 		Best: 914.59 		N:4
+Ulrich         		Mean: 183.46 		Best: 912.63 		N:5
+Smith          		Mean: 306.02 		Best: 914.73 		N:3
+Birt           		Mean: 455.16 		Best: 909.24 		N:2
+Robinson       		Mean: 151.91 		Best: 905.43 		N:6
+Henley         		Mean: 180.62 		Best: 901.52 		N:5
+Mercado        		Mean: 180.47 		Best: 901.52 		N:5
+
+########## REPORT GEN: 45 ##########
+SPECIES: 
+Mclean         		Mean: 233.49 		Best: 948.91 		N:4
+Ulrich         		Mean: 116.97 		Best: 948.91 		N:8
+Priddy         		Mean: 130.95 		Best: 941.16 		N:7
+Randell        		Mean: 229.9 		Best: 941.16 		N:4
+Toca           		Mean: 154.84 		Best: 941.16 		N:6
+Atkins         		Mean: 114.88 		Best: 922.94 		N:8
+Smith          		Mean: 154.29 		Best: 920.0 		N:6
+Lockridge      		Mean: 229.44 		Best: 915.34 		N:4
+Birt           		Mean: 227.58 		Best: 909.24 		N:4
+Patrick        		Mean: 152.56 		Best: 909.2 		N:6
+Allen          		Mean: 303.57 		Best: 902.9 		N:3
+Mercado        		Mean: 301.16 		Best: 901.52 		N:3
+Henley         		Mean: 128.93 		Best: 901.52 		N:7
+Robinson       		Mean: 301.95 		Best: 902.01 		N:3
+
+########## REPORT GEN: 46 ##########
+SPECIES: 
+Mclean         		Mean: 132.74 		Best: 948.91 		N:7
+Ulrich         		Mean: 187.41 		Best: 948.91 		N:5
+Priddy         		Mean: 229.74 		Best: 941.16 		N:4
+Randell        		Mean: 115.44 		Best: 941.16 		N:8
+Patrick        		Mean: 115.2 		Best: 941.16 		N:8
+Atkins         		Mean: 152.68 		Best: 922.94 		N:6
+Bravo          		Mean: 463.99 		Best: 920.0 		N:2
+Lockridge      		Mean: 183.45 		Best: 915.34 		N:5
+Smith          		Mean: 153.27 		Best: 915.34 		N:6
+Allen          		Mean: 305.25 		Best: 914.57 		N:3
+Birt           		Mean: 113.81 		Best: 909.24 		N:8
+Toca           		Mean: 151.89 		Best: 909.2 		N:6
+Robinson       		Mean: 301.89 		Best: 902.36 		N:3
+Henley         		Mean: 129.14 		Best: 901.52 		N:7
+Mercado        		Mean: 300.87 		Best: 901.52 		N:3
+
+########## REPORT GEN: 47 ##########
+SPECIES: 
+Mclean         		Mean: 310.22 		Best: 948.91 		N:3
+Ulrich         		Mean: 132.18 		Best: 948.91 		N:7
+Priddy         		Mean: 152.42 		Best: 941.16 		N:6
+Randell        		Mean: 183.6 		Best: 941.16 		N:5
+Allen          		Mean: 92.3 		Best: 941.16 		N:10
+Bravo          		Mean: 155.12 		Best: 920.0 		N:6
+Lockridge      		Mean: 131.06 		Best: 914.73 		N:7
+Robinson       		Mean: 305.12 		Best: 914.58 		N:3
+Smith          		Mean: 456.36 		Best: 912.25 		N:2
+Birt           		Mean: 227.75 		Best: 909.24 		N:4
+Patrick        		Mean: 151.46 		Best: 909.2 		N:6
+Toca           		Mean: 130.3 		Best: 903.06 		N:7
+Henley         		Mean: 225.93 		Best: 901.52 		N:4
+Mercado        		Mean: 150.53 		Best: 901.52 		N:6
+
+########## REPORT GEN: 48 ##########
+SPECIES: 
+Mclean         		Mean: 183.49 		Best: 948.91 		N:5
+Ulrich         		Mean: 185.06 		Best: 948.91 		N:5
+Priddy         		Mean: 102.21 		Best: 941.16 		N:9
+Toca           		Mean: 231.9 		Best: 941.16 		N:4
+Birt           		Mean: 114.23 		Best: 923.84 		N:8
+Bravo          		Mean: 306.78 		Best: 920.0 		N:3
+Smith          		Mean: 131.18 		Best: 914.99 		N:7
+Lockridge      		Mean: 305.78 		Best: 914.73 		N:3
+Allen          		Mean: 229.24 		Best: 914.58 		N:4
+Robinson       		Mean: 131.01 		Best: 914.61 		N:7
+Patrick        		Mean: 183.81 		Best: 914.58 		N:5
+Henley         		Mean: 129.04 		Best: 901.52 		N:7
+Randell        		Mean: 450.76 		Best: 901.52 		N:2
+Mercado        		Mean: 150.64 		Best: 901.52 		N:6
+
+########## REPORT GEN: 49 ##########
+SPECIES: 
+Mclean         		Mean: 184.11 		Best: 948.91 		N:5
+Patrick        		Mean: 76.89 		Best: 941.16 		N:12
+Ator           		Mean: 308.27 		Best: 941.16 		N:3
+Birt           		Mean: 228.82 		Best: 923.84 		N:4
+Smith          		Mean: 114.96 		Best: 915.31 		N:8
+Bravo          		Mean: 132.1 		Best: 920.0 		N:7
+Allen          		Mean: 183.4 		Best: 914.58 		N:5
+Robinson       		Mean: 182.43 		Best: 909.2 		N:5
+Ulrich         		Mean: 129.96 		Best: 907.84 		N:7
+Toca           		Mean: 226.67 		Best: 903.06 		N:4
+Mercado        		Mean: 180.93 		Best: 901.52 		N:5
+Randell        		Mean: 451.28 		Best: 901.52 		N:2
+Priddy         		Mean: 301.58 		Best: 901.52 		N:3
+Henley         		Mean: 225.72 		Best: 901.52 		N:4
+
+########## REPORT GEN: 50 ##########
+SPECIES: 
+Mclean         		Mean: 307.91 		Best: 948.91 		N:3
+Ulrich         		Mean: 183.57 		Best: 948.91 		N:5
+Patrick        		Mean: 154.09 		Best: 941.16 		N:6
+Ator           		Mean: 83.91 		Best: 941.16 		N:11
+Birt           		Mean: 182.79 		Best: 923.84 		N:5
+Smith          		Mean: 154.41 		Best: 919.57 		N:6
+Robinson       		Mean: 305.01 		Best: 914.58 		N:3
+Toca           		Mean: 228.34 		Best: 914.57 		N:4
+Lockridge      		Mean: 306.37 		Best: 914.73 		N:3
+Allen          		Mean: 152.35 		Best: 905.65 		N:6
+Mercado        		Mean: 226.05 		Best: 901.52 		N:4
+Randell        		Mean: 452.47 		Best: 901.52 		N:2
+Priddy         		Mean: 301.65 		Best: 901.52 		N:3
+Henley         		Mean: 180.64 		Best: 901.52 		N:5
+
+########## REPORT GEN: 51 ##########
+SPECIES: 
+Mclean         		Mean: 102.08 		Best: 948.91 		N:9
+Ulrich         		Mean: 233.04 		Best: 948.91 		N:4
+Patrick        		Mean: 115.48 		Best: 941.16 		N:8
+Birt           		Mean: 152.58 		Best: 923.84 		N:6
+Lockridge      		Mean: 154.06 		Best: 919.57 		N:6
+Smith          		Mean: 228.71 		Best: 914.99 		N:4
+Allen          		Mean: 152.02 		Best: 914.58 		N:6
+Robinson       		Mean: 152.44 		Best: 914.58 		N:6
+Mercado        		Mean: 180.89 		Best: 901.52 		N:5
+Priddy         		Mean: 301.7 		Best: 901.52 		N:3
+Ator           		Mean: 129.27 		Best: 901.52 		N:7
+Randell        		Mean: 226.64 		Best: 901.52 		N:4
+Henley         		Mean: 150.47 		Best: 901.52 		N:6
+
+########## REPORT GEN: 52 ##########
+SPECIES: 
+Mclean         		Mean: 155.26 		Best: 948.91 		N:6
+Carlton        		Mean: 470.58 		Best: 941.16 		N:2
+Robinson       		Mean: 184.57 		Best: 941.16 		N:5
+Birt           		Mean: 306.77 		Best: 923.84 		N:3
+Patrick        		Mean: 152.13 		Best: 913.89 		N:6
+Smith          		Mean: 152.92 		Best: 912.25 		N:6
+Ulrich         		Mean: 302.75 		Best: 907.84 		N:3
+Priddy         		Mean: 100.68 		Best: 901.52 		N:9
+Mercado        		Mean: 452.38 		Best: 901.52 		N:2
+Ator           		Mean: 181.22 		Best: 901.52 		N:5
+Henley         		Mean: 180.72 		Best: 901.52 		N:5
+
+########## REPORT GEN: 53 ##########
+SPECIES: 
+Ulrich         		Mean: 229.44 		Best: 948.91 		N:4
+Carlton        		Mean: 235.29 		Best: 941.16 		N:4
+Robinson       		Mean: 466.9 		Best: 941.16 		N:2
+Taylor         		Mean: 304.29 		Best: 919.75 		N:3
+Lockridge      		Mean: 185.64 		Best: 919.57 		N:5
+Smith          		Mean: 458.45 		Best: 914.99 		N:2
+Patrick        		Mean: 229.33 		Best: 914.58 		N:4
+Allen          		Mean: 458.38 		Best: 913.89 		N:2
+Mclean         		Mean: 226.93 		Best: 907.84 		N:4
+Henley         		Mean: 452.09 		Best: 901.52 		N:2
+Birt           		Mean: 302.09 		Best: 901.52 		N:3
+Priddy         		Mean: 151.21 		Best: 901.52 		N:6
+Mercado        		Mean: 225.98 		Best: 901.52 		N:4
+
+########## REPORT GEN: 54 ##########
+SPECIES: 
+Mclean         		Mean: 152.54 		Best: 948.91 		N:6
+Carlton        		Mean: 235.48 		Best: 941.16 		N:4
+Robinson       		Mean: 465.99 		Best: 941.16 		N:2
+Allen          		Mean: 154.08 		Best: 941.16 		N:6
+Ulrich         		Mean: 457.35 		Best: 920.81 		N:2
+Taylor         		Mean: 151.69 		Best: 919.75 		N:6
+Lockridge      		Mean: 308.68 		Best: 919.57 		N:3
+Patrick        		Mean: 228.7 		Best: 914.58 		N:4
+Smith          		Mean: 229.04 		Best: 912.25 		N:4
+Henley         		Mean: 113.17 		Best: 901.52 		N:8
+Priddy         		Mean: 226.55 		Best: 901.52 		N:4
+Birt           		Mean: 181.09 		Best: 901.52 		N:5
+
+########## REPORT GEN: 55 ##########
+SPECIES: 
+Ulrich         		Mean: 153.39 		Best: 948.91 		N:6
+Carlton        		Mean: 188.43 		Best: 941.16 		N:5
+Robinson       		Mean: 157.03 		Best: 941.16 		N:6
+Smith          		Mean: 102.19 		Best: 923.89 		N:9
+Mclean         		Mean: 303.84 		Best: 920.81 		N:3
+Taylor         		Mean: 304.54 		Best: 919.75 		N:3
+Patrick        		Mean: 451.6 		Best: 902.61 		N:2
+Allen          		Mean: 304.02 		Best: 906.51 		N:3
+Birt           		Mean: 226.5 		Best: 901.52 		N:4
+Priddy         		Mean: 453.68 		Best: 901.52 		N:2
+Mercado        		Mean: 225.97 		Best: 901.52 		N:4
+Ator           		Mean: 225.45 		Best: 901.52 		N:4
+
+########## REPORT GEN: 56 ##########
+SPECIES: 
+Ulrich         		Mean: 232.42 		Best: 948.91 		N:4
+Mclean         		Mean: 184.92 		Best: 948.91 		N:5
+Carlton        		Mean: 314.03 		Best: 941.16 		N:3
+Smith          		Mean: 229.42 		Best: 923.89 		N:4
+Taylor         		Mean: 151.78 		Best: 919.75 		N:6
+Lockridge      		Mean: 459.78 		Best: 919.57 		N:2
+Patrick        		Mean: 152.2 		Best: 914.97 		N:6
+Allen          		Mean: 152.57 		Best: 914.58 		N:6
+Henley         		Mean: 181.21 		Best: 901.52 		N:5
+Priddy         		Mean: 302.42 		Best: 901.52 		N:3
+Birt           		Mean: 452.42 		Best: 901.52 		N:2
+Mercado        		Mean: 301.76 		Best: 901.52 		N:3
+Ator           		Mean: 180.55 		Best: 901.52 		N:5
+
+########## REPORT GEN: 57 ##########
+SPECIES: 
+Ulrich         		Mean: 187.75 		Best: 948.91 		N:5
+Mclean         		Mean: 229.5 		Best: 948.91 		N:4
+Carlton        		Mean: 157.19 		Best: 941.16 		N:6
+Robinson       		Mean: 470.58 		Best: 941.16 		N:2
+Smith          		Mean: 183.46 		Best: 923.89 		N:5
+Taylor         		Mean: 304.76 		Best: 919.75 		N:3
+Lockridge      		Mean: 230.05 		Best: 919.57 		N:4
+Patrick        		Mean: 307.5 		Best: 914.97 		N:3
+Allen          		Mean: 303.29 		Best: 901.7 		N:3
+Mercado        		Mean: 181.4 		Best: 901.52 		N:5
+Priddy         		Mean: 181.27 		Best: 901.52 		N:5
+Henley         		Mean: 301.62 		Best: 901.52 		N:3
+Birt           		Mean: 150.98 		Best: 901.52 		N:6
+Ator           		Mean: 180.6 		Best: 901.52 		N:5
+
+########## REPORT GEN: 58 ##########
+SPECIES: 
+Ulrich         		Mean: 184.02 		Best: 948.91 		N:5
+Mclean         		Mean: 153.03 		Best: 948.91 		N:6
+Carlton        		Mean: 235.75 		Best: 941.16 		N:4
+Robinson       		Mean: 235.54 		Best: 941.16 		N:4
+Smith          		Mean: 183.69 		Best: 923.89 		N:5
+Taylor         		Mean: 152.35 		Best: 919.75 		N:6
+Lockridge      		Mean: 153.55 		Best: 919.73 		N:6
+Allen          		Mean: 152.67 		Best: 919.39 		N:6
+Patrick        		Mean: 152.33 		Best: 914.97 		N:6
+Henley         		Mean: 151.34 		Best: 914.58 		N:6
+Mercado        		Mean: 181.33 		Best: 901.52 		N:5
+Birt           		Mean: 226.6 		Best: 901.52 		N:4
+Priddy         		Mean: 302.62 		Best: 901.52 		N:3
+Ator           		Mean: 129.01 		Best: 901.52 		N:7
+
+########## REPORT GEN: 59 ##########
+SPECIES: 
+Ulrich         		Mean: 153.35 		Best: 948.91 		N:6
+Carlton        		Mean: 117.92 		Best: 941.16 		N:8
+Robinson       		Mean: 117.41 		Best: 941.16 		N:8
+Smith          		Mean: 131.0 		Best: 923.89 		N:7
+Taylor         		Mean: 183.3 		Best: 919.75 		N:5
+Lockridge      		Mean: 184.43 		Best: 919.65 		N:5
+Patrick        		Mean: 228.53 		Best: 919.39 		N:4
+Allen          		Mean: 152.31 		Best: 914.97 		N:6
+Mercado        		Mean: 150.97 		Best: 914.58 		N:6
+Mclean         		Mean: 150.43 		Best: 902.02 		N:6
+Henley         		Mean: 129.51 		Best: 901.52 		N:7
+Birt           		Mean: 151.05 		Best: 901.52 		N:6
+Ator           		Mean: 151.06 		Best: 901.52 		N:6
+Priddy         		Mean: 226.82 		Best: 901.52 		N:4
+
+########## REPORT GEN: 60 ##########
+SPECIES: 
+Ulrich         		Mean: 155.27 		Best: 948.91 		N:6
+Carlton        		Mean: 188.67 		Best: 941.16 		N:5
+Robinson       		Mean: 185.8 		Best: 941.16 		N:5
+Mclean         		Mean: 129.96 		Best: 929.5 		N:7
+Smith          		Mean: 183.67 		Best: 923.72 		N:5
+Taylor         		Mean: 114.12 		Best: 920.33 		N:8
+Lockridge      		Mean: 115.29 		Best: 919.92 		N:8
+Patrick        		Mean: 151.16 		Best: 919.39 		N:6
+Allen          		Mean: 114.65 		Best: 919.39 		N:8
+Mercado        		Mean: 151.33 		Best: 914.58 		N:6
+Ator           		Mean: 226.76 		Best: 901.52 		N:4
+Priddy         		Mean: 90.51 		Best: 901.52 		N:10
+Henley         		Mean: 129.42 		Best: 901.52 		N:7
+Birt           		Mean: 225.84 		Best: 901.52 		N:4
+
+########## REPORT GEN: 61 ##########
+SPECIES: 
+Ulrich         		Mean: 133.62 		Best: 948.91 		N:7
+Carlton        		Mean: 117.58 		Best: 941.16 		N:8
+Robinson       		Mean: 116.36 		Best: 941.16 		N:8
+Mclean         		Mean: 151.9 		Best: 929.5 		N:6
+Smith          		Mean: 114.46 		Best: 923.72 		N:8
+Taylor         		Mean: 182.71 		Best: 919.75 		N:5
+Lockridge      		Mean: 184.69 		Best: 919.92 		N:5
+Patrick        		Mean: 113.7 		Best: 919.39 		N:8
+Henley         		Mean: 90.66 		Best: 914.58 		N:10
+Ator           		Mean: 100.78 		Best: 901.52 		N:9
+Mercado        		Mean: 180.9 		Best: 901.52 		N:5
+Priddy         		Mean: 225.64 		Best: 901.52 		N:4
+Birt           		Mean: 225.9 		Best: 901.52 		N:4
+Allen          		Mean: 303.65 		Best: 901.59 		N:3
+
+########## REPORT GEN: 62 ##########
+SPECIES: 
+Mclean         		Mean: 153.5 		Best: 948.91 		N:6
+Ulrich         		Mean: 183.14 		Best: 948.91 		N:5
+Carlton        		Mean: 187.17 		Best: 941.16 		N:5
+Robinson       		Mean: 184.94 		Best: 941.16 		N:5
+Smith          		Mean: 183.5 		Best: 923.72 		N:5
+Taylor         		Mean: 113.56 		Best: 919.75 		N:8
+Lockridge      		Mean: 115.44 		Best: 919.95 		N:8
+Patrick        		Mean: 113.17 		Best: 919.39 		N:8
+Mercado        		Mean: 129.87 		Best: 914.58 		N:7
+Allen          		Mean: 300.81 		Best: 901.59 		N:3
+Priddy         		Mean: 129.48 		Best: 901.52 		N:7
+Birt           		Mean: 100.42 		Best: 901.52 		N:9
+Henley         		Mean: 181.03 		Best: 901.52 		N:5
+Ator           		Mean: 180.76 		Best: 901.52 		N:5
+
+########## REPORT GEN: 63 ##########
+SPECIES: 
+Mclean         		Mean: 92.5 		Best: 948.91 		N:10
+Ulrich         		Mean: 229.43 		Best: 948.91 		N:4
+Carlton        		Mean: 116.39 		Best: 941.16 		N:8
+Robinson       		Mean: 114.82 		Best: 941.16 		N:8
+Smith          		Mean: 114.41 		Best: 923.72 		N:8
+Taylor         		Mean: 183.07 		Best: 919.75 		N:5
+Lockridge      		Mean: 184.57 		Best: 919.88 		N:5
+Patrick        		Mean: 181.25 		Best: 919.39 		N:5
+Birt           		Mean: 129.76 		Best: 914.58 		N:7
+Allen          		Mean: 150.39 		Best: 901.57 		N:6
+Hazzard        		Mean: 302.99 		Best: 901.52 		N:3
+Henley         		Mean: 226.04 		Best: 901.52 		N:4
+Mercado        		Mean: 151.01 		Best: 901.52 		N:6
+Priddy         		Mean: 180.7 		Best: 901.52 		N:5
+Ator           		Mean: 180.73 		Best: 901.52 		N:5
+
+########## REPORT GEN: 64 ##########
+SPECIES: 
+Mclean         		Mean: 183.12 		Best: 948.91 		N:5
+Ulrich         		Mean: 102.55 		Best: 948.91 		N:9
+Carlton        		Mean: 234.61 		Best: 941.16 		N:4
+Robinson       		Mean: 230.78 		Best: 941.16 		N:4
+Smith          		Mean: 229.56 		Best: 923.72 		N:4
+Lockridge      		Mean: 131.86 		Best: 919.88 		N:7
+Taylor         		Mean: 130.3 		Best: 919.75 		N:7
+Patrick        		Mean: 129.21 		Best: 919.39 		N:7
+Mercado        		Mean: 151.51 		Best: 914.58 		N:6
+Allen          		Mean: 180.6 		Best: 901.57 		N:5
+Hazzard        		Mean: 226.91 		Best: 901.52 		N:4
+Priddy         		Mean: 151.55 		Best: 901.52 		N:6
+Birt           		Mean: 113.0 		Best: 901.52 		N:8
+Henley         		Mean: 226.51 		Best: 901.52 		N:4
+Ator           		Mean: 100.5 		Best: 901.52 		N:9
+
+########## REPORT GEN: 65 ##########
+SPECIES: 
+Ulrich         		Mean: 187.01 		Best: 948.91 		N:5
+Carlton        		Mean: 156.22 		Best: 941.16 		N:6
+Robinson       		Mean: 154.68 		Best: 941.16 		N:6
+Smith          		Mean: 152.56 		Best: 923.72 		N:6
+Lockridge      		Mean: 307.46 		Best: 919.88 		N:3
+Taylor         		Mean: 305.7 		Best: 919.75 		N:3
+Allen          		Mean: 228.49 		Best: 919.39 		N:4
+Henley         		Mean: 181.77 		Best: 914.58 		N:5
+Mclean         		Mean: 225.76 		Best: 902.02 		N:4
+Patrick        		Mean: 227.63 		Best: 901.57 		N:4
+Hazzard        		Mean: 225.95 		Best: 901.52 		N:4
+Priddy         		Mean: 151.41 		Best: 901.52 		N:6
+Ator           		Mean: 226.9 		Best: 901.52 		N:4
+Mercado        		Mean: 452.76 		Best: 901.52 		N:2
+Birt           		Mean: 129.29 		Best: 901.52 		N:7
+Green          		Mean: 450.76 		Best: 901.52 		N:2
+
+########## REPORT GEN: 66 ##########
+SPECIES: 
+Ulrich         		Mean: 312.77 		Best: 948.91 		N:3
+Carlton        		Mean: 231.99 		Best: 941.16 		N:4
+Robinson       		Mean: 231.8 		Best: 941.16 		N:4
+Smith          		Mean: 230.48 		Best: 923.72 		N:4
+Lockridge      		Mean: 153.72 		Best: 919.88 		N:6
+Taylor         		Mean: 151.73 		Best: 919.75 		N:6
+Allen          		Mean: 130.25 		Best: 919.39 		N:7
+Henley         		Mean: 151.33 		Best: 914.58 		N:6
+Mclean         		Mean: 150.58 		Best: 902.09 		N:6
+Patrick        		Mean: 181.92 		Best: 901.54 		N:5
+Ator           		Mean: 129.17 		Best: 901.52 		N:7
+Hazzard        		Mean: 113.7 		Best: 901.52 		N:8
+Priddy         		Mean: 450.9 		Best: 901.52 		N:2
+Mercado        		Mean: 300.79 		Best: 901.52 		N:3
+Birt           		Mean: 451.88 		Best: 901.52 		N:2
+Green          		Mean: 301.24 		Best: 901.52 		N:3
+
+########## REPORT GEN: 67 ##########
+SPECIES: 
+Ulrich         		Mean: 132.46 		Best: 948.91 		N:7
+Mclean         		Mean: 307.38 		Best: 948.91 		N:3
+Carlton        		Mean: 154.24 		Best: 941.16 		N:6
+Robinson       		Mean: 154.73 		Best: 941.16 		N:6
+Smith          		Mean: 152.53 		Best: 923.72 		N:6
+Taylor         		Mean: 228.39 		Best: 919.75 		N:4
+Patrick        		Mean: 151.35 		Best: 919.39 		N:6
+Lockridge      		Mean: 230.59 		Best: 919.88 		N:4
+Birt           		Mean: 151.24 		Best: 914.58 		N:6
+Ator           		Mean: 226.78 		Best: 901.52 		N:4
+Hazzard        		Mean: 181.45 		Best: 901.52 		N:5
+Priddy         		Mean: 151.2 		Best: 901.52 		N:6
+Henley         		Mean: 301.87 		Best: 901.52 		N:3
+Mercado        		Mean: 181.25 		Best: 901.52 		N:5
+Green          		Mean: 451.46 		Best: 901.52 		N:2
+
+########## REPORT GEN: 68 ##########
+SPECIES: 
+Ulrich         		Mean: 232.52 		Best: 948.91 		N:4
+Mclean         		Mean: 152.62 		Best: 948.91 		N:6
+Carlton        		Mean: 309.98 		Best: 941.16 		N:3
+Robinson       		Mean: 310.55 		Best: 941.16 		N:3
+Smith          		Mean: 306.21 		Best: 923.72 		N:3
+Taylor         		Mean: 181.61 		Best: 919.75 		N:5
+Lockridge      		Mean: 184.18 		Best: 919.59 		N:5
+Patrick        		Mean: 455.29 		Best: 919.39 		N:2
+Allen          		Mean: 305.07 		Best: 919.39 		N:3
+Birt           		Mean: 227.35 		Best: 914.58 		N:4
+Ator           		Mean: 181.37 		Best: 901.52 		N:5
+Priddy         		Mean: 181.73 		Best: 901.52 		N:5
+Hazzard        		Mean: 226.12 		Best: 901.52 		N:4
+Henley         		Mean: 181.2 		Best: 901.52 		N:5
+Mercado        		Mean: 225.42 		Best: 901.52 		N:4
+Green          		Mean: 450.76 		Best: 901.52 		N:2
+
+########## REPORT GEN: 69 ##########
+SPECIES: 
+Ulrich         		Mean: 316.3 		Best: 948.91 		N:3
+Mclean         		Mean: 182.91 		Best: 948.91 		N:5
+Carlton        		Mean: 155.71 		Best: 941.16 		N:6
+Robinson       		Mean: 155.25 		Best: 941.16 		N:6
+Smith          		Mean: 152.5 		Best: 923.72 		N:6
+Lockridge      		Mean: 230.22 		Best: 919.86 		N:4
+Taylor         		Mean: 227.36 		Best: 919.75 		N:4
+Patrick        		Mean: 182.64 		Best: 919.46 		N:5
+Allen          		Mean: 183.37 		Best: 919.39 		N:5
+Birt           		Mean: 129.69 		Best: 914.58 		N:7
+Priddy         		Mean: 302.62 		Best: 901.52 		N:3
+Green          		Mean: 151.15 		Best: 901.52 		N:6
+Ator           		Mean: 180.83 		Best: 901.52 		N:5
+Hazzard        		Mean: 301.14 		Best: 901.52 		N:3
+Henley         		Mean: 301.71 		Best: 901.52 		N:3
+Mercado        		Mean: 226.08 		Best: 901.52 		N:4
+
+########## REPORT GEN: 70 ##########
+SPECIES: 
+Ulrich         		Mean: 186.93 		Best: 948.91 		N:5
+Mclean         		Mean: 133.25 		Best: 948.91 		N:7
+Carlton        		Mean: 233.65 		Best: 941.16 		N:4
+Robinson       		Mean: 230.59 		Best: 941.16 		N:4
+Smith          		Mean: 229.27 		Best: 923.72 		N:4
+Lockridge      		Mean: 153.28 		Best: 919.86 		N:6
+Taylor         		Mean: 151.18 		Best: 919.75 		N:6
+Patrick        		Mean: 182.76 		Best: 919.46 		N:5
+Allen          		Mean: 182.75 		Best: 919.39 		N:5
+Mercado        		Mean: 227.13 		Best: 914.58 		N:4
+Ator           		Mean: 113.33 		Best: 901.52 		N:8
+Hazzard        		Mean: 181.42 		Best: 901.52 		N:5
+Birt           		Mean: 181.11 		Best: 901.52 		N:5
+Priddy         		Mean: 301.39 		Best: 901.52 		N:3
+Green          		Mean: 180.81 		Best: 901.52 		N:5
+Henley         		Mean: 150.9 		Best: 901.52 		N:6
+
+########## REPORT GEN: 71 ##########
+SPECIES: 
+Ulrich         		Mean: 233.94 		Best: 948.91 		N:4
+Mclean         		Mean: 156.57 		Best: 948.91 		N:6
+Carlton        		Mean: 132.78 		Best: 941.16 		N:7
+Robinson       		Mean: 131.23 		Best: 941.16 		N:7
+Lockridge      		Mean: 153.76 		Best: 923.72 		N:6
+Taylor         		Mean: 181.59 		Best: 919.75 		N:5
+Patrick        		Mean: 180.78 		Best: 919.46 		N:5
+Allen          		Mean: 130.34 		Best: 919.72 		N:7
+Mercado        		Mean: 129.62 		Best: 914.58 		N:7
+Smith          		Mean: 151.82 		Best: 909.94 		N:6
+Ator           		Mean: 181.66 		Best: 901.52 		N:5
+Hazzard        		Mean: 225.99 		Best: 901.52 		N:4
+Priddy         		Mean: 129.12 		Best: 901.52 		N:7
+Green          		Mean: 180.68 		Best: 901.52 		N:5
+Henley         		Mean: 113.19 		Best: 901.52 		N:8
+
+########## REPORT GEN: 72 ##########
+SPECIES: 
+Ulrich         		Mean: 132.88 		Best: 948.91 		N:7
+Mclean         		Mean: 234.91 		Best: 948.91 		N:4
+Carlton        		Mean: 233.51 		Best: 941.16 		N:4
+Robinson       		Mean: 311.25 		Best: 941.16 		N:3
+Lockridge      		Mean: 230.54 		Best: 923.72 		N:4
+Taylor         		Mean: 181.66 		Best: 919.75 		N:5
+Mercado        		Mean: 181.6 		Best: 914.58 		N:5
+Allen          		Mean: 229.04 		Best: 919.39 		N:4
+Smith          		Mean: 227.77 		Best: 911.17 		N:4
+Priddy         		Mean: 181.27 		Best: 901.52 		N:5
+Ator           		Mean: 129.12 		Best: 901.52 		N:7
+Hazzard        		Mean: 301.47 		Best: 901.52 		N:3
+Birt           		Mean: 301.6 		Best: 901.52 		N:3
+Green          		Mean: 225.93 		Best: 901.52 		N:4
+Patrick        		Mean: 224.66 		Best: 898.87 		N:4
+
+########## REPORT GEN: 73 ##########
+SPECIES: 
+Ulrich         		Mean: 232.19 		Best: 948.91 		N:4
+Mclean         		Mean: 187.04 		Best: 948.91 		N:5
+Carlton        		Mean: 186.4 		Best: 941.16 		N:5
+Robinson       		Mean: 307.42 		Best: 941.16 		N:3
+Smith          		Mean: 229.36 		Best: 923.72 		N:4
+Taylor         		Mean: 227.39 		Best: 919.75 		N:4
+Allen          		Mean: 153.94 		Best: 919.52 		N:6
+Patrick        		Mean: 128.92 		Best: 919.46 		N:7
+Henley         		Mean: 181.46 		Best: 914.58 		N:5
+Lockridge      		Mean: 153.28 		Best: 913.26 		N:6
+Ator           		Mean: 226.83 		Best: 901.52 		N:4
+Mercado        		Mean: 226.1 		Best: 901.52 		N:4
+Priddy         		Mean: 301.32 		Best: 901.52 		N:3
+Hazzard        		Mean: 225.84 		Best: 901.52 		N:4
+Birt           		Mean: 301.49 		Best: 901.52 		N:3
+Green          		Mean: 129.09 		Best: 901.52 		N:7
+
+########## REPORT GEN: 74 ##########
+SPECIES: 
+Ulrich         		Mean: 133.39 		Best: 948.91 		N:7
+Mclean         		Mean: 234.58 		Best: 948.91 		N:4
+Carlton        		Mean: 187.24 		Best: 941.16 		N:5
+Allen          		Mean: 230.65 		Best: 941.16 		N:4
+Smith          		Mean: 183.45 		Best: 923.72 		N:5
+Lockridge      		Mean: 184.22 		Best: 923.72 		N:5
+Taylor         		Mean: 151.91 		Best: 919.75 		N:6
+Patrick        		Mean: 184.11 		Best: 919.46 		N:5
+Birt           		Mean: 129.62 		Best: 914.58 		N:7
+Priddy         		Mean: 151.08 		Best: 901.52 		N:6
+Henley         		Mean: 129.08 		Best: 901.52 		N:7
+Ator           		Mean: 225.75 		Best: 901.52 		N:4
+Mercado        		Mean: 300.81 		Best: 901.52 		N:3
+Hazzard        		Mean: 129.11 		Best: 901.52 		N:7
+Green          		Mean: 225.93 		Best: 901.52 		N:4
+Robinson       		Mean: 224.88 		Best: 898.87 		N:4
+
+########## REPORT GEN: 75 ##########
+SPECIES: 
+Ulrich         		Mean: 154.02 		Best: 948.91 		N:6
+Mclean         		Mean: 188.18 		Best: 948.91 		N:5
+Carlton        		Mean: 155.68 		Best: 941.16 		N:6
+Patrick        		Mean: 102.36 		Best: 941.16 		N:9
+Allen          		Mean: 307.42 		Best: 930.25 		N:3
+Smith          		Mean: 184.81 		Best: 923.72 		N:5
+Taylor         		Mean: 181.63 		Best: 919.75 		N:5
+Robinson       		Mean: 113.61 		Best: 919.52 		N:8
+Lockridge      		Mean: 130.37 		Best: 915.7 		N:7
+Henley         		Mean: 129.39 		Best: 914.58 		N:7
+Priddy         		Mean: 302.36 		Best: 901.52 		N:3
+Birt           		Mean: 451.31 		Best: 901.52 		N:2
+Ator           		Mean: 150.63 		Best: 901.52 		N:6
+Mercado        		Mean: 180.74 		Best: 901.52 		N:5
+Hazzard        		Mean: 180.81 		Best: 901.52 		N:5
+Green          		Mean: 100.48 		Best: 901.52 		N:9
+
+########## REPORT GEN: 76 ##########
+SPECIES: 
+Ulrich         		Mean: 184.59 		Best: 948.91 		N:5
+Mclean         		Mean: 154.89 		Best: 948.91 		N:6
+Carlton        		Mean: 186.37 		Best: 941.16 		N:5
+Allen          		Mean: 153.11 		Best: 941.16 		N:6
+Robinson       		Mean: 131.73 		Best: 936.72 		N:7
+Taylor         		Mean: 152.55 		Best: 923.76 		N:6
+Smith          		Mean: 306.46 		Best: 923.72 		N:3
+Lockridge      		Mean: 130.39 		Best: 915.7 		N:7
+Henley         		Mean: 181.41 		Best: 914.58 		N:5
+Ator           		Mean: 129.37 		Best: 901.52 		N:7
+Priddy         		Mean: 225.78 		Best: 901.52 		N:4
+Birt           		Mean: 301.64 		Best: 901.52 		N:3
+Mercado        		Mean: 180.48 		Best: 901.52 		N:5
+Hazzard        		Mean: 301.31 		Best: 901.52 		N:3
+Green          		Mean: 180.63 		Best: 901.52 		N:5
+
+########## REPORT GEN: 77 ##########
+SPECIES: 
+Ulrich         		Mean: 230.78 		Best: 948.91 		N:4
+Mclean         		Mean: 231.63 		Best: 948.91 		N:4
+Carlton        		Mean: 233.5 		Best: 941.16 		N:4
+Patrick        		Mean: 464.89 		Best: 941.16 		N:2
+Allen          		Mean: 187.64 		Best: 941.16 		N:5
+Robinson       		Mean: 308.74 		Best: 941.16 		N:3
+Taylor         		Mean: 307.08 		Best: 923.76 		N:3
+Smith          		Mean: 182.79 		Best: 915.7 		N:5
+Henley         		Mean: 181.55 		Best: 914.58 		N:5
+Lockridge      		Mean: 455.66 		Best: 911.12 		N:2
+Green          		Mean: 451.22 		Best: 901.77 		N:2
+Ator           		Mean: 181.27 		Best: 901.52 		N:5
+Priddy         		Mean: 129.16 		Best: 901.52 		N:7
+Birt           		Mean: 180.97 		Best: 901.52 		N:5
+Mercado        		Mean: 225.63 		Best: 901.52 		N:4
+Hazzard        		Mean: 226.0 		Best: 901.52 		N:4
+
+########## REPORT GEN: 78 ##########
+SPECIES: 
+Ulrich         		Mean: 153.57 		Best: 948.91 		N:6
+Mclean         		Mean: 229.15 		Best: 948.91 		N:4
+Carlton        		Mean: 185.79 		Best: 941.16 		N:5
+Patrick        		Mean: 184.57 		Best: 941.16 		N:5
+Allen          		Mean: 310.13 		Best: 941.16 		N:3
+Robinson       		Mean: 185.07 		Best: 941.16 		N:5
+Taylor         		Mean: 153.45 		Best: 923.76 		N:6
+Lockridge      		Mean: 229.82 		Best: 923.59 		N:4
+Henley         		Mean: 129.47 		Best: 914.58 		N:7
+Smith          		Mean: 182.25 		Best: 911.12 		N:5
+Ator           		Mean: 301.11 		Best: 901.77 		N:3
+Green          		Mean: 302.2 		Best: 901.77 		N:3
+Hazzard        		Mean: 181.22 		Best: 901.52 		N:5
+Priddy         		Mean: 180.9 		Best: 901.77 		N:5
+Birt           		Mean: 226.04 		Best: 901.52 		N:4
+Mercado        		Mean: 451.24 		Best: 901.52 		N:2
+
+########## REPORT GEN: 79 ##########
+SPECIES: 
+Ulrich         		Mean: 153.57 		Best: 948.91 		N:6
+Mclean         		Mean: 232.31 		Best: 948.91 		N:4
+Carlton        		Mean: 230.15 		Best: 941.16 		N:4
+Patrick        		Mean: 132.34 		Best: 941.16 		N:7
+Robinson       		Mean: 153.9 		Best: 941.16 		N:6
+Taylor         		Mean: 230.25 		Best: 923.76 		N:4
+Allen          		Mean: 228.95 		Best: 923.59 		N:4
+Lockridge      		Mean: 114.3 		Best: 921.84 		N:8
+Green          		Mean: 182.59 		Best: 919.97 		N:5
+Henley         		Mean: 227.07 		Best: 914.58 		N:4
+Smith          		Mean: 455.49 		Best: 911.12 		N:2
+Ator           		Mean: 151.09 		Best: 901.77 		N:6
+Hazzard        		Mean: 113.06 		Best: 901.77 		N:8
+Priddy         		Mean: 226.06 		Best: 901.52 		N:4
+Birt           		Mean: 300.75 		Best: 901.52 		N:3
+Mercado        		Mean: 150.87 		Best: 901.52 		N:6
+
+########## REPORT GEN: 80 ##########
+SPECIES: 
+Ulrich         		Mean: 184.86 		Best: 948.91 		N:5
+Mclean         		Mean: 115.01 		Best: 948.91 		N:8
+Robinson       		Mean: 92.88 		Best: 948.91 		N:10
+Carlton        		Mean: 154.11 		Best: 941.16 		N:6
+Lockridge      		Mean: 229.86 		Best: 931.87 		N:4
+Allen          		Mean: 460.32 		Best: 924.2 		N:2
+Taylor         		Mean: 131.61 		Best: 923.76 		N:7
+Birt           		Mean: 151.11 		Best: 914.58 		N:6
+Patrick        		Mean: 301.14 		Best: 912.17 		N:3
+Smith          		Mean: 227.85 		Best: 911.12 		N:4
+Green          		Mean: 129.45 		Best: 901.52 		N:7
+Priddy         		Mean: 226.58 		Best: 901.52 		N:4
+Henley         		Mean: 180.46 		Best: 901.52 		N:5
+Ator           		Mean: 451.65 		Best: 901.52 		N:2
+Hazzard        		Mean: 180.89 		Best: 901.52 		N:5
+Mercado        		Mean: 180.58 		Best: 901.52 		N:5
+
+########## REPORT GEN: 81 ##########
+SPECIES: 
+Ulrich         		Mean: 114.73 		Best: 948.91 		N:8
+Mclean         		Mean: 464.64 		Best: 948.91 		N:2
+Carlton        		Mean: 228.84 		Best: 941.16 		N:4
+Patrick        		Mean: 131.08 		Best: 941.16 		N:7
+Smith          		Mean: 152.9 		Best: 931.87 		N:6
+Taylor         		Mean: 307.55 		Best: 923.76 		N:3
+Henley         		Mean: 181.46 		Best: 914.58 		N:5
+Robinson       		Mean: 130.89 		Best: 912.17 		N:7
+Lockridge      		Mean: 151.63 		Best: 912.63 		N:6
+Green          		Mean: 129.46 		Best: 901.52 		N:7
+Priddy         		Mean: 226.64 		Best: 901.52 		N:4
+Ator           		Mean: 301.21 		Best: 901.52 		N:3
+Hazzard        		Mean: 226.19 		Best: 901.52 		N:4
+Mercado        		Mean: 100.31 		Best: 901.52 		N:9
+
+########## REPORT GEN: 82 ##########
+SPECIES: 
+Ulrich         		Mean: 132.33 		Best: 948.91 		N:7
+Carlton        		Mean: 113.86 		Best: 941.16 		N:8
+Patrick        		Mean: 229.02 		Best: 941.16 		N:4
+Lockridge      		Mean: 151.88 		Best: 931.87 		N:6
+Taylor         		Mean: 153.43 		Best: 923.76 		N:6
+Henley         		Mean: 113.33 		Best: 914.58 		N:8
+Smith          		Mean: 151.93 		Best: 910.68 		N:6
+Robinson       		Mean: 455.62 		Best: 910.43 		N:2
+Mercado        		Mean: 452.37 		Best: 901.52 		N:2
+Green          		Mean: 180.85 		Best: 901.52 		N:5
+Priddy         		Mean: 112.78 		Best: 901.52 		N:8
+Ator           		Mean: 150.96 		Best: 901.52 		N:6
+Hazzard        		Mean: 180.64 		Best: 901.52 		N:5
+
+########## REPORT GEN: 83 ##########
+SPECIES: 
+Ulrich         		Mean: 464.75 		Best: 948.91 		N:2
+Mclean         		Mean: 312.45 		Best: 948.91 		N:3
+Carlton        		Mean: 228.84 		Best: 941.16 		N:4
+Patrick        		Mean: 307.26 		Best: 941.16 		N:3
+Robinson       		Mean: 183.6 		Best: 931.87 		N:5
+Taylor         		Mean: 230.3 		Best: 923.76 		N:4
+Mercado        		Mean: 181.52 		Best: 914.58 		N:5
+Smith          		Mean: 227.97 		Best: 911.15 		N:4
+Henley         		Mean: 301.71 		Best: 901.52 		N:3
+Green          		Mean: 225.59 		Best: 901.52 		N:4
+Priddy         		Mean: 301.45 		Best: 901.52 		N:3
+Ator           		Mean: 129.46 		Best: 901.52 		N:7
+Hazzard        		Mean: 225.59 		Best: 901.52 		N:4
+Lockridge      		Mean: 149.8 		Best: 898.56 		N:6
+
+########## REPORT GEN: 84 ##########
+SPECIES: 
+Mclean         		Mean: 234.0 		Best: 948.91 		N:4
+Carlton        		Mean: 153.05 		Best: 941.16 		N:6
+Lockridge      		Mean: 130.27 		Best: 941.16 		N:7
+Robinson       		Mean: 130.99 		Best: 931.87 		N:7
+Ulrich         		Mean: 114.06 		Best: 929.13 		N:8
+Taylor         		Mean: 153.49 		Best: 923.76 		N:6
+Mercado        		Mean: 150.97 		Best: 914.58 		N:6
+Smith          		Mean: 227.94 		Best: 910.59 		N:4
+Patrick        		Mean: 299.99 		Best: 901.52 		N:3
+Henley         		Mean: 180.94 		Best: 901.52 		N:5
+Green          		Mean: 150.79 		Best: 901.52 		N:6
+Priddy         		Mean: 226.8 		Best: 901.52 		N:4
+Ator           		Mean: 226.04 		Best: 901.52 		N:4
+Hazzard        		Mean: 129.28 		Best: 901.52 		N:7
+
+########## REPORT GEN: 85 ##########
+SPECIES: 
+Ulrich         		Mean: 133.45 		Best: 948.91 		N:7
+Carlton        		Mean: 152.06 		Best: 941.16 		N:6
+Lockridge      		Mean: 182.66 		Best: 941.16 		N:5
+Smith          		Mean: 152.92 		Best: 931.87 		N:6
+Mclean         		Mean: 151.53 		Best: 929.13 		N:6
+Taylor         		Mean: 153.46 		Best: 923.76 		N:6
+Henley         		Mean: 113.36 		Best: 914.58 		N:8
+Robinson       		Mean: 130.3 		Best: 911.12 		N:7
+Patrick        		Mean: 149.92 		Best: 901.52 		N:6
+Mercado        		Mean: 180.74 		Best: 901.52 		N:5
+Green          		Mean: 225.63 		Best: 901.52 		N:4
+Priddy         		Mean: 113.12 		Best: 901.52 		N:8
+Ator           		Mean: 82.29 		Best: 901.52 		N:11
+Hazzard        		Mean: 226.76 		Best: 901.52 		N:4
+
+########## REPORT GEN: 86 ##########
+SPECIES: 
+Ulrich         		Mean: 229.08 		Best: 948.91 		N:4
+Mclean         		Mean: 115.68 		Best: 948.91 		N:8
+Patrick        		Mean: 153.94 		Best: 948.91 		N:6
+Carlton        		Mean: 130.24 		Best: 941.16 		N:7
+Smith          		Mean: 307.95 		Best: 936.0 		N:3
+Robinson       		Mean: 91.6 		Best: 931.87 		N:10
+Taylor         		Mean: 131.62 		Best: 923.76 		N:7
+Mercado        		Mean: 150.99 		Best: 914.58 		N:6
+Ator           		Mean: 150.86 		Best: 901.52 		N:6
+Lockridge      		Mean: 100.04 		Best: 901.52 		N:9
+Henley         		Mean: 129.05 		Best: 901.52 		N:7
+Green          		Mean: 180.78 		Best: 901.52 		N:5
+Priddy         		Mean: 90.71 		Best: 901.52 		N:10
+Hazzard        		Mean: 181.11 		Best: 901.52 		N:5
+
+########## REPORT GEN: 87 ##########
+SPECIES: 
+Ulrich         		Mean: 151.98 		Best: 948.91 		N:6
+Mclean         		Mean: 116.2 		Best: 948.91 		N:8
+Carlton        		Mean: 152.11 		Best: 941.16 		N:6
+Smith          		Mean: 102.54 		Best: 936.0 		N:9
+Taylor         		Mean: 153.47 		Best: 923.76 		N:6
+Patrick        		Mean: 150.53 		Best: 919.94 		N:6
+Mercado        		Mean: 181.33 		Best: 914.58 		N:5
+Robinson       		Mean: 455.24 		Best: 910.32 		N:2
+Lockridge      		Mean: 225.09 		Best: 901.52 		N:4
+Ator           		Mean: 113.18 		Best: 901.52 		N:8
+Henley         		Mean: 112.99 		Best: 901.52 		N:8
+Green          		Mean: 300.87 		Best: 901.52 		N:3
+Priddy         		Mean: 151.21 		Best: 901.52 		N:6
+Hazzard        		Mean: 82.29 		Best: 901.52 		N:11
+
+########## REPORT GEN: 88 ##########
+SPECIES: 
+Ulrich         		Mean: 185.27 		Best: 948.91 		N:5
+Mclean         		Mean: 184.96 		Best: 948.91 		N:5
+Carlton        		Mean: 152.07 		Best: 941.16 		N:6
+Robinson       		Mean: 183.89 		Best: 936.0 		N:5
+Taylor         		Mean: 153.68 		Best: 923.76 		N:6
+Lockridge      		Mean: 180.64 		Best: 919.94 		N:5
+Mercado        		Mean: 129.35 		Best: 914.58 		N:7
+Smith          		Mean: 302.61 		Best: 910.43 		N:3
+Patrick        		Mean: 99.99 		Best: 901.52 		N:9
+Ator           		Mean: 113.14 		Best: 901.52 		N:8
+Henley         		Mean: 225.9 		Best: 901.52 		N:4
+Green          		Mean: 150.8 		Best: 901.52 		N:6
+Priddy         		Mean: 151.19 		Best: 901.52 		N:6
+
+########## REPORT GEN: 89 ##########
+SPECIES: 
+Ulrich         		Mean: 185.33 		Best: 948.91 		N:5
+Mclean         		Mean: 185.07 		Best: 948.91 		N:5
+Carlton        		Mean: 228.79 		Best: 941.16 		N:4
+Robinson       		Mean: 184.05 		Best: 936.0 		N:5
+Taylor         		Mean: 230.65 		Best: 923.76 		N:4
+Patrick        		Mean: 302.08 		Best: 919.94 		N:3
+Mercado        		Mean: 226.62 		Best: 914.58 		N:4
+Smith          		Mean: 151.13 		Best: 910.58 		N:6
+Lockridge      		Mean: 150.06 		Best: 901.52 		N:6
+Ator           		Mean: 452.61 		Best: 901.52 		N:2
+Henley         		Mean: 129.05 		Best: 901.52 		N:7
+Green          		Mean: 181.43 		Best: 901.52 		N:5
+Priddy         		Mean: 226.15 		Best: 901.52 		N:4
+Hazzard        		Mean: 301.74 		Best: 901.52 		N:3
+
+########## REPORT GEN: 90 ##########
+SPECIES: 
+Mclean         		Mean: 134.23 		Best: 948.91 		N:7
+Carlton        		Mean: 130.24 		Best: 941.16 		N:7
+Robinson       		Mean: 229.76 		Best: 936.0 		N:4
+Taylor         		Mean: 131.5 		Best: 923.76 		N:7
+Patrick        		Mean: 226.11 		Best: 919.94 		N:4
+Lockridge      		Mean: 150.69 		Best: 919.94 		N:6
+Mercado        		Mean: 227.04 		Best: 914.58 		N:4
+Smith          		Mean: 181.6 		Best: 912.57 		N:5
+Ulrich         		Mean: 226.07 		Best: 907.84 		N:4
+Ator           		Mean: 113.2 		Best: 901.52 		N:8
+Henley         		Mean: 129.02 		Best: 901.52 		N:7
+Green          		Mean: 181.57 		Best: 901.52 		N:5
+Priddy         		Mean: 181.13 		Best: 901.52 		N:5
+Hazzard        		Mean: 226.08 		Best: 901.52 		N:4
+
+########## REPORT GEN: 91 ##########
+SPECIES: 
+Mclean         		Mean: 101.91 		Best: 948.91 		N:9
+Ulrich         		Mean: 232.24 		Best: 948.91 		N:4
+Carlton        		Mean: 182.66 		Best: 941.16 		N:5
+Robinson       		Mean: 114.06 		Best: 936.0 		N:8
+Taylor         		Mean: 184.3 		Best: 923.76 		N:5
+Patrick        		Mean: 100.21 		Best: 919.94 		N:9
+Lockridge      		Mean: 180.65 		Best: 919.94 		N:5
+Mercado        		Mean: 82.44 		Best: 914.58 		N:11
+Smith          		Mean: 129.54 		Best: 910.53 		N:7
+Ator           		Mean: 226.32 		Best: 901.52 		N:4
+Henley         		Mean: 451.33 		Best: 901.52 		N:2
+Green          		Mean: 129.36 		Best: 901.52 		N:7
+Priddy         		Mean: 226.35 		Best: 901.52 		N:4
+Hazzard        		Mean: 82.43 		Best: 901.52 		N:11
+
+########## REPORT GEN: 92 ##########
+SPECIES: 
+Mclean         		Mean: 184.84 		Best: 948.91 		N:5
+Ulrich         		Mean: 115.45 		Best: 948.91 		N:8
+Carlton        		Mean: 130.2 		Best: 941.16 		N:7
+Smith          		Mean: 306.97 		Best: 936.0 		N:3
+Taylor         		Mean: 131.31 		Best: 923.76 		N:7
+Patrick        		Mean: 129.31 		Best: 919.94 		N:7
+Mercado        		Mean: 455.29 		Best: 914.58 		N:2
+Robinson       		Mean: 151.24 		Best: 910.53 		N:6
+Lockridge      		Mean: 225.29 		Best: 901.6 		N:4
+Ator           		Mean: 113.27 		Best: 901.52 		N:8
+Henley         		Mean: 129.0 		Best: 901.52 		N:7
+Green          		Mean: 181.19 		Best: 901.52 		N:5
+Priddy         		Mean: 181.1 		Best: 901.52 		N:5
+Hazzard        		Mean: 227.08 		Best: 901.52 		N:4
+Higginbotham   		Mean: 226.51 		Best: 901.52 		N:4
+
+########## REPORT GEN: 93 ##########
+SPECIES: 
+Mclean         		Mean: 307.51 		Best: 948.91 		N:3
+Ulrich         		Mean: 131.23 		Best: 948.91 		N:7
+Carlton        		Mean: 228.51 		Best: 941.16 		N:4
+Smith          		Mean: 131.24 		Best: 936.0 		N:7
+Taylor         		Mean: 228.12 		Best: 923.76 		N:4
+Patrick        		Mean: 150.66 		Best: 919.94 		N:6
+Green          		Mean: 130.0 		Best: 919.7 		N:7
+Mercado        		Mean: 457.29 		Best: 914.58 		N:2
+Henley         		Mean: 151.12 		Best: 914.58 		N:6
+Robinson       		Mean: 226.76 		Best: 910.53 		N:4
+Lockridge      		Mean: 180.18 		Best: 901.6 		N:5
+Ator           		Mean: 150.98 		Best: 901.52 		N:6
+Priddy         		Mean: 301.89 		Best: 901.52 		N:3
+Hazzard        		Mean: 225.51 		Best: 901.52 		N:4
+Higginbotham   		Mean: 226.25 		Best: 901.52 		N:4
+Quintana       		Mean: 150.8 		Best: 901.52 		N:6
+
+########## REPORT GEN: 94 ##########
+SPECIES: 
+Mclean         		Mean: 183.29 		Best: 948.91 		N:5
+Ulrich         		Mean: 156.13 		Best: 948.91 		N:6
+Carlton        		Mean: 151.94 		Best: 941.16 		N:6
+Smith          		Mean: 229.18 		Best: 936.0 		N:4
+Taylor         		Mean: 152.25 		Best: 923.76 		N:6
+Patrick        		Mean: 150.87 		Best: 919.94 		N:6
+Hazzard        		Mean: 151.64 		Best: 919.7 		N:6
+Mercado        		Mean: 152.0 		Best: 914.58 		N:6
+Henley         		Mean: 455.22 		Best: 914.58 		N:2
+Robinson       		Mean: 181.49 		Best: 910.14 		N:5
+Lockridge      		Mean: 300.82 		Best: 906.38 		N:3
+Green          		Mean: 226.16 		Best: 901.52 		N:4
+Ator           		Mean: 181.43 		Best: 901.52 		N:5
+Priddy         		Mean: 129.41 		Best: 901.52 		N:7
+Higginbotham   		Mean: 150.88 		Best: 901.52 		N:6
+
+########## REPORT GEN: 95 ##########
+SPECIES: 
+Ulrich         		Mean: 232.14 		Best: 948.91 		N:4
+Carlton        		Mean: 305.94 		Best: 941.16 		N:3
+Robinson       		Mean: 152.06 		Best: 936.0 		N:6
+Taylor         		Mean: 303.31 		Best: 923.76 		N:3
+Lockridge      		Mean: 226.64 		Best: 919.94 		N:4
+Priddy         		Mean: 457.15 		Best: 919.7 		N:2
+Mercado        		Mean: 152.05 		Best: 914.58 		N:6
+Smith          		Mean: 302.96 		Best: 910.57 		N:3
+Patrick        		Mean: 180.33 		Best: 906.38 		N:5
+Mclean         		Mean: 225.59 		Best: 902.02 		N:4
+Hazzard        		Mean: 226.54 		Best: 901.52 		N:4
+Green          		Mean: 181.68 		Best: 901.52 		N:5
+Ator           		Mean: 181.42 		Best: 901.52 		N:5
+Higginbotham   		Mean: 453.61 		Best: 901.52 		N:2
+Quintana       		Mean: 453.54 		Best: 901.52 		N:2
+
+########## REPORT GEN: 96 ##########
+SPECIES: 
+Ulrich         		Mean: 307.13 		Best: 948.91 		N:3
+Mclean         		Mean: 184.95 		Best: 948.91 		N:5
+Carlton        		Mean: 151.56 		Best: 941.16 		N:6
+Smith          		Mean: 183.09 		Best: 936.0 		N:5
+Taylor         		Mean: 151.74 		Best: 923.76 		N:6
+Hazzard        		Mean: 302.79 		Best: 919.7 		N:3
+Green          		Mean: 182.12 		Best: 919.7 		N:5
+Higginbotham   		Mean: 303.77 		Best: 919.7 		N:3
+Patrick        		Mean: 150.82 		Best: 915.24 		N:6
+Mercado        		Mean: 455.08 		Best: 914.58 		N:2
+Henley         		Mean: 302.63 		Best: 914.58 		N:3
+Robinson       		Mean: 226.87 		Best: 910.57 		N:4
+Priddy         		Mean: 302.12 		Best: 901.52 		N:3
+Ator           		Mean: 226.85 		Best: 901.52 		N:4
+Quintana       		Mean: 226.41 		Best: 901.52 		N:4
+
+########## REPORT GEN: 97 ##########
+SPECIES: 
+Ulrich         		Mean: 154.96 		Best: 948.91 		N:6
+Carlton        		Mean: 305.4 		Best: 941.16 		N:3
+Robinson       		Mean: 306.66 		Best: 936.0 		N:3
+Taylor         		Mean: 303.47 		Best: 923.76 		N:3
+Higginbotham   		Mean: 227.59 		Best: 919.7 		N:4
+Priddy         		Mean: 182.23 		Best: 919.7 		N:5
+Quintana       		Mean: 151.67 		Best: 919.7 		N:6
+Mercado        		Mean: 129.94 		Best: 914.58 		N:7
+Smith          		Mean: 181.66 		Best: 911.69 		N:5
+Mclean         		Mean: 226.0 		Best: 910.37 		N:4
+Lockridge      		Mean: 225.67 		Best: 908.7 		N:4
+Hazzard        		Mean: 129.68 		Best: 901.52 		N:7
+Green          		Mean: 225.59 		Best: 901.52 		N:4
+Henley         		Mean: 300.87 		Best: 901.52 		N:3
+Ator           		Mean: 300.51 		Best: 901.52 		N:3
+
+########## REPORT GEN: 98 ##########
+SPECIES: 
+Ulrich         		Mean: 230.33 		Best: 948.91 		N:4
+Carlton        		Mean: 151.53 		Best: 941.16 		N:6
+Smith          		Mean: 464.17 		Best: 936.0 		N:2
+Taylor         		Mean: 151.04 		Best: 923.76 		N:6
+Priddy         		Mean: 181.18 		Best: 919.7 		N:5
+Quintana       		Mean: 129.63 		Best: 919.7 		N:7
+Hazzard        		Mean: 455.84 		Best: 919.7 		N:2
+Ator           		Mean: 151.22 		Best: 919.7 		N:6
+Patrick        		Mean: 303.73 		Best: 916.01 		N:3
+Henley         		Mean: 302.8 		Best: 914.58 		N:3
+Robinson       		Mean: 113.06 		Best: 910.57 		N:8
+Lockridge      		Mean: 225.53 		Best: 908.7 		N:4
+Mclean         		Mean: 225.52 		Best: 902.02 		N:4
+Higginbotham   		Mean: 226.85 		Best: 901.52 		N:4
+Mercado        		Mean: 150.37 		Best: 901.52 		N:6
+Green          		Mean: 453.45 		Best: 901.52 		N:2
+
+########## REPORT GEN: 99 ##########
+SPECIES: 
+Ulrich         		Mean: 308.04 		Best: 948.91 		N:3
+Carlton        		Mean: 305.38 		Best: 941.16 		N:3
+Smith          		Mean: 183.52 		Best: 936.0 		N:5
+Taylor         		Mean: 303.41 		Best: 923.76 		N:3
+Hazzard        		Mean: 183.07 		Best: 919.7 		N:5
+Green          		Mean: 227.31 		Best: 919.7 		N:4
+Patrick        		Mean: 226.82 		Best: 916.01 		N:4
+Lockridge      		Mean: 129.23 		Best: 916.01 		N:7
+Henley         		Mean: 226.76 		Best: 914.58 		N:4
+Robinson       		Mean: 302.01 		Best: 910.86 		N:3
+Mclean         		Mean: 129.24 		Best: 910.37 		N:7
+Priddy         		Mean: 302.59 		Best: 901.52 		N:3
+Quintana       		Mean: 301.54 		Best: 901.52 		N:3
+Ator           		Mean: 450.87 		Best: 901.52 		N:2
+Higginbotham   		Mean: 151.23 		Best: 901.52 		N:6
+Mercado        		Mean: 180.51 		Best: 901.52 		N:5
+
+########## REPORT GEN: 100 ##########
+SPECIES: 
+Ulrich         		Mean: 130.4 		Best: 948.91 		N:7
+Mclean         		Mean: 232.24 		Best: 948.91 		N:4
+Carlton        		Mean: 151.53 		Best: 941.16 		N:6
+Smith          		Mean: 130.75 		Best: 936.0 		N:7
+Taylor         		Mean: 151.72 		Best: 923.76 		N:6
+Green          		Mean: 304.18 		Best: 919.7 		N:3
+Smith          		Mean: 227.85 		Best: 919.7 		N:4
+Patrick        		Mean: 225.97 		Best: 916.01 		N:4
+Lockridge      		Mean: 225.99 		Best: 916.01 		N:4
+Mercado        		Mean: 226.87 		Best: 914.58 		N:4
+Robinson       		Mean: 302.05 		Best: 910.88 		N:3
+Hazzard        		Mean: 301.61 		Best: 901.52 		N:3
+Henley         		Mean: 180.61 		Best: 901.52 		N:5
+Priddy         		Mean: 226.2 		Best: 901.52 		N:4
+Quintana       		Mean: 112.97 		Best: 901.52 		N:8
+Ator           		Mean: 301.58 		Best: 901.52 		N:3
+Higginbotham   		Mean: 302.05 		Best: 901.52 		N:3
+
+########## REPORT GEN: 101 ##########
+SPECIES: 
+Ulrich         		Mean: 131.17 		Best: 948.91 		N:7
+Mclean         		Mean: 464.09 		Best: 948.91 		N:2
+Carlton        		Mean: 228.16 		Best: 941.16 		N:4
+Smith          		Mean: 152.06 		Best: 936.0 		N:6
+Taylor         		Mean: 227.13 		Best: 923.76 		N:4
+Green          		Mean: 227.6 		Best: 919.7 		N:4
+Higginbotham   		Mean: 113.76 		Best: 919.7 		N:8
+Lockridge      		Mean: 150.87 		Best: 916.01 		N:6
+Patrick        		Mean: 151.05 		Best: 916.01 		N:6
+Mercado        		Mean: 151.42 		Best: 914.58 		N:6
+Henley         		Mean: 226.84 		Best: 914.58 		N:4
+Smith          		Mean: 302.07 		Best: 901.52 		N:3
+Robinson       		Mean: 300.57 		Best: 901.52 		N:3
+Hazzard        		Mean: 181.53 		Best: 901.52 		N:5
+Priddy         		Mean: 113.18 		Best: 901.52 		N:8
+Quintana       		Mean: 181.06 		Best: 901.52 		N:5
+Ator           		Mean: 129.68 		Best: 901.52 		N:7
+
+########## REPORT GEN: 102 ##########
+SPECIES: 
+Ulrich         		Mean: 474.45 		Best: 948.91 		N:2
+Patrick        		Mean: 234.0 		Best: 948.91 		N:4
+Carlton        		Mean: 151.51 		Best: 941.16 		N:6
+Robinson       		Mean: 305.67 		Best: 936.0 		N:3
+Higginbotham   		Mean: 151.73 		Best: 919.7 		N:6
+Lockridge      		Mean: 227.56 		Best: 918.83 		N:4
+Mclean         		Mean: 152.2 		Best: 916.01 		N:6
+Mercado        		Mean: 226.62 		Best: 914.58 		N:4
+Henley         		Mean: 152.08 		Best: 914.58 		N:6
+Smith          		Mean: 129.1 		Best: 914.02 		N:7
+Taylor         		Mean: 150.45 		Best: 901.53 		N:6
+Green          		Mean: 302.54 		Best: 901.52 		N:3
+Smith          		Mean: 181.45 		Best: 901.52 		N:5
+Hazzard        		Mean: 300.68 		Best: 901.52 		N:3
+Priddy         		Mean: 181.05 		Best: 901.52 		N:5
+Quintana       		Mean: 226.25 		Best: 901.52 		N:4
+Ator           		Mean: 129.52 		Best: 901.52 		N:7
+
+########## REPORT GEN: 103 ##########
+SPECIES: 
+Ulrich         		Mean: 186.75 		Best: 948.91 		N:5
+Patrick        		Mean: 132.95 		Best: 948.91 		N:7
+Mclean         		Mean: 230.67 		Best: 948.91 		N:4
+Carlton        		Mean: 228.2 		Best: 941.16 		N:4
+Green          		Mean: 227.53 		Best: 919.7 		N:4
+Priddy         		Mean: 113.5 		Best: 919.7 		N:8
+Robinson       		Mean: 101.44 		Best: 918.83 		N:9
+Mercado        		Mean: 181.8 		Best: 914.58 		N:5
+Henley         		Mean: 181.2 		Best: 914.58 		N:5
+Taylor         		Mean: 225.82 		Best: 901.52 		N:4
+Higginbotham   		Mean: 129.65 		Best: 901.52 		N:7
+Smith          		Mean: 300.73 		Best: 901.52 		N:3
+Smith          		Mean: 302.03 		Best: 901.52 		N:3
+Hazzard        		Mean: 450.86 		Best: 901.52 		N:2
+Quintana       		Mean: 181.56 		Best: 901.52 		N:5
+Ator           		Mean: 226.7 		Best: 901.52 		N:4
+
+########## REPORT GEN: 104 ##########
+SPECIES: 
+Ulrich         		Mean: 232.52 		Best: 948.91 		N:4
+Patrick        		Mean: 153.09 		Best: 948.91 		N:6
+Lockridge      		Mean: 230.73 		Best: 948.91 		N:4
+Carlton        		Mean: 182.12 		Best: 941.16 		N:5
+Ator           		Mean: 90.95 		Best: 923.48 		N:10
+Hazzard        		Mean: 181.75 		Best: 919.7 		N:5
+Mercado        		Mean: 181.81 		Best: 914.58 		N:5
+Henley         		Mean: 304.12 		Best: 914.58 		N:3
+Mclean         		Mean: 450.35 		Best: 901.92 		N:2
+Taylor         		Mean: 180.65 		Best: 901.52 		N:5
+Green          		Mean: 451.04 		Best: 901.52 		N:2
+Priddy         		Mean: 181.08 		Best: 901.52 		N:5
+Robinson       		Mean: 225.53 		Best: 901.52 		N:4
+Smith          		Mean: 225.53 		Best: 901.52 		N:4
+Smith          		Mean: 226.68 		Best: 901.52 		N:4
+Quintana       		Mean: 226.07 		Best: 901.52 		N:4
+
+########## REPORT GEN: 105 ##########
+SPECIES: 
+Ulrich         		Mean: 183.61 		Best: 948.91 		N:5
+Patrick        		Mean: 186.3 		Best: 948.91 		N:5
+Lockridge      		Mean: 230.2 		Best: 948.91 		N:4
+Mclean         		Mean: 464.36 		Best: 948.91 		N:2
+Carlton        		Mean: 305.5 		Best: 941.16 		N:3
+Ator           		Mean: 182.91 		Best: 923.48 		N:5
+Hazzard        		Mean: 151.83 		Best: 919.7 		N:6
+Mercado        		Mean: 151.35 		Best: 914.58 		N:6
+Henley         		Mean: 302.72 		Best: 914.58 		N:3
+Taylor         		Mean: 301.07 		Best: 901.52 		N:3
+Higginbotham   		Mean: 181.03 		Best: 901.52 		N:5
+Priddy         		Mean: 302.5 		Best: 901.52 		N:3
+Robinson       		Mean: 300.77 		Best: 901.52 		N:3
+Smith          		Mean: 180.46 		Best: 901.52 		N:5
+Smith          		Mean: 452.58 		Best: 901.52 		N:2
+Quintana       		Mean: 300.95 		Best: 901.52 		N:3
+
+########## REPORT GEN: 106 ##########
+SPECIES: 
+Patrick        		Mean: 308.16 		Best: 948.91 		N:3
+Lockridge      		Mean: 154.27 		Best: 948.91 		N:6
+Mclean         		Mean: 307.52 		Best: 948.91 		N:3
+Taylor         		Mean: 152.29 		Best: 948.91 		N:6
+Carlton        		Mean: 151.6 		Best: 941.16 		N:6
+Priddy         		Mean: 458.66 		Best: 923.48 		N:2
+Ator           		Mean: 227.26 		Best: 919.7 		N:4
+Green          		Mean: 227.53 		Best: 919.7 		N:4
+Higginbotham   		Mean: 454.44 		Best: 914.58 		N:2
+Henley         		Mean: 129.63 		Best: 914.58 		N:7
+Hazzard        		Mean: 225.46 		Best: 901.52 		N:4
+Robinson       		Mean: 225.6 		Best: 901.52 		N:4
+Smith          		Mean: 225.54 		Best: 901.52 		N:4
+Smith          		Mean: 226.2 		Best: 901.52 		N:4
+Quintana       		Mean: 180.89 		Best: 901.52 		N:5
+
+########## REPORT GEN: 107 ##########
+SPECIES: 
+Mclean         		Mean: 465.12 		Best: 948.91 		N:2
+Carlton        		Mean: 232.21 		Best: 948.91 		N:4
+Ulrich         		Mean: 152.64 		Best: 948.91 		N:6
+Green          		Mean: 114.05 		Best: 923.48 		N:8
+Ator           		Mean: 227.9 		Best: 919.7 		N:4
+Patrick        		Mean: 150.77 		Best: 918.45 		N:6
+Hazzard        		Mean: 227.26 		Best: 914.58 		N:4
+Henley         		Mean: 228.28 		Best: 914.58 		N:4
+Taylor         		Mean: 450.76 		Best: 901.52 		N:2
+Priddy         		Mean: 452.43 		Best: 901.52 		N:2
+Higginbotham   		Mean: 226.36 		Best: 901.52 		N:4
+Robinson       		Mean: 225.61 		Best: 901.52 		N:4
+Smith          		Mean: 225.63 		Best: 901.52 		N:4
+Smith          		Mean: 301.53 		Best: 901.52 		N:3
+Quintana       		Mean: 450.8 		Best: 901.52 		N:2
+
+########## REPORT GEN: 108 ##########
+SPECIES: 
+Mclean         		Mean: 85.03 		Best: 948.91 		N:11
+Patrick        		Mean: 464.98 		Best: 948.91 		N:2
+Mercado        		Mean: 231.29 		Best: 948.91 		N:4
+Taylor         		Mean: 185.6 		Best: 948.91 		N:5
+Smith          		Mean: 303.96 		Best: 923.48 		N:3
+Quintana       		Mean: 227.25 		Best: 919.7 		N:4
+Ator           		Mean: 129.84 		Best: 914.58 		N:7
+Green          		Mean: 452.41 		Best: 901.52 		N:2
+Hazzard        		Mean: 181.27 		Best: 901.52 		N:5
+Priddy         		Mean: 452.38 		Best: 901.52 		N:2
+Higginbotham   		Mean: 300.56 		Best: 901.52 		N:3
+Robinson       		Mean: 225.62 		Best: 901.52 		N:4
+Smith          		Mean: 450.76 		Best: 901.52 		N:2
+Ulrich         		Mean: 449.43 		Best: 898.34 		N:2
+
+########## REPORT GEN: 109 ##########
+SPECIES: 
+Mclean         		Mean: 307.05 		Best: 948.91 		N:3
+Patrick        		Mean: 103.43 		Best: 948.91 		N:9
+Taylor         		Mean: 229.32 		Best: 948.91 		N:4
+Lockridge      		Mean: 229.01 		Best: 948.91 		N:4
+Green          		Mean: 130.06 		Best: 928.02 		N:7
+Quintana       		Mean: 456.29 		Best: 923.48 		N:2
+Higginbotham   		Mean: 227.29 		Best: 919.7 		N:4
+Ator           		Mean: 456.42 		Best: 914.58 		N:2
+Smith          		Mean: 129.76 		Best: 914.58 		N:7
+Henley         		Mean: 304.12 		Best: 914.58 		N:3
+Priddy         		Mean: 180.94 		Best: 901.52 		N:5
+Robinson       		Mean: 225.64 		Best: 901.52 		N:4
+Smith          		Mean: 300.58 		Best: 901.52 		N:3
+Ulrich         		Mean: 449.34 		Best: 898.34 		N:2
+
+########## REPORT GEN: 110 ##########
+SPECIES: 
+Mclean         		Mean: 132.67 		Best: 948.91 		N:7
+Patrick        		Mean: 152.52 		Best: 948.91 		N:6
+Lockridge      		Mean: 155.07 		Best: 948.91 		N:6
+Ulrich         		Mean: 152.28 		Best: 948.91 		N:6
+Priddy         		Mean: 182.86 		Best: 928.02 		N:5
+Higginbotham   		Mean: 114.55 		Best: 923.48 		N:8
+Ator           		Mean: 455.77 		Best: 919.7 		N:2
+Henley         		Mean: 151.66 		Best: 914.58 		N:6
+Taylor         		Mean: 450.91 		Best: 901.52 		N:2
+Green          		Mean: 225.44 		Best: 901.52 		N:4
+Quintana       		Mean: 226.78 		Best: 901.52 		N:4
+Robinson       		Mean: 180.47 		Best: 901.52 		N:5
+Smith          		Mean: 128.96 		Best: 901.52 		N:7
+
+########## REPORT GEN: 111 ##########
+SPECIES: 
+Mclean         		Mean: 232.56 		Best: 948.91 		N:4
+Lockridge      		Mean: 114.93 		Best: 948.91 		N:8
+Ulrich         		Mean: 312.75 		Best: 948.91 		N:3
+Taylor         		Mean: 307.38 		Best: 948.91 		N:3
+Smith          		Mean: 305.49 		Best: 928.02 		N:3
+Quintana       		Mean: 152.13 		Best: 923.48 		N:6
+Priddy         		Mean: 229.5 		Best: 919.7 		N:4
+Ator           		Mean: 113.4 		Best: 919.7 		N:8
+Henley         		Mean: 226.46 		Best: 914.58 		N:4
+Higginbotham   		Mean: 450.87 		Best: 901.52 		N:2
+Green          		Mean: 226.03 		Best: 901.52 		N:4
+Robinson       		Mean: 300.28 		Best: 901.52 		N:3
+Smith          		Mean: 225.62 		Best: 901.52 		N:4
+Patrick        		Mean: 299.61 		Best: 898.34 		N:3
+
+########## REPORT GEN: 112 ##########
+SPECIES: 
+Mclean         		Mean: 465.14 		Best: 948.91 		N:2
+Lockridge      		Mean: 134.4 		Best: 948.91 		N:7
+Ulrich         		Mean: 185.04 		Best: 948.91 		N:5
+Taylor         		Mean: 153.88 		Best: 948.91 		N:6
+Quintana       		Mean: 101.13 		Best: 928.02 		N:9
+Smith          		Mean: 227.39 		Best: 923.48 		N:4
+Higginbotham   		Mean: 305.47 		Best: 919.7 		N:3
+Priddy         		Mean: 101.08 		Best: 914.58 		N:9
+Henley         		Mean: 150.69 		Best: 914.58 		N:6
+Green          		Mean: 180.98 		Best: 901.52 		N:5
+Robinson       		Mean: 150.28 		Best: 901.52 		N:6
+Smith          		Mean: 150.38 		Best: 901.52 		N:6
+Gaunt          		Mean: 150.36 		Best: 901.52 		N:6
+Patrick        		Mean: 449.13 		Best: 898.26 		N:2
+
+########## REPORT GEN: 113 ##########
+SPECIES: 
+Lockridge      		Mean: 153.99 		Best: 948.91 		N:6
+Ulrich         		Mean: 232.63 		Best: 948.91 		N:4
+Patrick        		Mean: 92.51 		Best: 948.91 		N:10
+Higginbotham   		Mean: 130.78 		Best: 928.02 		N:7
+Smith          		Mean: 113.77 		Best: 923.48 		N:8
+Priddy         		Mean: 228.78 		Best: 923.48 		N:4
+Green          		Mean: 182.45 		Best: 919.7 		N:5
+Henley         		Mean: 180.99 		Best: 914.58 		N:5
+Quintana       		Mean: 300.56 		Best: 901.52 		N:3
+Robinson       		Mean: 150.21 		Best: 901.52 		N:6
+Smith          		Mean: 225.54 		Best: 901.52 		N:4
+Gaunt          		Mean: 180.47 		Best: 901.52 		N:5
+Taylor         		Mean: 299.46 		Best: 898.26 		N:3
+
+########## REPORT GEN: 114 ##########
+SPECIES: 
+Lockridge      		Mean: 82.76 		Best: 948.91 		N:11
+Ulrich         		Mean: 182.64 		Best: 948.91 		N:5
+Patrick        		Mean: 154.43 		Best: 948.91 		N:6
+Taylor         		Mean: 312.78 		Best: 948.91 		N:3
+Robinson       		Mean: 181.27 		Best: 930.77 		N:5
+Green          		Mean: 227.96 		Best: 928.02 		N:4
+Smith          		Mean: 113.36 		Best: 923.48 		N:8
+Priddy         		Mean: 130.58 		Best: 923.48 		N:7
+Higginbotham   		Mean: 306.81 		Best: 919.7 		N:3
+Quintana       		Mean: 113.4 		Best: 919.7 		N:8
+Henley         		Mean: 129.12 		Best: 914.58 		N:7
+Smith          		Mean: 100.05 		Best: 901.52 		N:9
+Gaunt          		Mean: 128.9 		Best: 901.52 		N:7
+
+########## REPORT GEN: 115 ##########
+SPECIES: 
+Ulrich         		Mean: 101.91 		Best: 948.91 		N:9
+Patrick        		Mean: 152.57 		Best: 948.91 		N:6
+Taylor         		Mean: 131.82 		Best: 948.91 		N:7
+Robinson       		Mean: 228.72 		Best: 930.77 		N:4
+Priddy         		Mean: 131.69 		Best: 928.02 		N:7
+Green          		Mean: 151.89 		Best: 920.08 		N:6
+Smith          		Mean: 129.7 		Best: 919.7 		N:7
+Higginbotham   		Mean: 304.86 		Best: 914.58 		N:3
+Henley         		Mean: 180.66 		Best: 914.58 		N:5
+Lockridge      		Mean: 226.58 		Best: 907.21 		N:4
+Quintana       		Mean: 129.29 		Best: 901.52 		N:7
+Smith          		Mean: 112.43 		Best: 901.52 		N:8
+Gaunt          		Mean: 180.52 		Best: 901.52 		N:5
+
+########## REPORT GEN: 116 ##########
+SPECIES: 
+Ulrich         		Mean: 151.84 		Best: 948.91 		N:6
+Patrick        		Mean: 235.12 		Best: 948.91 		N:4
+Robinson       		Mean: 82.5 		Best: 930.77 		N:11
+Smith          		Mean: 130.28 		Best: 928.02 		N:7
+Green          		Mean: 91.16 		Best: 919.7 		N:10
+Quintana       		Mean: 227.37 		Best: 919.7 		N:4
+Lockridge      		Mean: 129.48 		Best: 918.45 		N:7
+Priddy         		Mean: 130.67 		Best: 914.58 		N:7
+Henley         		Mean: 112.77 		Best: 914.58 		N:8
+Taylor         		Mean: 99.88 		Best: 901.52 		N:9
+Gaunt          		Mean: 112.82 		Best: 901.52 		N:8
+Smith          		Mean: 449.28 		Best: 898.4 		N:2
+
+########## REPORT GEN: 117 ##########
+SPECIES: 
+Patrick        		Mean: 135.83 		Best: 948.91 		N:7
+Lockridge      		Mean: 464.66 		Best: 948.91 		N:2
+Smith          		Mean: 226.7 		Best: 930.77 		N:4
+Smith          		Mean: 304.81 		Best: 928.02 		N:3
+Quintana       		Mean: 130.85 		Best: 919.7 		N:7
+Green          		Mean: 151.36 		Best: 919.7 		N:6
+Taylor         		Mean: 226.12 		Best: 918.45 		N:4
+Henley         		Mean: 226.0 		Best: 914.58 		N:4
+Priddy         		Mean: 181.07 		Best: 901.52 		N:5
+Gaunt          		Mean: 225.58 		Best: 901.52 		N:4
+Robinson       		Mean: 179.75 		Best: 898.41 		N:5
+Ulrich         		Mean: 112.36 		Best: 898.39 		N:8
+
+########## REPORT GEN: 118 ##########
+SPECIES: 
+Lockridge      		Mean: 116.27 		Best: 948.91 		N:8
+Taylor         		Mean: 153.63 		Best: 948.91 		N:6
+Robinson       		Mean: 129.08 		Best: 930.77 		N:7
+Priddy         		Mean: 152.2 		Best: 928.02 		N:6
+Smith          		Mean: 181.56 		Best: 919.7 		N:5
+Higginbotham   		Mean: 457.29 		Best: 914.58 		N:2
+Henley         		Mean: 150.44 		Best: 914.58 		N:6
+Ulrich         		Mean: 180.93 		Best: 907.21 		N:5
+Green          		Mean: 129.33 		Best: 901.52 		N:7
+Gaunt          		Mean: 150.35 		Best: 901.52 		N:6
+Smith          		Mean: 224.7 		Best: 898.4 		N:4
+
+########## REPORT GEN: 119 ##########
+SPECIES: 
+Lockridge      		Mean: 234.98 		Best: 948.91 		N:4
+Ulrich         		Mean: 113.96 		Best: 948.91 		N:8
+Gaunt          		Mean: 129.58 		Best: 932.38 		N:7
+Smith          		Mean: 100.29 		Best: 930.77 		N:9
+Priddy         		Mean: 113.66 		Best: 928.02 		N:8
+Smith          		Mean: 151.17 		Best: 919.7 		N:6
+Green          		Mean: 181.61 		Best: 919.7 		N:5
+Higginbotham   		Mean: 228.68 		Best: 914.58 		N:4
+Henley         		Mean: 128.89 		Best: 914.58 		N:7
+Taylor         		Mean: 113.24 		Best: 907.21 		N:8
+Berry          		Mean: 452.76 		Best: 901.52 		N:2
+Robinson       		Mean: 179.76 		Best: 898.4 		N:5
+
+########## REPORT GEN: 120 ##########
+SPECIES: 
+Lockridge      		Mean: 84.95 		Best: 948.91 		N:11
+Ulrich         		Mean: 474.62 		Best: 948.91 		N:2
+Taylor         		Mean: 151.91 		Best: 948.91 		N:6
+Gaunt          		Mean: 151.29 		Best: 932.38 		N:6
+Smith          		Mean: 112.86 		Best: 930.77 		N:8
+Berry          		Mean: 101.22 		Best: 928.02 		N:9
+Priddy         		Mean: 181.54 		Best: 919.7 		N:5
+Smith          		Mean: 151.19 		Best: 919.7 		N:6
+Higginbotham   		Mean: 114.35 		Best: 914.58 		N:8
+Henley         		Mean: 150.43 		Best: 914.58 		N:6
+Green          		Mean: 225.58 		Best: 901.52 		N:4
+Robinson       		Mean: 224.77 		Best: 898.38 		N:4
+
+########## REPORT GEN: 121 ##########
+SPECIES: 
+Lockridge      		Mean: 234.75 		Best: 948.91 		N:4
+Ulrich         		Mean: 236.07 		Best: 948.91 		N:4
+Taylor         		Mean: 91.95 		Best: 948.91 		N:10
+Gaunt          		Mean: 129.56 		Best: 932.38 		N:7
+Robinson       		Mean: 181.12 		Best: 930.77 		N:5
+Berry          		Mean: 229.77 		Best: 928.02 		N:4
+Priddy         		Mean: 151.43 		Best: 919.71 		N:6
+Green          		Mean: 151.21 		Best: 919.7 		N:6
+Higginbotham   		Mean: 182.98 		Best: 914.58 		N:5
+Henley         		Mean: 128.91 		Best: 914.58 		N:7
+Smith          		Mean: 82.06 		Best: 901.52 		N:11
+Smith          		Mean: 112.4 		Best: 898.38 		N:8
+
+########## REPORT GEN: 122 ##########
+SPECIES: 
+Lockridge      		Mean: 104.24 		Best: 948.91 		N:9
+Ulrich         		Mean: 93.89 		Best: 948.91 		N:10
+Taylor         		Mean: 234.1 		Best: 948.91 		N:4
+Gaunt          		Mean: 151.31 		Best: 932.38 		N:6
+Smith          		Mean: 91.09 		Best: 930.77 		N:10
+Berry          		Mean: 130.32 		Best: 928.02 		N:7
+Henley         		Mean: 151.48 		Best: 920.47 		N:6
+Green          		Mean: 113.23 		Best: 919.71 		N:8
+Priddy         		Mean: 91.46 		Best: 919.71 		N:10
+Higginbotham   		Mean: 101.67 		Best: 914.58 		N:9
+Smith          		Mean: 450.94 		Best: 901.52 		N:2
+Robinson       		Mean: 224.85 		Best: 900.06 		N:4
+
+########## REPORT GEN: 123 ##########
+SPECIES: 
+Lockridge      		Mean: 132.92 		Best: 948.91 		N:7
+Ulrich         		Mean: 186.67 		Best: 948.91 		N:5
+Taylor         		Mean: 231.71 		Best: 948.91 		N:4
+Gaunt          		Mean: 129.6 		Best: 932.38 		N:7
+Smith          		Mean: 112.91 		Best: 930.07 		N:8
+Berry          		Mean: 229.2 		Best: 928.02 		N:4
+Henley         		Mean: 128.97 		Best: 920.47 		N:7
+Smith          		Mean: 113.63 		Best: 919.7 		N:8
+Higginbotham   		Mean: 182.03 		Best: 914.58 		N:5
+Green          		Mean: 300.67 		Best: 901.52 		N:3
+Priddy         		Mean: 181.11 		Best: 901.52 		N:5
+Robinson       		Mean: 179.91 		Best: 900.06 		N:5
+Moffatt        		Mean: 449.1 		Best: 898.21 		N:2
+
+########## REPORT GEN: 124 ##########
+SPECIES: 
+Lockridge      		Mean: 116.2 		Best: 948.91 		N:8
+Ulrich         		Mean: 311.06 		Best: 948.91 		N:3
+Taylor         		Mean: 102.58 		Best: 948.91 		N:9
+Gaunt          		Mean: 181.71 		Best: 932.38 		N:5
+Smith          		Mean: 129.16 		Best: 930.07 		N:7
+Smith          		Mean: 101.25 		Best: 928.02 		N:9
+Henley         		Mean: 180.85 		Best: 920.47 		N:5
+Green          		Mean: 151.14 		Best: 919.71 		N:6
+Priddy         		Mean: 227.93 		Best: 919.71 		N:4
+Higginbotham   		Mean: 129.96 		Best: 914.58 		N:7
+Berry          		Mean: 150.42 		Best: 901.52 		N:6
+Robinson       		Mean: 224.75 		Best: 898.42 		N:4
+Moffatt        		Mean: 224.6 		Best: 898.21 		N:4
+
+########## REPORT GEN: 125 ##########
+SPECIES: 
+Lockridge      		Mean: 309.49 		Best: 948.91 		N:3
+Ulrich         		Mean: 102.84 		Best: 948.91 		N:9
+Taylor         		Mean: 309.11 		Best: 948.91 		N:3
+Gaunt          		Mean: 113.25 		Best: 932.38 		N:8
+Robinson       		Mean: 112.89 		Best: 930.07 		N:8
+Smith          		Mean: 151.76 		Best: 928.02 		N:6
+Henley         		Mean: 113.2 		Best: 920.47 		N:8
+Priddy         		Mean: 181.73 		Best: 919.71 		N:5
+Moffatt        		Mean: 112.63 		Best: 915.88 		N:8
+Higginbotham   		Mean: 182.06 		Best: 914.58 		N:5
+Green          		Mean: 100.27 		Best: 901.52 		N:9
+Berry          		Mean: 225.64 		Best: 901.52 		N:4
+Smith          		Mean: 179.77 		Best: 898.38 		N:5
+
+########## REPORT GEN: 126 ##########
+SPECIES: 
+Lockridge      		Mean: 133.04 		Best: 948.91 		N:7
+Ulrich         		Mean: 233.38 		Best: 948.91 		N:4
+Gaunt          		Mean: 181.72 		Best: 932.38 		N:5
+Smith          		Mean: 112.86 		Best: 930.07 		N:8
+Taylor         		Mean: 130.54 		Best: 928.5 		N:7
+Priddy         		Mean: 152.35 		Best: 928.02 		N:6
+Henley         		Mean: 180.93 		Best: 920.47 		N:5
+Smith          		Mean: 129.31 		Best: 919.71 		N:7
+Moffatt        		Mean: 180.46 		Best: 915.88 		N:5
+Higginbotham   		Mean: 113.8 		Best: 914.58 		N:8
+Green          		Mean: 150.37 		Best: 901.52 		N:6
+Berry          		Mean: 128.9 		Best: 901.52 		N:7
+Robinson       		Mean: 179.79 		Best: 898.38 		N:5
+
+########## REPORT GEN: 127 ##########
+SPECIES: 
+Lockridge      		Mean: 156.58 		Best: 948.91 		N:6
+Ulrich         		Mean: 92.25 		Best: 948.91 		N:10
+Taylor         		Mean: 230.82 		Best: 937.15 		N:4
+Gaunt          		Mean: 100.65 		Best: 932.38 		N:9
+Robinson       		Mean: 112.87 		Best: 930.07 		N:8
+Smith          		Mean: 129.47 		Best: 928.02 		N:7
+Henley         		Mean: 100.58 		Best: 920.47 		N:9
+Priddy         		Mean: 101.15 		Best: 919.71 		N:9
+Berry          		Mean: 181.62 		Best: 919.71 		N:5
+Moffatt        		Mean: 112.73 		Best: 915.88 		N:8
+Higginbotham   		Mean: 181.5 		Best: 914.58 		N:5
+Green          		Mean: 180.46 		Best: 901.52 		N:5
+Smith          		Mean: 179.83 		Best: 898.38 		N:5
+
+########## REPORT GEN: 128 ##########
+SPECIES: 
+Taylor         		Mean: 102.82 		Best: 948.91 		N:9
+Lockridge      		Mean: 182.7 		Best: 937.15 		N:5
+Gaunt          		Mean: 181.79 		Best: 932.38 		N:5
+Robinson       		Mean: 100.32 		Best: 930.07 		N:9
+Ulrich         		Mean: 131.58 		Best: 929.5 		N:7
+Smith          		Mean: 151.8 		Best: 928.02 		N:6
+Henley         		Mean: 180.94 		Best: 920.47 		N:5
+Berry          		Mean: 69.62 		Best: 919.71 		N:13
+Moffatt        		Mean: 150.88 		Best: 915.88 		N:6
+Higginbotham   		Mean: 100.93 		Best: 914.58 		N:9
+Priddy         		Mean: 450.96 		Best: 901.52 		N:2
+Green          		Mean: 112.84 		Best: 901.52 		N:8
+Smith          		Mean: 149.82 		Best: 898.38 		N:6
+
+########## REPORT GEN: 129 ##########
+SPECIES: 
+Ulrich         		Mean: 101.6 		Best: 948.91 		N:9
+Lockridge      		Mean: 153.24 		Best: 937.15 		N:6
+Gaunt          		Mean: 113.81 		Best: 932.38 		N:8
+Smith          		Mean: 181.11 		Best: 930.07 		N:5
+Taylor         		Mean: 228.55 		Best: 928.5 		N:4
+Smith          		Mean: 113.24 		Best: 928.02 		N:8
+Henley         		Mean: 113.25 		Best: 920.47 		N:8
+Green          		Mean: 129.58 		Best: 919.71 		N:7
+Moffatt        		Mean: 129.26 		Best: 915.88 		N:7
+Higginbotham   		Mean: 227.29 		Best: 914.58 		N:4
+Berry          		Mean: 225.71 		Best: 901.52 		N:4
+Priddy         		Mean: 300.69 		Best: 901.52 		N:3
+Robinson       		Mean: 149.82 		Best: 898.38 		N:6
+
+########## REPORT GEN: 130 ##########
+SPECIES: 
+Lockridge      		Mean: 131.0 		Best: 948.91 		N:7
+Taylor         		Mean: 130.86 		Best: 948.91 		N:7
+Gaunt          		Mean: 183.07 		Best: 932.38 		N:5
+Smith          		Mean: 150.73 		Best: 930.07 		N:6
+Ulrich         		Mean: 130.96 		Best: 929.5 		N:7
+Priddy         		Mean: 181.67 		Best: 928.02 		N:5
+Henley         		Mean: 180.88 		Best: 920.47 		N:5
+Berry          		Mean: 82.36 		Best: 919.71 		N:11
+Moffatt        		Mean: 180.79 		Best: 915.88 		N:5
+Higginbotham   		Mean: 113.22 		Best: 914.58 		N:8
+Smith          		Mean: 450.76 		Best: 901.52 		N:2
+Green          		Mean: 151.0 		Best: 901.52 		N:6
+Robinson       		Mean: 112.39 		Best: 898.38 		N:8
+
+########## REPORT GEN: 131 ##########
+SPECIES: 
+Lockridge      		Mean: 153.01 		Best: 948.91 		N:6
+Taylor         		Mean: 91.6 		Best: 948.91 		N:10
+Gaunt          		Mean: 113.83 		Best: 932.38 		N:8
+Smith          		Mean: 228.22 		Best: 930.07 		N:4
+Robinson       		Mean: 129.15 		Best: 930.07 		N:7
+Ulrich         		Mean: 457.77 		Best: 928.5 		N:2
+Priddy         		Mean: 130.13 		Best: 928.02 		N:7
+Henley         		Mean: 112.83 		Best: 920.47 		N:8
+Smith          		Mean: 226.93 		Best: 919.71 		N:4
+Moffatt        		Mean: 112.61 		Best: 915.88 		N:8
+Higginbotham   		Mean: 181.04 		Best: 914.58 		N:5
+Berry          		Mean: 180.64 		Best: 901.52 		N:5
+Green          		Mean: 128.91 		Best: 901.52 		N:7
+
+########## REPORT GEN: 132 ##########
+SPECIES: 
+Lockridge      		Mean: 182.98 		Best: 948.91 		N:5
+Taylor         		Mean: 184.7 		Best: 948.91 		N:5
+Ulrich         		Mean: 130.63 		Best: 948.91 		N:7
+Gaunt          		Mean: 181.75 		Best: 932.38 		N:5
+Smith          		Mean: 113.32 		Best: 930.07 		N:8
+Robinson       		Mean: 181.23 		Best: 930.07 		N:5
+Smith          		Mean: 151.84 		Best: 928.02 		N:6
+Green          		Mean: 129.52 		Best: 928.02 		N:7
+Henley         		Mean: 180.91 		Best: 920.47 		N:5
+Priddy         		Mean: 181.38 		Best: 919.71 		N:5
+Moffatt        		Mean: 180.48 		Best: 915.88 		N:5
+Higginbotham   		Mean: 113.23 		Best: 914.58 		N:8
+Berry          		Mean: 112.96 		Best: 901.52 		N:8
+
+########## REPORT GEN: 133 ##########
+SPECIES: 
+Taylor         		Mean: 76.52 		Best: 948.91 		N:12
+Ulrich         		Mean: 152.91 		Best: 948.91 		N:6
+Gaunt          		Mean: 113.28 		Best: 932.38 		N:8
+Robinson       		Mean: 113.47 		Best: 930.07 		N:8
+Lockridge      		Mean: 151.57 		Best: 928.5 		N:6
+Green          		Mean: 113.61 		Best: 928.02 		N:8
+Priddy         		Mean: 304.02 		Best: 928.02 		N:3
+Henley         		Mean: 113.22 		Best: 920.47 		N:8
+Moffatt        		Mean: 112.69 		Best: 915.88 		N:8
+Higginbotham   		Mean: 181.59 		Best: 914.58 		N:5
+Smith          		Mean: 90.24 		Best: 901.52 		N:10
+Berry          		Mean: 180.71 		Best: 901.52 		N:5
+Smith          		Mean: 179.9 		Best: 898.38 		N:5
+
+########## REPORT GEN: 134 ##########
+SPECIES: 
+Taylor         		Mean: 82.53 		Best: 948.91 		N:11
+Ulrich         		Mean: 130.83 		Best: 948.91 		N:7
+Gaunt          		Mean: 151.29 		Best: 932.38 		N:6
+Smith          		Mean: 129.81 		Best: 930.07 		N:7
+Lockridge      		Mean: 227.03 		Best: 928.5 		N:4
+Priddy         		Mean: 151.85 		Best: 928.02 		N:6
+Smith          		Mean: 129.55 		Best: 928.02 		N:7
+Henley         		Mean: 150.66 		Best: 920.47 		N:6
+Moffatt        		Mean: 180.49 		Best: 915.88 		N:5
+Higginbotham   		Mean: 100.4 		Best: 914.58 		N:9
+Robinson       		Mean: 112.44 		Best: 901.52 		N:8
+Green          		Mean: 225.59 		Best: 901.52 		N:4
+Berry          		Mean: 100.41 		Best: 901.52 		N:9
+
+########## REPORT GEN: 135 ##########
+SPECIES: 
+Ulrich         		Mean: 152.37 		Best: 948.91 		N:6
+Lockridge      		Mean: 101.3 		Best: 948.91 		N:9
+Gaunt          		Mean: 113.31 		Best: 932.38 		N:8
+Smith          		Mean: 129.76 		Best: 930.07 		N:7
+Priddy         		Mean: 227.47 		Best: 928.02 		N:4
+Smith          		Mean: 100.65 		Best: 928.02 		N:9
+Henley         		Mean: 113.17 		Best: 920.47 		N:8
+Green          		Mean: 100.54 		Best: 919.71 		N:9
+Moffatt        		Mean: 100.06 		Best: 915.88 		N:9
+Higginbotham   		Mean: 181.03 		Best: 914.58 		N:5
+Robinson       		Mean: 179.99 		Best: 901.52 		N:5
+Berry          		Mean: 180.79 		Best: 901.52 		N:5
+Taylor         		Mean: 224.89 		Best: 899.1 		N:4
+
+########## REPORT GEN: 136 ##########
+SPECIES: 
+Lockridge      		Mean: 90.54 		Best: 948.91 		N:10
+Taylor         		Mean: 183.42 		Best: 948.91 		N:5
+Gaunt          		Mean: 183.08 		Best: 932.38 		N:5
+Robinson       		Mean: 75.2 		Best: 930.07 		N:12
+Priddy         		Mean: 100.66 		Best: 928.02 		N:9
+Smith          		Mean: 227.54 		Best: 928.02 		N:4
+Henley         		Mean: 180.99 		Best: 920.47 		N:5
+Green          		Mean: 181.4 		Best: 919.71 		N:5
+Moffatt        		Mean: 180.47 		Best: 915.88 		N:5
+Higginbotham   		Mean: 100.76 		Best: 914.58 		N:9
+Ulrich         		Mean: 180.65 		Best: 907.84 		N:5
+Berry          		Mean: 100.44 		Best: 901.52 		N:9
+Smith          		Mean: 299.71 		Best: 898.64 		N:3
+
+########## REPORT GEN: 137 ##########
+SPECIES: 
+Taylor         		Mean: 83.62 		Best: 948.91 		N:11
+Smith          		Mean: 129.9 		Best: 934.74 		N:7
+Gaunt          		Mean: 113.3 		Best: 932.38 		N:8
+Priddy         		Mean: 90.86 		Best: 928.02 		N:10
+Henley         		Mean: 113.25 		Best: 921.08 		N:8
+Smith          		Mean: 182.22 		Best: 919.71 		N:5
+Moffatt        		Mean: 112.75 		Best: 915.88 		N:8
+Higginbotham   		Mean: 226.45 		Best: 914.58 		N:4
+Ulrich         		Mean: 150.03 		Best: 903.59 		N:6
+Green          		Mean: 180.43 		Best: 901.52 		N:5
+Berry          		Mean: 225.93 		Best: 901.52 		N:4
+Lockridge      		Mean: 224.85 		Best: 899.1 		N:4
+Robinson       		Mean: 179.83 		Best: 898.37 		N:5
+
+########## REPORT GEN: 138 ##########
+SPECIES: 
+Lockridge      		Mean: 82.75 		Best: 948.91 		N:11
+Smith          		Mean: 181.39 		Best: 934.74 		N:5
+Gaunt          		Mean: 181.79 		Best: 932.38 		N:5
+Robinson       		Mean: 100.31 		Best: 930.07 		N:9
+Priddy         		Mean: 182.53 		Best: 927.84 		N:5
+Henley         		Mean: 180.97 		Best: 921.08 		N:5
+Smith          		Mean: 151.02 		Best: 919.71 		N:6
+Green          		Mean: 82.24 		Best: 919.71 		N:11
+Moffatt        		Mean: 180.5 		Best: 915.88 		N:5
+Higginbotham   		Mean: 113.25 		Best: 914.58 		N:8
+Ulrich         		Mean: 128.72 		Best: 907.21 		N:7
+Berry          		Mean: 112.93 		Best: 901.52 		N:8
+Taylor         		Mean: 224.92 		Best: 899.1 		N:4
+
+########## REPORT GEN: 139 ##########
+SPECIES: 
+Lockridge      		Mean: 151.77 		Best: 948.91 		N:6
+Robinson       		Mean: 227.22 		Best: 934.74 		N:4
+Gaunt          		Mean: 101.09 		Best: 932.38 		N:9
+Smith          		Mean: 90.28 		Best: 930.07 		N:10
+Smith          		Mean: 227.44 		Best: 927.84 		N:4
+Henley         		Mean: 100.3 		Best: 921.08 		N:9
+Priddy         		Mean: 100.55 		Best: 919.71 		N:9
+Green          		Mean: 113.49 		Best: 919.71 		N:8
+Taylor         		Mean: 128.92 		Best: 919.7 		N:7
+Moffatt        		Mean: 100.35 		Best: 915.88 		N:9
+Higginbotham   		Mean: 181.04 		Best: 914.58 		N:5
+Berry          		Mean: 180.72 		Best: 901.52 		N:5
+Ulrich         		Mean: 149.96 		Best: 899.1 		N:6
+
+########## REPORT GEN: 140 ##########
+SPECIES: 
+Lockridge      		Mean: 130.15 		Best: 948.91 		N:7
+Robinson       		Mean: 114.13 		Best: 934.74 		N:8
+Gaunt          		Mean: 184.35 		Best: 932.38 		N:5
+Green          		Mean: 113.27 		Best: 927.84 		N:8
+Priddy         		Mean: 100.93 		Best: 927.84 		N:9
+Henley         		Mean: 180.97 		Best: 921.08 		N:5
+Smith          		Mean: 456.35 		Best: 919.71 		N:2
+Taylor         		Mean: 90.18 		Best: 919.7 		N:10
+Moffatt        		Mean: 180.6 		Best: 915.88 		N:5
+Higginbotham   		Mean: 100.42 		Best: 914.58 		N:9
+Berry          		Mean: 100.41 		Best: 901.52 		N:9
+Ulrich         		Mean: 150.0 		Best: 899.1 		N:6
+Smith          		Mean: 179.76 		Best: 898.3 		N:5
+
+########## REPORT GEN: 141 ##########
+SPECIES: 
+Lockridge      		Mean: 91.89 		Best: 948.91 		N:10
+Smith          		Mean: 150.91 		Best: 934.74 		N:6
+Gaunt          		Mean: 114.85 		Best: 932.38 		N:8
+Robinson       		Mean: 129.16 		Best: 930.07 		N:7
+Green          		Mean: 184.4 		Best: 927.84 		N:5
+Ulrich         		Mean: 303.12 		Best: 927.79 		N:3
+Priddy         		Mean: 182.25 		Best: 923.5 		N:5
+Henley         		Mean: 113.97 		Best: 921.08 		N:8
+Moffatt        		Mean: 112.7 		Best: 915.88 		N:8
+Higginbotham   		Mean: 226.53 		Best: 914.58 		N:4
+Taylor         		Mean: 180.08 		Best: 902.03 		N:5
+Smith          		Mean: 300.55 		Best: 901.52 		N:3
+Berry          		Mean: 225.83 		Best: 901.52 		N:4
+
+########## REPORT GEN: 142 ##########
+SPECIES: 
+Lockridge      		Mean: 182.3 		Best: 948.91 		N:5
+Robinson       		Mean: 113.58 		Best: 934.74 		N:8
+Gaunt          		Mean: 229.69 		Best: 932.38 		N:4
+Smith          		Mean: 151.9 		Best: 927.84 		N:6
+Ulrich         		Mean: 129.29 		Best: 927.79 		N:7
+Green          		Mean: 114.0 		Best: 927.77 		N:8
+Henley         		Mean: 229.23 		Best: 921.08 		N:4
+Priddy         		Mean: 151.06 		Best: 919.71 		N:6
+Moffatt        		Mean: 226.01 		Best: 915.88 		N:4
+Taylor         		Mean: 150.15 		Best: 902.03 		N:6
+Berry          		Mean: 112.93 		Best: 901.52 		N:8
+Higginbotham   		Mean: 112.79 		Best: 901.52 		N:8
+Smith          		Mean: 299.71 		Best: 898.38 		N:3
+
+########## REPORT GEN: 143 ##########
+SPECIES: 
+Ulrich         		Mean: 152.56 		Best: 948.91 		N:6
+Robinson       		Mean: 181.35 		Best: 934.74 		N:5
+Gaunt          		Mean: 114.85 		Best: 932.38 		N:8
+Priddy         		Mean: 182.61 		Best: 927.84 		N:5
+Lockridge      		Mean: 113.03 		Best: 927.79 		N:8
+Green          		Mean: 113.69 		Best: 927.77 		N:8
+Henley         		Mean: 114.32 		Best: 921.08 		N:8
+Moffatt        		Mean: 112.99 		Best: 915.88 		N:8
+Smith          		Mean: 225.54 		Best: 901.52 		N:4
+Berry          		Mean: 180.77 		Best: 901.52 		N:5
+Higginbotham   		Mean: 180.61 		Best: 901.52 		N:5
+Taylor         		Mean: 180.03 		Best: 898.77 		N:5
+Smith          		Mean: 149.95 		Best: 898.38 		N:6
+
+########## REPORT GEN: 144 ##########
+SPECIES: 
+Ulrich         		Mean: 129.9 		Best: 948.91 		N:7
+Taylor         		Mean: 91.21 		Best: 948.91 		N:10
+Smith          		Mean: 100.89 		Best: 934.74 		N:9
+Gaunt          		Mean: 181.85 		Best: 932.38 		N:5
+Green          		Mean: 130.65 		Best: 927.84 		N:7
+Smith          		Mean: 90.54 		Best: 927.77 		N:10
+Henley         		Mean: 183.62 		Best: 921.09 		N:5
+Moffatt        		Mean: 181.34 		Best: 915.88 		N:5
+Priddy         		Mean: 180.47 		Best: 901.52 		N:5
+Berry          		Mean: 100.44 		Best: 901.52 		N:9
+Higginbotham   		Mean: 100.34 		Best: 901.52 		N:9
+Lockridge      		Mean: 300.14 		Best: 899.43 		N:3
+Robinson       		Mean: 128.42 		Best: 898.27 		N:7
+
+########## REPORT GEN: 145 ##########
+SPECIES: 
+Taylor         		Mean: 100.8 		Best: 948.91 		N:9
+Lockridge      		Mean: 231.81 		Best: 948.91 		N:4
+Smith          		Mean: 181.44 		Best: 934.74 		N:5
+Robinson       		Mean: 150.9 		Best: 933.19 		N:6
+Gaunt          		Mean: 101.12 		Best: 932.38 		N:9
+Green          		Mean: 90.57 		Best: 927.77 		N:10
+Priddy         		Mean: 151.92 		Best: 927.77 		N:6
+Henley         		Mean: 101.48 		Best: 921.08 		N:9
+Moffatt        		Mean: 100.11 		Best: 915.88 		N:9
+Smith          		Mean: 225.59 		Best: 901.52 		N:4
+Berry          		Mean: 180.81 		Best: 901.52 		N:5
+Higginbotham   		Mean: 180.46 		Best: 901.52 		N:5
+Ulrich         		Mean: 224.82 		Best: 898.56 		N:4
+
+########## REPORT GEN: 146 ##########
+SPECIES: 
+Taylor         		Mean: 184.24 		Best: 948.91 		N:5
+Lockridge      		Mean: 91.45 		Best: 948.91 		N:10
+Robinson       		Mean: 82.42 		Best: 934.74 		N:11
+Smith          		Mean: 228.25 		Best: 933.19 		N:4
+Gaunt          		Mean: 181.82 		Best: 932.38 		N:5
+Green          		Mean: 227.6 		Best: 927.77 		N:4
+Priddy         		Mean: 90.88 		Best: 930.19 		N:10
+Henley         		Mean: 182.75 		Best: 921.08 		N:5
+Moffatt        		Mean: 226.0 		Best: 915.88 		N:4
+Ulrich         		Mean: 150.32 		Best: 902.06 		N:6
+Smith          		Mean: 150.4 		Best: 901.52 		N:6
+Berry          		Mean: 112.96 		Best: 901.52 		N:8
+Higginbotham   		Mean: 112.74 		Best: 901.52 		N:8
+
+########## REPORT GEN: 147 ##########
+SPECIES: 
+Lockridge      		Mean: 184.41 		Best: 948.91 		N:5
+Ulrich         		Mean: 101.42 		Best: 948.91 		N:9
+Robinson       		Mean: 113.6 		Best: 934.51 		N:8
+Taylor         		Mean: 129.74 		Best: 933.32 		N:7
+Smith          		Mean: 182.07 		Best: 933.19 		N:5
+Gaunt          		Mean: 113.32 		Best: 932.38 		N:8
+Priddy         		Mean: 304.2 		Best: 927.77 		N:3
+Smith          		Mean: 129.6 		Best: 927.77 		N:7
+Henley         		Mean: 101.47 		Best: 922.94 		N:9
+Moffatt        		Mean: 112.68 		Best: 915.88 		N:8
+Green          		Mean: 90.23 		Best: 901.52 		N:10
+Berry          		Mean: 180.81 		Best: 901.52 		N:5
+Higginbotham   		Mean: 180.5 		Best: 901.52 		N:5
+
+########## REPORT GEN: 148 ##########
+SPECIES: 
+Ulrich         		Mean: 229.16 		Best: 948.91 		N:4
+Taylor         		Mean: 114.88 		Best: 948.91 		N:8
+Robinson       		Mean: 113.63 		Best: 934.51 		N:8
+Smith          		Mean: 150.91 		Best: 933.19 		N:6
+Gaunt          		Mean: 181.87 		Best: 932.38 		N:5
+Priddy         		Mean: 304.3 		Best: 927.77 		N:3
+Green          		Mean: 90.88 		Best: 927.77 		N:10
+Henley         		Mean: 181.83 		Best: 922.94 		N:5
+Moffatt        		Mean: 181.05 		Best: 921.65 		N:5
+Lockridge      		Mean: 112.78 		Best: 908.37 		N:8
+Smith          		Mean: 225.52 		Best: 901.52 		N:4
+Berry          		Mean: 150.68 		Best: 901.52 		N:6
+Higginbotham   		Mean: 100.22 		Best: 901.52 		N:9
+Lockhart       		Mean: 301.28 		Best: 901.52 		N:3
+
+########## REPORT GEN: 149 ##########
+SPECIES: 
+Taylor         		Mean: 113.89 		Best: 948.91 		N:8
+Lockridge      		Mean: 130.06 		Best: 948.91 		N:7
+Robinson       		Mean: 181.41 		Best: 934.51 		N:5
+Smith          		Mean: 181.34 		Best: 933.19 		N:5
+Gaunt          		Mean: 129.62 		Best: 932.38 		N:7
+Priddy         		Mean: 227.68 		Best: 927.77 		N:4
+Green          		Mean: 113.28 		Best: 927.77 		N:8
+Smith          		Mean: 129.62 		Best: 927.77 		N:7
+Moffatt        		Mean: 130.24 		Best: 923.32 		N:7
+Henley         		Mean: 129.04 		Best: 922.94 		N:7
+Berry          		Mean: 225.99 		Best: 901.52 		N:4
+Higginbotham   		Mean: 225.79 		Best: 901.52 		N:4
+Lockhart       		Mean: 113.04 		Best: 901.52 		N:8
+
+########## REPORT GEN: 150 ##########
+SPECIES: 
+Ulrich         		Mean: 187.07 		Best: 948.91 		N:5
+Taylor         		Mean: 154.74 		Best: 948.91 		N:6
+Lockridge      		Mean: 462.94 		Best: 948.91 		N:2
+Robinson       		Mean: 130.74 		Best: 934.51 		N:7
+Smith          		Mean: 181.29 		Best: 933.19 		N:5
+Gaunt          		Mean: 227.79 		Best: 932.38 		N:4
+Priddy         		Mean: 227.59 		Best: 927.77 		N:4
+Green          		Mean: 130.81 		Best: 927.77 		N:7
+Henley         		Mean: 226.49 		Best: 922.94 		N:4
+Moffatt        		Mean: 226.84 		Best: 919.4 		N:4
+Smith          		Mean: 225.64 		Best: 901.52 		N:4
+Berry          		Mean: 452.05 		Best: 901.52 		N:2
+Higginbotham   		Mean: 129.06 		Best: 901.52 		N:7
+Lockhart       		Mean: 150.65 		Best: 901.52 		N:6
+Harris         		Mean: 300.79 		Best: 901.52 		N:3
+
+########## REPORT GEN: 151 ##########
+SPECIES: 
+Ulrich         		Mean: 229.35 		Best: 948.91 		N:4
+Taylor         		Mean: 305.88 		Best: 948.91 		N:3
+Lockridge      		Mean: 157.08 		Best: 948.91 		N:6
+Higginbotham   		Mean: 304.91 		Best: 935.4 		N:3
+Robinson       		Mean: 227.33 		Best: 934.51 		N:4
+Smith          		Mean: 227.07 		Best: 933.19 		N:4
+Gaunt          		Mean: 151.37 		Best: 932.38 		N:6
+Priddy         		Mean: 151.35 		Best: 927.77 		N:6
+Green          		Mean: 304.29 		Best: 927.77 		N:3
+Henley         		Mean: 150.65 		Best: 922.72 		N:6
+Moffatt        		Mean: 151.0 		Best: 919.4 		N:6
+Smith          		Mean: 150.41 		Best: 901.52 		N:6
+Berry          		Mean: 451.22 		Best: 901.52 		N:2
+Lockhart       		Mean: 452.01 		Best: 901.52 		N:2
+Harris         		Mean: 90.44 		Best: 901.52 		N:10
+
+########## REPORT GEN: 152 ##########
+SPECIES: 
+Ulrich         		Mean: 151.92 		Best: 948.91 		N:6
+Taylor         		Mean: 232.17 		Best: 948.91 		N:4
+Lockridge      		Mean: 153.23 		Best: 948.91 		N:6
+Higginbotham   		Mean: 151.36 		Best: 935.4 		N:6
+Robinson       		Mean: 303.98 		Best: 934.51 		N:3
+Smith          		Mean: 100.43 		Best: 933.19 		N:9
+Gaunt          		Mean: 227.77 		Best: 932.38 		N:4
+Green          		Mean: 304.22 		Best: 927.77 		N:3
+Smith          		Mean: 129.58 		Best: 927.77 		N:7
+Henley         		Mean: 226.56 		Best: 922.72 		N:4
+Moffatt        		Mean: 226.85 		Best: 919.4 		N:4
+Priddy         		Mean: 225.6 		Best: 901.52 		N:4
+Berry          		Mean: 300.83 		Best: 901.52 		N:3
+Lockhart       		Mean: 128.97 		Best: 901.52 		N:7
+Harris         		Mean: 301.22 		Best: 901.52 		N:3
+
+########## REPORT GEN: 153 ##########
+SPECIES: 
+Ulrich         		Mean: 228.45 		Best: 948.91 		N:4
+Taylor         		Mean: 154.71 		Best: 948.91 		N:6
+Lockridge      		Mean: 182.41 		Best: 948.91 		N:5
+Higginbotham   		Mean: 227.44 		Best: 935.4 		N:4
+Robinson       		Mean: 151.97 		Best: 934.51 		N:6
+Moffatt        		Mean: 130.03 		Best: 933.43 		N:7
+Gaunt          		Mean: 129.64 		Best: 932.38 		N:7
+Green          		Mean: 129.6 		Best: 927.77 		N:7
+Smith          		Mean: 181.71 		Best: 927.77 		N:5
+Henley         		Mean: 129.39 		Best: 922.72 		N:7
+Priddy         		Mean: 180.48 		Best: 901.52 		N:5
+Berry          		Mean: 150.45 		Best: 901.52 		N:6
+Lockhart       		Mean: 150.71 		Best: 901.52 		N:6
+Harris         		Mean: 225.98 		Best: 901.52 		N:4
+Smith          		Mean: 224.91 		Best: 898.38 		N:4
+
+########## REPORT GEN: 154 ##########
+SPECIES: 
+Ulrich         		Mean: 231.7 		Best: 948.91 		N:4
+Taylor         		Mean: 82.81 		Best: 948.91 		N:11
+Lockridge      		Mean: 153.24 		Best: 948.91 		N:6
+Higginbotham   		Mean: 113.19 		Best: 935.4 		N:8
+Robinson       		Mean: 181.45 		Best: 934.51 		N:5
+Moffatt        		Mean: 181.89 		Best: 933.43 		N:5
+Smith          		Mean: 113.0 		Best: 933.23 		N:8
+Gaunt          		Mean: 181.87 		Best: 932.38 		N:5
+Priddy         		Mean: 152.09 		Best: 927.77 		N:6
+Henley         		Mean: 181.97 		Best: 922.72 		N:5
+Green          		Mean: 150.37 		Best: 901.52 		N:6
+Smith          		Mean: 128.91 		Best: 901.52 		N:7
+Berry          		Mean: 450.94 		Best: 901.52 		N:2
+Lockhart       		Mean: 451.32 		Best: 901.52 		N:2
+Harris         		Mean: 90.41 		Best: 901.52 		N:10
+Scoggins       		Mean: 225.5 		Best: 901.52 		N:4
+
+########## REPORT GEN: 155 ##########
+SPECIES: 
+Ulrich         		Mean: 231.7 		Best: 948.91 		N:4
+Taylor         		Mean: 154.58 		Best: 948.91 		N:6
+Lockridge      		Mean: 151.8 		Best: 948.91 		N:6
+Higginbotham   		Mean: 227.42 		Best: 935.4 		N:4
+Smith          		Mean: 182.89 		Best: 934.51 		N:5
+Moffatt        		Mean: 181.55 		Best: 933.43 		N:5
+Gaunt          		Mean: 181.86 		Best: 932.38 		N:5
+Smith          		Mean: 181.44 		Best: 927.81 		N:5
+Priddy         		Mean: 151.6 		Best: 927.77 		N:6
+Henley         		Mean: 180.99 		Best: 922.72 		N:5
+Berry          		Mean: 180.57 		Best: 901.52 		N:5
+Lockhart       		Mean: 301.47 		Best: 901.52 		N:3
+Harris         		Mean: 180.82 		Best: 901.52 		N:5
+Scoggins       		Mean: 128.85 		Best: 901.52 		N:7
+Robinson       		Mean: 224.98 		Best: 898.37 		N:4
+
+########## REPORT GEN: 156 ##########
+SPECIES: 
+Ulrich         		Mean: 316.56 		Best: 948.91 		N:3
+Taylor         		Mean: 153.2 		Best: 948.91 		N:6
+Lockridge      		Mean: 182.2 		Best: 948.91 		N:5
+Higginbotham   		Mean: 151.06 		Best: 935.4 		N:6
+Robinson       		Mean: 151.0 		Best: 934.51 		N:6
+Moffatt        		Mean: 227.79 		Best: 933.43 		N:4
+Gaunt          		Mean: 227.76 		Best: 932.38 		N:4
+Smith          		Mean: 457.43 		Best: 927.81 		N:2
+Priddy         		Mean: 181.54 		Best: 927.77 		N:5
+Henley         		Mean: 226.54 		Best: 922.72 		N:4
+Smith          		Mean: 225.12 		Best: 901.52 		N:4
+Berry          		Mean: 150.72 		Best: 901.52 		N:6
+Harris         		Mean: 301.41 		Best: 901.52 		N:3
+Scoggins       		Mean: 129.02 		Best: 901.52 		N:7
+Green          		Mean: 300.85 		Best: 901.52 		N:3
+
+########## REPORT GEN: 157 ##########
+SPECIES: 
+Ulrich         		Mean: 231.64 		Best: 948.91 		N:4
+Taylor         		Mean: 188.24 		Best: 948.91 		N:5
+Lockridge      		Mean: 188.26 		Best: 948.91 		N:5
+Higginbotham   		Mean: 304.04 		Best: 935.4 		N:3
+Robinson       		Mean: 304.32 		Best: 934.51 		N:3
+Moffatt        		Mean: 181.63 		Best: 933.43 		N:5
+Gaunt          		Mean: 183.25 		Best: 933.14 		N:5
+Smith          		Mean: 228.45 		Best: 927.81 		N:4
+Green          		Mean: 151.66 		Best: 927.81 		N:6
+Priddy         		Mean: 227.6 		Best: 927.77 		N:4
+Henley         		Mean: 182.88 		Best: 922.72 		N:5
+Lockhart       		Mean: 150.68 		Best: 901.52 		N:6
+Harris         		Mean: 128.99 		Best: 901.52 		N:7
+Smith          		Mean: 179.84 		Best: 898.29 		N:5
+
+########## REPORT GEN: 158 ##########
+SPECIES: 
+Ulrich         		Mean: 188.26 		Best: 948.91 		N:5
+Taylor         		Mean: 231.6 		Best: 948.91 		N:4
+Lockridge      		Mean: 134.38 		Best: 948.91 		N:7
+Higginbotham   		Mean: 151.01 		Best: 935.4 		N:6
+Robinson       		Mean: 151.12 		Best: 934.51 		N:6
+Moffatt        		Mean: 229.25 		Best: 933.43 		N:4
+Gaunt          		Mean: 229.58 		Best: 933.14 		N:4
+Smith          		Mean: 129.8 		Best: 927.81 		N:7
+Green          		Mean: 228.66 		Best: 927.81 		N:4
+Priddy         		Mean: 182.55 		Best: 927.81 		N:5
+Henley         		Mean: 228.08 		Best: 922.72 		N:4
+Harris         		Mean: 300.91 		Best: 901.52 		N:3
+Scoggins       		Mean: 180.78 		Best: 901.52 		N:5
+Smith          		Mean: 224.81 		Best: 901.52 		N:4
+
+########## REPORT GEN: 159 ##########
+SPECIES: 
+Ulrich         		Mean: 311.58 		Best: 948.91 		N:3
+Taylor         		Mean: 316.64 		Best: 948.91 		N:3
+Lockridge      		Mean: 115.55 		Best: 948.91 		N:8
+Higginbotham   		Mean: 227.27 		Best: 935.4 		N:4
+Robinson       		Mean: 113.13 		Best: 935.37 		N:8
+Moffatt        		Mean: 152.51 		Best: 933.43 		N:6
+Gaunt          		Mean: 152.08 		Best: 933.14 		N:6
+Priddy         		Mean: 130.44 		Best: 927.81 		N:7
+Smith          		Mean: 230.57 		Best: 927.81 		N:4
+Green          		Mean: 458.46 		Best: 927.77 		N:2
+Henley         		Mean: 152.65 		Best: 922.72 		N:6
+Lockhart       		Mean: 450.76 		Best: 901.52 		N:2
+Harris         		Mean: 300.52 		Best: 901.52 		N:3
+Scoggins       		Mean: 129.08 		Best: 901.52 		N:7
+Smith          		Mean: 449.21 		Best: 898.38 		N:2
+
+########## REPORT GEN: 160 ##########
+SPECIES: 
+Ulrich         		Mean: 234.9 		Best: 948.91 		N:4
+Taylor         		Mean: 117.39 		Best: 948.91 		N:8
+Lockridge      		Mean: 133.87 		Best: 948.91 		N:7
+Higginbotham   		Mean: 151.01 		Best: 935.4 		N:6
+Smith          		Mean: 181.36 		Best: 935.37 		N:5
+Moffatt        		Mean: 229.41 		Best: 933.43 		N:4
+Gaunt          		Mean: 227.77 		Best: 933.14 		N:4
+Smith          		Mean: 152.0 		Best: 927.81 		N:6
+Green          		Mean: 182.55 		Best: 927.81 		N:5
+Henley         		Mean: 228.03 		Best: 922.72 		N:4
+Lockhart       		Mean: 150.6 		Best: 901.52 		N:6
+Harris         		Mean: 225.64 		Best: 901.52 		N:4
+Scoggins       		Mean: 301.46 		Best: 901.52 		N:3
+Priddy         		Mean: 449.19 		Best: 898.38 		N:2
+Robinson       		Mean: 299.46 		Best: 898.38 		N:3
+
+########## REPORT GEN: 161 ##########
+SPECIES: 
+Ulrich         		Mean: 229.44 		Best: 948.91 		N:4
+Taylor         		Mean: 133.17 		Best: 948.91 		N:7
+Lockridge      		Mean: 232.3 		Best: 948.91 		N:4
+Higginbotham   		Mean: 227.44 		Best: 935.4 		N:4
+Robinson       		Mean: 130.03 		Best: 935.37 		N:7
+Moffatt        		Mean: 129.25 		Best: 933.43 		N:7
+Gaunt          		Mean: 152.34 		Best: 933.14 		N:6
+Green          		Mean: 151.71 		Best: 927.91 		N:6
+Smith          		Mean: 304.23 		Best: 927.77 		N:3
+Priddy         		Mean: 227.18 		Best: 927.77 		N:4
+Henley         		Mean: 152.68 		Best: 923.68 		N:6
+Harris         		Mean: 129.18 		Best: 901.52 		N:7
+Scoggins       		Mean: 100.51 		Best: 901.52 		N:9
+Smith          		Mean: 224.6 		Best: 898.38 		N:4
+
+########## REPORT GEN: 162 ##########
+SPECIES: 
+Ulrich         		Mean: 91.63 		Best: 948.91 		N:10
+Taylor         		Mean: 229.0 		Best: 948.91 		N:4
+Lockridge      		Mean: 114.38 		Best: 948.91 		N:8
+Higginbotham   		Mean: 113.15 		Best: 935.4 		N:8
+Robinson       		Mean: 150.92 		Best: 935.37 		N:6
+Moffatt        		Mean: 181.23 		Best: 933.43 		N:5
+Gaunt          		Mean: 151.37 		Best: 933.14 		N:6
+Smith          		Mean: 227.2 		Best: 927.91 		N:4
+Green          		Mean: 101.31 		Best: 927.77 		N:9
+Priddy         		Mean: 129.17 		Best: 927.77 		N:7
+Henley         		Mean: 152.11 		Best: 923.68 		N:6
+Scoggins       		Mean: 450.93 		Best: 901.52 		N:2
+Blackburn      		Mean: 128.97 		Best: 901.52 		N:7
+Smith          		Mean: 128.35 		Best: 898.38 		N:7
+
+########## REPORT GEN: 163 ##########
+SPECIES: 
+Ulrich         		Mean: 182.68 		Best: 948.91 		N:5
+Taylor         		Mean: 152.3 		Best: 948.91 		N:6
+Lockridge      		Mean: 152.3 		Best: 948.91 		N:6
+Higginbotham   		Mean: 227.45 		Best: 935.4 		N:4
+Robinson       		Mean: 100.36 		Best: 935.37 		N:9
+Moffatt        		Mean: 129.22 		Best: 933.43 		N:7
+Gaunt          		Mean: 151.85 		Best: 933.14 		N:6
+Smith          		Mean: 226.88 		Best: 927.91 		N:4
+Green          		Mean: 130.55 		Best: 927.77 		N:7
+Henley         		Mean: 152.81 		Best: 923.68 		N:6
+Priddy         		Mean: 149.94 		Best: 901.52 		N:6
+Scoggins       		Mean: 301.24 		Best: 901.52 		N:3
+Blackburn      		Mean: 150.73 		Best: 901.52 		N:6
+Smith          		Mean: 450.04 		Best: 901.52 		N:2
+
+########## REPORT GEN: 164 ##########
+SPECIES: 
+Taylor         		Mean: 232.17 		Best: 948.91 		N:4
+Lockridge      		Mean: 153.08 		Best: 948.91 		N:6
+Higginbotham   		Mean: 113.16 		Best: 935.4 		N:8
+Robinson       		Mean: 460.01 		Best: 935.37 		N:2
+Moffatt        		Mean: 227.24 		Best: 933.43 		N:4
+Gaunt          		Mean: 183.26 		Best: 933.14 		N:5
+Ulrich         		Mean: 150.99 		Best: 931.25 		N:6
+Smith          		Mean: 100.81 		Best: 927.91 		N:9
+Henley         		Mean: 182.19 		Best: 923.68 		N:5
+Green          		Mean: 224.99 		Best: 901.52 		N:4
+Priddy         		Mean: 225.2 		Best: 901.52 		N:4
+Scoggins       		Mean: 150.33 		Best: 901.52 		N:6
+Blackburn      		Mean: 180.6 		Best: 901.52 		N:5
+Smith          		Mean: 149.86 		Best: 901.52 		N:6
+
+########## REPORT GEN: 165 ##########
+SPECIES: 
+Lockridge      		Mean: 186.59 		Best: 948.91 		N:5
+Ulrich         		Mean: 101.18 		Best: 948.91 		N:9
+Higginbotham   		Mean: 227.35 		Best: 935.4 		N:4
+Robinson       		Mean: 460.01 		Best: 935.37 		N:2
+Smith          		Mean: 129.37 		Best: 935.37 		N:7
+Green          		Mean: 151.94 		Best: 933.53 		N:6
+Moffatt        		Mean: 113.09 		Best: 933.43 		N:8
+Gaunt          		Mean: 152.36 		Best: 933.14 		N:6
+Priddy         		Mean: 100.45 		Best: 927.91 		N:9
+Henley         		Mean: 152.17 		Best: 923.68 		N:6
+Taylor         		Mean: 225.52 		Best: 901.52 		N:4
+Scoggins       		Mean: 225.49 		Best: 901.52 		N:4
+Blackburn      		Mean: 129.12 		Best: 901.52 		N:7
+Smith          		Mean: 179.69 		Best: 898.38 		N:5
+
+########## REPORT GEN: 166 ##########
+SPECIES: 
+Lockridge      		Mean: 115.93 		Best: 948.91 		N:8
+Taylor         		Mean: 182.24 		Best: 948.91 		N:5
+Higginbotham   		Mean: 113.1 		Best: 935.4 		N:8
+Robinson       		Mean: 152.21 		Best: 935.37 		N:6
+Moffatt        		Mean: 227.24 		Best: 933.43 		N:4
+Gaunt          		Mean: 152.34 		Best: 933.14 		N:6
+Smith          		Mean: 130.8 		Best: 933.53 		N:7
+Ulrich         		Mean: 129.21 		Best: 931.25 		N:7
+Henley         		Mean: 152.12 		Best: 923.68 		N:6
+Smith          		Mean: 302.7 		Best: 919.44 		N:3
+Green          		Mean: 179.83 		Best: 901.52 		N:5
+Scoggins       		Mean: 112.77 		Best: 901.52 		N:8
+Blackburn      		Mean: 180.67 		Best: 901.52 		N:5
+Priddy         		Mean: 224.59 		Best: 898.38 		N:4
+
+########## REPORT GEN: 167 ##########
+SPECIES: 
+Taylor         		Mean: 230.62 		Best: 948.91 		N:4
+Ulrich         		Mean: 114.52 		Best: 948.91 		N:8
+Higginbotham   		Mean: 227.31 		Best: 935.4 		N:4
+Smith          		Mean: 182.3 		Best: 935.37 		N:5
+Robinson       		Mean: 130.69 		Best: 935.37 		N:7
+Moffatt        		Mean: 113.19 		Best: 933.43 		N:8
+Gaunt          		Mean: 151.34 		Best: 933.14 		N:6
+Priddy         		Mean: 113.61 		Best: 933.05 		N:8
+Lockridge      		Mean: 227.14 		Best: 929.5 		N:4
+Smith          		Mean: 180.94 		Best: 928.04 		N:5
+Henley         		Mean: 151.42 		Best: 923.68 		N:6
+Green          		Mean: 128.48 		Best: 901.52 		N:7
+Scoggins       		Mean: 150.37 		Best: 901.52 		N:6
+Blackburn      		Mean: 180.32 		Best: 901.52 		N:5
+
+########## REPORT GEN: 168 ##########
+SPECIES: 
+Taylor         		Mean: 101.59 		Best: 948.91 		N:9
+Ulrich         		Mean: 91.8 		Best: 948.91 		N:10
+Higginbotham   		Mean: 113.08 		Best: 935.4 		N:8
+Smith          		Mean: 152.14 		Best: 935.37 		N:6
+Moffatt        		Mean: 227.63 		Best: 933.43 		N:4
+Gaunt          		Mean: 151.35 		Best: 933.14 		N:6
+Priddy         		Mean: 113.41 		Best: 933.05 		N:8
+Lockridge      		Mean: 303.86 		Best: 929.5 		N:3
+Henley         		Mean: 150.71 		Best: 923.68 		N:6
+Smith          		Mean: 179.85 		Best: 901.52 		N:5
+Robinson       		Mean: 149.94 		Best: 901.52 		N:6
+Scoggins       		Mean: 150.38 		Best: 901.52 		N:6
+Blackburn      		Mean: 128.81 		Best: 901.52 		N:7
+Green          		Mean: 299.48 		Best: 898.38 		N:3
+
+########## REPORT GEN: 169 ##########
+SPECIES: 
+Taylor         		Mean: 129.78 		Best: 948.91 		N:7
+Ulrich         		Mean: 230.56 		Best: 948.91 		N:4
+Higginbotham   		Mean: 227.36 		Best: 935.4 		N:4
+Smith          		Mean: 181.37 		Best: 935.37 		N:5
+Moffatt        		Mean: 113.29 		Best: 933.43 		N:8
+Gaunt          		Mean: 151.36 		Best: 933.14 		N:6
+Smith          		Mean: 151.57 		Best: 933.05 		N:6
+Priddy         		Mean: 151.46 		Best: 929.64 		N:6
+Henley         		Mean: 150.71 		Best: 923.68 		N:6
+Robinson       		Mean: 128.44 		Best: 901.52 		N:7
+Scoggins       		Mean: 150.39 		Best: 901.52 		N:6
+Blackburn      		Mean: 180.35 		Best: 901.52 		N:5
+Lockridge      		Mean: 224.65 		Best: 898.44 		N:4
+Green          		Mean: 179.72 		Best: 898.38 		N:5
+
+########## REPORT GEN: 170 ##########
+SPECIES: 
+Taylor         		Mean: 113.26 		Best: 948.91 		N:8
+Ulrich         		Mean: 131.95 		Best: 948.91 		N:7
+Lockridge      		Mean: 114.5 		Best: 948.91 		N:8
+Higginbotham   		Mean: 113.1 		Best: 935.4 		N:8
+Robinson       		Mean: 129.22 		Best: 935.37 		N:7
+Moffatt        		Mean: 227.64 		Best: 933.43 		N:4
+Gaunt          		Mean: 151.37 		Best: 933.14 		N:6
+Priddy         		Mean: 182.53 		Best: 933.05 		N:5
+Henley         		Mean: 150.72 		Best: 923.68 		N:6
+Smith          		Mean: 179.88 		Best: 901.52 		N:5
+Scoggins       		Mean: 150.4 		Best: 901.52 		N:6
+Blackburn      		Mean: 128.83 		Best: 901.52 		N:7
+Smith          		Mean: 99.85 		Best: 898.38 		N:9
+Green          		Mean: 179.69 		Best: 898.38 		N:5
+
+########## REPORT GEN: 171 ##########
+SPECIES: 
+Taylor         		Mean: 183.63 		Best: 948.91 		N:5
+Ulrich         		Mean: 151.7 		Best: 948.91 		N:6
+Lockridge      		Mean: 183.54 		Best: 948.91 		N:5
+Higginbotham   		Mean: 181.52 		Best: 935.4 		N:5
+Robinson       		Mean: 129.24 		Best: 935.37 		N:7
+Moffatt        		Mean: 113.28 		Best: 933.43 		N:8
+Gaunt          		Mean: 129.62 		Best: 933.14 		N:7
+Green          		Mean: 181.28 		Best: 933.05 		N:5
+Smith          		Mean: 150.62 		Best: 929.64 		N:6
+Henley         		Mean: 129.11 		Best: 923.68 		N:7
+Smith          		Mean: 128.43 		Best: 901.52 		N:7
+Scoggins       		Mean: 128.94 		Best: 901.52 		N:7
+Blackburn      		Mean: 150.31 		Best: 901.52 		N:6
+Priddy         		Mean: 99.86 		Best: 898.4 		N:9
+
+########## REPORT GEN: 172 ##########
+SPECIES: 
+Taylor         		Mean: 129.88 		Best: 948.91 		N:7
+Ulrich         		Mean: 183.35 		Best: 948.91 		N:5
+Higginbotham   		Mean: 113.12 		Best: 935.4 		N:8
+Smith          		Mean: 150.91 		Best: 935.37 		N:6
+Moffatt        		Mean: 181.78 		Best: 933.43 		N:5
+Smith          		Mean: 229.28 		Best: 933.19 		N:4
+Gaunt          		Mean: 151.41 		Best: 932.89 		N:6
+Green          		Mean: 100.22 		Best: 929.64 		N:9
+Lockridge      		Mean: 82.24 		Best: 929.5 		N:11
+Henley         		Mean: 150.74 		Best: 923.68 		N:6
+Robinson       		Mean: 149.96 		Best: 901.52 		N:6
+Scoggins       		Mean: 150.41 		Best: 901.52 		N:6
+Blackburn      		Mean: 128.84 		Best: 901.52 		N:7
+Priddy         		Mean: 149.8 		Best: 898.38 		N:6
+
+########## REPORT GEN: 173 ##########
+SPECIES: 
+Ulrich         		Mean: 114.06 		Best: 948.91 		N:8
+Lockridge      		Mean: 101.26 		Best: 948.91 		N:9
+Higginbotham   		Mean: 183.0 		Best: 935.4 		N:5
+Smith          		Mean: 129.29 		Best: 935.37 		N:7
+Moffatt        		Mean: 113.29 		Best: 933.43 		N:8
+Green          		Mean: 100.33 		Best: 933.19 		N:9
+Gaunt          		Mean: 129.64 		Best: 932.89 		N:7
+Priddy         		Mean: 302.97 		Best: 929.64 		N:3
+Henley         		Mean: 129.12 		Best: 923.68 		N:7
+Robinson       		Mean: 128.43 		Best: 901.52 		N:7
+Scoggins       		Mean: 128.93 		Best: 901.52 		N:7
+Blackburn      		Mean: 150.34 		Best: 901.52 		N:6
+Smith          		Mean: 128.39 		Best: 898.38 		N:7
+Taylor         		Mean: 449.39 		Best: 898.32 		N:2
+
+########## REPORT GEN: 174 ##########
+SPECIES: 
+Ulrich         		Mean: 151.66 		Best: 948.91 		N:6
+Taylor         		Mean: 228.49 		Best: 948.91 		N:4
+Higginbotham   		Mean: 129.37 		Best: 935.4 		N:7
+Robinson       		Mean: 304.53 		Best: 935.37 		N:3
+Moffatt        		Mean: 227.68 		Best: 933.43 		N:4
+Smith          		Mean: 227.05 		Best: 933.19 		N:4
+Gaunt          		Mean: 181.9 		Best: 932.89 		N:5
+Priddy         		Mean: 129.41 		Best: 929.64 		N:7
+Henley         		Mean: 181.09 		Best: 923.68 		N:5
+Lockridge      		Mean: 301.76 		Best: 907.84 		N:3
+Scoggins       		Mean: 180.51 		Best: 901.52 		N:5
+Blackburn      		Mean: 150.33 		Best: 901.52 		N:6
+Smith          		Mean: 128.35 		Best: 898.38 		N:7
+Green          		Mean: 224.63 		Best: 898.38 		N:4
+
+########## REPORT GEN: 175 ##########
+SPECIES: 
+Taylor         		Mean: 130.81 		Best: 948.91 		N:7
+Lockridge      		Mean: 102.04 		Best: 948.91 		N:9
+Higginbotham   		Mean: 227.37 		Best: 935.4 		N:4
+Robinson       		Mean: 227.55 		Best: 935.37 		N:4
+Smith          		Mean: 151.07 		Best: 935.37 		N:6
+Moffatt        		Mean: 113.29 		Best: 933.43 		N:8
+Priddy         		Mean: 113.48 		Best: 933.19 		N:8
+Gaunt          		Mean: 151.41 		Best: 932.89 		N:6
+Henley         		Mean: 151.34 		Best: 923.68 		N:6
+Scoggins       		Mean: 150.46 		Best: 901.52 		N:6
+Blackburn      		Mean: 180.41 		Best: 901.52 		N:5
+Ulrich         		Mean: 179.79 		Best: 898.78 		N:5
+Green          		Mean: 149.75 		Best: 898.38 		N:6
+Smith          		Mean: 149.8 		Best: 898.38 		N:6
+
+########## REPORT GEN: 176 ##########
+SPECIES: 
+Taylor         		Mean: 306.1 		Best: 948.91 		N:3
+Ulrich         		Mean: 90.56 		Best: 948.91 		N:10
+Green          		Mean: 100.87 		Best: 937.4 		N:9
+Higginbotham   		Mean: 113.69 		Best: 935.4 		N:8
+Robinson       		Mean: 101.0 		Best: 935.37 		N:9
+Moffatt        		Mean: 183.68 		Best: 934.78 		N:5
+Hickman        		Mean: 304.74 		Best: 932.89 		N:3
+Smith          		Mean: 112.97 		Best: 930.07 		N:8
+Lockridge      		Mean: 150.67 		Best: 929.14 		N:6
+Henley         		Mean: 150.73 		Best: 923.68 		N:6
+Gaunt          		Mean: 300.67 		Best: 901.52 		N:3
+Scoggins       		Mean: 150.44 		Best: 901.52 		N:6
+Blackburn      		Mean: 112.73 		Best: 901.52 		N:8
+Smith          		Mean: 179.73 		Best: 898.4 		N:5
+
+########## REPORT GEN: 177 ##########
+SPECIES: 
+Ulrich         		Mean: 114.69 		Best: 948.91 		N:8
+Green          		Mean: 307.87 		Best: 937.4 		N:3
+Higginbotham   		Mean: 227.39 		Best: 935.4 		N:4
+Smith          		Mean: 227.26 		Best: 935.37 		N:4
+Moffatt        		Mean: 129.87 		Best: 934.78 		N:7
+Hickman        		Mean: 227.87 		Best: 932.89 		N:4
+Gaunt          		Mean: 113.36 		Best: 932.89 		N:8
+Henley         		Mean: 150.74 		Best: 923.68 		N:6
+Taylor         		Mean: 224.88 		Best: 901.52 		N:4
+Scoggins       		Mean: 150.41 		Best: 901.52 		N:6
+Blackburn      		Mean: 225.38 		Best: 901.52 		N:4
+Smith          		Mean: 179.83 		Best: 899.03 		N:5
+Robinson       		Mean: 128.37 		Best: 898.38 		N:7
+Lockridge      		Mean: 179.75 		Best: 898.3 		N:5
+
+########## REPORT GEN: 178 ##########
+SPECIES: 
+Lockridge      		Mean: 113.29 		Best: 948.91 		N:8
+Green          		Mean: 151.93 		Best: 937.4 		N:6
+Higginbotham   		Mean: 113.68 		Best: 935.4 		N:8
+Robinson       		Mean: 181.4 		Best: 935.37 		N:5
+Moffatt        		Mean: 183.27 		Best: 934.78 		N:5
+Hickman        		Mean: 151.4 		Best: 932.89 		N:6
+Gaunt          		Mean: 152.41 		Best: 932.89 		N:6
+Smith          		Mean: 150.66 		Best: 923.83 		N:6
+Henley         		Mean: 182.04 		Best: 923.91 		N:5
+Ulrich         		Mean: 179.92 		Best: 901.52 		N:5
+Smith          		Mean: 128.44 		Best: 901.52 		N:7
+Scoggins       		Mean: 180.52 		Best: 901.52 		N:5
+Blackburn      		Mean: 112.73 		Best: 901.52 		N:8
+Taylor         		Mean: 179.85 		Best: 900.67 		N:5
+
+########## REPORT GEN: 179 ##########
+SPECIES: 
+Lockridge      		Mean: 151.61 		Best: 948.91 		N:6
+Green          		Mean: 130.44 		Best: 937.4 		N:7
+Robinson       		Mean: 113.04 		Best: 935.37 		N:8
+Higginbotham   		Mean: 182.1 		Best: 935.16 		N:5
+Moffatt        		Mean: 114.43 		Best: 934.78 		N:8
+Hickman        		Mean: 101.17 		Best: 932.89 		N:9
+Gaunt          		Mean: 183.34 		Best: 932.89 		N:5
+Taylor         		Mean: 82.1 		Best: 927.42 		N:11
+Henley         		Mean: 113.74 		Best: 923.68 		N:8
+Smith          		Mean: 149.87 		Best: 901.52 		N:6
+Smith          		Mean: 179.84 		Best: 901.52 		N:5
+Scoggins       		Mean: 112.83 		Best: 901.52 		N:8
+Blackburn      		Mean: 180.36 		Best: 901.52 		N:5
+Ulrich         		Mean: 224.66 		Best: 898.3 		N:4
+
+########## REPORT GEN: 180 ##########
+SPECIES: 
+Lockridge      		Mean: 82.24 		Best: 948.91 		N:11
+Ulrich         		Mean: 130.33 		Best: 948.91 		N:7
+Green          		Mean: 151.01 		Best: 937.4 		N:6
+Robinson       		Mean: 129.3 		Best: 935.37 		N:7
+Higginbotham   		Mean: 100.65 		Best: 935.16 		N:9
+Moffatt        		Mean: 181.87 		Best: 934.78 		N:5
+Hickman        		Mean: 131.74 		Best: 933.33 		N:7
+Gaunt          		Mean: 130.41 		Best: 932.89 		N:7
+Smith          		Mean: 129.14 		Best: 927.84 		N:7
+Henley         		Mean: 181.07 		Best: 923.68 		N:5
+Scoggins       		Mean: 180.55 		Best: 901.52 		N:5
+Blackburn      		Mean: 112.7 		Best: 901.52 		N:8
+Taylor         		Mean: 224.81 		Best: 900.67 		N:4
+Smith          		Mean: 149.76 		Best: 898.39 		N:6
+
+########## REPORT GEN: 181 ##########
+SPECIES: 
+Ulrich         		Mean: 182.26 		Best: 948.91 		N:5
+Taylor         		Mean: 151.46 		Best: 948.91 		N:6
+Metcalf        		Mean: 311.96 		Best: 948.91 		N:3
+Green          		Mean: 129.26 		Best: 937.4 		N:7
+Smith          		Mean: 129.23 		Best: 935.37 		N:7
+Higginbotham   		Mean: 227.37 		Best: 935.16 		N:4
+Moffatt        		Mean: 100.67 		Best: 934.78 		N:9
+Hickman        		Mean: 230.0 		Best: 933.33 		N:4
+Gaunt          		Mean: 113.38 		Best: 932.89 		N:8
+Smith          		Mean: 150.8 		Best: 927.84 		N:6
+Lockridge      		Mean: 129.04 		Best: 927.42 		N:7
+Henley         		Mean: 112.91 		Best: 923.68 		N:8
+Robinson       		Mean: 149.84 		Best: 901.52 		N:6
+Scoggins       		Mean: 112.84 		Best: 901.52 		N:8
+Blackburn      		Mean: 180.11 		Best: 901.52 		N:5
+
+########## REPORT GEN: 182 ##########
+SPECIES: 
+Ulrich         		Mean: 115.6 		Best: 948.91 		N:8
+Taylor         		Mean: 230.2 		Best: 948.91 		N:4
+Metcalf        		Mean: 153.63 		Best: 948.91 		N:6
+Smith          		Mean: 151.0 		Best: 937.4 		N:6
+Smith          		Mean: 113.0 		Best: 935.37 		N:8
+Higginbotham   		Mean: 113.1 		Best: 935.16 		N:8
+Moffatt        		Mean: 227.79 		Best: 934.78 		N:4
+Hickman        		Mean: 91.67 		Best: 933.33 		N:10
+Green          		Mean: 181.26 		Best: 927.84 		N:5
+Henley         		Mean: 226.68 		Best: 923.68 		N:4
+Gaunt          		Mean: 451.05 		Best: 901.52 		N:2
+Robinson       		Mean: 299.79 		Best: 901.52 		N:3
+Scoggins       		Mean: 225.61 		Best: 901.52 		N:4
+Blackburn      		Mean: 128.53 		Best: 901.52 		N:7
+Lockridge      		Mean: 149.8 		Best: 899.28 		N:6
+
+########## REPORT GEN: 183 ##########
+SPECIES: 
+Ulrich         		Mean: 306.02 		Best: 948.91 		N:3
+Metcalf        		Mean: 151.89 		Best: 948.91 		N:6
+Lockridge      		Mean: 184.35 		Best: 948.91 		N:5
+Smith          		Mean: 151.9 		Best: 937.4 		N:6
+Smith          		Mean: 151.09 		Best: 935.37 		N:6
+Higginbotham   		Mean: 227.34 		Best: 935.16 		N:4
+Moffatt        		Mean: 129.6 		Best: 934.78 		N:7
+Gold           		Mean: 466.66 		Best: 933.33 		N:2
+Taylor         		Mean: 113.59 		Best: 927.42 		N:8
+Henley         		Mean: 129.12 		Best: 923.68 		N:7
+Hickman        		Mean: 300.57 		Best: 901.52 		N:3
+Gaunt          		Mean: 225.57 		Best: 901.52 		N:4
+Scoggins       		Mean: 128.88 		Best: 901.52 		N:7
+Blackburn      		Mean: 225.08 		Best: 901.52 		N:4
+Green          		Mean: 179.9 		Best: 899.03 		N:5
+Robinson       		Mean: 224.59 		Best: 898.38 		N:4
+
+########## REPORT GEN: 184 ##########
+SPECIES: 
+Ulrich         		Mean: 185.35 		Best: 948.91 		N:5
+Lockridge      		Mean: 151.46 		Best: 948.91 		N:6
+Taylor         		Mean: 228.32 		Best: 948.91 		N:4
+Smith          		Mean: 303.96 		Best: 937.4 		N:3
+Robinson       		Mean: 129.22 		Best: 935.37 		N:7
+Higginbotham   		Mean: 152.07 		Best: 935.16 		N:6
+Moffatt        		Mean: 304.72 		Best: 934.78 		N:3
+Gold           		Mean: 154.14 		Best: 933.33 		N:6
+Metcalf        		Mean: 150.65 		Best: 927.42 		N:6
+Henley         		Mean: 302.96 		Best: 923.68 		N:3
+Hickman        		Mean: 150.36 		Best: 901.52 		N:6
+Gaunt          		Mean: 225.46 		Best: 901.52 		N:4
+Scoggins       		Mean: 300.88 		Best: 901.52 		N:3
+Blackburn      		Mean: 150.0 		Best: 901.52 		N:6
+Green          		Mean: 149.93 		Best: 899.03 		N:6
+Smith          		Mean: 299.44 		Best: 898.38 		N:3
+
+########## REPORT GEN: 185 ##########
+SPECIES: 
+Lockridge      		Mean: 185.33 		Best: 948.91 		N:5
+Green          		Mean: 151.0 		Best: 937.4 		N:6
+Robinson       		Mean: 227.22 		Best: 935.37 		N:4
+Higginbotham   		Mean: 229.63 		Best: 935.16 		N:4
+Moffatt        		Mean: 151.35 		Best: 934.78 		N:6
+Gold           		Mean: 131.38 		Best: 933.33 		N:7
+Taylor         		Mean: 100.42 		Best: 927.42 		N:9
+Henley         		Mean: 151.48 		Best: 923.68 		N:6
+Blackburn      		Mean: 226.35 		Best: 919.5 		N:4
+Hickman        		Mean: 300.52 		Best: 901.52 		N:3
+Gaunt          		Mean: 225.56 		Best: 901.52 		N:4
+Scoggins       		Mean: 150.47 		Best: 901.52 		N:6
+Metcalf        		Mean: 224.73 		Best: 898.65 		N:4
+Smith          		Mean: 224.66 		Best: 898.4 		N:4
+Smith          		Mean: 179.68 		Best: 898.38 		N:5
+
+########## REPORT GEN: 186 ##########
+SPECIES: 
+Lockridge      		Mean: 152.43 		Best: 948.91 		N:6
+Green          		Mean: 227.17 		Best: 937.4 		N:4
+Robinson       		Mean: 181.52 		Best: 935.37 		N:5
+Higginbotham   		Mean: 152.1 		Best: 935.16 		N:6
+Moffatt        		Mean: 304.67 		Best: 934.78 		N:3
+Gold           		Mean: 466.66 		Best: 933.33 		N:2
+Taylor         		Mean: 129.01 		Best: 927.42 		N:7
+Henley         		Mean: 302.95 		Best: 923.68 		N:3
+Blackburn      		Mean: 180.64 		Best: 919.5 		N:5
+Hickman        		Mean: 180.92 		Best: 914.58 		N:5
+Gaunt          		Mean: 128.88 		Best: 901.52 		N:7
+Scoggins       		Mean: 300.56 		Best: 901.52 		N:3
+Smith          		Mean: 224.86 		Best: 899.03 		N:4
+Metcalf        		Mean: 449.14 		Best: 898.28 		N:2
+Smith          		Mean: 224.57 		Best: 898.22 		N:4
+
+########## REPORT GEN: 187 ##########
+SPECIES: 
+Ulrich         		Mean: 231.68 		Best: 948.91 		N:4
+Metcalf        		Mean: 155.3 		Best: 948.91 		N:6
+Smith          		Mean: 182.95 		Best: 937.4 		N:5
+Smith          		Mean: 150.94 		Best: 935.37 		N:6
+Higginbotham   		Mean: 308.12 		Best: 935.16 		N:3
+Moffatt        		Mean: 151.8 		Best: 934.78 		N:6
+Gold           		Mean: 233.26 		Best: 933.33 		N:4
+Henley         		Mean: 150.74 		Best: 923.68 		N:6
+Blackburn      		Mean: 302.01 		Best: 919.5 		N:3
+Hickman        		Mean: 226.37 		Best: 914.58 		N:4
+Gaunt          		Mean: 450.84 		Best: 901.52 		N:2
+Scoggins       		Mean: 150.28 		Best: 901.52 		N:6
+Green          		Mean: 299.85 		Best: 899.03 		N:3
+Taylor         		Mean: 299.43 		Best: 898.28 		N:3
+
+########## REPORT GEN: 188 ##########
+SPECIES: 
+Ulrich         		Mean: 306.07 		Best: 948.91 		N:3
+Metcalf        		Mean: 228.27 		Best: 948.91 		N:4
+Taylor         		Mean: 153.03 		Best: 948.91 		N:6
+Smith          		Mean: 150.89 		Best: 937.4 		N:6
+Robinson       		Mean: 227.26 		Best: 935.37 		N:4
+Higginbotham   		Mean: 152.12 		Best: 935.16 		N:6
+Moffatt        		Mean: 304.67 		Best: 934.78 		N:3
+Gold           		Mean: 233.18 		Best: 933.4 		N:4
+Henley         		Mean: 303.7 		Best: 930.14 		N:3
+Blackburn      		Mean: 181.48 		Best: 919.5 		N:5
+Gaunt          		Mean: 226.28 		Best: 914.58 		N:4
+Hickman        		Mean: 225.42 		Best: 901.52 		N:4
+Scoggins       		Mean: 300.59 		Best: 901.52 		N:3
+Green          		Mean: 449.76 		Best: 899.03 		N:2
+
+########## REPORT GEN: 189 ##########
+SPECIES: 
+Ulrich         		Mean: 305.9 		Best: 948.91 		N:3
+Lockridge      		Mean: 152.28 		Best: 948.91 		N:6
+Channey        		Mean: 187.03 		Best: 948.91 		N:5
+Green          		Mean: 182.61 		Best: 937.4 		N:5
+Smith          		Mean: 304.1 		Best: 935.37 		N:3
+Higginbotham   		Mean: 308.15 		Best: 935.16 		N:3
+Moffatt        		Mean: 181.82 		Best: 934.78 		N:5
+Gold           		Mean: 132.18 		Best: 933.4 		N:7
+Henley         		Mean: 181.34 		Best: 930.14 		N:5
+Blackburn      		Mean: 302.02 		Best: 919.5 		N:3
+Gaunt          		Mean: 450.86 		Best: 901.52 		N:2
+Hickman        		Mean: 300.61 		Best: 901.52 		N:3
+Scoggins       		Mean: 180.34 		Best: 901.52 		N:5
+Smith          		Mean: 449.25 		Best: 898.4 		N:2
+Robinson       		Mean: 299.43 		Best: 898.22 		N:3
+
+########## REPORT GEN: 190 ##########
+SPECIES: 
+Lockridge      		Mean: 463.16 		Best: 948.91 		N:2
+Channey        		Mean: 151.4 		Best: 948.91 		N:6
+Metcalf        		Mean: 231.69 		Best: 948.91 		N:4
+Green          		Mean: 227.14 		Best: 937.4 		N:4
+Robinson       		Mean: 181.38 		Best: 935.37 		N:5
+Smith          		Mean: 181.4 		Best: 935.37 		N:5
+Higginbotham   		Mean: 184.45 		Best: 935.16 		N:5
+Moffatt        		Mean: 304.64 		Best: 934.78 		N:3
+Henley         		Mean: 307.07 		Best: 930.14 		N:3
+Blackburn      		Mean: 180.65 		Best: 919.5 		N:5
+Gaunt          		Mean: 180.9 		Best: 914.58 		N:5
+Hickman        		Mean: 150.29 		Best: 901.52 		N:6
+Scoggins       		Mean: 300.58 		Best: 901.52 		N:3
+Smith          		Mean: 299.5 		Best: 898.4 		N:3
+Taylor         		Mean: 299.51 		Best: 898.29 		N:3
+
+########## REPORT GEN: 191 ##########
+SPECIES: 
+Lockridge      		Mean: 228.35 		Best: 948.91 		N:4
+Ulrich         		Mean: 305.99 		Best: 948.91 		N:3
+Taylor         		Mean: 463.14 		Best: 948.91 		N:2
+Smith          		Mean: 229.67 		Best: 935.37 		N:4
+Metcalf        		Mean: 458.53 		Best: 935.31 		N:2
+Higginbotham   		Mean: 308.16 		Best: 935.16 		N:3
+Moffatt        		Mean: 184.57 		Best: 934.78 		N:5
+Green          		Mean: 181.18 		Best: 933.52 		N:5
+Smith          		Mean: 226.89 		Best: 933.52 		N:4
+Gold           		Mean: 466.78 		Best: 933.4 		N:2
+Henley         		Mean: 185.6 		Best: 930.14 		N:5
+Blackburn      		Mean: 302.01 		Best: 919.5 		N:3
+Hickman        		Mean: 302.1 		Best: 914.58 		N:3
+Gaunt          		Mean: 300.63 		Best: 901.52 		N:3
+Scoggins       		Mean: 180.35 		Best: 901.52 		N:5
+Channey        		Mean: 128.41 		Best: 899.45 		N:7
+Robinson       		Mean: 449.22 		Best: 898.22 		N:2
+
+########## REPORT GEN: 192 ##########
+SPECIES: 
+Ulrich         		Mean: 154.69 		Best: 948.91 		N:6
+Taylor         		Mean: 463.27 		Best: 948.91 		N:2
+Metcalf        		Mean: 228.25 		Best: 948.91 		N:4
+Channey        		Mean: 184.28 		Best: 948.91 		N:5
+Robinson       		Mean: 150.94 		Best: 935.37 		N:6
+Higginbotham   		Mean: 153.51 		Best: 935.16 		N:6
+Moffatt        		Mean: 308.32 		Best: 934.78 		N:3
+Green          		Mean: 303.56 		Best: 933.52 		N:3
+Smith          		Mean: 226.88 		Best: 933.52 		N:4
+Gold           		Mean: 154.88 		Best: 933.4 		N:6
+Henley         		Mean: 307.95 		Best: 930.14 		N:3
+Blackburn      		Mean: 150.42 		Best: 919.5 		N:6
+Hickman        		Mean: 226.32 		Best: 914.58 		N:4
+Gaunt          		Mean: 150.68 		Best: 914.58 		N:6
+Scoggins       		Mean: 300.6 		Best: 901.52 		N:3
+Lockridge      		Mean: 224.66 		Best: 898.3 		N:4
+Smith          		Mean: 449.11 		Best: 898.22 		N:2
+
+########## REPORT GEN: 193 ##########
+SPECIES: 
+Ulrich         		Mean: 305.93 		Best: 948.91 		N:3
+Taylor         		Mean: 182.11 		Best: 948.91 		N:5
+Channey        		Mean: 231.58 		Best: 948.91 		N:4
+Robinson       		Mean: 181.38 		Best: 935.37 		N:5
+Lockridge      		Mean: 181.22 		Best: 935.31 		N:5
+Moffatt        		Mean: 153.29 		Best: 935.26 		N:6
+Higginbotham   		Mean: 305.89 		Best: 935.16 		N:3
+Green          		Mean: 152.76 		Best: 933.52 		N:6
+Smith          		Mean: 181.16 		Best: 933.52 		N:5
+Gold           		Mean: 311.21 		Best: 933.4 		N:3
+Henley         		Mean: 152.27 		Best: 930.14 		N:6
+Blackburn      		Mean: 301.95 		Best: 919.5 		N:3
+Gaunt          		Mean: 180.94 		Best: 914.58 		N:5
+Hickman        		Mean: 300.64 		Best: 901.52 		N:3
+Scoggins       		Mean: 150.29 		Best: 901.52 		N:6
+Metcalf        		Mean: 224.8 		Best: 898.38 		N:4
+Smith          		Mean: 449.17 		Best: 898.22 		N:2
+
+########## REPORT GEN: 194 ##########
+SPECIES: 
+Ulrich         		Mean: 311.44 		Best: 948.91 		N:3
+Channey        		Mean: 183.55 		Best: 948.91 		N:5
+Metcalf        		Mean: 231.72 		Best: 948.91 		N:4
+Smith          		Mean: 227.26 		Best: 935.37 		N:4
+Robinson       		Mean: 227.23 		Best: 935.37 		N:4
+Moffatt        		Mean: 308.42 		Best: 935.26 		N:3
+Higginbotham   		Mean: 154.27 		Best: 935.16 		N:6
+Green          		Mean: 458.27 		Best: 933.52 		N:2
+Smith          		Mean: 181.2 		Best: 933.52 		N:5
+Gold           		Mean: 102.94 		Best: 933.4 		N:9
+Henley         		Mean: 305.47 		Best: 923.09 		N:3
+Blackburn      		Mean: 151.01 		Best: 919.5 		N:6
+Taylor         		Mean: 180.09 		Best: 905.71 		N:5
+Gaunt          		Mean: 300.66 		Best: 901.52 		N:3
+Hickman        		Mean: 225.5 		Best: 901.52 		N:4
+Scoggins       		Mean: 300.61 		Best: 901.52 		N:3
+Lockridge      		Mean: 128.38 		Best: 898.38 		N:7
+
+########## REPORT GEN: 195 ##########
+SPECIES: 
+Ulrich         		Mean: 155.99 		Best: 948.91 		N:6
+Channey        		Mean: 232.08 		Best: 948.91 		N:4
+Metcalf        		Mean: 153.03 		Best: 948.91 		N:6
+Taylor         		Mean: 305.8 		Best: 948.91 		N:3
+Robinson       		Mean: 182.98 		Best: 935.37 		N:5
+Moffatt        		Mean: 153.3 		Best: 935.26 		N:6
+Higginbotham   		Mean: 311.75 		Best: 935.16 		N:3
+Green          		Mean: 229.1 		Best: 933.52 		N:4
+Smith          		Mean: 226.96 		Best: 933.52 		N:4
+Harvey         		Mean: 309.6 		Best: 933.4 		N:3
+Henley         		Mean: 152.64 		Best: 923.09 		N:6
+Blackburn      		Mean: 301.94 		Best: 919.5 		N:3
+Gold           		Mean: 302.15 		Best: 914.58 		N:3
+Lockridge      		Mean: 225.12 		Best: 905.71 		N:4
+Gaunt          		Mean: 225.55 		Best: 901.52 		N:4
+Hickman        		Mean: 180.31 		Best: 901.52 		N:5
+Scoggins       		Mean: 150.3 		Best: 901.52 		N:6
+Smith          		Mean: 179.68 		Best: 898.38 		N:5
+
+########## REPORT GEN: 196 ##########
+SPECIES: 
+Ulrich         		Mean: 153.83 		Best: 948.91 		N:6
+Channey        		Mean: 153.37 		Best: 948.91 		N:6
+Lockridge      		Mean: 316.43 		Best: 948.91 		N:3
+Smith          		Mean: 150.95 		Best: 935.37 		N:6
+Moffatt        		Mean: 308.46 		Best: 935.26 		N:3
+Higginbotham   		Mean: 155.88 		Best: 935.16 		N:6
+Green          		Mean: 150.78 		Best: 933.52 		N:6
+Smith          		Mean: 229.13 		Best: 933.52 		N:4
+Harvey         		Mean: 154.44 		Best: 933.4 		N:6
+Henley         		Mean: 305.48 		Best: 923.09 		N:3
+Blackburn      		Mean: 150.37 		Best: 919.5 		N:6
+Metcalf        		Mean: 225.16 		Best: 905.74 		N:4
+Taylor         		Mean: 300.31 		Best: 905.71 		N:3
+Gold           		Mean: 180.44 		Best: 901.52 		N:5
+Gaunt          		Mean: 180.4 		Best: 901.52 		N:5
+Hickman        		Mean: 180.41 		Best: 901.52 		N:5
+Scoggins       		Mean: 300.59 		Best: 901.52 		N:3
+Robinson       		Mean: 449.23 		Best: 898.38 		N:2
+
+########## REPORT GEN: 197 ##########
+SPECIES: 
+Ulrich         		Mean: 230.74 		Best: 948.91 		N:4
+Channey        		Mean: 152.94 		Best: 948.91 		N:6
+Lockridge      		Mean: 132.12 		Best: 948.91 		N:7
+Metcalf        		Mean: 228.22 		Best: 948.91 		N:4
+Taylor         		Mean: 305.86 		Best: 948.91 		N:3
+Smith          		Mean: 227.25 		Best: 935.37 		N:4
+Moffatt        		Mean: 155.01 		Best: 935.26 		N:6
+Higginbotham   		Mean: 311.76 		Best: 935.16 		N:3
+Green          		Mean: 466.78 		Best: 933.52 		N:2
+Smith          		Mean: 152.77 		Best: 933.52 		N:6
+Harvey         		Mean: 310.12 		Best: 933.18 		N:3
+Henley         		Mean: 152.11 		Best: 923.09 		N:6
+Blackburn      		Mean: 301.93 		Best: 919.5 		N:3
+Gold           		Mean: 180.41 		Best: 901.52 		N:5
+Gaunt          		Mean: 180.44 		Best: 901.52 		N:5
+Hickman        		Mean: 451.07 		Best: 901.52 		N:2
+Scoggins       		Mean: 150.3 		Best: 901.52 		N:6
+Robinson       		Mean: 299.5 		Best: 898.38 		N:3
+
+########## REPORT GEN: 198 ##########
+SPECIES: 
+Ulrich         		Mean: 131.8 		Best: 948.91 		N:7
+Channey        		Mean: 182.3 		Best: 948.91 		N:5
+Lockridge      		Mean: 184.47 		Best: 948.91 		N:5
+Taylor         		Mean: 305.88 		Best: 948.91 		N:3
+Smith          		Mean: 112.98 		Best: 935.37 		N:8
+Moffatt        		Mean: 308.46 		Best: 935.26 		N:3
+Higginbotham   		Mean: 154.94 		Best: 935.16 		N:6
+Green          		Mean: 231.34 		Best: 933.52 		N:4
+Smith          		Mean: 311.17 		Best: 933.52 		N:3
+Harvey         		Mean: 154.88 		Best: 933.18 		N:6
+Henley         		Mean: 302.93 		Best: 923.09 		N:3
+Blackburn      		Mean: 150.97 		Best: 919.5 		N:6
+Metcalf        		Mean: 451.1 		Best: 905.71 		N:2
+Gold           		Mean: 180.46 		Best: 901.52 		N:5
+Gaunt          		Mean: 225.51 		Best: 901.52 		N:4
+Hickman        		Mean: 300.71 		Best: 901.52 		N:3
+Scoggins       		Mean: 300.59 		Best: 901.52 		N:3
+Robinson       		Mean: 299.53 		Best: 898.38 		N:3
+
+########## REPORT GEN: 199 ##########
+SPECIES: 
+Ulrich         		Mean: 228.22 		Best: 948.91 		N:4
+Channey        		Mean: 113.46 		Best: 948.91 		N:8
+Lockridge      		Mean: 305.74 		Best: 948.91 		N:3
+Taylor         		Mean: 305.88 		Best: 948.91 		N:3
+Metcalf        		Mean: 228.27 		Best: 948.91 		N:4
+Smith          		Mean: 181.41 		Best: 935.37 		N:5
+Moffatt        		Mean: 152.34 		Best: 935.26 		N:6
+Higginbotham   		Mean: 310.94 		Best: 935.16 		N:3
+Green          		Mean: 307.66 		Best: 933.52 		N:3
+Smith          		Mean: 115.92 		Best: 933.52 		N:8
+Harvey         		Mean: 309.79 		Best: 933.18 		N:3
+Henley         		Mean: 151.28 		Best: 923.09 		N:6
+Blackburn      		Mean: 304.26 		Best: 919.5 		N:3
+Gold           		Mean: 112.78 		Best: 901.52 		N:8
+Gaunt          		Mean: 225.43 		Best: 901.52 		N:4
+Hickman        		Mean: 300.71 		Best: 901.52 		N:3
+Scoggins       		Mean: 150.3 		Best: 901.52 		N:6
+Robinson       		Mean: 179.72 		Best: 898.38 		N:5
+
+########## REPORT GEN: 200 ##########
+SPECIES: 
+Ulrich         		Mean: 182.05 		Best: 948.91 		N:5
+Lockridge      		Mean: 151.39 		Best: 948.91 		N:6
+Taylor         		Mean: 92.1 		Best: 948.91 		N:10
+Metcalf        		Mean: 311.37 		Best: 948.91 		N:3
+Smith          		Mean: 227.25 		Best: 935.37 		N:4
+Moffatt        		Mean: 304.69 		Best: 935.26 		N:3
+Higginbotham   		Mean: 155.25 		Best: 935.16 		N:6
+Green          		Mean: 133.38 		Best: 933.52 		N:7
+Smith          		Mean: 303.99 		Best: 933.52 		N:3
+Harvey         		Mean: 155.23 		Best: 933.18 		N:6
+Henley         		Mean: 302.93 		Best: 923.09 		N:3
+Blackburn      		Mean: 152.7 		Best: 919.5 		N:6
+Gold           		Mean: 128.89 		Best: 901.52 		N:7
+Gaunt          		Mean: 180.44 		Best: 901.52 		N:5
+Hickman        		Mean: 300.59 		Best: 901.52 		N:3
+Scoggins       		Mean: 300.61 		Best: 901.52 		N:3
+Robinson       		Mean: 224.66 		Best: 898.38 		N:4
+Channey        		Mean: 299.42 		Best: 898.21 		N:3
+

@@ -1,0 +1,262 @@
+########## REPORT GEN: 2 ##########
+SPECIES: 
+Fowler         		Mean: 65.74 		Best: 130.65 		N:2
+Brown          		Mean: 5.07 		Best: 48.25 		N:4
+Hall           		Mean: 5.19 		Best: 10.75 		N:2
+
+########## REPORT GEN: 3 ##########
+SPECIES: 
+Brown          		Mean: 54.96 		Best: 202.5 		N:2
+Schiefelbein   		Mean: 22.35 		Best: 164.31 		N:3
+King           		Mean: 19.39 		Best: 136.39 		N:3
+Fowler         		Mean: 21.93 		Best: 74.56 		N:2
+Soffel         		Mean: 5.1  		Best: 10.75 		N:2
+
+########## REPORT GEN: 4 ##########
+SPECIES: 
+King           		Mean: 21.22 		Best: 148.06 		N:3
+Brown          		Mean: 19.27 		Best: 146.65 		N:3
+Fowler         		Mean: 6.58 		Best: 25.38 		N:3
+Hall           		Mean: 3.5  		Best: 10.75 		N:3
+
+########## REPORT GEN: 5 ##########
+SPECIES: 
+Schiefelbein   		Mean: 19.5 		Best: 142.17 		N:4
+King           		Mean: 10.84 		Best: 61.0 		N:3
+Hall           		Mean: 4.53 		Best: 19.64 		N:3
+
+########## REPORT GEN: 6 ##########
+SPECIES: 
+Soffel         		Mean: 33.52 		Best: 132.1 		N:3
+King           		Mean: 10.04 		Best: 61.31 		N:4
+Hall           		Mean: 16.44 		Best: 53.69 		N:2
+
+########## REPORT GEN: 7 ##########
+SPECIES: 
+King           		Mean: 23.44 		Best: 215.0 		N:4
+Soffel         		Mean: 16.93 		Best: 204.39 		N:4
+Hall           		Mean: 8.59 		Best: 124.23 		N:7
+
+########## REPORT GEN: 8 ##########
+SPECIES: 
+Soffel         		Mean: 11.76 		Best: 219.05 		N:7
+King           		Mean: 12.02 		Best: 157.34 		N:5
+Hall           		Mean: 11.56 		Best: 138.04 		N:5
+
+########## REPORT GEN: 9 ##########
+SPECIES: 
+King           		Mean: 13.19 		Best: 226.47 		N:6
+Hall           		Mean: 9.6  		Best: 173.34 		N:7
+Soffel         		Mean: 11.14 		Best: 143.19 		N:5
+
+########## REPORT GEN: 10 ##########
+SPECIES: 
+King           		Mean: 7.88 		Best: 165.78 		N:8
+Hall           		Mean: 13.79 		Best: 155.05 		N:6
+Soffel         		Mean: 6.76 		Best: 66.41 		N:5
+
+########## REPORT GEN: 11 ##########
+SPECIES: 
+King           		Mean: 6.58 		Best: 165.5 		N:7
+Soffel         		Mean: 6.58 		Best: 142.7 		N:9
+Hall           		Mean: 16.73 		Best: 54.75 		N:2
+
+########## REPORT GEN: 12 ##########
+SPECIES: 
+Hall           		Mean: 19.35 		Best: 161.33 		N:5
+King           		Mean: 4.46 		Best: 57.5 		N:6
+
+########## REPORT GEN: 13 ##########
+SPECIES: 
+King           		Mean: 23.87 		Best: 176.08 		N:4
+Hall           		Mean: 2.33 		Best: 66.61 		N:8
+Soffel         		Mean: 3.63 		Best: 11.0 		N:3
+
+########## REPORT GEN: 14 ##########
+SPECIES: 
+Hall           		Mean: 13.92 		Best: 182.51 		N:6
+King           		Mean: 3.23 		Best: 58.0 		N:6
+Soffel         		Mean: 5.12 		Best: 11.0 		N:2
+
+########## REPORT GEN: 15 ##########
+SPECIES: 
+Hall           		Mean: 31.63 		Best: 157.53 		N:4
+Soffel         		Mean: 1.75 		Best: 11.5 		N:6
+King           		Mean: 1.17 		Best: 11.25 		N:9
+
+########## REPORT GEN: 16 ##########
+SPECIES: 
+Hall           		Mean: 15.1 		Best: 159.16 		N:8
+Soffel         		Mean: 4.0  		Best: 49.23 		N:5
+King           		Mean: 2.62 		Best: 11.5 		N:4
+
+########## REPORT GEN: 17 ##########
+SPECIES: 
+Hall           		Mean: 8.91 		Best: 226.0 		N:15
+Soffel         		Mean: 4.93 		Best: 10.0 		N:2
+
+########## REPORT GEN: 18 ##########
+SPECIES: 
+Hall           		Mean: 14.24 		Best: 169.28 		N:8
+Soffel         		Mean: 5.59 		Best: 11.25 		N:2
+King           		Mean: 2.63 		Best: 11.0 		N:4
+
+########## REPORT GEN: 19 ##########
+SPECIES: 
+Hall           		Mean: 9.7  		Best: 185.35 		N:12
+Soffel         		Mean: 2.88 		Best: 29.79 		N:5
+
+########## REPORT GEN: 20 ##########
+SPECIES: 
+Hall           		Mean: 13.35 		Best: 240.5 		N:9
+King           		Mean: 6.37 		Best: 34.25 		N:3
+
+########## REPORT GEN: 21 ##########
+SPECIES: 
+Hall           		Mean: 9.54 		Best: 190.92 		N:8
+King           		Mean: 5.31 		Best: 35.77 		N:4
+Manly          		Mean: 5.19 		Best: 10.5 		N:2
+
+########## REPORT GEN: 22 ##########
+SPECIES: 
+Hall           		Mean: 11.48 		Best: 170.31 		N:6
+Jacobs         		Mean: 20.57 		Best: 144.84 		N:3
+Lang           		Mean: 6.77 		Best: 38.72 		N:3
+Manly          		Mean: 2.15 		Best: 11.0 		N:5
+
+########## REPORT GEN: 23 ##########
+SPECIES: 
+Jacobs         		Mean: 9.37 		Best: 135.89 		N:7
+Lang           		Mean: 14.11 		Best: 45.5 		N:2
+Hall           		Mean: 3.56 		Best: 19.25 		N:5
+Manly          		Mean: 5.58 		Best: 11.75 		N:2
+King           		Mean: 4.96 		Best: 10.25 		N:2
+
+########## REPORT GEN: 24 ##########
+SPECIES: 
+Manly          		Mean: 13.51 		Best: 164.66 		N:4
+Lang           		Mean: 13.03 		Best: 40.88 		N:2
+King           		Mean: 4.45 		Best: 37.42 		N:4
+Jacobs         		Mean: 11.7 		Best: 26.5 		N:2
+Hall           		Mean: 5.39 		Best: 20.5 		N:3
+
+########## REPORT GEN: 25 ##########
+SPECIES: 
+Manly          		Mean: 19.95 		Best: 133.77 		N:3
+King           		Mean: 3.2  		Best: 32.82 		N:6
+Lang           		Mean: 5.0  		Best: 31.85 		N:4
+Jacobs         		Mean: 9.08 		Best: 19.25 		N:2
+
+########## REPORT GEN: 26 ##########
+SPECIES: 
+Hall           		Mean: 13.43 		Best: 165.45 		N:4
+Jacobs         		Mean: 35.34 		Best: 165.26 		N:3
+Lang           		Mean: 12.27 		Best: 39.0 		N:2
+King           		Mean: 11.17 		Best: 33.48 		N:2
+
+########## REPORT GEN: 27 ##########
+SPECIES: 
+Jacobs         		Mean: 25.61 		Best: 165.42 		N:4
+Hall           		Mean: 25.89 		Best: 132.02 		N:4
+Lang           		Mean: 4.31 		Best: 17.75 		N:3
+Chronis        		Mean: 5.0  		Best: 10.25 		N:2
+
+########## REPORT GEN: 28 ##########
+SPECIES: 
+Jacobs         		Mean: 17.82 		Best: 187.93 		N:6
+Hall           		Mean: 11.82 		Best: 163.09 		N:7
+Lang           		Mean: 17.0 		Best: 145.04 		N:4
+
+########## REPORT GEN: 29 ##########
+SPECIES: 
+Chronis        		Mean: 10.69 		Best: 179.69 		N:6
+Jacobs         		Mean: 12.25 		Best: 140.63 		N:6
+Lang           		Mean: 31.95 		Best: 115.0 		N:2
+King           		Mean: 7.32 		Best: 51.41 		N:4
+
+########## REPORT GEN: 30 ##########
+SPECIES: 
+Jacobs         		Mean: 24.22 		Best: 137.25 		N:4
+King           		Mean: 11.43 		Best: 127.53 		N:6
+
+########## REPORT GEN: 31 ##########
+SPECIES: 
+King           		Mean: 47.14 		Best: 175.58 		N:3
+Jacobs         		Mean: 70.46 		Best: 148.83 		N:2
+
+########## REPORT GEN: 32 ##########
+SPECIES: 
+King           		Mean: 81.63 		Best: 188.09 		N:2
+Jacobs         		Mean: 40.63 		Best: 187.6 		N:4
+
+########## REPORT GEN: 33 ##########
+SPECIES: 
+King           		Mean: 45.18 		Best: 207.25 		N:3
+Lang           		Mean: 44.46 		Best: 137.2 		N:3
+
+########## REPORT GEN: 34 ##########
+SPECIES: 
+Jacobs         		Mean: 87.37 		Best: 183.97 		N:2
+Lang           		Mean: 79.9 		Best: 172.23 		N:2
+
+########## REPORT GEN: 35 ##########
+SPECIES: 
+Lang           		Mean: 41.37 		Best: 209.0 		N:3
+King           		Mean: 75.97 		Best: 175.6 		N:2
+Jacobs         		Mean: 47.82 		Best: 161.04 		N:3
+
+########## REPORT GEN: 36 ##########
+SPECIES: 
+Lang           		Mean: 34.93 		Best: 208.59 		N:4
+King           		Mean: 37.85 		Best: 164.71 		N:4
+Jacobs         		Mean: 75.27 		Best: 152.06 		N:2
+
+########## REPORT GEN: 37 ##########
+SPECIES: 
+King           		Mean: 27.31 		Best: 169.71 		N:5
+Jacobs         		Mean: 40.16 		Best: 131.63 		N:2
+
+########## REPORT GEN: 38 ##########
+SPECIES: 
+Lang           		Mean: 65.87 		Best: 233.75 		N:2
+King           		Mean: 93.6 		Best: 222.0 		N:2
+
+########## REPORT GEN: 39 ##########
+SPECIES: 
+King           		Mean: 21.14 		Best: 142.39 		N:3
+Lang           		Mean: 11.89 		Best: 25.5 		N:2
+
+########## REPORT GEN: 40 ##########
+SPECIES: 
+King           		Mean: 48.91 		Best: 172.43 		N:2
+Lang           		Mean: 7.7  		Best: 23.75 		N:3
+
+########## REPORT GEN: 41 ##########
+SPECIES: 
+Lang           		Mean: 11.7 		Best: 25.25 		N:2
+
+########## REPORT GEN: 42 ##########
+SPECIES: 
+Lang           		Mean: 13.94 		Best: 150.25 		N:4
+King           		Mean: 11.67 		Best: 24.0 		N:2
+
+########## REPORT GEN: 43 ##########
+SPECIES: 
+King           		Mean: 14.81 		Best: 163.16 		N:4
+Jacobs         		Mean: 5.97 		Best: 26.25 		N:3
+
+########## REPORT GEN: 44 ##########
+SPECIES: 
+King           		Mean: 12.95 		Best: 26.25 		N:2
+
+########## REPORT GEN: 45 ##########
+SPECIES: 
+
+########## REPORT GEN: 46 ##########
+SPECIES: 
+Lang           		Mean: 7.58 		Best: 24.0 		N:3
+
+########## REPORT GEN: 47 ##########
+SPECIES: 
+Jacobs         		Mean: 8.52 		Best: 29.0 		N:3
+

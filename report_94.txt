@@ -1,0 +1,102 @@
+########## REPORT GEN: 2 ##########
+SPECIES: 
+Mcneil         		Mean: 16.91 		Best: 35.0 		N:2
+Sellers        		Mean: 9.93 		Best: 22.5 		N:2
+Newman         		Mean: 8.61 		Best: 17.28 		N:2
+Martinez       		Mean: 5.62 		Best: 12.42 		N:2
+Whiting        		Mean: 5.56 		Best: 12.0 		N:2
+Trujillo       		Mean: 3.49 		Best: 11.75 		N:3
+Wise           		Mean: 3.53 		Best: 11.5 		N:3
+
+########## REPORT GEN: 3 ##########
+SPECIES: 
+Mcneil         		Mean: 11.1 		Best: 38.35 		N:3
+Trujillo       		Mean: 2.87 		Best: 14.75 		N:4
+Russo          		Mean: 5.39 		Best: 11.75 		N:2
+Gordon         		Mean: 5.44 		Best: 11.5 		N:2
+Maurer         		Mean: 5.31 		Best: 11.0 		N:2
+Lara           		Mean: 5.19 		Best: 10.5 		N:2
+Shaffer        		Mean: 5.16 		Best: 10.5 		N:2
+Wise           		Mean: 4.91 		Best: 10.0 		N:2
+
+########## REPORT GEN: 4 ##########
+SPECIES: 
+Whiting        		Mean: 10.39 		Best: 43.06 		N:3
+Newman         		Mean: 9.37 		Best: 19.14 		N:2
+Trujillo       		Mean: 4.33 		Best: 16.74 		N:3
+Martinez       		Mean: 5.62 		Best: 11.75 		N:2
+Wise           		Mean: 3.44 		Best: 11.25 		N:3
+Sales          		Mean: 3.52 		Best: 11.0 		N:3
+Maurer         		Mean: 5.11 		Best: 10.25 		N:2
+
+########## REPORT GEN: 5 ##########
+SPECIES: 
+Mcneil         		Mean: 18.67 		Best: 39.92 		N:2
+Sales          		Mean: 11.68 		Best: 35.07 		N:2
+Newman         		Mean: 10.55 		Best: 31.08 		N:2
+Trujillo       		Mean: 3.58 		Best: 23.75 		N:4
+Maurer         		Mean: 6.85 		Best: 16.5 		N:2
+Shaffer        		Mean: 5.12 		Best: 11.25 		N:2
+Wise           		Mean: 5.31 		Best: 10.5 		N:2
+
+########## REPORT GEN: 6 ##########
+SPECIES: 
+Mcneil         		Mean: 5.93 		Best: 40.25 		N:5
+Maurer         		Mean: 12.68 		Best: 35.33 		N:2
+Newman         		Mean: 4.55 		Best: 27.12 		N:4
+Martinez       		Mean: 7.8  		Best: 19.5 		N:2
+Trujillo       		Mean: 3.68 		Best: 11.87 		N:3
+Shaffer        		Mean: 5.38 		Best: 11.5 		N:2
+Sales          		Mean: 5.65 		Best: 11.25 		N:2
+Wise           		Mean: 4.97 		Best: 10.0 		N:2
+
+########## REPORT GEN: 7 ##########
+SPECIES: 
+Wise           		Mean: 21.78 		Best: 48.0 		N:2
+Mcneil         		Mean: 7.02 		Best: 32.18 		N:3
+Trujillo       		Mean: 2.71 		Best: 30.34 		N:6
+Maurer         		Mean: 3.24 		Best: 29.55 		N:5
+Newman         		Mean: 7.4  		Best: 20.07 		N:2
+Martinez       		Mean: 2.62 		Best: 11.25 		N:4
+
+########## REPORT GEN: 8 ##########
+SPECIES: 
+Trujillo       		Mean: 7.64 		Best: 46.98 		N:4
+Sales          		Mean: 3.93 		Best: 43.13 		N:5
+Maurer         		Mean: 7.57 		Best: 28.56 		N:3
+Mcneil         		Mean: 10.09 		Best: 27.52 		N:2
+Wise           		Mean: 2.56 		Best: 19.5 		N:5
+Newman         		Mean: 5.59 		Best: 11.5 		N:2
+
+########## REPORT GEN: 9 ##########
+SPECIES: 
+Sales          		Mean: 4.72 		Best: 42.75 		N:5
+Maurer         		Mean: 3.88 		Best: 34.82 		N:5
+Wise           		Mean: 6.18 		Best: 33.77 		N:3
+Newman         		Mean: 3.94 		Best: 26.12 		N:5
+Trujillo       		Mean: 2.31 		Best: 25.5 		N:6
+
+########## REPORT GEN: 10 ##########
+SPECIES: 
+Newman         		Mean: 19.32 		Best: 44.94 		N:2
+Trujillo       		Mean: 6.57 		Best: 36.86 		N:3
+Wise           		Mean: 3.4  		Best: 36.5 		N:6
+Sales          		Mean: 15.47 		Best: 35.0 		N:2
+Mcneil         		Mean: 6.03 		Best: 32.15 		N:3
+
+########## REPORT GEN: 11 ##########
+SPECIES: 
+Newman         		Mean: 3.44 		Best: 41.13 		N:6
+Wise           		Mean: 5.78 		Best: 31.6 		N:3
+Trujillo       		Mean: 5.95 		Best: 31.5 		N:3
+Mcneil         		Mean: 6.59 		Best: 30.95 		N:3
+Sales          		Mean: 5.41 		Best: 11.25 		N:2
+
+########## REPORT GEN: 12 ##########
+SPECIES: 
+Newman         		Mean: 3.77 		Best: 42.54 		N:5
+Trujillo       		Mean: 3.14 		Best: 37.79 		N:7
+Mcneil         		Mean: 6.13 		Best: 34.09 		N:3
+Sales          		Mean: 3.42 		Best: 32.26 		N:5
+Wise           		Mean: 2.88 		Best: 25.12 		N:5
+

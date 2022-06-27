@@ -1,0 +1,751 @@
+########## REPORT GEN: 2 ##########
+SPECIES: 
+Jara           		Mean: 63.31 		Best: 910.9 		N:15
+Francis        		Mean: 39.59 		Best: 908.71 		N:24
+Whalen         		Mean: 452.33 		Best: 905.1 		N:2
+Carr           		Mean: 23.95 		Best: 913.39 		N:40
+Corns          		Mean: 451.3 		Best: 903.55 		N:2
+Reid           		Mean: 233.99 		Best: 910.95 		N:4
+
+########## REPORT GEN: 3 ##########
+SPECIES: 
+Jara           		Mean: 95.21 		Best: 909.75 		N:10
+Corns          		Mean: 312.85 		Best: 907.2 		N:3
+Carr           		Mean: 118.48 		Best: 905.54 		N:8
+Francis        		Mean: 50.11 		Best: 909.61 		N:19
+Whalen         		Mean: 230.28 		Best: 906.14 		N:4
+Reid           		Mean: 188.0 		Best: 913.74 		N:5
+Sutton         		Mean: 159.36 		Best: 907.66 		N:6
+
+########## REPORT GEN: 4 ##########
+SPECIES: 
+Sutton         		Mean: 52.72 		Best: 912.98 		N:18
+Francis        		Mean: 156.12 		Best: 910.62 		N:6
+Corns          		Mean: 59.19 		Best: 909.67 		N:16
+Reid           		Mean: 85.72 		Best: 906.85 		N:11
+Jara           		Mean: 187.31 		Best: 906.62 		N:5
+Carr           		Mean: 79.18 		Best: 910.76 		N:12
+Whalen         		Mean: 228.27 		Best: 909.87 		N:4
+
+########## REPORT GEN: 5 ##########
+SPECIES: 
+Reid           		Mean: 72.21 		Best: 912.47 		N:13
+Corns          		Mean: 104.39 		Best: 909.93 		N:9
+Carr           		Mean: 67.17 		Best: 909.02 		N:14
+Jara           		Mean: 93.5 		Best: 908.52 		N:10
+Sutton         		Mean: 84.96 		Best: 910.38 		N:11
+Francis        		Mean: 85.88 		Best: 910.46 		N:11
+Whalen         		Mean: 102.42 		Best: 910.69 		N:9
+
+########## REPORT GEN: 6 ##########
+SPECIES: 
+Francis        		Mean: 58.78 		Best: 918.91 		N:16
+Carr           		Mean: 34.76 		Best: 915.26 		N:27
+Reid           		Mean: 51.9 		Best: 910.98 		N:18
+Sutton         		Mean: 39.17 		Best: 913.71 		N:24
+Corns          		Mean: 52.21 		Best: 908.13 		N:18
+Jara           		Mean: 55.17 		Best: 909.62 		N:17
+Whalen         		Mean: 93.39 		Best: 910.26 		N:10
+
+########## REPORT GEN: 7 ##########
+SPECIES: 
+Francis        		Mean: 46.88 		Best: 930.08 		N:20
+Reid           		Mean: 40.76 		Best: 923.46 		N:23
+Carr           		Mean: 27.51 		Best: 912.71 		N:34
+Jara           		Mean: 71.75 		Best: 911.26 		N:13
+Corns          		Mean: 77.69 		Best: 908.27 		N:12
+Sutton         		Mean: 52.06 		Best: 909.26 		N:18
+Whalen         		Mean: 85.02 		Best: 909.3 		N:11
+
+########## REPORT GEN: 8 ##########
+SPECIES: 
+Whalen         		Mean: 31.15 		Best: 924.06 		N:30
+Francis        		Mean: 62.16 		Best: 912.97 		N:15
+Jara           		Mean: 42.47 		Best: 910.7 		N:22
+Carr           		Mean: 46.67 		Best: 910.03 		N:20
+Sutton         		Mean: 48.95 		Best: 909.27 		N:19
+Reid           		Mean: 55.0 		Best: 909.02 		N:17
+Corns          		Mean: 55.04 		Best: 909.66 		N:17
+
+########## REPORT GEN: 9 ##########
+SPECIES: 
+Corns          		Mean: 77.35 		Best: 928.17 		N:12
+Whalen         		Mean: 62.18 		Best: 914.32 		N:15
+Jara           		Mean: 46.48 		Best: 911.47 		N:20
+Francis        		Mean: 37.36 		Best: 910.31 		N:25
+Sutton         		Mean: 34.63 		Best: 912.39 		N:27
+Carr           		Mean: 54.62 		Best: 908.08 		N:17
+Shelley        		Mean: 71.12 		Best: 908.81 		N:13
+Reid           		Mean: 46.68 		Best: 907.73 		N:20
+
+########## REPORT GEN: 10 ##########
+SPECIES: 
+Whalen         		Mean: 62.28 		Best: 933.65 		N:15
+Reid           		Mean: 40.4 		Best: 920.73 		N:23
+Jara           		Mean: 58.15 		Best: 917.46 		N:16
+Corns          		Mean: 57.89 		Best: 916.07 		N:16
+Sutton         		Mean: 40.53 		Best: 911.38 		N:23
+Shelley        		Mean: 37.29 		Best: 911.11 		N:25
+Francis        		Mean: 77.08 		Best: 909.58 		N:12
+Carr           		Mean: 54.39 		Best: 906.24 		N:17
+
+########## REPORT GEN: 11 ##########
+SPECIES: 
+Jara           		Mean: 54.54 		Best: 932.61 		N:17
+Sutton         		Mean: 51.58 		Best: 928.84 		N:18
+Reid           		Mean: 57.95 		Best: 924.93 		N:16
+Francis        		Mean: 48.78 		Best: 917.63 		N:19
+Shelley        		Mean: 46.33 		Best: 910.79 		N:20
+Corns          		Mean: 48.79 		Best: 911.69 		N:19
+Carr           		Mean: 51.36 		Best: 908.49 		N:18
+Whalen         		Mean: 51.7 		Best: 909.6 		N:18
+
+########## REPORT GEN: 12 ##########
+SPECIES: 
+Jara           		Mean: 51.67 		Best: 936.82 		N:18
+Carr           		Mean: 40.49 		Best: 932.83 		N:23
+Francis        		Mean: 57.88 		Best: 927.99 		N:16
+Whalen         		Mean: 61.78 		Best: 920.52 		N:15
+Shelley        		Mean: 42.03 		Best: 913.99 		N:22
+Reid           		Mean: 57.73 		Best: 908.57 		N:16
+Sutton         		Mean: 48.77 		Best: 910.63 		N:19
+Corns          		Mean: 61.68 		Best: 908.27 		N:15
+
+########## REPORT GEN: 13 ##########
+SPECIES: 
+Reid           		Mean: 44.0 		Best: 931.15 		N:21
+Francis        		Mean: 43.95 		Best: 930.29 		N:21
+Shelley        		Mean: 42.22 		Best: 928.93 		N:22
+Carr           		Mean: 46.31 		Best: 928.57 		N:20
+Jara           		Mean: 66.49 		Best: 925.98 		N:14
+Sutton         		Mean: 57.63 		Best: 925.46 		N:16
+Whalen         		Mean: 57.96 		Best: 916.81 		N:16
+Corns          		Mean: 61.43 		Best: 908.44 		N:15
+
+########## REPORT GEN: 14 ##########
+SPECIES: 
+Francis        		Mean: 42.07 		Best: 934.65 		N:22
+Sutton         		Mean: 42.35 		Best: 930.53 		N:22
+Reid           		Mean: 48.61 		Best: 927.04 		N:19
+Carr           		Mean: 54.11 		Best: 917.73 		N:17
+Whalen         		Mean: 35.6 		Best: 913.06 		N:26
+Corns          		Mean: 65.99 		Best: 909.0 		N:14
+Shelley        		Mean: 66.1 		Best: 910.52 		N:14
+Jara           		Mean: 83.76 		Best: 913.11 		N:11
+
+########## REPORT GEN: 15 ##########
+SPECIES: 
+Francis        		Mean: 43.96 		Best: 932.88 		N:21
+Carr           		Mean: 42.02 		Best: 928.79 		N:22
+Sutton         		Mean: 48.76 		Best: 926.15 		N:19
+Reid           		Mean: 51.2 		Best: 925.91 		N:18
+Whalen         		Mean: 57.91 		Best: 923.69 		N:16
+Shelley        		Mean: 71.25 		Best: 915.55 		N:13
+Jara           		Mean: 54.13 		Best: 910.05 		N:17
+Corns          		Mean: 61.06 		Best: 910.07 		N:15
+
+########## REPORT GEN: 16 ##########
+SPECIES: 
+Sutton         		Mean: 48.6 		Best: 941.65 		N:19
+Jara           		Mean: 51.32 		Best: 934.6 		N:18
+Francis        		Mean: 57.92 		Best: 933.56 		N:16
+Carr           		Mean: 46.2 		Best: 928.46 		N:20
+Whalen         		Mean: 51.07 		Best: 924.48 		N:18
+Corns          		Mean: 41.99 		Best: 920.45 		N:22
+Shelley        		Mean: 76.67 		Best: 913.39 		N:12
+Reid           		Mean: 46.04 		Best: 910.27 		N:20
+
+########## REPORT GEN: 17 ##########
+SPECIES: 
+Reid           		Mean: 46.25 		Best: 935.19 		N:20
+Carr           		Mean: 91.93 		Best: 934.78 		N:10
+Sutton         		Mean: 35.6 		Best: 930.25 		N:26
+Corns          		Mean: 43.89 		Best: 928.7 		N:21
+Whalen         		Mean: 46.18 		Best: 921.88 		N:20
+Jara           		Mean: 46.03 		Best: 921.2 		N:20
+Shelley        		Mean: 61.05 		Best: 916.42 		N:15
+Francis        		Mean: 76.65 		Best: 916.09 		N:12
+
+########## REPORT GEN: 18 ##########
+SPECIES: 
+Corns          		Mean: 61.25 		Best: 940.76 		N:15
+Shelley        		Mean: 43.86 		Best: 936.15 		N:21
+Whalen         		Mean: 57.75 		Best: 931.32 		N:16
+Reid           		Mean: 45.87 		Best: 926.2 		N:20
+Jara           		Mean: 54.3 		Best: 920.3 		N:17
+Carr           		Mean: 57.27 		Best: 914.49 		N:16
+Francis        		Mean: 51.02 		Best: 912.91 		N:18
+Sutton         		Mean: 70.48 		Best: 903.3 		N:13
+
+########## REPORT GEN: 19 ##########
+SPECIES: 
+Francis        		Mean: 61.74 		Best: 936.75 		N:15
+Carr           		Mean: 71.08 		Best: 931.17 		N:13
+Jara           		Mean: 48.53 		Best: 925.47 		N:19
+Shelley        		Mean: 38.08 		Best: 923.42 		N:24
+Reid           		Mean: 44.02 		Best: 918.42 		N:21
+Sutton         		Mean: 57.24 		Best: 914.77 		N:16
+Whalen         		Mean: 45.74 		Best: 912.88 		N:20
+Corns          		Mean: 53.79 		Best: 912.7 		N:17
+
+########## REPORT GEN: 20 ##########
+SPECIES: 
+Jara           		Mean: 41.88 		Best: 935.51 		N:22
+Carr           		Mean: 35.43 		Best: 929.63 		N:26
+Reid           		Mean: 54.25 		Best: 928.68 		N:17
+Sutton         		Mean: 48.44 		Best: 925.45 		N:19
+Francis        		Mean: 61.35 		Best: 920.63 		N:15
+Corns          		Mean: 54.26 		Best: 914.57 		N:17
+Shelley        		Mean: 48.26 		Best: 911.84 		N:19
+Whalen         		Mean: 70.54 		Best: 912.1 		N:13
+
+########## REPORT GEN: 21 ##########
+SPECIES: 
+Francis        		Mean: 48.41 		Best: 935.63 		N:19
+Carr           		Mean: 31.75 		Best: 934.71 		N:29
+Corns          		Mean: 43.71 		Best: 932.74 		N:21
+Sutton         		Mean: 65.97 		Best: 932.04 		N:14
+Whalen         		Mean: 53.99 		Best: 924.91 		N:17
+Reid           		Mean: 43.74 		Best: 912.89 		N:21
+Shelley        		Mean: 65.67 		Best: 911.61 		N:14
+Jara           		Mean: 76.78 		Best: 911.16 		N:12
+
+########## REPORT GEN: 22 ##########
+SPECIES: 
+Reid           		Mean: 76.66 		Best: 939.85 		N:12
+Francis        		Mean: 38.42 		Best: 938.8 		N:24
+Sutton         		Mean: 65.56 		Best: 932.83 		N:14
+Shelley        		Mean: 102.48 		Best: 929.62 		N:9
+Jara           		Mean: 48.28 		Best: 924.58 		N:19
+Corns          		Mean: 35.28 		Best: 920.98 		N:26
+Carr           		Mean: 45.79 		Best: 915.32 		N:20
+Whalen         		Mean: 39.94 		Best: 915.02 		N:23
+
+########## REPORT GEN: 23 ##########
+SPECIES: 
+Francis        		Mean: 76.46 		Best: 944.49 		N:12
+Carr           		Mean: 43.8 		Best: 939.38 		N:21
+Shelley        		Mean: 45.74 		Best: 937.75 		N:20
+Whalen         		Mean: 76.7 		Best: 933.31 		N:12
+Jara           		Mean: 43.72 		Best: 932.83 		N:21
+Reid           		Mean: 70.9 		Best: 926.23 		N:13
+Corns          		Mean: 60.96 		Best: 924.76 		N:15
+Sutton         		Mean: 50.95 		Best: 915.1 		N:18
+
+########## REPORT GEN: 24 ##########
+SPECIES: 
+Reid           		Mean: 39.84 		Best: 952.95 		N:23
+Whalen         		Mean: 65.24 		Best: 941.28 		N:14
+Shelley        		Mean: 51.01 		Best: 938.96 		N:18
+Corns          		Mean: 61.07 		Best: 937.86 		N:15
+Jara           		Mean: 41.62 		Best: 932.39 		N:22
+Sutton         		Mean: 48.21 		Best: 928.99 		N:19
+Francis        		Mean: 53.95 		Best: 926.28 		N:17
+Carr           		Mean: 50.99 		Best: 924.91 		N:18
+
+########## REPORT GEN: 25 ##########
+SPECIES: 
+Sutton         		Mean: 61.39 		Best: 940.5 		N:15
+Reid           		Mean: 53.96 		Best: 935.81 		N:17
+Whalen         		Mean: 45.82 		Best: 933.53 		N:20
+Jara           		Mean: 35.13 		Best: 931.15 		N:26
+Corns          		Mean: 48.24 		Best: 927.89 		N:19
+Francis        		Mean: 45.7 		Best: 921.9 		N:20
+Shelley        		Mean: 57.28 		Best: 918.9 		N:16
+Carr           		Mean: 70.26 		Best: 910.46 		N:13
+
+########## REPORT GEN: 26 ##########
+SPECIES: 
+Sutton         		Mean: 41.68 		Best: 951.87 		N:22
+Jara           		Mean: 83.15 		Best: 935.38 		N:11
+Whalen         		Mean: 41.47 		Best: 934.31 		N:22
+Francis        		Mean: 34.05 		Best: 930.17 		N:27
+Corns          		Mean: 70.46 		Best: 929.77 		N:13
+Shelley        		Mean: 54.15 		Best: 926.66 		N:17
+Reid           		Mean: 48.3 		Best: 926.32 		N:19
+Carr           		Mean: 53.89 		Best: 924.42 		N:17
+
+########## REPORT GEN: 27 ##########
+SPECIES: 
+Jara           		Mean: 48.33 		Best: 941.44 		N:19
+Carr           		Mean: 45.94 		Best: 939.84 		N:20
+Francis        		Mean: 53.74 		Best: 936.91 		N:17
+Corns          		Mean: 50.88 		Best: 922.89 		N:18
+Whalen         		Mean: 57.03 		Best: 919.58 		N:16
+Shelley        		Mean: 65.43 		Best: 923.23 		N:14
+Sutton         		Mean: 48.17 		Best: 919.26 		N:19
+Reid           		Mean: 53.48 		Best: 917.58 		N:17
+
+########## REPORT GEN: 28 ##########
+SPECIES: 
+Whalen         		Mean: 43.64 		Best: 944.49 		N:21
+Jara           		Mean: 70.83 		Best: 943.97 		N:13
+Sutton         		Mean: 38.31 		Best: 940.77 		N:24
+Carr           		Mean: 47.95 		Best: 925.99 		N:19
+Shelley        		Mean: 45.65 		Best: 924.21 		N:20
+Francis        		Mean: 53.75 		Best: 922.13 		N:17
+Reid           		Mean: 57.22 		Best: 920.97 		N:16
+Corns          		Mean: 50.57 		Best: 914.88 		N:18
+
+########## REPORT GEN: 29 ##########
+SPECIES: 
+Carr           		Mean: 30.41 		Best: 949.82 		N:30
+Corns          		Mean: 57.27 		Best: 939.45 		N:16
+Francis        		Mean: 45.57 		Best: 936.85 		N:20
+Jara           		Mean: 76.27 		Best: 930.08 		N:12
+Reid           		Mean: 65.4 		Best: 927.31 		N:14
+Shelley        		Mean: 53.98 		Best: 925.56 		N:17
+Sutton         		Mean: 41.5 		Best: 924.8 		N:22
+Whalen         		Mean: 57.19 		Best: 918.13 		N:16
+
+########## REPORT GEN: 30 ##########
+SPECIES: 
+Carr           		Mean: 41.81 		Best: 946.75 		N:22
+Corns          		Mean: 39.78 		Best: 945.94 		N:23
+Reid           		Mean: 57.09 		Best: 945.48 		N:16
+Francis        		Mean: 53.86 		Best: 942.55 		N:17
+Shelley        		Mean: 50.85 		Best: 939.79 		N:18
+Jara           		Mean: 53.88 		Best: 933.56 		N:17
+Whalen         		Mean: 38.24 		Best: 923.15 		N:24
+Sutton         		Mean: 75.62 		Best: 907.89 		N:12
+
+########## REPORT GEN: 31 ##########
+SPECIES: 
+Sutton         		Mean: 48.4 		Best: 947.68 		N:19
+Shelley        		Mean: 33.71 		Best: 945.81 		N:27
+Corns          		Mean: 38.02 		Best: 934.92 		N:24
+Francis        		Mean: 51.06 		Best: 934.01 		N:18
+Jara           		Mean: 65.54 		Best: 932.51 		N:14
+Reid           		Mean: 114.52 		Best: 923.73 		N:8
+Whalen         		Mean: 47.92 		Best: 923.64 		N:19
+Carr           		Mean: 70.0 		Best: 917.76 		N:13
+
+########## REPORT GEN: 32 ##########
+SPECIES: 
+Corns          		Mean: 39.86 		Best: 946.63 		N:23
+Reid           		Mean: 50.92 		Best: 942.54 		N:18
+Jara           		Mean: 65.08 		Best: 941.75 		N:14
+Francis        		Mean: 76.31 		Best: 937.37 		N:12
+Whalen         		Mean: 61.06 		Best: 930.62 		N:15
+Carr           		Mean: 65.08 		Best: 922.65 		N:14
+Sutton         		Mean: 45.42 		Best: 911.07 		N:20
+Shelley        		Mean: 69.6 		Best: 903.1 		N:13
+
+########## REPORT GEN: 33 ##########
+SPECIES: 
+Shelley        		Mean: 57.68 		Best: 948.35 		N:16
+Francis        		Mean: 60.7 		Best: 948.29 		N:15
+Reid           		Mean: 41.44 		Best: 942.02 		N:22
+Sutton         		Mean: 43.2 		Best: 920.53 		N:21
+Jara           		Mean: 41.32 		Best: 912.92 		N:22
+Carr           		Mean: 56.57 		Best: 910.14 		N:16
+Corns          		Mean: 39.39 		Best: 909.49 		N:23
+Whalen         		Mean: 75.38 		Best: 909.22 		N:12
+
+########## REPORT GEN: 34 ##########
+SPECIES: 
+Corns          		Mean: 61.07 		Best: 949.07 		N:15
+Jara           		Mean: 45.52 		Best: 947.89 		N:20
+Reid           		Mean: 37.9 		Best: 946.92 		N:24
+Francis        		Mean: 45.56 		Best: 942.8 		N:20
+Shelley        		Mean: 60.43 		Best: 925.0 		N:15
+Whalen         		Mean: 60.44 		Best: 910.0 		N:15
+Carr           		Mean: 56.68 		Best: 909.86 		N:16
+Sutton         		Mean: 53.23 		Best: 904.14 		N:17
+
+########## REPORT GEN: 35 ##########
+SPECIES: 
+Corns          		Mean: 35.01 		Best: 946.02 		N:26
+Shelley        		Mean: 41.4 		Best: 942.91 		N:22
+Whalen         		Mean: 53.63 		Best: 941.73 		N:17
+Sutton         		Mean: 47.76 		Best: 925.67 		N:19
+Reid           		Mean: 56.85 		Best: 922.49 		N:16
+Carr           		Mean: 69.44 		Best: 918.34 		N:13
+Francis        		Mean: 64.74 		Best: 909.67 		N:14
+Jara           		Mean: 47.57 		Best: 909.06 		N:19
+
+########## REPORT GEN: 36 ##########
+SPECIES: 
+Carr           		Mean: 43.64 		Best: 947.58 		N:21
+Shelley        		Mean: 33.72 		Best: 943.66 		N:27
+Reid           		Mean: 45.33 		Best: 942.95 		N:20
+Whalen         		Mean: 43.36 		Best: 924.35 		N:21
+Jara           		Mean: 56.76 		Best: 923.12 		N:16
+Corns          		Mean: 50.74 		Best: 922.73 		N:18
+Francis        		Mean: 65.23 		Best: 921.81 		N:14
+Sutton         		Mean: 82.26 		Best: 920.49 		N:11
+
+########## REPORT GEN: 37 ##########
+SPECIES: 
+Reid           		Mean: 45.7 		Best: 949.04 		N:20
+Sutton         		Mean: 41.19 		Best: 936.06 		N:22
+Carr           		Mean: 43.4 		Best: 932.25 		N:21
+Shelley        		Mean: 70.15 		Best: 929.17 		N:13
+Corns          		Mean: 60.4 		Best: 925.59 		N:15
+Jara           		Mean: 64.86 		Best: 923.16 		N:14
+Whalen         		Mean: 60.68 		Best: 921.54 		N:15
+Francis        		Mean: 40.96 		Best: 909.07 		N:22
+
+########## REPORT GEN: 38 ##########
+SPECIES: 
+Jara           		Mean: 43.24 		Best: 947.3 		N:21
+Shelley        		Mean: 64.72 		Best: 937.91 		N:14
+Francis        		Mean: 50.12 		Best: 928.96 		N:18
+Sutton         		Mean: 69.98 		Best: 928.31 		N:13
+Corns          		Mean: 50.34 		Best: 926.33 		N:18
+Carr           		Mean: 34.96 		Best: 925.75 		N:26
+Whalen         		Mean: 45.5 		Best: 924.16 		N:20
+Reid           		Mean: 53.53 		Best: 918.31 		N:17
+
+########## REPORT GEN: 39 ##########
+SPECIES: 
+Shelley        		Mean: 37.84 		Best: 943.91 		N:24
+Francis        		Mean: 45.52 		Best: 939.52 		N:20
+Reid           		Mean: 43.47 		Best: 922.8 		N:21
+Sutton         		Mean: 41.2 		Best: 922.38 		N:22
+Jara           		Mean: 43.28 		Best: 922.36 		N:21
+Carr           		Mean: 75.89 		Best: 917.94 		N:12
+Corns          		Mean: 50.45 		Best: 917.76 		N:18
+Whalen         		Mean: 100.48 		Best: 911.88 		N:9
+
+########## REPORT GEN: 40 ##########
+SPECIES: 
+Francis        		Mean: 37.96 		Best: 951.32 		N:24
+Shelley        		Mean: 47.52 		Best: 945.31 		N:19
+Jara           		Mean: 50.73 		Best: 928.76 		N:18
+Corns          		Mean: 82.7 		Best: 923.58 		N:11
+Carr           		Mean: 64.45 		Best: 921.86 		N:14
+Whalen         		Mean: 69.73 		Best: 919.25 		N:13
+Sutton         		Mean: 50.11 		Best: 916.91 		N:18
+Reid           		Mean: 75.6 		Best: 916.15 		N:12
+
+########## REPORT GEN: 41 ##########
+SPECIES: 
+Whalen         		Mean: 43.57 		Best: 942.24 		N:21
+Shelley        		Mean: 39.43 		Best: 926.67 		N:23
+Corns          		Mean: 76.0 		Best: 926.67 		N:12
+Jara           		Mean: 50.32 		Best: 926.05 		N:18
+Sutton         		Mean: 56.39 		Best: 921.15 		N:16
+Francis        		Mean: 41.15 		Best: 920.38 		N:22
+Reid           		Mean: 69.9 		Best: 919.01 		N:13
+Carr           		Mean: 53.02 		Best: 904.31 		N:17
+
+########## REPORT GEN: 42 ##########
+SPECIES: 
+Carr           		Mean: 36.48 		Best: 936.38 		N:25
+Reid           		Mean: 60.58 		Best: 930.73 		N:15
+Shelley        		Mean: 53.4 		Best: 926.38 		N:17
+Whalen         		Mean: 45.4 		Best: 922.79 		N:20
+Sutton         		Mean: 45.23 		Best: 919.31 		N:20
+Francis        		Mean: 45.07 		Best: 919.1 		N:20
+Jara           		Mean: 64.39 		Best: 909.27 		N:14
+Corns          		Mean: 69.63 		Best: 910.07 		N:13
+
+########## REPORT GEN: 43 ##########
+SPECIES: 
+Reid           		Mean: 53.34 		Best: 940.75 		N:17
+Jara           		Mean: 37.83 		Best: 926.46 		N:24
+Sutton         		Mean: 47.83 		Best: 925.93 		N:19
+Carr           		Mean: 54.02 		Best: 925.05 		N:17
+Whalen         		Mean: 56.76 		Best: 922.99 		N:16
+Francis        		Mean: 50.47 		Best: 920.45 		N:18
+Shelley        		Mean: 53.07 		Best: 909.86 		N:17
+Corns          		Mean: 47.59 		Best: 908.21 		N:19
+
+########## REPORT GEN: 44 ##########
+SPECIES: 
+Reid           		Mean: 41.36 		Best: 939.98 		N:22
+Sutton         		Mean: 53.51 		Best: 939.55 		N:17
+Jara           		Mean: 47.91 		Best: 928.49 		N:19
+Corns          		Mean: 39.78 		Best: 926.25 		N:23
+Shelley        		Mean: 50.42 		Best: 928.37 		N:18
+Carr           		Mean: 45.48 		Best: 923.61 		N:20
+Whalen         		Mean: 70.17 		Best: 918.67 		N:13
+Francis        		Mean: 70.06 		Best: 912.27 		N:13
+
+########## REPORT GEN: 45 ##########
+SPECIES: 
+Reid           		Mean: 50.38 		Best: 940.06 		N:18
+Corns          		Mean: 60.56 		Best: 936.83 		N:15
+Francis        		Mean: 39.52 		Best: 933.03 		N:23
+Jara           		Mean: 35.08 		Best: 929.85 		N:26
+Shelley        		Mean: 59.99 		Best: 922.75 		N:15
+Sutton         		Mean: 45.51 		Best: 920.59 		N:20
+Whalen         		Mean: 56.57 		Best: 911.73 		N:16
+Carr           		Mean: 60.37 		Best: 911.21 		N:15
+
+########## REPORT GEN: 46 ##########
+SPECIES: 
+Francis        		Mean: 43.11 		Best: 940.77 		N:21
+Whalen         		Mean: 41.29 		Best: 931.37 		N:22
+Sutton         		Mean: 64.81 		Best: 929.58 		N:14
+Carr           		Mean: 50.67 		Best: 928.04 		N:18
+Shelley        		Mean: 47.93 		Best: 927.16 		N:19
+Reid           		Mean: 47.78 		Best: 925.32 		N:19
+Jara           		Mean: 41.25 		Best: 921.55 		N:22
+Corns          		Mean: 74.38 		Best: 911.76 		N:12
+
+########## REPORT GEN: 47 ##########
+SPECIES: 
+Carr           		Mean: 47.85 		Best: 942.98 		N:19
+Shelley        		Mean: 70.0 		Best: 935.31 		N:13
+Whalen         		Mean: 69.94 		Best: 932.5 		N:13
+Francis        		Mean: 39.65 		Best: 926.28 		N:23
+Sutton         		Mean: 45.38 		Best: 923.33 		N:20
+Reid           		Mean: 47.67 		Best: 922.67 		N:19
+Jara           		Mean: 45.53 		Best: 917.58 		N:20
+Corns          		Mean: 53.32 		Best: 914.92 		N:17
+
+########## REPORT GEN: 48 ##########
+SPECIES: 
+Francis        		Mean: 39.58 		Best: 938.04 		N:23
+Carr           		Mean: 44.93 		Best: 935.81 		N:20
+Corns          		Mean: 60.37 		Best: 930.56 		N:15
+Sutton         		Mean: 39.43 		Best: 930.07 		N:23
+Reid           		Mean: 41.42 		Best: 924.09 		N:22
+Whalen         		Mean: 64.57 		Best: 917.83 		N:14
+Jara           		Mean: 45.27 		Best: 913.89 		N:20
+Shelley        		Mean: 75.57 		Best: 910.99 		N:12
+
+########## REPORT GEN: 49 ##########
+SPECIES: 
+Jara           		Mean: 43.2 		Best: 943.55 		N:21
+Reid           		Mean: 33.66 		Best: 935.96 		N:27
+Carr           		Mean: 53.23 		Best: 929.48 		N:17
+Whalen         		Mean: 69.73 		Best: 922.08 		N:13
+Shelley        		Mean: 69.21 		Best: 919.3 		N:13
+Francis        		Mean: 50.39 		Best: 918.64 		N:18
+Corns          		Mean: 50.28 		Best: 912.24 		N:18
+Sutton         		Mean: 53.17 		Best: 912.31 		N:17
+
+########## REPORT GEN: 50 ##########
+SPECIES: 
+Reid           		Mean: 50.55 		Best: 947.56 		N:18
+Francis        		Mean: 31.25 		Best: 931.59 		N:29
+Corns          		Mean: 91.66 		Best: 927.72 		N:10
+Carr           		Mean: 45.28 		Best: 926.36 		N:20
+Sutton         		Mean: 41.24 		Best: 925.77 		N:22
+Whalen         		Mean: 82.29 		Best: 924.3 		N:11
+Jara           		Mean: 59.99 		Best: 918.6 		N:15
+Shelley        		Mean: 41.2 		Best: 916.02 		N:22
+
+########## REPORT GEN: 51 ##########
+SPECIES: 
+Carr           		Mean: 45.25 		Best: 938.5 		N:20
+Whalen         		Mean: 45.6 		Best: 935.83 		N:20
+Jara           		Mean: 53.52 		Best: 932.06 		N:17
+Francis        		Mean: 53.48 		Best: 928.19 		N:17
+Sutton         		Mean: 68.57 		Best: 922.6 		N:13
+Shelley        		Mean: 53.34 		Best: 918.57 		N:17
+Reid           		Mean: 45.27 		Best: 913.22 		N:20
+Corns          		Mean: 90.93 		Best: 911.31 		N:10
+
+########## REPORT GEN: 52 ##########
+SPECIES: 
+Francis        		Mean: 36.22 		Best: 947.04 		N:25
+Whalen         		Mean: 38.03 		Best: 934.97 		N:24
+Carr           		Mean: 39.57 		Best: 924.13 		N:23
+Corns          		Mean: 69.79 		Best: 920.58 		N:13
+Reid           		Mean: 69.53 		Best: 919.56 		N:13
+Jara           		Mean: 100.8 		Best: 915.81 		N:9
+Sutton         		Mean: 69.7 		Best: 915.68 		N:13
+Shelley        		Mean: 55.91 		Best: 904.18 		N:16
+
+########## REPORT GEN: 53 ##########
+SPECIES: 
+Carr           		Mean: 56.59 		Best: 941.53 		N:16
+Whalen         		Mean: 41.36 		Best: 935.66 		N:22
+Francis        		Mean: 100.81 		Best: 930.16 		N:9
+Jara           		Mean: 56.78 		Best: 927.68 		N:16
+Reid           		Mean: 37.77 		Best: 927.08 		N:24
+Shelley        		Mean: 69.67 		Best: 915.29 		N:13
+Corns          		Mean: 69.43 		Best: 907.03 		N:13
+Sutton         		Mean: 42.93 		Best: 905.1 		N:21
+
+########## REPORT GEN: 54 ##########
+SPECIES: 
+Carr           		Mean: 45.33 		Best: 944.23 		N:20
+Corns          		Mean: 60.62 		Best: 942.96 		N:15
+Sutton         		Mean: 47.73 		Best: 927.5 		N:19
+Reid           		Mean: 75.51 		Best: 925.41 		N:12
+Shelley        		Mean: 56.55 		Best: 921.14 		N:16
+Jara           		Mean: 75.21 		Best: 908.17 		N:12
+Francis        		Mean: 47.37 		Best: 908.31 		N:19
+Whalen         		Mean: 47.38 		Best: 905.78 		N:19
+
+########## REPORT GEN: 55 ##########
+SPECIES: 
+Whalen         		Mean: 47.67 		Best: 939.12 		N:19
+Francis        		Mean: 42.86 		Best: 933.68 		N:21
+Carr           		Mean: 47.64 		Best: 929.19 		N:19
+Sutton         		Mean: 75.32 		Best: 928.15 		N:12
+Corns          		Mean: 60.32 		Best: 925.97 		N:15
+Jara           		Mean: 37.61 		Best: 922.64 		N:24
+Shelley        		Mean: 45.21 		Best: 918.96 		N:20
+Reid           		Mean: 64.27 		Best: 910.52 		N:14
+
+########## REPORT GEN: 56 ##########
+SPECIES: 
+Francis        		Mean: 60.65 		Best: 940.09 		N:15
+Shelley        		Mean: 41.01 		Best: 932.18 		N:22
+Jara           		Mean: 50.38 		Best: 931.61 		N:18
+Carr           		Mean: 47.48 		Best: 917.49 		N:19
+Whalen         		Mean: 50.06 		Best: 915.93 		N:18
+Corns          		Mean: 49.99 		Best: 914.89 		N:18
+Reid           		Mean: 45.07 		Best: 914.28 		N:20
+Sutton         		Mean: 69.36 		Best: 903.0 		N:13
+
+########## REPORT GEN: 57 ##########
+SPECIES: 
+Corns          		Mean: 56.65 		Best: 938.51 		N:16
+Sutton         		Mean: 50.41 		Best: 932.83 		N:18
+Whalen         		Mean: 41.28 		Best: 930.52 		N:22
+Carr           		Mean: 43.1 		Best: 925.99 		N:21
+Reid           		Mean: 41.11 		Best: 924.67 		N:22
+Francis        		Mean: 56.36 		Best: 917.53 		N:16
+Jara           		Mean: 56.36 		Best: 914.31 		N:16
+Shelley        		Mean: 56.35 		Best: 912.5 		N:16
+
+########## REPORT GEN: 58 ##########
+SPECIES: 
+Francis        		Mean: 59.63 		Best: 935.76 		N:15
+Carr           		Mean: 64.38 		Best: 935.19 		N:14
+Whalen         		Mean: 45.34 		Best: 931.88 		N:20
+Jara           		Mean: 45.17 		Best: 931.48 		N:20
+Corns          		Mean: 39.13 		Best: 926.39 		N:23
+Sutton         		Mean: 47.58 		Best: 921.91 		N:19
+Shelley        		Mean: 43.01 		Best: 912.05 		N:21
+Reid           		Mean: 56.19 		Best: 909.9 		N:16
+
+########## REPORT GEN: 59 ##########
+SPECIES: 
+Whalen         		Mean: 75.53 		Best: 938.87 		N:12
+Jara           		Mean: 53.22 		Best: 935.46 		N:17
+Shelley        		Mean: 41.14 		Best: 934.81 		N:22
+Carr           		Mean: 39.31 		Best: 933.73 		N:23
+Francis        		Mean: 50.38 		Best: 923.3 		N:18
+Reid           		Mean: 82.16 		Best: 920.39 		N:11
+Sutton         		Mean: 41.04 		Best: 917.08 		N:22
+Corns          		Mean: 43.06 		Best: 911.63 		N:21
+
+########## REPORT GEN: 60 ##########
+SPECIES: 
+Reid           		Mean: 37.84 		Best: 940.8 		N:24
+Corns          		Mean: 69.47 		Best: 934.43 		N:13
+Jara           		Mean: 50.38 		Best: 932.36 		N:18
+Francis        		Mean: 69.61 		Best: 920.02 		N:13
+Whalen         		Mean: 90.42 		Best: 917.65 		N:10
+Shelley        		Mean: 39.26 		Best: 914.58 		N:23
+Carr           		Mean: 56.39 		Best: 911.95 		N:16
+Sutton         		Mean: 42.84 		Best: 907.6 		N:21
+
+########## REPORT GEN: 61 ##########
+SPECIES: 
+Corns          		Mean: 34.79 		Best: 938.88 		N:26
+Reid           		Mean: 43.12 		Best: 934.82 		N:21
+Shelley        		Mean: 43.11 		Best: 931.97 		N:21
+Francis        		Mean: 49.73 		Best: 929.29 		N:18
+Sutton         		Mean: 69.53 		Best: 914.7 		N:13
+Jara           		Mean: 39.21 		Best: 907.35 		N:23
+Whalen         		Mean: 112.67 		Best: 903.41 		N:8
+Carr           		Mean: 148.71 		Best: 901.71 		N:6
+
+########## REPORT GEN: 62 ##########
+SPECIES: 
+Carr           		Mean: 82.07 		Best: 942.04 		N:11
+Whalen         		Mean: 59.6 		Best: 936.54 		N:15
+Corns          		Mean: 90.91 		Best: 935.2 		N:10
+Sutton         		Mean: 69.46 		Best: 929.31 		N:13
+Francis        		Mean: 47.41 		Best: 924.72 		N:19
+Shelley        		Mean: 69.55 		Best: 908.99 		N:13
+Reid           		Mean: 56.27 		Best: 908.25 		N:16
+Jara           		Mean: 99.84 		Best: 904.4 		N:9
+
+########## REPORT GEN: 63 ##########
+SPECIES: 
+Jara           		Mean: 60.61 		Best: 943.54 		N:15
+Shelley        		Mean: 34.78 		Best: 933.72 		N:26
+Sutton         		Mean: 64.13 		Best: 932.42 		N:14
+Carr           		Mean: 75.48 		Best: 920.75 		N:12
+Whalen         		Mean: 69.51 		Best: 919.2 		N:13
+Reid           		Mean: 45.17 		Best: 914.05 		N:20
+Francis        		Mean: 64.11 		Best: 911.31 		N:14
+Corns          		Mean: 40.5 		Best: 908.18 		N:22
+
+########## REPORT GEN: 64 ##########
+SPECIES: 
+Carr           		Mean: 37.63 		Best: 943.39 		N:24
+Shelley        		Mean: 42.67 		Best: 933.87 		N:21
+Reid           		Mean: 41.06 		Best: 930.33 		N:22
+Jara           		Mean: 47.36 		Best: 915.82 		N:19
+Corns          		Mean: 47.35 		Best: 914.87 		N:19
+Sutton         		Mean: 69.36 		Best: 910.91 		N:13
+Whalen         		Mean: 64.41 		Best: 910.11 		N:14
+Francis        		Mean: 56.43 		Best: 910.65 		N:16
+
+########## REPORT GEN: 65 ##########
+SPECIES: 
+Reid           		Mean: 45.04 		Best: 946.65 		N:20
+Shelley        		Mean: 64.53 		Best: 934.22 		N:14
+Whalen         		Mean: 50.2 		Best: 929.77 		N:18
+Sutton         		Mean: 90.66 		Best: 927.53 		N:10
+Jara           		Mean: 42.97 		Best: 925.05 		N:21
+Carr           		Mean: 47.22 		Best: 917.99 		N:19
+Corns          		Mean: 39.22 		Best: 912.22 		N:23
+Francis        		Mean: 44.87 		Best: 908.37 		N:20
+
+########## REPORT GEN: 66 ##########
+SPECIES: 
+Corns          		Mean: 74.63 		Best: 934.84 		N:12
+Carr           		Mean: 69.95 		Best: 931.07 		N:13
+Jara           		Mean: 45.05 		Best: 920.84 		N:20
+Francis        		Mean: 59.28 		Best: 914.72 		N:15
+Shelley        		Mean: 50.17 		Best: 913.05 		N:18
+Whalen         		Mean: 56.44 		Best: 912.23 		N:16
+Reid           		Mean: 50.14 		Best: 911.39 		N:18
+Sutton         		Mean: 43.03 		Best: 910.82 		N:21
+
+########## REPORT GEN: 67 ##########
+SPECIES: 
+Whalen         		Mean: 36.32 		Best: 935.83 		N:25
+Shelley        		Mean: 60.44 		Best: 931.51 		N:15
+Reid           		Mean: 60.29 		Best: 922.55 		N:15
+Carr           		Mean: 47.45 		Best: 914.11 		N:19
+Francis        		Mean: 44.72 		Best: 912.53 		N:20
+Jara           		Mean: 60.21 		Best: 911.26 		N:15
+Sutton         		Mean: 53.14 		Best: 909.59 		N:17
+Corns          		Mean: 47.51 		Best: 908.44 		N:19
+
+########## REPORT GEN: 68 ##########
+SPECIES: 
+Jara           		Mean: 47.78 		Best: 936.34 		N:19
+Shelley        		Mean: 39.3 		Best: 933.18 		N:23
+Reid           		Mean: 37.48 		Best: 922.23 		N:24
+Francis        		Mean: 60.35 		Best: 915.64 		N:15
+Sutton         		Mean: 53.16 		Best: 913.0 		N:17
+Whalen         		Mean: 60.21 		Best: 911.77 		N:15
+Corns          		Mean: 47.43 		Best: 911.05 		N:19
+Carr           		Mean: 56.16 		Best: 909.88 		N:16
+
+########## REPORT GEN: 69 ##########
+SPECIES: 
+Corns          		Mean: 50.39 		Best: 937.22 		N:18
+Francis        		Mean: 50.34 		Best: 932.7 		N:18
+Sutton         		Mean: 42.95 		Best: 921.03 		N:21
+Jara           		Mean: 42.93 		Best: 914.88 		N:21
+Reid           		Mean: 40.94 		Best: 914.61 		N:22
+Whalen         		Mean: 56.29 		Best: 913.35 		N:16
+Shelley        		Mean: 52.93 		Best: 911.07 		N:17
+Carr           		Mean: 81.84 		Best: 907.76 		N:11
+
+########## REPORT GEN: 70 ##########
+SPECIES: 
+Francis        		Mean: 45.44 		Best: 940.18 		N:20
+Reid           		Mean: 47.71 		Best: 935.23 		N:19
+Jara           		Mean: 50.45 		Best: 934.23 		N:18
+Sutton         		Mean: 50.17 		Best: 925.15 		N:18
+Shelley        		Mean: 69.62 		Best: 922.19 		N:13
+Carr           		Mean: 52.72 		Best: 913.55 		N:17
+Whalen         		Mean: 41.12 		Best: 913.16 		N:22
+Corns          		Mean: 63.44 		Best: 911.26 		N:14
+

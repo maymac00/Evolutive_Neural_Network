@@ -1,0 +1,2848 @@
+########## REPORT GEN: 2 ##########
+SPECIES: 
+Hillard        		Mean: 119.16 		Best: 938.56 		N:8
+Desrochers     		Mean: 314.09 		Best: 938.56 		N:3
+Whitaker       		Mean: 474.72 		Best: 938.56 		N:2
+Preston        		Mean: 134.75 		Best: 927.55 		N:7
+Tice           		Mean: 464.94 		Best: 915.41 		N:2
+Harris         		Mean: 308.07 		Best: 912.9 		N:3
+Harvey         		Mean: 95.79 		Best: 913.46 		N:10
+Ross           		Mean: 68.1 		Best: 912.9 		N:14
+Dunbar         		Mean: 459.82 		Best: 912.9 		N:2
+Mcclain        		Mean: 469.35 		Best: 912.9 		N:2
+Allen          		Mean: 234.96 		Best: 912.9 		N:4
+Davis          		Mean: 464.97 		Best: 912.9 		N:2
+Tharp          		Mean: 456.45 		Best: 912.9 		N:2
+Smith          		Mean: 315.6 		Best: 912.9 		N:3
+Alexander      		Mean: 136.35 		Best: 912.9 		N:7
+Walker         		Mean: 238.84 		Best: 912.9 		N:4
+Chinn          		Mean: 455.86 		Best: 908.14 		N:2
+
+########## REPORT GEN: 3 ##########
+SPECIES: 
+Desrochers     		Mean: 236.0 		Best: 938.56 		N:4
+Harvey         		Mean: 158.36 		Best: 938.56 		N:6
+Davis          		Mean: 136.18 		Best: 938.56 		N:7
+Brock          		Mean: 309.47 		Best: 927.55 		N:3
+Tice           		Mean: 236.06 		Best: 915.41 		N:4
+Dunbar         		Mean: 235.15 		Best: 915.41 		N:4
+Alexander      		Mean: 465.1 		Best: 915.41 		N:2
+Hillard        		Mean: 237.46 		Best: 912.9 		N:4
+Preston        		Mean: 232.15 		Best: 912.9 		N:4
+Harris         		Mean: 118.29 		Best: 915.41 		N:8
+Ross           		Mean: 188.4 		Best: 913.46 		N:5
+Mcclain        		Mean: 313.31 		Best: 912.9 		N:3
+Sheets         		Mean: 463.38 		Best: 912.9 		N:2
+Tharp          		Mean: 456.45 		Best: 912.9 		N:2
+Walker         		Mean: 135.04 		Best: 912.9 		N:7
+Mccormick      		Mean: 456.24 		Best: 912.47 		N:2
+Chinn          		Mean: 229.3 		Best: 908.14 		N:4
+
+########## REPORT GEN: 4 ##########
+SPECIES: 
+Preston        		Mean: 158.4 		Best: 938.72 		N:6
+Desrochers     		Mean: 470.34 		Best: 938.56 		N:2
+Mcclain        		Mean: 190.54 		Best: 938.56 		N:5
+Hope           		Mean: 235.6 		Best: 938.56 		N:4
+Tice           		Mean: 189.89 		Best: 938.56 		N:5
+Sheets         		Mean: 316.01 		Best: 938.56 		N:3
+Davis          		Mean: 235.72 		Best: 918.08 		N:4
+Allen          		Mean: 232.17 		Best: 915.41 		N:4
+Harvey         		Mean: 309.5 		Best: 912.9 		N:3
+Brock          		Mean: 311.26 		Best: 912.9 		N:3
+Dunbar         		Mean: 234.44 		Best: 912.9 		N:4
+Alexander      		Mean: 187.96 		Best: 915.41 		N:5
+Hillard        		Mean: 466.72 		Best: 912.9 		N:2
+Harris         		Mean: 135.2 		Best: 912.9 		N:7
+Tharp          		Mean: 311.74 		Best: 912.9 		N:3
+Walker         		Mean: 234.2 		Best: 912.9 		N:4
+Mccormick      		Mean: 463.85 		Best: 912.9 		N:2
+
+########## REPORT GEN: 5 ##########
+SPECIES: 
+Tharp          		Mean: 190.71 		Best: 938.72 		N:5
+Desrochers     		Mean: 313.41 		Best: 938.56 		N:3
+Brock          		Mean: 157.46 		Best: 938.56 		N:6
+Alexander      		Mean: 316.98 		Best: 938.56 		N:3
+Mccormick      		Mean: 158.55 		Best: 938.56 		N:6
+Chinn          		Mean: 234.01 		Best: 938.56 		N:4
+Ross           		Mean: 117.61 		Best: 921.31 		N:8
+Hope           		Mean: 234.78 		Best: 918.08 		N:4
+Harvey         		Mean: 466.06 		Best: 915.41 		N:2
+Preston        		Mean: 466.58 		Best: 912.9 		N:2
+Mcclain        		Mean: 310.73 		Best: 912.9 		N:3
+Tice           		Mean: 309.83 		Best: 912.9 		N:3
+Harris         		Mean: 309.27 		Best: 912.9 		N:3
+Hillard        		Mean: 460.48 		Best: 912.47 		N:2
+
+########## REPORT GEN: 6 ##########
+SPECIES: 
+Hope           		Mean: 314.01 		Best: 938.72 		N:3
+Desrochers     		Mean: 311.63 		Best: 938.56 		N:3
+Brock          		Mean: 188.25 		Best: 938.56 		N:5
+Mcclain        		Mean: 316.46 		Best: 938.56 		N:3
+Sheets         		Mean: 315.67 		Best: 938.56 		N:3
+Harris         		Mean: 314.22 		Best: 938.56 		N:3
+Mccormick      		Mean: 308.08 		Best: 915.41 		N:3
+Preston        		Mean: 231.36 		Best: 915.41 		N:4
+Chinn          		Mean: 311.1 		Best: 921.31 		N:3
+Ross           		Mean: 461.42 		Best: 912.9 		N:2
+Tice           		Mean: 307.71 		Best: 912.9 		N:3
+Davis          		Mean: 462.03 		Best: 912.9 		N:2
+Allen          		Mean: 309.27 		Best: 912.9 		N:3
+Alexander      		Mean: 465.15 		Best: 911.92 		N:2
+Hillard        		Mean: 155.95 		Best: 912.9 		N:6
+Harvey         		Mean: 308.73 		Best: 912.9 		N:3
+
+########## REPORT GEN: 7 ##########
+SPECIES: 
+Hope           		Mean: 189.09 		Best: 938.72 		N:5
+Desrochers     		Mean: 469.89 		Best: 938.56 		N:2
+Brock          		Mean: 312.09 		Best: 938.56 		N:3
+Harris         		Mean: 188.36 		Best: 938.56 		N:5
+Mccormick      		Mean: 134.58 		Best: 938.56 		N:7
+Chinn          		Mean: 134.46 		Best: 938.56 		N:7
+Ross           		Mean: 157.88 		Best: 938.56 		N:6
+Alexander      		Mean: 311.38 		Best: 938.56 		N:3
+Mcclain        		Mean: 460.32 		Best: 915.41 		N:2
+Davis          		Mean: 233.7 		Best: 915.41 		N:4
+Preston        		Mean: 308.4 		Best: 912.9 		N:3
+Tice           		Mean: 187.21 		Best: 912.9 		N:5
+Allen          		Mean: 461.72 		Best: 912.9 		N:2
+Hillard        		Mean: 308.86 		Best: 912.9 		N:3
+Harvey         		Mean: 155.86 		Best: 912.9 		N:6
+
+########## REPORT GEN: 8 ##########
+SPECIES: 
+Hope           		Mean: 311.07 		Best: 938.72 		N:3
+Desrochers     		Mean: 468.38 		Best: 938.56 		N:2
+Harris         		Mean: 117.32 		Best: 938.56 		N:8
+Mccormick      		Mean: 94.54 		Best: 938.56 		N:10
+Alexander      		Mean: 156.15 		Best: 938.56 		N:6
+Davis          		Mean: 464.95 		Best: 938.56 		N:2
+Preston        		Mean: 134.9 		Best: 938.56 		N:7
+Tice           		Mean: 231.94 		Best: 938.56 		N:4
+Harvey         		Mean: 459.87 		Best: 915.41 		N:2
+Hillard        		Mean: 155.72 		Best: 915.41 		N:6
+Sheets         		Mean: 304.88 		Best: 912.9 		N:3
+Mcclain        		Mean: 456.97 		Best: 912.47 		N:2
+Chinn          		Mean: 454.8 		Best: 910.85 		N:2
+Allen          		Mean: 458.47 		Best: 906.77 		N:2
+Brock          		Mean: 232.07 		Best: 915.41 		N:4
+
+########## REPORT GEN: 9 ##########
+SPECIES: 
+Hope           		Mean: 135.85 		Best: 938.72 		N:7
+Hillard        		Mean: 104.01 		Best: 938.56 		N:9
+Allen          		Mean: 133.33 		Best: 938.56 		N:7
+Brock          		Mean: 155.79 		Best: 938.56 		N:6
+Harris         		Mean: 461.85 		Best: 919.71 		N:2
+Mcclain        		Mean: 308.16 		Best: 915.41 		N:3
+Alexander      		Mean: 309.86 		Best: 912.9 		N:3
+Preston        		Mean: 461.71 		Best: 912.9 		N:2
+Harvey         		Mean: 154.61 		Best: 912.9 		N:6
+Anderson       		Mean: 306.62 		Best: 912.9 		N:3
+Tice           		Mean: 185.13 		Best: 912.47 		N:5
+Davis          		Mean: 232.71 		Best: 912.9 		N:4
+Chinn          		Mean: 227.91 		Best: 910.85 		N:4
+Sheets         		Mean: 457.62 		Best: 902.52 		N:2
+
+########## REPORT GEN: 10 ##########
+SPECIES: 
+Mccormick      		Mean: 186.93 		Best: 939.4 		N:5
+Tice           		Mean: 311.45 		Best: 938.72 		N:3
+Davis          		Mean: 189.41 		Best: 938.72 		N:5
+Hope           		Mean: 310.73 		Best: 938.56 		N:3
+Harris         		Mean: 133.72 		Best: 938.56 		N:7
+Sheets         		Mean: 155.58 		Best: 938.56 		N:6
+Preston        		Mean: 308.48 		Best: 915.42 		N:3
+Mcclain        		Mean: 185.79 		Best: 915.41 		N:5
+Allen          		Mean: 184.69 		Best: 912.9 		N:5
+Alexander      		Mean: 307.02 		Best: 912.9 		N:3
+Hillard        		Mean: 463.14 		Best: 911.92 		N:2
+Chinn          		Mean: 228.19 		Best: 910.85 		N:4
+Brock          		Mean: 184.5 		Best: 906.22 		N:5
+Desrochers     		Mean: 458.86 		Best: 905.84 		N:2
+
+########## REPORT GEN: 11 ##########
+SPECIES: 
+Sheets         		Mean: 186.07 		Best: 939.4 		N:5
+Davis          		Mean: 104.1 		Best: 938.91 		N:9
+Chinn          		Mean: 467.82 		Best: 938.72 		N:2
+Anderson       		Mean: 233.97 		Best: 938.72 		N:4
+Hope           		Mean: 310.37 		Best: 938.56 		N:3
+Harris         		Mean: 467.45 		Best: 938.56 		N:2
+Alexander      		Mean: 186.54 		Best: 938.56 		N:5
+Brock          		Mean: 186.96 		Best: 938.56 		N:5
+Preston        		Mean: 233.08 		Best: 927.55 		N:4
+Mccormick      		Mean: 308.32 		Best: 915.42 		N:3
+Mcclain        		Mean: 185.33 		Best: 915.42 		N:5
+Desrochers     		Mean: 132.06 		Best: 915.41 		N:7
+Tice           		Mean: 458.72 		Best: 906.89 		N:2
+
+########## REPORT GEN: 12 ##########
+SPECIES: 
+Brock          		Mean: 154.71 		Best: 939.4 		N:6
+Mccormick      		Mean: 231.37 		Best: 938.72 		N:4
+Tice           		Mean: 186.31 		Best: 938.72 		N:5
+Alexander      		Mean: 103.55 		Best: 938.72 		N:9
+Davis          		Mean: 233.47 		Best: 938.56 		N:4
+Mcclain        		Mean: 231.44 		Best: 938.56 		N:4
+Desrochers     		Mean: 309.79 		Best: 938.56 		N:3
+Allen          		Mean: 236.07 		Best: 939.4 		N:4
+Harris         		Mean: 154.96 		Best: 927.55 		N:6
+Preston        		Mean: 462.2 		Best: 917.49 		N:2
+Hope           		Mean: 132.58 		Best: 915.83 		N:7
+Sheets         		Mean: 307.03 		Best: 910.85 		N:3
+Anderson       		Mean: 458.33 		Best: 905.84 		N:2
+
+########## REPORT GEN: 13 ##########
+SPECIES: 
+Chinn          		Mean: 465.9 		Best: 944.78 		N:2
+Mccormick      		Mean: 117.67 		Best: 944.78 		N:8
+Tice           		Mean: 187.17 		Best: 939.4 		N:5
+Davis          		Mean: 464.55 		Best: 938.72 		N:2
+Harris         		Mean: 156.24 		Best: 938.72 		N:6
+Allen          		Mean: 116.98 		Best: 938.56 		N:8
+Sheets         		Mean: 309.68 		Best: 938.56 		N:3
+Alexander      		Mean: 132.07 		Best: 927.55 		N:7
+Anderson       		Mean: 232.18 		Best: 920.8 		N:4
+Mcclain        		Mean: 154.8 		Best: 918.95 		N:6
+Hope           		Mean: 229.67 		Best: 914.3 		N:4
+Preston        		Mean: 305.36 		Best: 902.68 		N:3
+
+########## REPORT GEN: 14 ##########
+SPECIES: 
+Mccormick      		Mean: 85.75 		Best: 944.78 		N:11
+Davis          		Mean: 103.16 		Best: 944.78 		N:9
+Harris         		Mean: 134.05 		Best: 944.78 		N:7
+Desrochers     		Mean: 312.41 		Best: 939.4 		N:3
+Hope           		Mean: 313.91 		Best: 939.4 		N:3
+Allen          		Mean: 232.29 		Best: 938.56 		N:4
+Sheets         		Mean: 307.87 		Best: 938.56 		N:3
+Preston        		Mean: 186.73 		Best: 938.56 		N:5
+Tice           		Mean: 183.37 		Best: 920.8 		N:5
+Alexander      		Mean: 308.77 		Best: 920.8 		N:3
+Anderson       		Mean: 456.33 		Best: 905.84 		N:2
+
+########## REPORT GEN: 15 ##########
+SPECIES: 
+Mccormick      		Mean: 235.37 		Best: 944.78 		N:4
+Hope           		Mean: 310.68 		Best: 944.78 		N:3
+Sheets         		Mean: 92.83 		Best: 944.78 		N:10
+Desrochers     		Mean: 312.55 		Best: 939.4 		N:3
+Allen          		Mean: 475.19 		Best: 939.4 		N:2
+Mcclain        		Mean: 155.11 		Best: 939.4 		N:6
+Preston        		Mean: 186.93 		Best: 938.72 		N:5
+Tice           		Mean: 155.11 		Best: 938.56 		N:6
+Chinn          		Mean: 470.31 		Best: 938.56 		N:2
+Anderson       		Mean: 77.24 		Best: 938.56 		N:12
+Davis          		Mean: 460.37 		Best: 919.71 		N:2
+Harris         		Mean: 458.58 		Best: 919.71 		N:2
+
+########## REPORT GEN: 16 ##########
+SPECIES: 
+Sheets         		Mean: 134.95 		Best: 944.78 		N:7
+Preston        		Mean: 469.42 		Best: 944.78 		N:2
+Alexander      		Mean: 117.01 		Best: 944.78 		N:8
+Mccormick      		Mean: 313.74 		Best: 939.4 		N:3
+Mcclain        		Mean: 234.65 		Best: 939.4 		N:4
+Tice           		Mean: 186.56 		Best: 939.4 		N:5
+Chinn          		Mean: 310.22 		Best: 939.4 		N:3
+Harris         		Mean: 235.28 		Best: 939.4 		N:4
+Allen          		Mean: 133.82 		Best: 938.91 		N:7
+Desrochers     		Mean: 233.55 		Best: 938.56 		N:4
+Davis          		Mean: 154.72 		Best: 938.56 		N:6
+Anderson       		Mean: 307.58 		Best: 914.45 		N:3
+
+########## REPORT GEN: 17 ##########
+SPECIES: 
+Preston        		Mean: 471.18 		Best: 946.3 		N:2
+Mcclain        		Mean: 314.78 		Best: 944.78 		N:3
+Tice           		Mean: 232.34 		Best: 944.78 		N:4
+Hope           		Mean: 232.8 		Best: 944.78 		N:4
+Mccormick      		Mean: 188.7 		Best: 939.4 		N:5
+Chinn          		Mean: 133.77 		Best: 939.4 		N:7
+Harris         		Mean: 154.72 		Best: 939.4 		N:6
+Allen          		Mean: 133.06 		Best: 939.4 		N:7
+Desrochers     		Mean: 133.27 		Best: 938.56 		N:7
+Davis          		Mean: 184.8 		Best: 938.56 		N:5
+Anderson       		Mean: 132.96 		Best: 938.56 		N:7
+Santana        		Mean: 305.68 		Best: 919.71 		N:3
+
+########## REPORT GEN: 18 ##########
+SPECIES: 
+Davis          		Mean: 133.34 		Best: 946.3 		N:7
+Santana        		Mean: 156.47 		Best: 944.78 		N:6
+Preston        		Mean: 102.94 		Best: 939.4 		N:9
+Chinn          		Mean: 309.26 		Best: 939.4 		N:3
+Mcclain        		Mean: 132.56 		Best: 938.56 		N:7
+Harris         		Mean: 154.88 		Best: 938.56 		N:6
+Desrochers     		Mean: 184.79 		Best: 938.56 		N:5
+Anderson       		Mean: 184.83 		Best: 938.56 		N:5
+Hope           		Mean: 184.1 		Best: 919.71 		N:5
+Mccormick      		Mean: 130.74 		Best: 919.71 		N:7
+Allen          		Mean: 303.95 		Best: 909.48 		N:3
+Tice           		Mean: 114.62 		Best: 906.65 		N:8
+
+########## REPORT GEN: 19 ##########
+SPECIES: 
+Allen          		Mean: 187.1 		Best: 946.3 		N:5
+Davis          		Mean: 153.72 		Best: 944.78 		N:6
+Desrochers     		Mean: 71.86 		Best: 944.78 		N:13
+Hope           		Mean: 115.31 		Best: 944.78 		N:8
+Santana        		Mean: 153.25 		Best: 940.15 		N:6
+Anderson       		Mean: 133.69 		Best: 939.4 		N:7
+Chinn          		Mean: 115.55 		Best: 938.56 		N:8
+Preston        		Mean: 183.4 		Best: 919.71 		N:5
+Harris         		Mean: 228.26 		Best: 906.18 		N:4
+Mcclain        		Mean: 151.81 		Best: 904.63 		N:6
+Tice           		Mean: 228.93 		Best: 905.84 		N:4
+Mccormick      		Mean: 182.57 		Best: 902.8 		N:5
+
+########## REPORT GEN: 20 ##########
+SPECIES: 
+Santana        		Mean: 84.49 		Best: 946.3 		N:11
+Chinn          		Mean: 103.01 		Best: 946.3 		N:9
+Desrochers     		Mean: 232.14 		Best: 944.78 		N:4
+Anderson       		Mean: 155.52 		Best: 940.15 		N:6
+Preston        		Mean: 83.7 		Best: 939.18 		N:11
+Harris         		Mean: 131.78 		Best: 938.56 		N:7
+Tice           		Mean: 115.29 		Best: 938.56 		N:8
+Davis          		Mean: 184.83 		Best: 928.33 		N:5
+Mcclain        		Mean: 130.88 		Best: 928.33 		N:7
+Hope           		Mean: 131.72 		Best: 928.27 		N:7
+Mccormick      		Mean: 101.86 		Best: 919.71 		N:9
+Allen          		Mean: 152.41 		Best: 916.85 		N:6
+Wilson         		Mean: 444.98 		Best: 888.59 		N:2
+
+########## REPORT GEN: 21 ##########
+SPECIES: 
+Preston        		Mean: 132.86 		Best: 946.3 		N:7
+Mcclain        		Mean: 115.9 		Best: 946.3 		N:8
+Davis          		Mean: 234.45 		Best: 944.78 		N:4
+Mccormick      		Mean: 116.52 		Best: 940.15 		N:8
+Chinn          		Mean: 102.2 		Best: 938.56 		N:9
+Hope           		Mean: 183.27 		Best: 938.56 		N:5
+Harris         		Mean: 183.69 		Best: 928.33 		N:5
+Anderson       		Mean: 131.23 		Best: 928.27 		N:7
+Allen          		Mean: 151.66 		Best: 919.71 		N:6
+Santana        		Mean: 305.45 		Best: 916.85 		N:3
+Tice           		Mean: 227.87 		Best: 910.03 		N:4
+Desrochers     		Mean: 130.79 		Best: 909.9 		N:7
+Wilson         		Mean: 227.73 		Best: 905.84 		N:4
+
+########## REPORT GEN: 22 ##########
+SPECIES: 
+Davis          		Mean: 153.41 		Best: 946.3 		N:6
+Mccormick      		Mean: 183.9 		Best: 946.3 		N:5
+Chinn          		Mean: 70.24 		Best: 944.78 		N:13
+Anderson       		Mean: 185.38 		Best: 940.89 		N:5
+Allen          		Mean: 155.69 		Best: 940.15 		N:6
+Harris         		Mean: 153.07 		Best: 940.15 		N:6
+Mcclain        		Mean: 185.25 		Best: 939.4 		N:5
+Preston        		Mean: 184.8 		Best: 938.56 		N:5
+Hope           		Mean: 305.06 		Best: 922.0 		N:3
+Tice           		Mean: 305.55 		Best: 916.81 		N:3
+Wilson         		Mean: 229.02 		Best: 915.88 		N:4
+Santana        		Mean: 101.52 		Best: 910.03 		N:9
+Desrochers     		Mean: 151.74 		Best: 907.8 		N:6
+Smith          		Mean: 128.21 		Best: 906.03 		N:7
+
+########## REPORT GEN: 23 ##########
+SPECIES: 
+Anderson       		Mean: 153.77 		Best: 946.3 		N:6
+Harris         		Mean: 77.16 		Best: 946.3 		N:12
+Hope           		Mean: 102.06 		Best: 946.3 		N:9
+Desrochers     		Mean: 103.4 		Best: 946.3 		N:9
+Chinn          		Mean: 91.51 		Best: 940.89 		N:10
+Davis          		Mean: 186.8 		Best: 940.15 		N:5
+Wilson         		Mean: 153.09 		Best: 938.56 		N:6
+Allen          		Mean: 306.9 		Best: 916.81 		N:3
+Mcclain        		Mean: 152.09 		Best: 915.88 		N:6
+Santana        		Mean: 113.15 		Best: 912.93 		N:8
+Mccormick      		Mean: 180.46 		Best: 912.66 		N:5
+Preston        		Mean: 455.24 		Best: 910.03 		N:2
+Tice           		Mean: 454.21 		Best: 906.83 		N:2
+Smith          		Mean: 149.98 		Best: 907.02 		N:6
+
+########## REPORT GEN: 24 ##########
+SPECIES: 
+Anderson       		Mean: 235.98 		Best: 946.3 		N:4
+Wilson         		Mean: 306.83 		Best: 946.3 		N:3
+Mccormick      		Mean: 76.43 		Best: 946.3 		N:12
+Davis          		Mean: 236.24 		Best: 940.89 		N:4
+Allen          		Mean: 153.47 		Best: 940.89 		N:6
+Mcclain        		Mean: 309.43 		Best: 939.4 		N:3
+Desrochers     		Mean: 153.26 		Best: 937.23 		N:6
+Harris         		Mean: 153.02 		Best: 919.71 		N:6
+Preston        		Mean: 114.89 		Best: 919.71 		N:8
+Chinn          		Mean: 305.41 		Best: 917.18 		N:3
+Tice           		Mean: 182.89 		Best: 915.88 		N:5
+Smith          		Mean: 227.85 		Best: 912.4 		N:4
+Hope           		Mean: 225.14 		Best: 902.75 		N:4
+
+########## REPORT GEN: 25 ##########
+SPECIES: 
+Wilson         		Mean: 233.37 		Best: 946.3 		N:4
+Desrochers     		Mean: 153.65 		Best: 946.3 		N:6
+Chinn          		Mean: 116.19 		Best: 946.3 		N:8
+Tice           		Mean: 102.78 		Best: 946.3 		N:9
+Davis          		Mean: 314.09 		Best: 940.89 		N:3
+Santana        		Mean: 184.14 		Best: 938.56 		N:5
+Anderson       		Mean: 464.96 		Best: 928.47 		N:2
+Harris         		Mean: 152.25 		Best: 918.76 		N:6
+Allen          		Mean: 130.68 		Best: 912.9 		N:7
+Preston        		Mean: 228.6 		Best: 912.53 		N:4
+Smith          		Mean: 182.26 		Best: 912.53 		N:5
+Mccormick      		Mean: 299.1 		Best: 909.2 		N:3
+Mcclain        		Mean: 223.78 		Best: 906.29 		N:4
+Hope           		Mean: 180.46 		Best: 897.86 		N:5
+
+########## REPORT GEN: 26 ##########
+SPECIES: 
+Davis          		Mean: 132.46 		Best: 946.3 		N:7
+Harris         		Mean: 231.7 		Best: 946.3 		N:4
+Smith          		Mean: 230.23 		Best: 946.3 		N:4
+Hope           		Mean: 102.89 		Best: 946.3 		N:9
+Allen          		Mean: 132.91 		Best: 940.89 		N:7
+Anderson       		Mean: 102.49 		Best: 938.56 		N:9
+Mcclain        		Mean: 226.47 		Best: 929.28 		N:4
+Wilson         		Mean: 131.19 		Best: 928.47 		N:7
+Santana        		Mean: 101.09 		Best: 921.64 		N:9
+Preston        		Mean: 181.64 		Best: 920.0 		N:5
+Chinn          		Mean: 304.69 		Best: 911.45 		N:3
+Mccormick      		Mean: 179.61 		Best: 909.2 		N:5
+Desrochers     		Mean: 450.58 		Best: 905.89 		N:2
+Tice           		Mean: 448.98 		Best: 897.86 		N:2
+
+########## REPORT GEN: 27 ##########
+SPECIES: 
+Harris         		Mean: 154.61 		Best: 946.3 		N:6
+Preston        		Mean: 229.96 		Best: 946.3 		N:4
+Chinn          		Mean: 131.29 		Best: 946.3 		N:7
+Tice           		Mean: 185.07 		Best: 946.3 		N:5
+Hope           		Mean: 102.15 		Best: 940.89 		N:9
+Desrochers     		Mean: 466.4 		Best: 940.89 		N:2
+Santana        		Mean: 82.75 		Best: 929.28 		N:11
+Mcclain        		Mean: 150.37 		Best: 919.08 		N:6
+Davis          		Mean: 152.16 		Best: 912.9 		N:6
+Smith          		Mean: 181.28 		Best: 909.62 		N:5
+Allen          		Mean: 302.64 		Best: 907.69 		N:3
+Mccormick      		Mean: 298.77 		Best: 906.29 		N:3
+Wilson         		Mean: 227.94 		Best: 905.89 		N:4
+
+########## REPORT GEN: 28 ##########
+SPECIES: 
+Harris         		Mean: 232.13 		Best: 946.3 		N:4
+Tice           		Mean: 131.0 		Best: 946.3 		N:7
+Desrochers     		Mean: 229.5 		Best: 946.3 		N:4
+Allen          		Mean: 309.18 		Best: 946.3 		N:3
+Wilson         		Mean: 84.63 		Best: 946.3 		N:11
+Preston        		Mean: 184.72 		Best: 940.89 		N:5
+Anderson       		Mean: 152.6 		Best: 940.89 		N:6
+Smith          		Mean: 130.82 		Best: 919.08 		N:7
+Mcclain        		Mean: 299.42 		Best: 914.3 		N:3
+Chinn          		Mean: 304.75 		Best: 907.69 		N:3
+Santana        		Mean: 449.22 		Best: 906.03 		N:2
+Davis          		Mean: 180.33 		Best: 900.25 		N:5
+Mccormick      		Mean: 222.44 		Best: 888.59 		N:4
+
+########## REPORT GEN: 29 ##########
+SPECIES: 
+Harris         		Mean: 186.4 		Best: 946.3 		N:5
+Desrochers     		Mean: 230.92 		Best: 946.3 		N:4
+Allen          		Mean: 115.99 		Best: 946.3 		N:8
+Wilson         		Mean: 182.37 		Best: 946.3 		N:5
+Preston        		Mean: 115.68 		Best: 946.3 		N:8
+Tice           		Mean: 229.96 		Best: 940.89 		N:4
+Santana        		Mean: 184.25 		Best: 938.56 		N:5
+Mcclain        		Mean: 227.68 		Best: 922.04 		N:4
+Smith          		Mean: 228.5 		Best: 919.08 		N:4
+Davis          		Mean: 180.92 		Best: 914.3 		N:5
+Hope           		Mean: 151.09 		Best: 913.45 		N:6
+Anderson       		Mean: 304.95 		Best: 912.53 		N:3
+Mccormick      		Mean: 301.59 		Best: 907.02 		N:3
+
+########## REPORT GEN: 30 ##########
+SPECIES: 
+Harris         		Mean: 187.62 		Best: 946.3 		N:5
+Tice           		Mean: 154.22 		Best: 946.3 		N:6
+Anderson       		Mean: 92.61 		Best: 946.3 		N:10
+Santana        		Mean: 130.88 		Best: 938.56 		N:7
+Davis          		Mean: 227.45 		Best: 922.57 		N:4
+Allen          		Mean: 91.41 		Best: 922.41 		N:10
+Mcclain        		Mean: 225.97 		Best: 922.04 		N:4
+Preston        		Mean: 130.68 		Best: 919.08 		N:7
+Desrochers     		Mean: 129.34 		Best: 914.3 		N:7
+Wilson         		Mean: 228.75 		Best: 913.5 		N:4
+Hope           		Mean: 182.83 		Best: 912.53 		N:5
+Smith          		Mean: 100.6 		Best: 912.13 		N:9
+Mccormick      		Mean: 182.25 		Best: 907.8 		N:5
+
+########## REPORT GEN: 31 ##########
+SPECIES: 
+Tice           		Mean: 115.04 		Best: 946.3 		N:8
+Anderson       		Mean: 92.35 		Best: 946.3 		N:10
+Smith          		Mean: 102.29 		Best: 946.3 		N:9
+Harris         		Mean: 153.07 		Best: 946.3 		N:6
+Hope           		Mean: 114.84 		Best: 938.56 		N:8
+Wilson         		Mean: 115.1 		Best: 923.79 		N:8
+Mcclain        		Mean: 91.1 		Best: 922.57 		N:10
+Allen          		Mean: 90.6 		Best: 919.08 		N:10
+Preston        		Mean: 230.17 		Best: 914.17 		N:4
+Desrochers     		Mean: 181.0 		Best: 913.45 		N:5
+Davis          		Mean: 304.85 		Best: 907.31 		N:3
+Santana        		Mean: 179.39 		Best: 900.25 		N:5
+Mccormick      		Mean: 449.45 		Best: 894.13 		N:2
+
+########## REPORT GEN: 32 ##########
+SPECIES: 
+Tice           		Mean: 76.6 		Best: 946.3 		N:12
+Desrochers     		Mean: 153.43 		Best: 946.3 		N:6
+Santana        		Mean: 132.04 		Best: 946.3 		N:7
+Hope           		Mean: 132.4 		Best: 946.3 		N:7
+Mcclain        		Mean: 182.0 		Best: 923.79 		N:5
+Anderson       		Mean: 454.79 		Best: 923.34 		N:2
+Allen          		Mean: 129.33 		Best: 922.57 		N:7
+Davis          		Mean: 130.18 		Best: 921.02 		N:7
+Mccormick      		Mean: 181.33 		Best: 917.22 		N:5
+Harris         		Mean: 152.12 		Best: 914.17 		N:6
+Smith          		Mean: 458.11 		Best: 909.75 		N:2
+Wilson         		Mean: 91.54 		Best: 909.75 		N:10
+
+########## REPORT GEN: 33 ##########
+SPECIES: 
+Tice           		Mean: 183.45 		Best: 946.3 		N:5
+Hope           		Mean: 152.47 		Best: 946.3 		N:6
+Desrochers     		Mean: 114.51 		Best: 946.3 		N:8
+Mccormick      		Mean: 183.84 		Best: 937.76 		N:5
+Santana        		Mean: 182.91 		Best: 923.79 		N:5
+Anderson       		Mean: 101.42 		Best: 923.34 		N:9
+Allen          		Mean: 227.96 		Best: 923.34 		N:4
+Wilson         		Mean: 182.96 		Best: 923.34 		N:5
+Harris         		Mean: 129.74 		Best: 922.57 		N:7
+Mcclain        		Mean: 226.76 		Best: 917.22 		N:4
+Smith          		Mean: 183.15 		Best: 914.17 		N:5
+Davis          		Mean: 181.31 		Best: 907.31 		N:5
+
+########## REPORT GEN: 34 ##########
+SPECIES: 
+Desrochers     		Mean: 152.01 		Best: 946.3 		N:6
+Santana        		Mean: 76.48 		Best: 946.3 		N:12
+Smith          		Mean: 102.34 		Best: 946.3 		N:9
+Hope           		Mean: 131.12 		Best: 937.76 		N:7
+Anderson       		Mean: 101.86 		Best: 923.79 		N:9
+Harris         		Mean: 91.13 		Best: 923.34 		N:10
+Mccormick      		Mean: 150.55 		Best: 922.57 		N:6
+Mcclain        		Mean: 129.89 		Best: 917.22 		N:7
+Tice           		Mean: 181.24 		Best: 907.8 		N:5
+Wilson         		Mean: 225.27 		Best: 906.91 		N:4
+Allen          		Mean: 151.01 		Best: 904.73 		N:6
+Davis          		Mean: 128.73 		Best: 900.25 		N:7
+
+########## REPORT GEN: 35 ##########
+SPECIES: 
+Hope           		Mean: 230.55 		Best: 946.3 		N:4
+Mccormick      		Mean: 130.45 		Best: 946.3 		N:7
+Wilson         		Mean: 91.42 		Best: 946.3 		N:10
+Desrochers     		Mean: 227.72 		Best: 937.76 		N:4
+Anderson       		Mean: 113.52 		Best: 930.14 		N:8
+Davis          		Mean: 90.19 		Best: 923.46 		N:10
+Smith          		Mean: 182.61 		Best: 923.34 		N:5
+Santana        		Mean: 180.2 		Best: 922.57 		N:5
+Tice           		Mean: 100.65 		Best: 915.18 		N:9
+Mcclain        		Mean: 82.42 		Best: 912.5 		N:11
+Allen          		Mean: 75.76 		Best: 910.23 		N:12
+Harris         		Mean: 150.07 		Best: 900.23 		N:6
+
+########## REPORT GEN: 36 ##########
+SPECIES: 
+Santana        		Mean: 76.33 		Best: 946.3 		N:12
+Tice           		Mean: 113.06 		Best: 946.3 		N:8
+Allen          		Mean: 91.2 		Best: 946.3 		N:10
+Harris         		Mean: 130.41 		Best: 946.3 		N:7
+Mccormick      		Mean: 91.21 		Best: 938.71 		N:10
+Wilson         		Mean: 113.23 		Best: 937.76 		N:8
+Anderson       		Mean: 184.45 		Best: 933.93 		N:5
+Hope           		Mean: 183.15 		Best: 922.57 		N:5
+Davis          		Mean: 228.39 		Best: 922.57 		N:4
+Mcclain        		Mean: 112.16 		Best: 910.23 		N:8
+Smith          		Mean: 178.86 		Best: 893.42 		N:5
+Desrochers     		Mean: 296.55 		Best: 888.59 		N:3
+
+########## REPORT GEN: 37 ##########
+SPECIES: 
+Tice           		Mean: 101.46 		Best: 946.3 		N:9
+Allen          		Mean: 129.15 		Best: 946.3 		N:7
+Mccormick      		Mean: 82.33 		Best: 946.3 		N:11
+Desrochers     		Mean: 90.84 		Best: 946.3 		N:10
+Harris         		Mean: 181.22 		Best: 938.71 		N:5
+Smith          		Mean: 227.76 		Best: 937.76 		N:4
+Davis          		Mean: 184.65 		Best: 933.93 		N:5
+Wilson         		Mean: 90.35 		Best: 924.91 		N:10
+Anderson       		Mean: 152.07 		Best: 923.46 		N:6
+Hope           		Mean: 224.86 		Best: 922.57 		N:4
+Mcclain        		Mean: 150.51 		Best: 922.57 		N:6
+Santana        		Mean: 129.05 		Best: 905.39 		N:7
+
+########## REPORT GEN: 38 ##########
+SPECIES: 
+Hope           		Mean: 112.67 		Best: 946.3 		N:8
+Mcclain        		Mean: 90.91 		Best: 946.3 		N:10
+Santana        		Mean: 155.2 		Best: 946.3 		N:6
+Desrochers     		Mean: 181.86 		Best: 944.88 		N:5
+Anderson       		Mean: 100.62 		Best: 938.71 		N:9
+Smith          		Mean: 75.82 		Best: 933.93 		N:12
+Tice           		Mean: 227.15 		Best: 931.94 		N:4
+Allen          		Mean: 82.42 		Best: 924.91 		N:11
+Harris         		Mean: 112.89 		Best: 923.46 		N:8
+Davis          		Mean: 150.49 		Best: 921.99 		N:6
+Mccormick      		Mean: 149.3 		Best: 907.54 		N:6
+Wilson         		Mean: 298.55 		Best: 898.26 		N:3
+
+########## REPORT GEN: 39 ##########
+SPECIES: 
+Anderson       		Mean: 114.32 		Best: 946.3 		N:8
+Tice           		Mean: 113.83 		Best: 946.3 		N:8
+Mccormick      		Mean: 183.75 		Best: 946.3 		N:5
+Allen          		Mean: 101.08 		Best: 946.3 		N:9
+Wilson         		Mean: 182.14 		Best: 946.3 		N:5
+Desrochers     		Mean: 100.78 		Best: 944.88 		N:9
+Smith          		Mean: 112.58 		Best: 941.32 		N:8
+Santana        		Mean: 100.21 		Best: 923.46 		N:9
+Harris         		Mean: 128.36 		Best: 909.23 		N:7
+Mcclain        		Mean: 129.0 		Best: 913.66 		N:7
+Davis          		Mean: 223.43 		Best: 898.26 		N:4
+Hope           		Mean: 222.11 		Best: 888.15 		N:4
+
+########## REPORT GEN: 40 ##########
+SPECIES: 
+Anderson       		Mean: 128.84 		Best: 946.3 		N:7
+Desrochers     		Mean: 52.93 		Best: 946.3 		N:17
+Harris         		Mean: 230.43 		Best: 946.3 		N:4
+Davis          		Mean: 129.9 		Best: 946.3 		N:7
+Hope           		Mean: 151.11 		Best: 946.3 		N:6
+Smith          		Mean: 182.8 		Best: 946.3 		N:5
+Santana        		Mean: 180.93 		Best: 946.3 		N:5
+Allen          		Mean: 82.98 		Best: 941.32 		N:11
+Tice           		Mean: 128.32 		Best: 930.49 		N:7
+Mcclain        		Mean: 226.32 		Best: 923.46 		N:4
+Mccormick      		Mean: 127.74 		Best: 910.51 		N:7
+Wilson         		Mean: 223.43 		Best: 898.26 		N:4
+
+########## REPORT GEN: 41 ##########
+SPECIES: 
+Anderson       		Mean: 100.12 		Best: 946.3 		N:9
+Harris         		Mean: 155.06 		Best: 946.3 		N:6
+Davis          		Mean: 101.46 		Best: 946.3 		N:9
+Hope           		Mean: 75.27 		Best: 946.3 		N:12
+Desrochers     		Mean: 69.52 		Best: 946.3 		N:13
+Santana        		Mean: 114.88 		Best: 946.3 		N:8
+Mcclain        		Mean: 151.31 		Best: 937.23 		N:6
+Wilson         		Mean: 179.23 		Best: 917.68 		N:5
+Allen          		Mean: 128.6 		Best: 915.36 		N:7
+Tice           		Mean: 148.99 		Best: 905.84 		N:6
+Mccormick      		Mean: 127.37 		Best: 899.7 		N:7
+Smith          		Mean: 444.84 		Best: 892.9 		N:2
+
+########## REPORT GEN: 42 ##########
+SPECIES: 
+Anderson       		Mean: 130.8 		Best: 946.3 		N:7
+Mcclain        		Mean: 129.9 		Best: 946.3 		N:7
+Wilson         		Mean: 228.17 		Best: 946.3 		N:4
+Tice           		Mean: 132.87 		Best: 946.3 		N:7
+Mccormick      		Mean: 114.25 		Best: 946.3 		N:8
+Harris         		Mean: 90.89 		Best: 946.3 		N:10
+Smith          		Mean: 180.5 		Best: 946.3 		N:5
+Davis          		Mean: 111.92 		Best: 921.99 		N:8
+Hope           		Mean: 179.34 		Best: 913.45 		N:5
+Desrochers     		Mean: 148.91 		Best: 905.84 		N:6
+Allen          		Mean: 111.04 		Best: 895.36 		N:8
+Santana        		Mean: 221.81 		Best: 886.93 		N:4
+
+########## REPORT GEN: 43 ##########
+SPECIES: 
+Anderson       		Mean: 90.29 		Best: 946.3 		N:10
+Mccormick      		Mean: 152.14 		Best: 946.3 		N:6
+Allen          		Mean: 92.14 		Best: 946.3 		N:10
+Harris         		Mean: 129.8 		Best: 946.3 		N:7
+Santana        		Mean: 151.96 		Best: 946.3 		N:6
+Desrochers     		Mean: 112.6 		Best: 934.1 		N:8
+Wilson         		Mean: 129.23 		Best: 921.99 		N:7
+Hope           		Mean: 150.47 		Best: 921.99 		N:6
+Mcclain        		Mean: 113.16 		Best: 917.68 		N:8
+Smith          		Mean: 127.43 		Best: 898.26 		N:7
+Tice           		Mean: 126.98 		Best: 891.54 		N:7
+Davis          		Mean: 147.9 		Best: 886.93 		N:6
+
+########## REPORT GEN: 44 ##########
+SPECIES: 
+Santana        		Mean: 113.4 		Best: 946.3 		N:8
+Wilson         		Mean: 151.23 		Best: 946.3 		N:6
+Hope           		Mean: 112.77 		Best: 946.3 		N:8
+Mccormick      		Mean: 149.88 		Best: 946.3 		N:6
+Desrochers     		Mean: 113.53 		Best: 946.3 		N:8
+Davis          		Mean: 75.35 		Best: 929.02 		N:12
+Tice           		Mean: 112.56 		Best: 917.68 		N:8
+Smith          		Mean: 81.54 		Best: 916.67 		N:11
+Anderson       		Mean: 111.61 		Best: 913.95 		N:8
+Allen          		Mean: 111.25 		Best: 913.45 		N:8
+Harris         		Mean: 298.89 		Best: 913.32 		N:3
+Mcclain        		Mean: 128.66 		Best: 913.32 		N:7
+
+########## REPORT GEN: 45 ##########
+SPECIES: 
+Desrochers     		Mean: 231.05 		Best: 946.3 		N:4
+Davis          		Mean: 128.82 		Best: 946.3 		N:7
+Anderson       		Mean: 100.58 		Best: 946.3 		N:9
+Mcclain        		Mean: 69.68 		Best: 946.3 		N:13
+Harris         		Mean: 128.46 		Best: 929.02 		N:7
+Allen          		Mean: 112.78 		Best: 922.36 		N:8
+Tice           		Mean: 127.68 		Best: 913.95 		N:7
+Wilson         		Mean: 89.53 		Best: 913.84 		N:10
+Hope           		Mean: 178.71 		Best: 912.69 		N:5
+Smith          		Mean: 99.34 		Best: 910.66 		N:9
+Santana        		Mean: 223.39 		Best: 905.99 		N:4
+Mccormick      		Mean: 295.84 		Best: 890.93 		N:3
+
+########## REPORT GEN: 46 ##########
+SPECIES: 
+Harris         		Mean: 227.9 		Best: 946.3 		N:4
+Wilson         		Mean: 101.12 		Best: 946.3 		N:9
+Hope           		Mean: 112.75 		Best: 932.54 		N:8
+Mccormick      		Mean: 128.6 		Best: 932.54 		N:7
+Allen          		Mean: 112.7 		Best: 929.02 		N:8
+Desrochers     		Mean: 129.75 		Best: 922.36 		N:7
+Tice           		Mean: 112.5 		Best: 920.16 		N:8
+Davis          		Mean: 224.82 		Best: 914.45 		N:4
+Santana        		Mean: 100.0 		Best: 913.95 		N:9
+Anderson       		Mean: 99.35 		Best: 911.35 		N:9
+Mcclain        		Mean: 178.69 		Best: 905.99 		N:5
+Smith          		Mean: 442.75 		Best: 884.5 		N:2
+
+########## REPORT GEN: 47 ##########
+SPECIES: 
+Hope           		Mean: 182.23 		Best: 946.3 		N:5
+Mccormick      		Mean: 129.12 		Best: 932.54 		N:7
+Tice           		Mean: 90.09 		Best: 932.54 		N:10
+Allen          		Mean: 112.2 		Best: 929.02 		N:8
+Harris         		Mean: 300.81 		Best: 922.36 		N:3
+Desrochers     		Mean: 224.09 		Best: 920.16 		N:4
+Smith          		Mean: 226.78 		Best: 914.45 		N:4
+Wilson         		Mean: 178.5 		Best: 913.95 		N:5
+Anderson       		Mean: 75.02 		Best: 911.35 		N:12
+Santana        		Mean: 222.89 		Best: 909.23 		N:4
+Mcclain        		Mean: 295.78 		Best: 886.93 		N:3
+Davis          		Mean: 147.78 		Best: 886.59 		N:6
+
+########## REPORT GEN: 48 ##########
+SPECIES: 
+Mccormick      		Mean: 129.99 		Best: 949.9 		N:7
+Hope           		Mean: 131.62 		Best: 946.3 		N:7
+Desrochers     		Mean: 151.04 		Best: 932.54 		N:6
+Anderson       		Mean: 300.89 		Best: 932.54 		N:3
+Santana        		Mean: 99.92 		Best: 929.02 		N:9
+Allen          		Mean: 89.49 		Best: 922.36 		N:10
+Tice           		Mean: 148.68 		Best: 920.16 		N:6
+Davis          		Mean: 180.82 		Best: 920.16 		N:5
+Smith          		Mean: 298.48 		Best: 914.45 		N:3
+Wilson         		Mean: 99.2 		Best: 912.69 		N:9
+Mcclain        		Mean: 111.16 		Best: 912.69 		N:8
+Harris         		Mean: 148.58 		Best: 909.23 		N:6
+
+########## REPORT GEN: 49 ##########
+SPECIES: 
+Wilson         		Mean: 183.7 		Best: 949.9 		N:5
+Harris         		Mean: 128.71 		Best: 949.9 		N:7
+Anderson       		Mean: 150.28 		Best: 932.54 		N:6
+Davis          		Mean: 113.39 		Best: 932.54 		N:8
+Tice           		Mean: 306.53 		Best: 929.02 		N:3
+Mccormick      		Mean: 112.74 		Best: 922.36 		N:8
+Allen          		Mean: 81.06 		Best: 921.65 		N:11
+Hope           		Mean: 180.03 		Best: 920.16 		N:5
+Mcclain        		Mean: 148.84 		Best: 920.16 		N:6
+Desrochers     		Mean: 179.07 		Best: 914.45 		N:5
+Santana        		Mean: 179.13 		Best: 914.45 		N:5
+Smith          		Mean: 179.27 		Best: 913.84 		N:5
+
+########## REPORT GEN: 50 ##########
+SPECIES: 
+Wilson         		Mean: 112.74 		Best: 949.9 		N:8
+Allen          		Mean: 183.79 		Best: 949.9 		N:5
+Santana        		Mean: 75.39 		Best: 949.9 		N:12
+Tice           		Mean: 180.86 		Best: 932.54 		N:5
+Anderson       		Mean: 82.27 		Best: 932.54 		N:11
+Harris         		Mean: 180.67 		Best: 922.36 		N:5
+Hope           		Mean: 99.32 		Best: 921.65 		N:9
+Mccormick      		Mean: 149.83 		Best: 920.16 		N:6
+Smith          		Mean: 127.95 		Best: 912.69 		N:7
+Desrochers     		Mean: 112.23 		Best: 909.23 		N:8
+Mcclain        		Mean: 126.56 		Best: 885.89 		N:7
+Davis          		Mean: 221.17 		Best: 884.5 		N:4
+
+########## REPORT GEN: 51 ##########
+SPECIES: 
+Allen          		Mean: 90.32 		Best: 949.9 		N:10
+Harris         		Mean: 74.94 		Best: 949.9 		N:12
+Mccormick      		Mean: 69.14 		Best: 949.9 		N:13
+Anderson       		Mean: 149.84 		Best: 932.54 		N:6
+Desrochers     		Mean: 100.48 		Best: 932.54 		N:9
+Santana        		Mean: 111.28 		Best: 920.87 		N:8
+Mcclain        		Mean: 129.34 		Best: 920.16 		N:7
+Tice           		Mean: 149.82 		Best: 914.49 		N:6
+Davis          		Mean: 89.15 		Best: 912.69 		N:10
+Smith          		Mean: 178.95 		Best: 911.67 		N:5
+Hope           		Mean: 295.19 		Best: 884.5 		N:3
+
+########## REPORT GEN: 52 ##########
+SPECIES: 
+Harris         		Mean: 150.53 		Best: 949.9 		N:6
+Tice           		Mean: 180.57 		Best: 949.9 		N:5
+Davis          		Mean: 130.66 		Best: 949.9 		N:7
+Desrochers     		Mean: 128.08 		Best: 929.02 		N:7
+Mcclain        		Mean: 150.72 		Best: 920.87 		N:6
+Wilson         		Mean: 128.41 		Best: 918.52 		N:7
+Mccormick      		Mean: 456.79 		Best: 912.69 		N:2
+Allen          		Mean: 150.38 		Best: 911.67 		N:6
+Santana        		Mean: 180.14 		Best: 911.67 		N:5
+Hope           		Mean: 179.06 		Best: 906.86 		N:5
+Smith          		Mean: 177.35 		Best: 889.64 		N:5
+
+########## REPORT GEN: 53 ##########
+SPECIES: 
+Mcclain        		Mean: 229.41 		Best: 949.9 		N:4
+Wilson         		Mean: 227.76 		Best: 949.9 		N:4
+Anderson       		Mean: 228.28 		Best: 949.9 		N:4
+Desrochers     		Mean: 150.62 		Best: 929.02 		N:6
+Davis          		Mean: 150.03 		Best: 920.87 		N:6
+Tice           		Mean: 129.02 		Best: 918.52 		N:7
+Santana        		Mean: 179.56 		Best: 912.69 		N:5
+Smith          		Mean: 180.33 		Best: 912.69 		N:5
+Hope           		Mean: 128.97 		Best: 911.67 		N:7
+Mccormick      		Mean: 179.04 		Best: 906.29 		N:5
+Harris         		Mean: 178.03 		Best: 905.0 		N:5
+
+########## REPORT GEN: 54 ##########
+SPECIES: 
+Desrochers     		Mean: 153.16 		Best: 949.9 		N:6
+Smith          		Mean: 113.14 		Best: 949.9 		N:8
+Mccormick      		Mean: 129.97 		Best: 949.9 		N:7
+Allen          		Mean: 181.8 		Best: 949.9 		N:5
+Anderson       		Mean: 129.0 		Best: 929.02 		N:7
+Harris         		Mean: 181.89 		Best: 923.37 		N:5
+Wilson         		Mean: 129.52 		Best: 916.45 		N:7
+Davis          		Mean: 224.98 		Best: 913.27 		N:4
+Mcclain        		Mean: 149.52 		Best: 911.5 		N:6
+Tice           		Mean: 224.06 		Best: 905.83 		N:4
+Santana        		Mean: 297.58 		Best: 900.35 		N:3
+Hope           		Mean: 295.36 		Best: 886.16 		N:3
+
+########## REPORT GEN: 55 ##########
+SPECIES: 
+Anderson       		Mean: 182.1 		Best: 949.9 		N:5
+Mcclain        		Mean: 113.01 		Best: 949.9 		N:8
+Tice           		Mean: 185.29 		Best: 949.9 		N:5
+Desrochers     		Mean: 152.58 		Best: 949.9 		N:6
+Wilson         		Mean: 229.98 		Best: 934.62 		N:4
+Hope           		Mean: 90.23 		Best: 921.2 		N:10
+Mccormick      		Mean: 111.79 		Best: 921.2 		N:8
+Davis          		Mean: 150.11 		Best: 921.06 		N:6
+Santana        		Mean: 112.87 		Best: 920.99 		N:8
+Allen          		Mean: 129.47 		Best: 916.45 		N:7
+Smith          		Mean: 148.66 		Best: 912.96 		N:6
+Harris         		Mean: 297.98 		Best: 905.32 		N:3
+
+########## REPORT GEN: 56 ##########
+SPECIES: 
+Anderson       		Mean: 304.02 		Best: 949.9 		N:3
+Mcclain        		Mean: 114.39 		Best: 949.9 		N:8
+Wilson         		Mean: 64.73 		Best: 949.9 		N:14
+Mccormick      		Mean: 152.16 		Best: 949.9 		N:6
+Allen          		Mean: 153.95 		Best: 949.9 		N:6
+Harris         		Mean: 183.55 		Best: 949.9 		N:5
+Hope           		Mean: 70.19 		Best: 949.9 		N:13
+Desrochers     		Mean: 181.11 		Best: 934.62 		N:5
+Tice           		Mean: 129.94 		Best: 934.6 		N:7
+Davis          		Mean: 89.92 		Best: 921.2 		N:10
+Santana        		Mean: 455.71 		Best: 914.27 		N:2
+
+########## REPORT GEN: 57 ##########
+SPECIES: 
+Anderson       		Mean: 460.63 		Best: 949.9 		N:2
+Mcclain        		Mean: 100.87 		Best: 949.9 		N:9
+Mccormick      		Mean: 83.14 		Best: 949.9 		N:11
+Hope           		Mean: 129.88 		Best: 949.9 		N:7
+Santana        		Mean: 182.85 		Best: 949.9 		N:5
+Davis          		Mean: 228.5 		Best: 949.9 		N:4
+Smith          		Mean: 179.82 		Best: 923.37 		N:5
+Wilson         		Mean: 303.85 		Best: 917.52 		N:3
+Desrochers     		Mean: 128.69 		Best: 912.69 		N:7
+Tice           		Mean: 456.63 		Best: 912.51 		N:2
+Harris         		Mean: 300.83 		Best: 912.46 		N:3
+Allen          		Mean: 223.38 		Best: 900.35 		N:4
+
+########## REPORT GEN: 58 ##########
+SPECIES: 
+Mcclain        		Mean: 230.13 		Best: 949.9 		N:4
+Wilson         		Mean: 131.94 		Best: 949.9 		N:7
+Allen          		Mean: 153.85 		Best: 949.9 		N:6
+Smith          		Mean: 129.43 		Best: 923.37 		N:7
+Desrochers     		Mean: 181.42 		Best: 923.25 		N:5
+Harris         		Mean: 150.65 		Best: 914.43 		N:6
+Mccormick      		Mean: 111.85 		Best: 914.38 		N:8
+Davis          		Mean: 225.99 		Best: 912.7 		N:4
+Tice           		Mean: 128.74 		Best: 912.46 		N:7
+Anderson       		Mean: 223.3 		Best: 911.67 		N:4
+Hope           		Mean: 449.25 		Best: 911.67 		N:2
+Santana        		Mean: 177.88 		Best: 892.65 		N:5
+
+########## REPORT GEN: 59 ##########
+SPECIES: 
+Davis          		Mean: 91.25 		Best: 949.9 		N:10
+Hope           		Mean: 129.45 		Best: 949.9 		N:7
+Santana        		Mean: 155.3 		Best: 949.9 		N:6
+Tice           		Mean: 112.45 		Best: 923.37 		N:8
+Harris         		Mean: 149.81 		Best: 923.25 		N:6
+Desrochers     		Mean: 113.42 		Best: 920.41 		N:8
+Allen          		Mean: 112.27 		Best: 914.53 		N:8
+Anderson       		Mean: 226.48 		Best: 914.43 		N:4
+Smith          		Mean: 180.32 		Best: 913.49 		N:5
+Mcclain        		Mean: 225.06 		Best: 913.28 		N:4
+Wilson         		Mean: 179.8 		Best: 911.67 		N:5
+Mccormick      		Mean: 226.78 		Best: 911.67 		N:4
+
+########## REPORT GEN: 60 ##########
+SPECIES: 
+Hope           		Mean: 153.22 		Best: 949.9 		N:6
+Harris         		Mean: 101.17 		Best: 949.9 		N:9
+Desrochers     		Mean: 151.44 		Best: 949.9 		N:6
+Anderson       		Mean: 183.13 		Best: 949.9 		N:5
+Wilson         		Mean: 112.55 		Best: 923.37 		N:8
+Smith          		Mean: 149.98 		Best: 923.25 		N:6
+Santana        		Mean: 129.45 		Best: 915.96 		N:7
+Allen          		Mean: 75.17 		Best: 914.53 		N:12
+Mcclain        		Mean: 127.42 		Best: 914.5 		N:7
+Tice           		Mean: 100.56 		Best: 919.21 		N:9
+Davis          		Mean: 113.69 		Best: 913.49 		N:8
+
+########## REPORT GEN: 61 ##########
+SPECIES: 
+Harris         		Mean: 153.09 		Best: 949.9 		N:6
+Anderson       		Mean: 130.77 		Best: 949.9 		N:7
+Allen          		Mean: 152.48 		Best: 949.9 		N:6
+Davis          		Mean: 113.17 		Best: 949.9 		N:8
+Mcclain        		Mean: 129.82 		Best: 925.34 		N:7
+Wilson         		Mean: 452.53 		Best: 923.37 		N:2
+Hope           		Mean: 223.15 		Best: 914.53 		N:4
+Desrochers     		Mean: 450.32 		Best: 914.5 		N:2
+Smith          		Mean: 148.75 		Best: 914.16 		N:6
+Tice           		Mean: 128.93 		Best: 914.03 		N:7
+Santana        		Mean: 224.27 		Best: 911.67 		N:4
+
+########## REPORT GEN: 62 ##########
+SPECIES: 
+Davis          		Mean: 183.83 		Best: 949.9 		N:5
+Santana        		Mean: 182.92 		Best: 944.79 		N:5
+Mcclain        		Mean: 152.73 		Best: 925.34 		N:6
+Desrochers     		Mean: 301.05 		Best: 923.37 		N:3
+Allen          		Mean: 113.59 		Best: 915.32 		N:8
+Anderson       		Mean: 128.74 		Best: 914.53 		N:7
+Hope           		Mean: 180.37 		Best: 914.53 		N:5
+Smith          		Mean: 75.21 		Best: 914.5 		N:12
+Wilson         		Mean: 148.87 		Best: 908.13 		N:6
+Harris         		Mean: 299.58 		Best: 907.08 		N:3
+
+########## REPORT GEN: 63 ##########
+SPECIES: 
+Davis          		Mean: 152.5 		Best: 949.9 		N:6
+Allen          		Mean: 463.17 		Best: 949.9 		N:2
+Anderson       		Mean: 130.16 		Best: 949.9 		N:7
+Wilson         		Mean: 461.24 		Best: 949.9 		N:2
+Harris         		Mean: 152.92 		Best: 949.9 		N:6
+Desrochers     		Mean: 228.65 		Best: 944.79 		N:4
+Santana        		Mean: 183.47 		Best: 925.34 		N:5
+Tice           		Mean: 129.24 		Best: 923.37 		N:7
+Smith          		Mean: 151.39 		Best: 915.32 		N:6
+Hope           		Mean: 182.87 		Best: 914.5 		N:5
+Mcclain        		Mean: 149.76 		Best: 911.67 		N:6
+
+########## REPORT GEN: 64 ##########
+SPECIES: 
+Allen          		Mean: 101.9 		Best: 949.9 		N:9
+Anderson       		Mean: 114.82 		Best: 949.9 		N:8
+Wilson         		Mean: 232.01 		Best: 949.9 		N:4
+Santana        		Mean: 91.6 		Best: 949.9 		N:10
+Smith          		Mean: 151.51 		Best: 949.9 		N:6
+Mcclain        		Mean: 154.02 		Best: 949.9 		N:6
+Harris         		Mean: 230.31 		Best: 925.34 		N:4
+Desrochers     		Mean: 299.44 		Best: 914.16 		N:3
+Davis          		Mean: 300.51 		Best: 911.67 		N:3
+Hope           		Mean: 224.38 		Best: 910.63 		N:4
+Tice           		Mean: 128.61 		Best: 908.13 		N:7
+
+########## REPORT GEN: 65 ##########
+SPECIES: 
+Allen          		Mean: 180.29 		Best: 949.9 		N:5
+Anderson       		Mean: 90.77 		Best: 949.9 		N:10
+Harris         		Mean: 153.21 		Best: 949.9 		N:6
+Desrochers     		Mean: 182.43 		Best: 949.9 		N:5
+Davis          		Mean: 466.69 		Best: 949.9 		N:2
+Tice           		Mean: 102.05 		Best: 949.9 		N:9
+Santana        		Mean: 151.99 		Best: 936.43 		N:6
+Wilson         		Mean: 100.67 		Best: 925.34 		N:9
+Mcclain        		Mean: 112.94 		Best: 923.37 		N:8
+Hope           		Mean: 151.03 		Best: 911.67 		N:6
+Smith          		Mean: 181.0 		Best: 910.63 		N:5
+
+########## REPORT GEN: 66 ##########
+SPECIES: 
+Anderson       		Mean: 152.57 		Best: 949.9 		N:6
+Desrochers     		Mean: 184.16 		Best: 949.9 		N:5
+Tice           		Mean: 129.78 		Best: 949.9 		N:7
+Santana        		Mean: 153.85 		Best: 949.9 		N:6
+Mcclain        		Mean: 130.47 		Best: 949.9 		N:7
+Smith          		Mean: 130.95 		Best: 949.9 		N:7
+Harris         		Mean: 82.76 		Best: 936.43 		N:11
+Davis          		Mean: 130.26 		Best: 926.92 		N:7
+Allen          		Mean: 129.89 		Best: 923.37 		N:7
+Wilson         		Mean: 226.4 		Best: 914.29 		N:4
+Hope           		Mean: 100.33 		Best: 911.67 		N:9
+
+########## REPORT GEN: 67 ##########
+SPECIES: 
+Santana        		Mean: 82.91 		Best: 949.9 		N:11
+Mcclain        		Mean: 114.11 		Best: 949.9 		N:8
+Davis          		Mean: 115.57 		Best: 949.9 		N:8
+Allen          		Mean: 60.75 		Best: 949.9 		N:15
+Anderson       		Mean: 153.43 		Best: 949.9 		N:6
+Tice           		Mean: 91.41 		Best: 932.7 		N:10
+Harris         		Mean: 151.46 		Best: 914.29 		N:6
+Desrochers     		Mean: 129.51 		Best: 913.74 		N:7
+Smith          		Mean: 149.22 		Best: 909.67 		N:6
+Hope           		Mean: 180.87 		Best: 909.67 		N:5
+Wilson         		Mean: 181.08 		Best: 908.71 		N:5
+
+########## REPORT GEN: 68 ##########
+SPECIES: 
+Davis          		Mean: 184.21 		Best: 949.9 		N:5
+Allen          		Mean: 229.95 		Best: 949.9 		N:4
+Hope           		Mean: 75.54 		Best: 949.9 		N:12
+Wilson         		Mean: 70.15 		Best: 949.9 		N:13
+Anderson       		Mean: 76.0 		Best: 932.7 		N:12
+Desrochers     		Mean: 149.56 		Best: 909.67 		N:6
+Smith          		Mean: 112.34 		Best: 909.38 		N:8
+Mcclain        		Mean: 81.83 		Best: 908.71 		N:11
+Santana        		Mean: 100.29 		Best: 907.79 		N:9
+Tice           		Mean: 126.94 		Best: 907.27 		N:7
+Harris         		Mean: 128.89 		Best: 907.13 		N:7
+
+########## REPORT GEN: 69 ##########
+SPECIES: 
+Allen          		Mean: 130.67 		Best: 949.9 		N:7
+Smith          		Mean: 114.54 		Best: 949.9 		N:8
+Santana        		Mean: 90.2 		Best: 949.9 		N:10
+Tice           		Mean: 101.12 		Best: 949.9 		N:9
+Hope           		Mean: 99.72 		Best: 932.7 		N:9
+Wilson         		Mean: 226.75 		Best: 914.98 		N:4
+Desrochers     		Mean: 113.18 		Best: 913.94 		N:8
+Mcclain        		Mean: 89.89 		Best: 913.94 		N:10
+Anderson       		Mean: 113.43 		Best: 912.27 		N:8
+Harris         		Mean: 112.97 		Best: 911.67 		N:8
+Davis          		Mean: 180.62 		Best: 907.27 		N:5
+
+########## REPORT GEN: 70 ##########
+SPECIES: 
+Allen          		Mean: 150.91 		Best: 949.9 		N:6
+Santana        		Mean: 101.26 		Best: 949.9 		N:9
+Tice           		Mean: 91.34 		Best: 949.9 		N:10
+Wilson         		Mean: 90.96 		Best: 949.9 		N:10
+Desrochers     		Mean: 153.94 		Best: 949.9 		N:6
+Anderson       		Mean: 101.07 		Best: 949.9 		N:9
+Harris         		Mean: 100.18 		Best: 914.49 		N:9
+Smith          		Mean: 128.97 		Best: 913.94 		N:7
+Hope           		Mean: 112.91 		Best: 913.74 		N:8
+Davis          		Mean: 150.29 		Best: 911.67 		N:6
+Mcclain        		Mean: 150.41 		Best: 907.79 		N:6
+
+########## REPORT GEN: 71 ##########
+SPECIES: 
+Allen          		Mean: 151.39 		Best: 949.9 		N:6
+Santana        		Mean: 90.33 		Best: 949.9 		N:10
+Harris         		Mean: 65.0 		Best: 949.9 		N:14
+Smith          		Mean: 151.88 		Best: 949.9 		N:6
+Hope           		Mean: 91.98 		Best: 949.9 		N:10
+Anderson       		Mean: 69.89 		Best: 949.9 		N:13
+Desrochers     		Mean: 75.6 		Best: 914.98 		N:12
+Wilson         		Mean: 223.32 		Best: 914.48 		N:4
+Mcclain        		Mean: 181.04 		Best: 913.94 		N:5
+Tice           		Mean: 149.45 		Best: 907.79 		N:6
+Davis          		Mean: 112.84 		Best: 908.72 		N:8
+
+########## REPORT GEN: 72 ##########
+SPECIES: 
+Hope           		Mean: 130.76 		Best: 949.9 		N:7
+Wilson         		Mean: 101.43 		Best: 949.9 		N:9
+Davis          		Mean: 154.04 		Best: 949.9 		N:6
+Harris         		Mean: 101.2 		Best: 949.9 		N:9
+Anderson       		Mean: 151.46 		Best: 941.66 		N:6
+Desrochers     		Mean: 113.83 		Best: 924.16 		N:8
+Smith          		Mean: 113.42 		Best: 914.98 		N:8
+Santana        		Mean: 75.04 		Best: 913.74 		N:12
+Tice           		Mean: 81.98 		Best: 913.74 		N:11
+Allen          		Mean: 304.58 		Best: 913.11 		N:3
+Mcclain        		Mean: 89.5 		Best: 911.78 		N:10
+
+########## REPORT GEN: 73 ##########
+SPECIES: 
+Harris         		Mean: 101.83 		Best: 949.9 		N:9
+Anderson       		Mean: 182.51 		Best: 949.9 		N:5
+Hope           		Mean: 101.57 		Best: 942.55 		N:9
+Davis          		Mean: 182.81 		Best: 941.66 		N:5
+Tice           		Mean: 112.85 		Best: 924.16 		N:8
+Desrochers     		Mean: 181.31 		Best: 918.63 		N:5
+Santana        		Mean: 151.47 		Best: 917.52 		N:6
+Smith          		Mean: 90.45 		Best: 914.98 		N:10
+Wilson         		Mean: 82.56 		Best: 914.58 		N:11
+Mcclain        		Mean: 75.72 		Best: 913.74 		N:12
+Allen          		Mean: 301.52 		Best: 907.0 		N:3
+
+########## REPORT GEN: 74 ##########
+SPECIES: 
+Anderson       		Mean: 114.65 		Best: 949.9 		N:8
+Hope           		Mean: 101.09 		Best: 949.9 		N:9
+Harris         		Mean: 229.28 		Best: 942.55 		N:4
+Smith          		Mean: 91.02 		Best: 927.36 		N:10
+Davis          		Mean: 82.55 		Best: 921.37 		N:11
+Allen          		Mean: 129.53 		Best: 917.78 		N:7
+Mcclain        		Mean: 130.08 		Best: 914.38 		N:7
+Tice           		Mean: 129.4 		Best: 913.74 		N:7
+Wilson         		Mean: 150.78 		Best: 911.67 		N:6
+Desrochers     		Mean: 150.88 		Best: 909.28 		N:6
+Santana        		Mean: 179.31 		Best: 906.93 		N:5
+
+########## REPORT GEN: 75 ##########
+SPECIES: 
+Harris         		Mean: 91.06 		Best: 949.9 		N:10
+Allen          		Mean: 91.09 		Best: 949.9 		N:10
+Davis          		Mean: 101.33 		Best: 942.55 		N:9
+Anderson       		Mean: 114.05 		Best: 941.66 		N:8
+Santana        		Mean: 130.48 		Best: 941.66 		N:7
+Smith          		Mean: 112.97 		Best: 921.37 		N:8
+Desrochers     		Mean: 100.26 		Best: 912.45 		N:9
+Mcclain        		Mean: 75.41 		Best: 911.67 		N:12
+Tice           		Mean: 149.31 		Best: 910.6 		N:6
+Wilson         		Mean: 179.57 		Best: 906.93 		N:5
+Hope           		Mean: 300.32 		Best: 906.69 		N:3
+
+########## REPORT GEN: 76 ##########
+SPECIES: 
+Allen          		Mean: 114.94 		Best: 949.9 		N:8
+Davis          		Mean: 82.82 		Best: 949.9 		N:11
+Desrochers     		Mean: 101.71 		Best: 942.55 		N:9
+Santana        		Mean: 183.28 		Best: 941.66 		N:5
+Mcclain        		Mean: 112.69 		Best: 921.37 		N:8
+Hope           		Mean: 90.28 		Best: 913.58 		N:10
+Tice           		Mean: 179.05 		Best: 910.6 		N:5
+Smith          		Mean: 100.03 		Best: 909.64 		N:9
+Harris         		Mean: 112.18 		Best: 909.42 		N:8
+Anderson       		Mean: 181.09 		Best: 908.72 		N:5
+Wilson         		Mean: 446.79 		Best: 900.36 		N:2
+
+########## REPORT GEN: 77 ##########
+SPECIES: 
+Santana        		Mean: 76.22 		Best: 949.9 		N:12
+Wilson         		Mean: 228.45 		Best: 942.55 		N:4
+Allen          		Mean: 151.38 		Best: 923.76 		N:6
+Desrochers     		Mean: 101.13 		Best: 923.76 		N:9
+Hope           		Mean: 303.09 		Best: 923.76 		N:3
+Davis          		Mean: 113.26 		Best: 914.57 		N:8
+Smith          		Mean: 225.7 		Best: 913.58 		N:4
+Mcclain        		Mean: 225.2 		Best: 910.76 		N:4
+Harris         		Mean: 82.27 		Best: 911.19 		N:11
+Tice           		Mean: 128.4 		Best: 907.6 		N:7
+Anderson       		Mean: 224.65 		Best: 907.12 		N:4
+
+########## REPORT GEN: 78 ##########
+SPECIES: 
+Smith          		Mean: 101.24 		Best: 942.55 		N:9
+Harris         		Mean: 129.53 		Best: 942.55 		N:7
+Allen          		Mean: 114.42 		Best: 941.28 		N:8
+Wilson         		Mean: 82.04 		Best: 923.76 		N:11
+Davis          		Mean: 151.73 		Best: 923.76 		N:6
+Mcclain        		Mean: 227.67 		Best: 923.76 		N:4
+Anderson       		Mean: 100.39 		Best: 914.57 		N:9
+Desrochers     		Mean: 112.78 		Best: 913.74 		N:8
+Santana        		Mean: 129.54 		Best: 913.58 		N:7
+Tice           		Mean: 299.39 		Best: 907.1 		N:3
+Hope           		Mean: 452.63 		Best: 905.18 		N:2
+
+########## REPORT GEN: 79 ##########
+SPECIES: 
+Mcclain        		Mean: 151.83 		Best: 942.55 		N:6
+Santana        		Mean: 114.73 		Best: 942.55 		N:8
+Hope           		Mean: 131.13 		Best: 941.28 		N:7
+Tice           		Mean: 130.47 		Best: 923.76 		N:7
+Desrochers     		Mean: 113.44 		Best: 922.93 		N:8
+Wilson         		Mean: 151.45 		Best: 914.91 		N:6
+Allen          		Mean: 450.08 		Best: 914.58 		N:2
+Anderson       		Mean: 112.63 		Best: 914.17 		N:8
+Harris         		Mean: 303.48 		Best: 913.74 		N:3
+Davis          		Mean: 303.79 		Best: 913.58 		N:3
+Smith          		Mean: 181.0 		Best: 907.12 		N:5
+
+########## REPORT GEN: 80 ##########
+SPECIES: 
+Allen          		Mean: 232.05 		Best: 949.9 		N:4
+Santana        		Mean: 101.35 		Best: 942.55 		N:9
+Anderson       		Mean: 83.3 		Best: 942.55 		N:11
+Harris         		Mean: 128.5 		Best: 923.76 		N:7
+Smith          		Mean: 181.98 		Best: 914.58 		N:5
+Hope           		Mean: 130.27 		Best: 914.58 		N:7
+Davis          		Mean: 228.02 		Best: 914.11 		N:4
+Mcclain        		Mean: 181.63 		Best: 913.74 		N:5
+Wilson         		Mean: 150.21 		Best: 913.58 		N:6
+Desrochers     		Mean: 301.73 		Best: 907.1 		N:3
+Tice           		Mean: 180.86 		Best: 907.27 		N:5
+
+########## REPORT GEN: 81 ##########
+SPECIES: 
+Anderson       		Mean: 90.62 		Best: 949.9 		N:10
+Allen          		Mean: 152.92 		Best: 942.55 		N:6
+Harris         		Mean: 181.91 		Best: 942.55 		N:5
+Mcclain        		Mean: 82.2 		Best: 923.76 		N:11
+Tice           		Mean: 227.28 		Best: 923.76 		N:4
+Santana        		Mean: 90.83 		Best: 914.58 		N:10
+Desrochers     		Mean: 129.63 		Best: 914.17 		N:7
+Davis          		Mean: 81.97 		Best: 914.11 		N:11
+Smith          		Mean: 180.91 		Best: 907.26 		N:5
+Wilson         		Mean: 302.09 		Best: 907.12 		N:3
+Hope           		Mean: 150.28 		Best: 905.18 		N:6
+
+########## REPORT GEN: 82 ##########
+SPECIES: 
+Desrochers     		Mean: 114.15 		Best: 949.9 		N:8
+Anderson       		Mean: 309.65 		Best: 942.55 		N:3
+Allen          		Mean: 91.13 		Best: 942.55 		N:10
+Harris         		Mean: 75.68 		Best: 942.55 		N:12
+Davis          		Mean: 182.66 		Best: 923.76 		N:5
+Mcclain        		Mean: 90.19 		Best: 921.37 		N:10
+Tice           		Mean: 149.71 		Best: 917.17 		N:6
+Wilson         		Mean: 128.64 		Best: 914.15 		N:7
+Smith          		Mean: 151.0 		Best: 914.11 		N:6
+Santana        		Mean: 180.83 		Best: 907.12 		N:5
+Hope           		Mean: 150.06 		Best: 902.77 		N:6
+
+########## REPORT GEN: 83 ##########
+SPECIES: 
+Mcclain        		Mean: 91.23 		Best: 949.9 		N:10
+Harris         		Mean: 129.86 		Best: 942.55 		N:7
+Tice           		Mean: 91.86 		Best: 942.55 		N:10
+Wilson         		Mean: 91.22 		Best: 942.55 		N:10
+Hope           		Mean: 129.18 		Best: 942.55 		N:7
+Desrochers     		Mean: 181.37 		Best: 914.15 		N:5
+Allen          		Mean: 150.17 		Best: 906.96 		N:6
+Davis          		Mean: 129.43 		Best: 907.27 		N:7
+Smith          		Mean: 100.32 		Best: 906.96 		N:9
+Santana        		Mean: 226.0 		Best: 905.14 		N:4
+Anderson       		Mean: 112.68 		Best: 907.12 		N:8
+
+########## REPORT GEN: 84 ##########
+SPECIES: 
+Tice           		Mean: 182.12 		Best: 949.9 		N:5
+Mcclain        		Mean: 100.39 		Best: 942.55 		N:9
+Harris         		Mean: 102.0 		Best: 942.55 		N:9
+Wilson         		Mean: 228.14 		Best: 942.55 		N:4
+Allen          		Mean: 152.7 		Best: 942.55 		N:6
+Smith          		Mean: 112.65 		Best: 909.8 		N:8
+Hope           		Mean: 113.39 		Best: 909.19 		N:8
+Desrochers     		Mean: 60.34 		Best: 907.27 		N:15
+Davis          		Mean: 180.92 		Best: 908.02 		N:5
+Santana        		Mean: 128.54 		Best: 905.78 		N:7
+Anderson       		Mean: 90.2 		Best: 906.96 		N:10
+
+########## REPORT GEN: 85 ##########
+SPECIES: 
+Tice           		Mean: 101.59 		Best: 949.9 		N:9
+Wilson         		Mean: 100.8 		Best: 942.55 		N:9
+Davis          		Mean: 100.62 		Best: 942.55 		N:9
+Hope           		Mean: 113.32 		Best: 917.87 		N:8
+Desrochers     		Mean: 75.21 		Best: 909.8 		N:12
+Santana        		Mean: 150.93 		Best: 908.6 		N:6
+Mcclain        		Mean: 82.02 		Best: 905.78 		N:11
+Harris         		Mean: 112.96 		Best: 906.99 		N:8
+Smith          		Mean: 180.6 		Best: 905.31 		N:5
+Anderson       		Mean: 149.49 		Best: 904.94 		N:6
+Allen          		Mean: 224.03 		Best: 902.02 		N:4
+
+########## REPORT GEN: 86 ##########
+SPECIES: 
+Smith          		Mean: 91.0 		Best: 949.9 		N:10
+Harris         		Mean: 75.5 		Best: 942.55 		N:12
+Mcclain        		Mean: 81.96 		Best: 921.37 		N:11
+Desrochers     		Mean: 91.19 		Best: 917.87 		N:10
+Anderson       		Mean: 181.17 		Best: 917.44 		N:5
+Santana        		Mean: 226.12 		Best: 909.8 		N:4
+Hope           		Mean: 113.02 		Best: 908.6 		N:8
+Davis          		Mean: 128.88 		Best: 905.78 		N:7
+Allen          		Mean: 99.43 		Best: 905.78 		N:9
+Tice           		Mean: 149.44 		Best: 902.02 		N:6
+Wilson         		Mean: 222.99 		Best: 898.37 		N:4
+
+########## REPORT GEN: 87 ##########
+SPECIES: 
+Hope           		Mean: 113.09 		Best: 949.9 		N:8
+Harris         		Mean: 90.32 		Best: 942.55 		N:10
+Wilson         		Mean: 75.28 		Best: 922.22 		N:12
+Smith          		Mean: 300.36 		Best: 921.54 		N:3
+Davis          		Mean: 100.53 		Best: 921.37 		N:9
+Desrochers     		Mean: 112.42 		Best: 918.27 		N:8
+Anderson       		Mean: 128.68 		Best: 912.99 		N:7
+Tice           		Mean: 112.88 		Best: 907.97 		N:8
+Allen          		Mean: 149.36 		Best: 905.78 		N:6
+Mcclain        		Mean: 179.98 		Best: 905.31 		N:5
+Santana        		Mean: 224.64 		Best: 902.94 		N:4
+
+########## REPORT GEN: 88 ##########
+SPECIES: 
+Allen          		Mean: 151.66 		Best: 949.9 		N:6
+Mcclain        		Mean: 129.06 		Best: 942.55 		N:7
+Wilson         		Mean: 151.43 		Best: 922.22 		N:6
+Smith          		Mean: 129.39 		Best: 921.54 		N:7
+Anderson       		Mean: 82.13 		Best: 918.27 		N:11
+Davis          		Mean: 90.36 		Best: 914.49 		N:10
+Santana        		Mean: 128.53 		Best: 907.97 		N:7
+Hope           		Mean: 128.52 		Best: 907.24 		N:7
+Desrochers     		Mean: 129.2 		Best: 907.22 		N:7
+Harris         		Mean: 127.97 		Best: 904.91 		N:7
+Tice           		Mean: 222.94 		Best: 898.37 		N:4
+
+########## REPORT GEN: 89 ##########
+SPECIES: 
+Anderson       		Mean: 114.14 		Best: 949.9 		N:8
+Allen          		Mean: 82.51 		Best: 942.55 		N:11
+Smith          		Mean: 112.84 		Best: 927.37 		N:8
+Hope           		Mean: 90.64 		Best: 922.22 		N:10
+Desrochers     		Mean: 129.24 		Best: 921.54 		N:7
+Santana        		Mean: 112.22 		Best: 918.27 		N:8
+Davis          		Mean: 112.09 		Best: 909.32 		N:8
+Mcclain        		Mean: 99.96 		Best: 909.1 		N:9
+Tice           		Mean: 89.7 		Best: 908.13 		N:10
+Harris         		Mean: 224.97 		Best: 907.97 		N:4
+Wilson         		Mean: 225.08 		Best: 906.78 		N:4
+
+########## REPORT GEN: 90 ##########
+SPECIES: 
+Hope           		Mean: 151.43 		Best: 949.9 		N:6
+Santana        		Mean: 64.27 		Best: 949.9 		N:14
+Davis          		Mean: 130.07 		Best: 949.9 		N:7
+Desrochers     		Mean: 69.47 		Best: 942.55 		N:13
+Mcclain        		Mean: 150.04 		Best: 927.37 		N:6
+Tice           		Mean: 129.2 		Best: 922.22 		N:7
+Allen          		Mean: 112.77 		Best: 921.54 		N:8
+Anderson       		Mean: 129.18 		Best: 918.27 		N:7
+Wilson         		Mean: 128.73 		Best: 906.78 		N:7
+Smith          		Mean: 179.5 		Best: 904.01 		N:5
+Harris         		Mean: 451.55 		Best: 903.52 		N:2
+
+########## REPORT GEN: 91 ##########
+SPECIES: 
+Hope           		Mean: 114.13 		Best: 949.9 		N:8
+Desrochers     		Mean: 130.72 		Best: 949.9 		N:7
+Mcclain        		Mean: 114.29 		Best: 949.9 		N:8
+Allen          		Mean: 82.37 		Best: 922.51 		N:11
+Santana        		Mean: 178.68 		Best: 922.22 		N:5
+Smith          		Mean: 112.94 		Best: 921.54 		N:8
+Anderson       		Mean: 149.9 		Best: 919.11 		N:6
+Tice           		Mean: 89.69 		Best: 916.97 		N:10
+Wilson         		Mean: 224.22 		Best: 908.65 		N:4
+Davis          		Mean: 111.93 		Best: 903.39 		N:8
+Harris         		Mean: 447.59 		Best: 898.8 		N:2
+
+########## REPORT GEN: 92 ##########
+SPECIES: 
+Hope           		Mean: 101.21 		Best: 949.9 		N:9
+Allen          		Mean: 463.68 		Best: 949.9 		N:2
+Anderson       		Mean: 129.64 		Best: 949.9 		N:7
+Tice           		Mean: 90.51 		Best: 949.9 		N:10
+Davis          		Mean: 151.94 		Best: 949.9 		N:6
+Mcclain        		Mean: 459.54 		Best: 922.22 		N:2
+Desrochers     		Mean: 81.64 		Best: 919.11 		N:11
+Smith          		Mean: 128.52 		Best: 918.91 		N:7
+Wilson         		Mean: 127.99 		Best: 910.97 		N:7
+Harris         		Mean: 99.4 		Best: 907.14 		N:9
+
+########## REPORT GEN: 93 ##########
+SPECIES: 
+Allen          		Mean: 152.1 		Best: 949.9 		N:6
+Anderson       		Mean: 181.69 		Best: 949.9 		N:5
+Tice           		Mean: 184.04 		Best: 949.9 		N:5
+Santana        		Mean: 229.54 		Best: 949.9 		N:4
+Harris         		Mean: 226.44 		Best: 922.22 		N:4
+Hope           		Mean: 302.18 		Best: 918.91 		N:3
+Smith          		Mean: 225.82 		Best: 911.72 		N:4
+Wilson         		Mean: 149.46 		Best: 908.71 		N:6
+Mcclain        		Mean: 298.83 		Best: 907.14 		N:3
+Davis          		Mean: 222.07 		Best: 891.71 		N:4
+
+########## REPORT GEN: 94 ##########
+SPECIES: 
+Santana        		Mean: 151.56 		Best: 949.9 		N:6
+Harris         		Mean: 227.94 		Best: 949.9 		N:4
+Smith          		Mean: 100.82 		Best: 949.9 		N:9
+Wilson         		Mean: 185.75 		Best: 949.9 		N:5
+Mcclain        		Mean: 90.91 		Best: 941.28 		N:10
+Allen          		Mean: 226.62 		Best: 918.91 		N:4
+Anderson       		Mean: 304.55 		Best: 914.13 		N:3
+Tice           		Mean: 179.1 		Best: 908.71 		N:5
+Desrochers     		Mean: 127.78 		Best: 907.14 		N:7
+Hope           		Mean: 223.92 		Best: 902.09 		N:4
+Davis          		Mean: 295.0 		Best: 884.91 		N:3
+
+########## REPORT GEN: 95 ##########
+SPECIES: 
+Santana        		Mean: 115.2 		Best: 949.9 		N:8
+Wilson         		Mean: 112.9 		Best: 949.9 		N:8
+Tice           		Mean: 129.04 		Best: 949.9 		N:7
+Desrochers     		Mean: 129.86 		Best: 949.9 		N:7
+Davis          		Mean: 113.28 		Best: 949.9 		N:8
+Anderson       		Mean: 101.3 		Best: 941.28 		N:9
+Allen          		Mean: 151.9 		Best: 918.91 		N:6
+Hope           		Mean: 179.25 		Best: 911.72 		N:5
+Harris         		Mean: 127.63 		Best: 904.99 		N:7
+Mcclain        		Mean: 179.05 		Best: 904.3 		N:5
+Smith          		Mean: 148.79 		Best: 897.46 		N:6
+
+########## REPORT GEN: 96 ##########
+SPECIES: 
+Tice           		Mean: 75.71 		Best: 949.9 		N:12
+Desrochers     		Mean: 129.72 		Best: 949.9 		N:7
+Hope           		Mean: 128.61 		Best: 949.9 		N:7
+Harris         		Mean: 113.81 		Best: 949.9 		N:8
+Davis          		Mean: 89.99 		Best: 925.89 		N:10
+Wilson         		Mean: 89.85 		Best: 920.17 		N:10
+Anderson       		Mean: 90.38 		Best: 918.91 		N:10
+Mcclain        		Mean: 113.17 		Best: 918.91 		N:8
+Allen          		Mean: 150.08 		Best: 914.54 		N:6
+Santana        		Mean: 112.08 		Best: 908.71 		N:8
+Smith          		Mean: 223.2 		Best: 904.83 		N:4
+
+########## REPORT GEN: 97 ##########
+SPECIES: 
+Harris         		Mean: 82.16 		Best: 949.9 		N:11
+Tice           		Mean: 81.52 		Best: 925.89 		N:11
+Wilson         		Mean: 149.96 		Best: 922.51 		N:6
+Mcclain        		Mean: 150.49 		Best: 920.17 		N:6
+Smith          		Mean: 150.68 		Best: 922.22 		N:6
+Desrochers     		Mean: 128.82 		Best: 918.91 		N:7
+Hope           		Mean: 127.79 		Best: 918.91 		N:7
+Davis          		Mean: 112.24 		Best: 918.91 		N:8
+Anderson       		Mean: 111.76 		Best: 918.91 		N:8
+Allen          		Mean: 111.72 		Best: 914.54 		N:8
+Santana        		Mean: 129.09 		Best: 914.54 		N:7
+
+########## REPORT GEN: 98 ##########
+SPECIES: 
+Harris         		Mean: 100.6 		Best: 949.9 		N:9
+Tice           		Mean: 90.05 		Best: 949.9 		N:10
+Hope           		Mean: 56.24 		Best: 949.9 		N:16
+Desrochers     		Mean: 81.65 		Best: 925.89 		N:11
+Anderson       		Mean: 150.28 		Best: 922.51 		N:6
+Wilson         		Mean: 81.63 		Best: 920.17 		N:11
+Davis          		Mean: 129.11 		Best: 919.77 		N:7
+Mcclain        		Mean: 149.55 		Best: 914.38 		N:6
+Santana        		Mean: 112.79 		Best: 914.38 		N:8
+Smith          		Mean: 99.67 		Best: 906.86 		N:9
+Allen          		Mean: 297.74 		Best: 905.19 		N:3
+
+########## REPORT GEN: 99 ##########
+SPECIES: 
+Desrochers     		Mean: 113.73 		Best: 949.9 		N:8
+Anderson       		Mean: 90.54 		Best: 949.9 		N:10
+Wilson         		Mean: 179.25 		Best: 926.73 		N:5
+Santana        		Mean: 100.23 		Best: 925.89 		N:9
+Smith          		Mean: 112.58 		Best: 922.51 		N:8
+Tice           		Mean: 81.35 		Best: 921.72 		N:11
+Mcclain        		Mean: 112.89 		Best: 921.72 		N:8
+Allen          		Mean: 128.21 		Best: 910.41 		N:7
+Davis          		Mean: 99.67 		Best: 908.56 		N:9
+Harris         		Mean: 223.31 		Best: 904.99 		N:4
+Hope           		Mean: 147.87 		Best: 890.75 		N:6
+
+########## REPORT GEN: 100 ##########
+SPECIES: 
+Smith          		Mean: 130.2 		Best: 949.9 		N:7
+Allen          		Mean: 181.87 		Best: 949.9 		N:5
+Tice           		Mean: 150.38 		Best: 949.9 		N:6
+Santana        		Mean: 99.56 		Best: 930.38 		N:9
+Anderson       		Mean: 64.15 		Best: 926.73 		N:14
+Wilson         		Mean: 224.65 		Best: 926.73 		N:4
+Desrochers     		Mean: 101.07 		Best: 925.89 		N:9
+Davis          		Mean: 99.51 		Best: 911.23 		N:9
+Harris         		Mean: 111.75 		Best: 910.41 		N:8
+Hope           		Mean: 89.66 		Best: 904.99 		N:10
+Mcclain        		Mean: 148.34 		Best: 900.31 		N:6
+
+########## REPORT GEN: 101 ##########
+SPECIES: 
+Harris         		Mean: 100.72 		Best: 949.9 		N:9
+Desrochers     		Mean: 129.44 		Best: 949.9 		N:7
+Davis          		Mean: 113.49 		Best: 949.9 		N:8
+Santana        		Mean: 89.94 		Best: 930.38 		N:10
+Wilson         		Mean: 99.9 		Best: 928.06 		N:9
+Allen          		Mean: 89.82 		Best: 925.89 		N:10
+Anderson       		Mean: 99.78 		Best: 925.45 		N:9
+Tice           		Mean: 112.43 		Best: 921.72 		N:8
+Smith          		Mean: 127.96 		Best: 920.66 		N:7
+Hope           		Mean: 223.63 		Best: 908.11 		N:4
+Mcclain        		Mean: 127.21 		Best: 904.99 		N:7
+
+########## REPORT GEN: 102 ##########
+SPECIES: 
+Mcclain        		Mean: 181.87 		Best: 949.9 		N:5
+Davis          		Mean: 100.07 		Best: 949.9 		N:9
+Allen          		Mean: 152.29 		Best: 949.9 		N:6
+Desrochers     		Mean: 181.17 		Best: 943.97 		N:5
+Anderson       		Mean: 81.17 		Best: 925.89 		N:11
+Hope           		Mean: 90.32 		Best: 925.45 		N:10
+Smith          		Mean: 111.64 		Best: 911.23 		N:8
+Harris         		Mean: 127.29 		Best: 908.11 		N:7
+Wilson         		Mean: 297.1 		Best: 902.24 		N:3
+Santana        		Mean: 80.85 		Best: 891.47 		N:11
+Tice           		Mean: 98.63 		Best: 889.63 		N:9
+
+########## REPORT GEN: 103 ##########
+SPECIES: 
+Smith          		Mean: 113.25 		Best: 949.9 		N:8
+Santana        		Mean: 152.16 		Best: 949.9 		N:6
+Mcclain        		Mean: 150.8 		Best: 949.9 		N:6
+Allen          		Mean: 113.49 		Best: 949.9 		N:8
+Desrochers     		Mean: 89.81 		Best: 949.9 		N:10
+Anderson       		Mean: 112.3 		Best: 943.97 		N:8
+Harris         		Mean: 112.68 		Best: 943.97 		N:8
+Hope           		Mean: 179.52 		Best: 930.44 		N:5
+Davis          		Mean: 150.11 		Best: 926.73 		N:6
+Wilson         		Mean: 149.17 		Best: 925.89 		N:6
+Tice           		Mean: 111.05 		Best: 902.24 		N:8
+
+########## REPORT GEN: 104 ##########
+SPECIES: 
+Smith          		Mean: 114.62 		Best: 949.9 		N:8
+Santana        		Mean: 74.85 		Best: 949.9 		N:12
+Allen          		Mean: 99.59 		Best: 949.9 		N:9
+Anderson       		Mean: 90.5 		Best: 949.9 		N:10
+Davis          		Mean: 129.73 		Best: 949.9 		N:7
+Mcclain        		Mean: 151.15 		Best: 930.44 		N:6
+Harris         		Mean: 81.81 		Best: 926.73 		N:11
+Tice           		Mean: 149.43 		Best: 911.23 		N:6
+Hope           		Mean: 127.56 		Best: 907.55 		N:7
+Desrochers     		Mean: 177.89 		Best: 892.35 		N:5
+Wilson         		Mean: 88.62 		Best: 888.69 		N:10
+
+########## REPORT GEN: 105 ##########
+SPECIES: 
+Allen          		Mean: 69.04 		Best: 949.9 		N:13
+Tice           		Mean: 90.11 		Best: 949.9 		N:10
+Wilson         		Mean: 90.67 		Best: 949.9 		N:10
+Davis          		Mean: 82.4 		Best: 949.9 		N:11
+Desrochers     		Mean: 100.07 		Best: 949.9 		N:9
+Smith          		Mean: 224.63 		Best: 930.44 		N:4
+Mcclain        		Mean: 224.35 		Best: 928.06 		N:4
+Harris         		Mean: 74.67 		Best: 928.06 		N:12
+Anderson       		Mean: 180.22 		Best: 911.21 		N:5
+Santana        		Mean: 148.45 		Best: 909.93 		N:6
+Hope           		Mean: 127.37 		Best: 904.43 		N:7
+
+########## REPORT GEN: 106 ##########
+SPECIES: 
+Wilson         		Mean: 90.3 		Best: 949.9 		N:10
+Smith          		Mean: 130.0 		Best: 949.9 		N:7
+Anderson       		Mean: 180.21 		Best: 949.9 		N:5
+Davis          		Mean: 183.09 		Best: 949.9 		N:5
+Mcclain        		Mean: 112.87 		Best: 949.9 		N:8
+Santana        		Mean: 90.0 		Best: 930.44 		N:10
+Hope           		Mean: 149.13 		Best: 928.62 		N:6
+Allen          		Mean: 128.21 		Best: 928.06 		N:7
+Harris         		Mean: 98.71 		Best: 909.93 		N:9
+Desrochers     		Mean: 127.09 		Best: 909.32 		N:7
+Tice           		Mean: 98.63 		Best: 892.35 		N:9
+
+########## REPORT GEN: 107 ##########
+SPECIES: 
+Davis          		Mean: 179.99 		Best: 949.9 		N:5
+Wilson         		Mean: 74.9 		Best: 949.9 		N:12
+Tice           		Mean: 113.8 		Best: 949.9 		N:8
+Anderson       		Mean: 68.84 		Best: 941.91 		N:13
+Hope           		Mean: 150.03 		Best: 933.94 		N:6
+Desrochers     		Mean: 113.85 		Best: 930.44 		N:8
+Santana        		Mean: 89.28 		Best: 911.21 		N:10
+Harris         		Mean: 111.11 		Best: 906.55 		N:8
+Allen          		Mean: 98.74 		Best: 897.74 		N:9
+Smith          		Mean: 126.77 		Best: 890.83 		N:7
+Mcclain        		Mean: 177.28 		Best: 890.19 		N:5
+
+########## REPORT GEN: 108 ##########
+SPECIES: 
+Harris         		Mean: 130.1 		Best: 949.9 		N:7
+Desrochers     		Mean: 112.79 		Best: 949.9 		N:8
+Santana        		Mean: 130.57 		Best: 949.9 		N:7
+Hope           		Mean: 55.83 		Best: 930.44 		N:16
+Smith          		Mean: 111.65 		Best: 928.06 		N:8
+Tice           		Mean: 99.93 		Best: 914.42 		N:9
+Mcclain        		Mean: 111.57 		Best: 913.43 		N:8
+Davis          		Mean: 98.84 		Best: 906.55 		N:9
+Anderson       		Mean: 88.78 		Best: 899.17 		N:10
+Wilson         		Mean: 177.57 		Best: 890.19 		N:5
+Allen          		Mean: 442.74 		Best: 885.94 		N:2
+
+########## REPORT GEN: 109 ##########
+SPECIES: 
+Santana        		Mean: 461.41 		Best: 949.9 		N:2
+Smith          		Mean: 127.91 		Best: 949.9 		N:7
+Desrochers     		Mean: 89.86 		Best: 949.9 		N:10
+Tice           		Mean: 89.56 		Best: 949.9 		N:10
+Wilson         		Mean: 182.56 		Best: 949.9 		N:5
+Mcclain        		Mean: 181.51 		Best: 930.44 		N:5
+Hope           		Mean: 100.02 		Best: 930.44 		N:9
+Allen          		Mean: 111.49 		Best: 913.43 		N:8
+Harris         		Mean: 111.85 		Best: 911.88 		N:8
+Davis          		Mean: 148.13 		Best: 905.83 		N:6
+Anderson       		Mean: 127.09 		Best: 905.62 		N:7
+
+########## REPORT GEN: 110 ##########
+SPECIES: 
+Hope           		Mean: 183.99 		Best: 949.9 		N:5
+Harris         		Mean: 181.22 		Best: 949.9 		N:5
+Davis          		Mean: 112.71 		Best: 949.9 		N:8
+Tice           		Mean: 81.91 		Best: 949.9 		N:11
+Mcclain        		Mean: 151.1 		Best: 949.9 		N:6
+Allen          		Mean: 226.24 		Best: 930.44 		N:4
+Anderson       		Mean: 100.61 		Best: 930.44 		N:9
+Smith          		Mean: 98.94 		Best: 913.43 		N:9
+Santana        		Mean: 178.38 		Best: 911.88 		N:5
+Desrochers     		Mean: 300.2 		Best: 905.83 		N:3
+Wilson         		Mean: 98.78 		Best: 905.62 		N:9
+
+########## REPORT GEN: 111 ##########
+SPECIES: 
+Hope           		Mean: 180.23 		Best: 949.9 		N:5
+Tice           		Mean: 129.2 		Best: 949.9 		N:7
+Allen          		Mean: 91.67 		Best: 949.9 		N:10
+Santana        		Mean: 101.22 		Best: 949.9 		N:9
+Wilson         		Mean: 150.41 		Best: 930.44 		N:6
+Desrochers     		Mean: 179.78 		Best: 914.46 		N:5
+Smith          		Mean: 112.46 		Best: 914.42 		N:8
+Davis          		Mean: 223.58 		Best: 913.43 		N:4
+Harris         		Mean: 111.95 		Best: 911.9 		N:8
+Mcclain        		Mean: 126.94 		Best: 905.79 		N:7
+Anderson       		Mean: 98.6 		Best: 899.81 		N:9
+
+########## REPORT GEN: 112 ##########
+SPECIES: 
+Santana        		Mean: 90.29 		Best: 949.9 		N:10
+Mcclain        		Mean: 129.61 		Best: 949.9 		N:7
+Allen          		Mean: 81.91 		Best: 949.9 		N:11
+Harris         		Mean: 99.91 		Best: 930.44 		N:9
+Davis          		Mean: 128.31 		Best: 914.46 		N:7
+Wilson         		Mean: 111.75 		Best: 914.42 		N:8
+Smith          		Mean: 111.69 		Best: 913.43 		N:8
+Anderson       		Mean: 127.09 		Best: 906.17 		N:7
+Desrochers     		Mean: 297.83 		Best: 905.79 		N:3
+Tice           		Mean: 127.19 		Best: 904.98 		N:7
+Hope           		Mean: 110.83 		Best: 889.27 		N:8
+
+########## REPORT GEN: 113 ##########
+SPECIES: 
+Allen          		Mean: 89.69 		Best: 949.9 		N:10
+Smith          		Mean: 100.14 		Best: 949.9 		N:9
+Desrochers     		Mean: 113.22 		Best: 949.9 		N:8
+Davis          		Mean: 74.73 		Best: 949.9 		N:12
+Mcclain        		Mean: 455.83 		Best: 933.22 		N:2
+Wilson         		Mean: 111.85 		Best: 930.44 		N:8
+Santana        		Mean: 112.38 		Best: 914.42 		N:8
+Harris         		Mean: 179.82 		Best: 914.42 		N:5
+Tice           		Mean: 149.84 		Best: 914.42 		N:6
+Hope           		Mean: 450.46 		Best: 914.42 		N:2
+Anderson       		Mean: 98.78 		Best: 907.05 		N:9
+
+########## REPORT GEN: 114 ##########
+SPECIES: 
+Wilson         		Mean: 151.12 		Best: 949.9 		N:6
+Santana        		Mean: 229.08 		Best: 949.9 		N:4
+Tice           		Mean: 113.03 		Best: 949.9 		N:8
+Anderson       		Mean: 465.12 		Best: 949.9 		N:2
+Smith          		Mean: 226.58 		Best: 933.22 		N:4
+Desrochers     		Mean: 129.93 		Best: 933.22 		N:7
+Davis          		Mean: 181.83 		Best: 930.44 		N:5
+Allen          		Mean: 128.47 		Best: 914.42 		N:7
+Mcclain        		Mean: 148.62 		Best: 913.43 		N:6
+Hope           		Mean: 224.41 		Best: 913.34 		N:4
+Harris         		Mean: 127.11 		Best: 911.7 		N:7
+
+########## REPORT GEN: 115 ##########
+SPECIES: 
+Santana        		Mean: 183.56 		Best: 949.9 		N:5
+Harris         		Mean: 151.16 		Best: 949.9 		N:6
+Desrochers     		Mean: 114.25 		Best: 949.9 		N:8
+Hope           		Mean: 82.12 		Best: 949.9 		N:11
+Tice           		Mean: 181.92 		Best: 930.44 		N:5
+Anderson       		Mean: 182.25 		Best: 929.78 		N:5
+Mcclain        		Mean: 100.14 		Best: 915.1 		N:9
+Davis          		Mean: 224.86 		Best: 913.43 		N:4
+Wilson         		Mean: 225.08 		Best: 913.4 		N:4
+Allen          		Mean: 224.5 		Best: 911.7 		N:4
+Smith          		Mean: 89.33 		Best: 910.8 		N:10
+
+########## REPORT GEN: 116 ##########
+SPECIES: 
+Tice           		Mean: 75.8 		Best: 949.9 		N:12
+Allen          		Mean: 100.72 		Best: 949.9 		N:9
+Smith          		Mean: 129.94 		Best: 949.9 		N:7
+Desrochers     		Mean: 82.3 		Best: 949.9 		N:11
+Wilson         		Mean: 181.46 		Best: 936.06 		N:5
+Santana        		Mean: 128.4 		Best: 933.22 		N:7
+Anderson       		Mean: 149.63 		Best: 929.78 		N:6
+Hope           		Mean: 81.52 		Best: 922.73 		N:11
+Mcclain        		Mean: 112.94 		Best: 915.84 		N:8
+Harris         		Mean: 180.28 		Best: 912.97 		N:5
+Davis          		Mean: 224.2 		Best: 907.03 		N:4
+
+########## REPORT GEN: 117 ##########
+SPECIES: 
+Smith          		Mean: 89.82 		Best: 949.9 		N:10
+Harris         		Mean: 113.89 		Best: 949.9 		N:8
+Davis          		Mean: 69.33 		Best: 949.9 		N:13
+Hope           		Mean: 180.79 		Best: 937.69 		N:5
+Anderson       		Mean: 152.2 		Best: 936.06 		N:6
+Desrochers     		Mean: 224.87 		Best: 929.78 		N:4
+Wilson         		Mean: 81.78 		Best: 926.92 		N:11
+Mcclain        		Mean: 149.45 		Best: 922.73 		N:6
+Santana        		Mean: 181.82 		Best: 914.42 		N:5
+Tice           		Mean: 112.16 		Best: 913.43 		N:8
+Allen          		Mean: 127.23 		Best: 902.47 		N:7
+
+########## REPORT GEN: 118 ##########
+SPECIES: 
+Wilson         		Mean: 225.9 		Best: 949.9 		N:4
+Mcclain        		Mean: 112.72 		Best: 949.9 		N:8
+Tice           		Mean: 89.98 		Best: 949.9 		N:10
+Santana        		Mean: 82.92 		Best: 949.9 		N:11
+Anderson       		Mean: 130.16 		Best: 937.69 		N:7
+Allen          		Mean: 69.88 		Best: 937.63 		N:13
+Harris         		Mean: 150.94 		Best: 936.06 		N:6
+Smith          		Mean: 89.77 		Best: 922.73 		N:10
+Davis          		Mean: 128.66 		Best: 912.97 		N:7
+Desrochers     		Mean: 222.57 		Best: 902.47 		N:4
+Hope           		Mean: 127.04 		Best: 899.16 		N:7
+
+########## REPORT GEN: 119 ##########
+SPECIES: 
+Santana        		Mean: 90.45 		Best: 949.9 		N:10
+Allen          		Mean: 112.46 		Best: 949.9 		N:8
+Smith          		Mean: 90.38 		Best: 949.9 		N:10
+Davis          		Mean: 100.52 		Best: 949.9 		N:9
+Desrochers     		Mean: 128.8 		Best: 949.9 		N:7
+Hope           		Mean: 153.43 		Best: 949.9 		N:6
+Wilson         		Mean: 81.59 		Best: 937.63 		N:11
+Harris         		Mean: 150.2 		Best: 922.73 		N:6
+Anderson       		Mean: 224.14 		Best: 912.97 		N:4
+Mcclain        		Mean: 446.86 		Best: 900.76 		N:2
+Tice           		Mean: 98.79 		Best: 899.16 		N:9
+
+########## REPORT GEN: 120 ##########
+SPECIES: 
+Allen          		Mean: 459.93 		Best: 949.9 		N:2
+Smith          		Mean: 129.12 		Best: 949.9 		N:7
+Davis          		Mean: 90.57 		Best: 949.9 		N:10
+Wilson         		Mean: 99.69 		Best: 949.9 		N:9
+Hope           		Mean: 100.95 		Best: 949.9 		N:9
+Anderson       		Mean: 180.55 		Best: 937.63 		N:5
+Tice           		Mean: 182.04 		Best: 936.06 		N:5
+Mcclain        		Mean: 149.28 		Best: 916.12 		N:6
+Santana        		Mean: 178.9 		Best: 914.58 		N:5
+Desrochers     		Mean: 178.81 		Best: 908.69 		N:5
+Harris         		Mean: 177.31 		Best: 890.56 		N:5
+
+########## REPORT GEN: 121 ##########
+SPECIES: 
+Allen          		Mean: 90.27 		Best: 949.9 		N:10
+Davis          		Mean: 180.63 		Best: 949.9 		N:5
+Santana        		Mean: 150.52 		Best: 949.9 		N:6
+Harris         		Mean: 150.83 		Best: 949.9 		N:6
+Smith          		Mean: 113.31 		Best: 949.9 		N:8
+Mcclain        		Mean: 112.45 		Best: 937.63 		N:8
+Desrochers     		Mean: 90.58 		Best: 919.92 		N:10
+Wilson         		Mean: 223.61 		Best: 916.12 		N:4
+Anderson       		Mean: 149.09 		Best: 912.97 		N:6
+Hope           		Mean: 111.19 		Best: 908.69 		N:8
+Tice           		Mean: 147.63 		Best: 886.64 		N:6
+
+########## REPORT GEN: 122 ##########
+SPECIES: 
+Harris         		Mean: 226.36 		Best: 949.9 		N:4
+Smith          		Mean: 152.44 		Best: 949.9 		N:6
+Mcclain        		Mean: 90.03 		Best: 949.9 		N:10
+Allen          		Mean: 82.07 		Best: 949.9 		N:11
+Desrochers     		Mean: 81.91 		Best: 949.9 		N:11
+Hope           		Mean: 226.5 		Best: 949.9 		N:4
+Anderson       		Mean: 128.24 		Best: 919.92 		N:7
+Santana        		Mean: 111.5 		Best: 916.12 		N:8
+Davis          		Mean: 111.4 		Best: 905.49 		N:8
+Tice           		Mean: 98.74 		Best: 899.6 		N:9
+Wilson         		Mean: 126.86 		Best: 899.16 		N:7
+
+########## REPORT GEN: 123 ##########
+SPECIES: 
+Mcclain        		Mean: 113.84 		Best: 949.9 		N:8
+Desrochers     		Mean: 113.51 		Best: 949.9 		N:8
+Hope           		Mean: 89.53 		Best: 949.9 		N:10
+Smith          		Mean: 90.69 		Best: 949.9 		N:10
+Wilson         		Mean: 89.36 		Best: 949.9 		N:10
+Allen          		Mean: 112.65 		Best: 944.93 		N:8
+Anderson       		Mean: 301.63 		Best: 923.18 		N:3
+Harris         		Mean: 180.36 		Best: 916.12 		N:5
+Tice           		Mean: 179.64 		Best: 912.97 		N:5
+Santana        		Mean: 127.09 		Best: 905.49 		N:7
+Davis          		Mean: 176.94 		Best: 884.84 		N:5
+
+########## REPORT GEN: 124 ##########
+SPECIES: 
+Desrochers     		Mean: 100.55 		Best: 949.9 		N:9
+Smith          		Mean: 181.94 		Best: 949.9 		N:5
+Mcclain        		Mean: 112.16 		Best: 949.9 		N:8
+Wilson         		Mean: 130.02 		Best: 949.9 		N:7
+Anderson       		Mean: 149.65 		Best: 923.18 		N:6
+Tice           		Mean: 68.67 		Best: 914.58 		N:13
+Harris         		Mean: 111.58 		Best: 914.06 		N:8
+Allen          		Mean: 225.49 		Best: 912.97 		N:4
+Davis          		Mean: 127.92 		Best: 912.95 		N:7
+Santana        		Mean: 222.15 		Best: 896.73 		N:4
+Hope           		Mean: 98.68 		Best: 896.35 		N:9
+
+########## REPORT GEN: 125 ##########
+SPECIES: 
+Anderson       		Mean: 306.75 		Best: 949.9 		N:3
+Tice           		Mean: 59.98 		Best: 949.9 		N:15
+Santana        		Mean: 180.25 		Best: 949.9 		N:5
+Hope           		Mean: 184.09 		Best: 949.9 		N:5
+Desrochers     		Mean: 112.23 		Best: 934.06 		N:8
+Smith          		Mean: 74.61 		Best: 923.18 		N:12
+Davis          		Mean: 74.47 		Best: 922.48 		N:12
+Wilson         		Mean: 127.7 		Best: 914.06 		N:7
+Allen          		Mean: 148.7 		Best: 906.01 		N:6
+Mcclain        		Mean: 296.18 		Best: 894.62 		N:3
+Harris         		Mean: 126.5 		Best: 886.68 		N:7
+
+########## REPORT GEN: 126 ##########
+SPECIES: 
+Tice           		Mean: 69.59 		Best: 949.9 		N:13
+Wilson         		Mean: 130.33 		Best: 949.9 		N:7
+Desrochers     		Mean: 114.3 		Best: 944.34 		N:8
+Santana        		Mean: 179.58 		Best: 938.83 		N:5
+Smith          		Mean: 113.19 		Best: 934.06 		N:8
+Davis          		Mean: 128.83 		Best: 916.12 		N:7
+Anderson       		Mean: 148.48 		Best: 905.49 		N:6
+Allen          		Mean: 98.6 		Best: 895.24 		N:9
+Mcclain        		Mean: 110.99 		Best: 894.62 		N:8
+Hope           		Mean: 444.05 		Best: 890.99 		N:2
+Harris         		Mean: 147.55 		Best: 886.68 		N:6
+
+########## REPORT GEN: 127 ##########
+SPECIES: 
+Mcclain        		Mean: 114.28 		Best: 949.9 		N:8
+Smith          		Mean: 227.34 		Best: 949.9 		N:4
+Allen          		Mean: 63.77 		Best: 949.9 		N:14
+Davis          		Mean: 99.19 		Best: 943.69 		N:9
+Anderson       		Mean: 455.98 		Best: 934.06 		N:2
+Desrochers     		Mean: 80.99 		Best: 923.2 		N:11
+Tice           		Mean: 149.64 		Best: 919.52 		N:6
+Hope           		Mean: 225.28 		Best: 916.12 		N:4
+Santana        		Mean: 111.51 		Best: 914.32 		N:8
+Harris         		Mean: 295.7 		Best: 890.99 		N:3
+Wilson         		Mean: 221.37 		Best: 886.68 		N:4
+
+########## REPORT GEN: 128 ##########
+SPECIES: 
+Santana        		Mean: 180.13 		Best: 949.9 		N:5
+Harris         		Mean: 99.94 		Best: 949.9 		N:9
+Tice           		Mean: 152.09 		Best: 949.9 		N:6
+Allen          		Mean: 99.74 		Best: 934.06 		N:9
+Smith          		Mean: 129.33 		Best: 923.2 		N:7
+Davis          		Mean: 111.7 		Best: 916.12 		N:8
+Wilson         		Mean: 223.47 		Best: 913.29 		N:4
+Hope           		Mean: 299.79 		Best: 908.14 		N:3
+Desrochers     		Mean: 148.35 		Best: 893.96 		N:6
+Mcclain        		Mean: 110.61 		Best: 887.31 		N:8
+Anderson       		Mean: 221.49 		Best: 887.31 		N:4
+
+########## REPORT GEN: 129 ##########
+SPECIES: 
+Santana        		Mean: 89.31 		Best: 949.9 		N:10
+Anderson       		Mean: 150.43 		Best: 949.9 		N:6
+Allen          		Mean: 112.8 		Best: 949.9 		N:8
+Mcclain        		Mean: 99.72 		Best: 934.06 		N:9
+Tice           		Mean: 89.48 		Best: 930.39 		N:10
+Smith          		Mean: 112.09 		Best: 923.2 		N:8
+Wilson         		Mean: 179.19 		Best: 914.32 		N:5
+Harris         		Mean: 127.99 		Best: 913.29 		N:7
+Davis          		Mean: 148.12 		Best: 898.54 		N:6
+Hope           		Mean: 177.1 		Best: 886.68 		N:5
+Desrochers     		Mean: 294.71 		Best: 884.45 		N:3
+
+########## REPORT GEN: 130 ##########
+SPECIES: 
+Allen          		Mean: 89.68 		Best: 949.9 		N:10
+Desrochers     		Mean: 100.77 		Best: 949.9 		N:9
+Anderson       		Mean: 82.05 		Best: 949.9 		N:11
+Davis          		Mean: 128.61 		Best: 934.06 		N:7
+Hope           		Mean: 98.96 		Best: 930.39 		N:9
+Mcclain        		Mean: 149.39 		Best: 915.12 		N:6
+Harris         		Mean: 127.64 		Best: 914.32 		N:7
+Wilson         		Mean: 178.31 		Best: 914.06 		N:5
+Smith          		Mean: 177.58 		Best: 898.54 		N:5
+Santana        		Mean: 98.36 		Best: 886.68 		N:9
+Tice           		Mean: 176.98 		Best: 886.68 		N:5
+
+########## REPORT GEN: 131 ##########
+SPECIES: 
+Smith          		Mean: 111.97 		Best: 949.9 		N:8
+Santana        		Mean: 89.99 		Best: 949.9 		N:10
+Tice           		Mean: 112.66 		Best: 949.9 		N:8
+Mcclain        		Mean: 100.52 		Best: 949.9 		N:9
+Davis          		Mean: 127.41 		Best: 930.39 		N:7
+Harris         		Mean: 179.13 		Best: 916.32 		N:5
+Anderson       		Mean: 112.64 		Best: 917.33 		N:8
+Allen          		Mean: 80.74 		Best: 914.44 		N:11
+Desrochers     		Mean: 147.95 		Best: 898.54 		N:6
+Wilson         		Mean: 73.86 		Best: 892.44 		N:12
+Hope           		Mean: 177.01 		Best: 886.68 		N:5
+
+########## REPORT GEN: 132 ##########
+SPECIES: 
+Mcclain        		Mean: 112.89 		Best: 949.9 		N:8
+Harris         		Mean: 128.59 		Best: 949.9 		N:7
+Allen          		Mean: 113.13 		Best: 949.9 		N:8
+Tice           		Mean: 111.97 		Best: 949.9 		N:8
+Wilson         		Mean: 80.77 		Best: 930.39 		N:11
+Anderson       		Mean: 127.91 		Best: 914.58 		N:7
+Smith          		Mean: 74.17 		Best: 914.44 		N:12
+Santana        		Mean: 224.39 		Best: 914.38 		N:4
+Davis          		Mean: 98.71 		Best: 914.06 		N:9
+Desrochers     		Mean: 111.05 		Best: 898.54 		N:8
+Hope           		Mean: 126.52 		Best: 889.28 		N:7
+
+########## REPORT GEN: 133 ##########
+SPECIES: 
+Wilson         		Mean: 89.39 		Best: 949.9 		N:10
+Anderson       		Mean: 63.69 		Best: 949.9 		N:14
+Smith          		Mean: 112.24 		Best: 949.9 		N:8
+Santana        		Mean: 180.07 		Best: 949.9 		N:5
+Davis          		Mean: 89.9 		Best: 949.9 		N:10
+Desrochers     		Mean: 99.35 		Best: 914.58 		N:9
+Harris         		Mean: 81.29 		Best: 914.38 		N:11
+Tice           		Mean: 126.88 		Best: 909.89 		N:7
+Allen          		Mean: 178.13 		Best: 901.25 		N:5
+Mcclain        		Mean: 177.0 		Best: 886.68 		N:5
+Hope           		Mean: 442.22 		Best: 884.45 		N:2
+
+########## REPORT GEN: 134 ##########
+SPECIES: 
+Wilson         		Mean: 180.8 		Best: 949.9 		N:5
+Davis          		Mean: 99.27 		Best: 949.9 		N:9
+Mcclain        		Mean: 150.21 		Best: 949.9 		N:6
+Tice           		Mean: 226.72 		Best: 949.9 		N:4
+Smith          		Mean: 150.03 		Best: 924.16 		N:6
+Allen          		Mean: 98.74 		Best: 914.58 		N:9
+Hope           		Mean: 99.04 		Best: 914.38 		N:9
+Santana        		Mean: 126.89 		Best: 909.89 		N:7
+Harris         		Mean: 147.63 		Best: 892.0 		N:6
+Desrochers     		Mean: 88.44 		Best: 884.45 		N:10
+Anderson       		Mean: 221.07 		Best: 884.19 		N:4
+
+########## REPORT GEN: 135 ##########
+SPECIES: 
+Tice           		Mean: 81.56 		Best: 949.9 		N:11
+Smith          		Mean: 99.61 		Best: 949.9 		N:9
+Harris         		Mean: 127.82 		Best: 949.9 		N:7
+Davis          		Mean: 89.6 		Best: 949.9 		N:10
+Mcclain        		Mean: 129.3 		Best: 949.9 		N:7
+Allen          		Mean: 180.05 		Best: 949.9 		N:5
+Santana        		Mean: 149.04 		Best: 935.57 		N:6
+Anderson       		Mean: 148.77 		Best: 924.16 		N:6
+Hope           		Mean: 74.2 		Best: 914.58 		N:12
+Desrochers     		Mean: 179.73 		Best: 914.38 		N:5
+Wilson         		Mean: 177.8 		Best: 907.02 		N:5
+
+########## REPORT GEN: 136 ##########
+SPECIES: 
+Harris         		Mean: 152.19 		Best: 949.9 		N:6
+Allen          		Mean: 90.34 		Best: 949.9 		N:10
+Tice           		Mean: 100.24 		Best: 949.9 		N:9
+Davis          		Mean: 114.51 		Best: 949.9 		N:8
+Hope           		Mean: 81.26 		Best: 949.9 		N:11
+Desrochers     		Mean: 81.49 		Best: 949.9 		N:11
+Wilson         		Mean: 227.2 		Best: 949.9 		N:4
+Anderson       		Mean: 148.86 		Best: 918.37 		N:6
+Santana        		Mean: 127.2 		Best: 914.38 		N:7
+Mcclain        		Mean: 98.63 		Best: 914.27 		N:9
+Smith          		Mean: 111.82 		Best: 914.22 		N:8
+
+########## REPORT GEN: 137 ##########
+SPECIES: 
+Davis          		Mean: 227.85 		Best: 949.9 		N:4
+Wilson         		Mean: 64.86 		Best: 949.9 		N:14
+Anderson       		Mean: 100.37 		Best: 949.9 		N:9
+Smith          		Mean: 69.24 		Best: 949.9 		N:13
+Tice           		Mean: 149.86 		Best: 935.57 		N:6
+Mcclain        		Mean: 129.1 		Best: 932.06 		N:7
+Desrochers     		Mean: 178.14 		Best: 918.37 		N:5
+Hope           		Mean: 127.35 		Best: 914.38 		N:7
+Santana        		Mean: 150.25 		Best: 914.38 		N:6
+Harris         		Mean: 147.7 		Best: 892.54 		N:6
+Allen          		Mean: 88.51 		Best: 892.54 		N:10
+
+########## REPORT GEN: 138 ##########
+SPECIES: 
+Mcclain        		Mean: 152.81 		Best: 949.9 		N:6
+Santana        		Mean: 307.22 		Best: 949.9 		N:3
+Smith          		Mean: 111.94 		Best: 935.57 		N:8
+Hope           		Mean: 74.57 		Best: 932.06 		N:12
+Wilson         		Mean: 99.21 		Best: 918.37 		N:9
+Desrochers     		Mean: 127.26 		Best: 917.01 		N:7
+Anderson       		Mean: 74.27 		Best: 914.38 		N:12
+Allen          		Mean: 80.92 		Best: 914.27 		N:11
+Harris         		Mean: 111.12 		Best: 914.22 		N:8
+Tice           		Mean: 98.57 		Best: 904.44 		N:9
+Davis          		Mean: 147.53 		Best: 892.54 		N:6
+
+########## REPORT GEN: 139 ##########
+SPECIES: 
+Hope           		Mean: 112.58 		Best: 949.9 		N:8
+Wilson         		Mean: 149.57 		Best: 949.9 		N:6
+Harris         		Mean: 100.54 		Best: 949.9 		N:9
+Tice           		Mean: 99.74 		Best: 935.57 		N:9
+Allen          		Mean: 99.15 		Best: 929.77 		N:9
+Desrochers     		Mean: 223.89 		Best: 918.37 		N:4
+Anderson       		Mean: 127.32 		Best: 918.37 		N:7
+Santana        		Mean: 112.05 		Best: 914.38 		N:8
+Davis          		Mean: 126.92 		Best: 914.1 		N:7
+Mcclain        		Mean: 127.26 		Best: 913.28 		N:7
+Smith          		Mean: 98.65 		Best: 904.44 		N:9
+
+########## REPORT GEN: 140 ##########
+SPECIES: 
+Smith          		Mean: 112.24 		Best: 949.9 		N:8
+Harris         		Mean: 90.25 		Best: 949.9 		N:10
+Desrochers     		Mean: 112.28 		Best: 949.9 		N:8
+Anderson       		Mean: 112.54 		Best: 941.28 		N:8
+Allen          		Mean: 112.79 		Best: 935.57 		N:8
+Davis          		Mean: 112.41 		Best: 929.77 		N:8
+Wilson         		Mean: 98.93 		Best: 922.26 		N:9
+Santana        		Mean: 148.44 		Best: 904.44 		N:6
+Hope           		Mean: 73.9 		Best: 904.36 		N:12
+Tice           		Mean: 148.07 		Best: 899.74 		N:6
+Mcclain        		Mean: 126.27 		Best: 884.19 		N:7
+
+########## REPORT GEN: 141 ##########
+SPECIES: 
+Mcclain        		Mean: 111.68 		Best: 949.9 		N:8
+Smith          		Mean: 100.53 		Best: 949.9 		N:9
+Anderson       		Mean: 308.44 		Best: 949.9 		N:3
+Desrochers     		Mean: 112.67 		Best: 941.28 		N:8
+Wilson         		Mean: 81.99 		Best: 929.77 		N:11
+Harris         		Mean: 99.25 		Best: 922.26 		N:9
+Davis          		Mean: 55.78 		Best: 918.37 		N:16
+Santana        		Mean: 127.75 		Best: 914.27 		N:7
+Hope           		Mean: 148.16 		Best: 914.05 		N:6
+Allen          		Mean: 110.63 		Best: 888.97 		N:8
+Tice           		Mean: 88.48 		Best: 888.41 		N:10
+
+########## REPORT GEN: 142 ##########
+SPECIES: 
+Wilson         		Mean: 152.09 		Best: 949.9 		N:6
+Anderson       		Mean: 69.45 		Best: 949.9 		N:13
+Mcclain        		Mean: 304.33 		Best: 935.57 		N:3
+Allen          		Mean: 112.38 		Best: 935.57 		N:8
+Desrochers     		Mean: 81.46 		Best: 929.77 		N:11
+Santana        		Mean: 99.07 		Best: 922.26 		N:9
+Harris         		Mean: 80.98 		Best: 918.37 		N:11
+Smith          		Mean: 126.97 		Best: 918.36 		N:7
+Davis          		Mean: 148.39 		Best: 914.04 		N:6
+Hope           		Mean: 126.99 		Best: 906.88 		N:7
+Tice           		Mean: 294.53 		Best: 883.38 		N:3
+
+########## REPORT GEN: 143 ##########
+SPECIES: 
+Harris         		Mean: 183.13 		Best: 949.9 		N:5
+Hope           		Mean: 225.59 		Best: 949.9 		N:4
+Anderson       		Mean: 112.53 		Best: 944.44 		N:8
+Mcclain        		Mean: 90.22 		Best: 944.44 		N:10
+Desrochers     		Mean: 179.33 		Best: 935.57 		N:5
+Davis          		Mean: 112.47 		Best: 932.93 		N:8
+Allen          		Mean: 99.89 		Best: 929.77 		N:9
+Wilson         		Mean: 127.2 		Best: 922.26 		N:7
+Smith          		Mean: 111.48 		Best: 914.16 		N:8
+Tice           		Mean: 179.69 		Best: 914.06 		N:5
+Santana        		Mean: 178.26 		Best: 906.88 		N:5
+
+########## REPORT GEN: 144 ##########
+SPECIES: 
+Davis          		Mean: 75.07 		Best: 949.9 		N:12
+Desrochers     		Mean: 69.05 		Best: 949.9 		N:13
+Harris         		Mean: 149.48 		Best: 944.44 		N:6
+Allen          		Mean: 129.8 		Best: 944.44 		N:7
+Mcclain        		Mean: 100.73 		Best: 941.19 		N:9
+Anderson       		Mean: 74.86 		Best: 935.57 		N:12
+Wilson         		Mean: 304.16 		Best: 929.77 		N:3
+Smith          		Mean: 128.34 		Best: 914.58 		N:7
+Tice           		Mean: 150.84 		Best: 914.58 		N:6
+Santana        		Mean: 111.98 		Best: 914.22 		N:8
+Hope           		Mean: 221.45 		Best: 888.41 		N:4
+
+########## REPORT GEN: 145 ##########
+SPECIES: 
+Desrochers     		Mean: 130.28 		Best: 949.9 		N:7
+Wilson         		Mean: 185.05 		Best: 949.9 		N:5
+Santana        		Mean: 90.15 		Best: 944.44 		N:10
+Harris         		Mean: 100.0 		Best: 933.97 		N:9
+Allen          		Mean: 100.2 		Best: 935.57 		N:9
+Smith          		Mean: 89.35 		Best: 914.58 		N:10
+Mcclain        		Mean: 112.34 		Best: 914.2 		N:8
+Tice           		Mean: 225.07 		Best: 914.16 		N:4
+Davis          		Mean: 224.56 		Best: 913.84 		N:4
+Hope           		Mean: 126.98 		Best: 911.66 		N:7
+Anderson       		Mean: 147.74 		Best: 888.41 		N:6
+
+########## REPORT GEN: 146 ##########
+SPECIES: 
+Hope           		Mean: 150.33 		Best: 949.9 		N:6
+Wilson         		Mean: 100.21 		Best: 949.9 		N:9
+Tice           		Mean: 151.37 		Best: 944.44 		N:6
+Santana        		Mean: 89.86 		Best: 941.19 		N:10
+Allen          		Mean: 82.33 		Best: 933.97 		N:11
+Smith          		Mean: 112.89 		Best: 932.93 		N:8
+Mcclain        		Mean: 128.04 		Best: 932.93 		N:7
+Anderson       		Mean: 111.93 		Best: 922.26 		N:8
+Davis          		Mean: 112.4 		Best: 914.58 		N:8
+Harris         		Mean: 299.27 		Best: 914.22 		N:3
+Desrochers     		Mean: 223.37 		Best: 914.16 		N:4
+
+########## REPORT GEN: 147 ##########
+SPECIES: 
+Mcclain        		Mean: 99.36 		Best: 949.9 		N:9
+Tice           		Mean: 82.34 		Best: 949.9 		N:11
+Anderson       		Mean: 128.76 		Best: 944.44 		N:7
+Harris         		Mean: 100.99 		Best: 942.45 		N:9
+Hope           		Mean: 150.71 		Best: 941.19 		N:6
+Wilson         		Mean: 111.94 		Best: 941.19 		N:8
+Allen          		Mean: 90.48 		Best: 933.97 		N:10
+Davis          		Mean: 149.93 		Best: 932.93 		N:6
+Smith          		Mean: 181.67 		Best: 920.99 		N:5
+Santana        		Mean: 149.52 		Best: 911.66 		N:6
+Desrochers     		Mean: 442.52 		Best: 885.85 		N:2
+
+########## REPORT GEN: 148 ##########
+SPECIES: 
+Smith          		Mean: 128.97 		Best: 949.9 		N:7
+Desrochers     		Mean: 150.38 		Best: 949.9 		N:6
+Anderson       		Mean: 129.8 		Best: 949.9 		N:7
+Harris         		Mean: 90.09 		Best: 942.45 		N:10
+Davis          		Mean: 149.93 		Best: 942.45 		N:6
+Tice           		Mean: 111.86 		Best: 941.19 		N:8
+Hope           		Mean: 226.14 		Best: 941.19 		N:4
+Mcclain        		Mean: 112.46 		Best: 933.97 		N:8
+Wilson         		Mean: 151.23 		Best: 932.93 		N:6
+Allen          		Mean: 224.55 		Best: 932.93 		N:4
+Santana        		Mean: 179.3 		Best: 907.08 		N:5
+
+########## REPORT GEN: 149 ##########
+SPECIES: 
+Wilson         		Mean: 100.61 		Best: 949.9 		N:9
+Santana        		Mean: 152.55 		Best: 949.9 		N:6
+Desrochers     		Mean: 82.7 		Best: 942.45 		N:11
+Anderson       		Mean: 75.3 		Best: 942.45 		N:12
+Davis          		Mean: 69.17 		Best: 933.97 		N:13
+Hope           		Mean: 129.2 		Best: 932.93 		N:7
+Smith          		Mean: 298.31 		Best: 914.04 		N:3
+Harris         		Mean: 179.3 		Best: 914.04 		N:5
+Allen          		Mean: 148.28 		Best: 914.04 		N:6
+Mcclain        		Mean: 148.11 		Best: 906.86 		N:6
+Tice           		Mean: 148.14 		Best: 906.49 		N:6
+
+########## REPORT GEN: 150 ##########
+SPECIES: 
+Anderson       		Mean: 100.13 		Best: 949.9 		N:9
+Hope           		Mean: 50.21 		Best: 949.9 		N:18
+Harris         		Mean: 225.6 		Best: 949.9 		N:4
+Desrochers     		Mean: 101.02 		Best: 942.45 		N:9
+Davis          		Mean: 128.97 		Best: 942.45 		N:7
+Tice           		Mean: 302.64 		Best: 933.71 		N:3
+Smith          		Mean: 304.11 		Best: 932.93 		N:3
+Allen          		Mean: 112.35 		Best: 932.93 		N:8
+Santana        		Mean: 81.16 		Best: 914.24 		N:11
+Wilson         		Mean: 149.52 		Best: 911.66 		N:6
+Mcclain        		Mean: 126.61 		Best: 898.92 		N:7
+
+########## REPORT GEN: 151 ##########
+SPECIES: 
+Desrochers     		Mean: 112.69 		Best: 949.9 		N:8
+Smith          		Mean: 100.8 		Best: 949.9 		N:9
+Allen          		Mean: 90.54 		Best: 949.9 		N:10
+Santana        		Mean: 183.6 		Best: 949.9 		N:5
+Wilson         		Mean: 225.44 		Best: 949.9 		N:4
+Harris         		Mean: 129.05 		Best: 942.45 		N:7
+Mcclain        		Mean: 99.48 		Best: 933.71 		N:9
+Hope           		Mean: 150.49 		Best: 932.93 		N:6
+Davis          		Mean: 90.1 		Best: 932.93 		N:10
+Anderson       		Mean: 224.8 		Best: 914.55 		N:4
+Tice           		Mean: 300.1 		Best: 914.04 		N:3
+
+########## REPORT GEN: 152 ##########
+SPECIES: 
+Desrochers     		Mean: 112.42 		Best: 949.9 		N:8
+Wilson         		Mean: 182.4 		Best: 949.9 		N:5
+Harris         		Mean: 90.54 		Best: 949.9 		N:10
+Davis          		Mean: 83.57 		Best: 949.9 		N:11
+Anderson       		Mean: 180.9 		Best: 949.9 		N:5
+Mcclain        		Mean: 128.96 		Best: 942.45 		N:7
+Allen          		Mean: 128.68 		Best: 932.93 		N:7
+Santana        		Mean: 150.28 		Best: 918.37 		N:6
+Smith          		Mean: 148.25 		Best: 914.55 		N:6
+Hope           		Mean: 449.59 		Best: 914.06 		N:2
+Tice           		Mean: 148.27 		Best: 899.57 		N:6
+
+########## REPORT GEN: 153 ##########
+SPECIES: 
+Desrochers     		Mean: 100.73 		Best: 949.9 		N:9
+Davis          		Mean: 101.18 		Best: 949.9 		N:9
+Allen          		Mean: 69.24 		Best: 949.9 		N:13
+Smith          		Mean: 183.64 		Best: 949.9 		N:5
+Santana        		Mean: 151.44 		Best: 942.45 		N:6
+Anderson       		Mean: 179.7 		Best: 932.93 		N:5
+Mcclain        		Mean: 224.87 		Best: 914.55 		N:4
+Wilson         		Mean: 89.39 		Best: 914.06 		N:10
+Harris         		Mean: 222.85 		Best: 914.06 		N:4
+Hope           		Mean: 111.71 		Best: 914.06 		N:8
+Tice           		Mean: 180.11 		Best: 914.06 		N:5
+
+########## REPORT GEN: 154 ##########
+SPECIES: 
+Davis          		Mean: 100.77 		Best: 949.9 		N:9
+Allen          		Mean: 128.38 		Best: 949.9 		N:7
+Anderson       		Mean: 91.05 		Best: 949.9 		N:10
+Mcclain        		Mean: 70.74 		Best: 949.9 		N:13
+Hope           		Mean: 229.21 		Best: 949.9 		N:4
+Harris         		Mean: 179.6 		Best: 932.93 		N:5
+Tice           		Mean: 69.26 		Best: 914.58 		N:13
+Smith          		Mean: 111.41 		Best: 914.06 		N:8
+Santana        		Mean: 449.83 		Best: 914.06 		N:2
+Wilson         		Mean: 99.31 		Best: 914.06 		N:9
+Desrochers     		Mean: 178.56 		Best: 912.36 		N:5
+
+########## REPORT GEN: 155 ##########
+SPECIES: 
+Allen          		Mean: 113.82 		Best: 949.9 		N:8
+Hope           		Mean: 181.89 		Best: 949.9 		N:5
+Harris         		Mean: 151.02 		Best: 949.9 		N:6
+Santana        		Mean: 185.37 		Best: 949.9 		N:5
+Desrochers     		Mean: 181.56 		Best: 949.9 		N:5
+Smith          		Mean: 89.81 		Best: 941.28 		N:10
+Anderson       		Mean: 100.5 		Best: 932.93 		N:9
+Tice           		Mean: 112.43 		Best: 914.58 		N:8
+Mcclain        		Mean: 151.3 		Best: 914.49 		N:6
+Wilson         		Mean: 127.4 		Best: 914.06 		N:7
+Davis          		Mean: 177.9 		Best: 911.66 		N:5
+
+########## REPORT GEN: 156 ##########
+SPECIES: 
+Hope           		Mean: 151.0 		Best: 949.9 		N:6
+Santana        		Mean: 69.37 		Best: 949.9 		N:13
+Smith          		Mean: 130.17 		Best: 949.9 		N:7
+Anderson       		Mean: 70.15 		Best: 949.9 		N:13
+Tice           		Mean: 70.03 		Best: 949.9 		N:13
+Wilson         		Mean: 112.14 		Best: 949.9 		N:8
+Allen          		Mean: 227.63 		Best: 949.9 		N:4
+Davis          		Mean: 81.9 		Best: 929.99 		N:11
+Desrochers     		Mean: 179.2 		Best: 914.58 		N:5
+Mcclain        		Mean: 127.56 		Best: 914.06 		N:7
+Harris         		Mean: 222.85 		Best: 914.04 		N:4
+
+########## REPORT GEN: 157 ##########
+SPECIES: 
+Tice           		Mean: 74.77 		Best: 949.9 		N:12
+Wilson         		Mean: 90.66 		Best: 949.9 		N:10
+Davis          		Mean: 304.13 		Best: 949.9 		N:3
+Harris         		Mean: 115.43 		Best: 949.9 		N:8
+Anderson       		Mean: 89.9 		Best: 929.99 		N:10
+Santana        		Mean: 128.42 		Best: 926.92 		N:7
+Smith          		Mean: 179.21 		Best: 914.25 		N:5
+Allen          		Mean: 81.23 		Best: 914.06 		N:11
+Mcclain        		Mean: 81.5 		Best: 914.06 		N:11
+Hope           		Mean: 222.21 		Best: 903.13 		N:4
+Desrochers     		Mean: 294.66 		Best: 884.37 		N:3
+
+########## REPORT GEN: 158 ##########
+SPECIES: 
+Mcclain        		Mean: 113.45 		Best: 949.9 		N:8
+Hope           		Mean: 131.06 		Best: 949.9 		N:7
+Harris         		Mean: 307.79 		Best: 949.9 		N:3
+Wilson         		Mean: 90.7 		Best: 929.99 		N:10
+Smith          		Mean: 128.89 		Best: 927.77 		N:7
+Desrochers     		Mean: 225.77 		Best: 914.58 		N:4
+Davis          		Mean: 222.81 		Best: 914.25 		N:4
+Tice           		Mean: 148.77 		Best: 914.06 		N:6
+Anderson       		Mean: 99.26 		Best: 914.06 		N:9
+Santana        		Mean: 111.9 		Best: 914.25 		N:8
+Allen          		Mean: 294.73 		Best: 884.37 		N:3
+
+########## REPORT GEN: 159 ##########
+SPECIES: 
+Anderson       		Mean: 152.01 		Best: 949.9 		N:6
+Allen          		Mean: 150.24 		Best: 949.9 		N:6
+Hope           		Mean: 82.36 		Best: 949.9 		N:11
+Harris         		Mean: 114.08 		Best: 949.9 		N:8
+Smith          		Mean: 81.54 		Best: 927.77 		N:11
+Mcclain        		Mean: 224.76 		Best: 914.58 		N:4
+Davis          		Mean: 222.97 		Best: 914.25 		N:4
+Desrochers     		Mean: 298.3 		Best: 914.06 		N:3
+Tice           		Mean: 112.13 		Best: 914.06 		N:8
+Santana        		Mean: 449.41 		Best: 914.06 		N:2
+Wilson         		Mean: 179.68 		Best: 914.06 		N:5
+
+########## REPORT GEN: 160 ##########
+SPECIES: 
+Anderson       		Mean: 152.21 		Best: 949.9 		N:6
+Hope           		Mean: 101.17 		Best: 949.9 		N:9
+Santana        		Mean: 113.04 		Best: 949.9 		N:8
+Allen          		Mean: 130.49 		Best: 949.9 		N:7
+Wilson         		Mean: 129.59 		Best: 941.28 		N:7
+Tice           		Mean: 301.48 		Best: 914.58 		N:3
+Smith          		Mean: 449.7 		Best: 914.58 		N:2
+Desrochers     		Mean: 127.58 		Best: 914.58 		N:7
+Harris         		Mean: 113.35 		Best: 914.58 		N:8
+Mcclain        		Mean: 179.41 		Best: 914.25 		N:5
+Davis          		Mean: 127.21 		Best: 914.06 		N:7
+
+########## REPORT GEN: 161 ##########
+SPECIES: 
+Anderson       		Mean: 130.66 		Best: 949.9 		N:7
+Hope           		Mean: 465.16 		Best: 949.9 		N:2
+Wilson         		Mean: 154.06 		Best: 949.9 		N:6
+Tice           		Mean: 227.29 		Best: 949.9 		N:4
+Davis          		Mean: 129.41 		Best: 941.28 		N:7
+Harris         		Mean: 181.09 		Best: 914.58 		N:5
+Allen          		Mean: 63.97 		Best: 914.58 		N:14
+Smith          		Mean: 179.29 		Best: 914.41 		N:5
+Desrochers     		Mean: 224.45 		Best: 914.26 		N:4
+Santana        		Mean: 111.94 		Best: 914.25 		N:8
+Mcclain        		Mean: 298.04 		Best: 913.86 		N:3
+
+########## REPORT GEN: 162 ##########
+SPECIES: 
+Anderson       		Mean: 70.06 		Best: 949.9 		N:13
+Hope           		Mean: 312.24 		Best: 949.9 		N:3
+Harris         		Mean: 228.85 		Best: 949.9 		N:4
+Smith          		Mean: 69.27 		Best: 949.9 		N:13
+Desrochers     		Mean: 152.99 		Best: 949.9 		N:6
+Tice           		Mean: 90.33 		Best: 919.53 		N:10
+Wilson         		Mean: 224.84 		Best: 914.26 		N:4
+Allen          		Mean: 150.96 		Best: 914.09 		N:6
+Santana        		Mean: 180.4 		Best: 914.09 		N:5
+Davis          		Mean: 182.34 		Best: 914.25 		N:5
+Mcclain        		Mean: 299.79 		Best: 906.49 		N:3
+
+########## REPORT GEN: 163 ##########
+SPECIES: 
+Harris         		Mean: 151.57 		Best: 949.9 		N:6
+Smith          		Mean: 153.49 		Best: 949.9 		N:6
+Tice           		Mean: 229.08 		Best: 949.9 		N:4
+Allen          		Mean: 183.34 		Best: 949.9 		N:5
+Davis          		Mean: 130.49 		Best: 949.9 		N:7
+Mcclain        		Mean: 91.3 		Best: 949.9 		N:10
+Wilson         		Mean: 90.68 		Best: 941.28 		N:10
+Santana        		Mean: 64.67 		Best: 914.57 		N:14
+Anderson       		Mean: 113.39 		Best: 914.11 		N:8
+Desrochers     		Mean: 304.13 		Best: 914.06 		N:3
+Hope           		Mean: 150.74 		Best: 913.86 		N:6
+
+########## REPORT GEN: 164 ##########
+SPECIES: 
+Mcclain        		Mean: 112.94 		Best: 949.9 		N:8
+Wilson         		Mean: 60.76 		Best: 949.9 		N:15
+Santana        		Mean: 102.18 		Best: 949.9 		N:9
+Desrochers     		Mean: 101.27 		Best: 949.9 		N:9
+Smith          		Mean: 112.38 		Best: 925.55 		N:8
+Anderson       		Mean: 113.76 		Best: 925.55 		N:8
+Tice           		Mean: 181.61 		Best: 914.85 		N:5
+Davis          		Mean: 150.84 		Best: 914.58 		N:6
+Hope           		Mean: 151.15 		Best: 914.26 		N:6
+Harris         		Mean: 150.74 		Best: 913.86 		N:6
+
+########## REPORT GEN: 165 ##########
+SPECIES: 
+Smith          		Mean: 114.23 		Best: 949.9 		N:8
+Harris         		Mean: 154.05 		Best: 949.9 		N:6
+Anderson       		Mean: 308.87 		Best: 933.46 		N:3
+Wilson         		Mean: 151.75 		Best: 925.55 		N:6
+Tice           		Mean: 302.66 		Best: 920.15 		N:3
+Hope           		Mean: 128.3 		Best: 919.53 		N:7
+Mcclain        		Mean: 100.55 		Best: 914.57 		N:9
+Desrochers     		Mean: 227.02 		Best: 914.57 		N:4
+Santana        		Mean: 300.15 		Best: 914.06 		N:3
+Davis          		Mean: 113.35 		Best: 914.06 		N:8
+Allen          		Mean: 223.15 		Best: 914.06 		N:4
+
+########## REPORT GEN: 166 ##########
+SPECIES: 
+Wilson         		Mean: 101.4 		Best: 949.9 		N:9
+Hope           		Mean: 154.57 		Best: 949.9 		N:6
+Santana        		Mean: 182.73 		Best: 935.71 		N:5
+Smith          		Mean: 129.11 		Best: 933.46 		N:7
+Allen          		Mean: 83.02 		Best: 933.46 		N:11
+Davis          		Mean: 183.27 		Best: 920.15 		N:5
+Desrochers     		Mean: 128.32 		Best: 914.85 		N:7
+Anderson       		Mean: 112.6 		Best: 914.26 		N:8
+Mcclain        		Mean: 113.27 		Best: 914.26 		N:8
+Tice           		Mean: 225.18 		Best: 913.86 		N:4
+
+########## REPORT GEN: 167 ##########
+SPECIES: 
+Santana        		Mean: 91.65 		Best: 949.9 		N:10
+Smith          		Mean: 83.17 		Best: 949.9 		N:11
+Davis          		Mean: 91.85 		Best: 949.9 		N:10
+Wilson         		Mean: 65.03 		Best: 939.99 		N:14
+Mcclain        		Mean: 101.42 		Best: 935.71 		N:9
+Hope           		Mean: 182.7 		Best: 933.46 		N:5
+Desrochers     		Mean: 113.33 		Best: 933.46 		N:8
+Allen          		Mean: 152.58 		Best: 917.06 		N:6
+Anderson       		Mean: 224.71 		Best: 914.92 		N:4
+Tice           		Mean: 113.5 		Best: 914.85 		N:8
+
+########## REPORT GEN: 168 ##########
+SPECIES: 
+Santana        		Mean: 76.08 		Best: 949.9 		N:12
+Allen          		Mean: 114.56 		Best: 949.9 		N:8
+Anderson       		Mean: 101.83 		Best: 939.99 		N:9
+Davis          		Mean: 91.51 		Best: 935.71 		N:10
+Wilson         		Mean: 101.48 		Best: 926.48 		N:9
+Mcclain        		Mean: 181.67 		Best: 924.8 		N:5
+Desrochers     		Mean: 113.34 		Best: 924.37 		N:8
+Smith          		Mean: 100.87 		Best: 917.06 		N:9
+Tice           		Mean: 130.59 		Best: 915.22 		N:7
+Hope           		Mean: 149.91 		Best: 913.86 		N:6
+
+########## REPORT GEN: 169 ##########
+SPECIES: 
+Allen          		Mean: 101.93 		Best: 949.9 		N:9
+Mcclain        		Mean: 82.95 		Best: 949.9 		N:11
+Smith          		Mean: 76.21 		Best: 939.99 		N:12
+Desrochers     		Mean: 90.7 		Best: 935.71 		N:10
+Hope           		Mean: 82.55 		Best: 933.46 		N:11
+Wilson         		Mean: 129.59 		Best: 924.8 		N:7
+Davis          		Mean: 129.96 		Best: 917.06 		N:7
+Santana        		Mean: 100.12 		Best: 914.62 		N:9
+Anderson       		Mean: 113.64 		Best: 914.09 		N:8
+Tice           		Mean: 226.69 		Best: 913.86 		N:4
+
+########## REPORT GEN: 170 ##########
+SPECIES: 
+Allen          		Mean: 114.86 		Best: 949.9 		N:8
+Mcclain        		Mean: 83.12 		Best: 949.9 		N:11
+Davis          		Mean: 60.5 		Best: 949.9 		N:15
+Desrochers     		Mean: 130.41 		Best: 939.99 		N:7
+Tice           		Mean: 114.59 		Best: 935.71 		N:8
+Santana        		Mean: 229.36 		Best: 933.46 		N:4
+Anderson       		Mean: 130.54 		Best: 933.46 		N:7
+Hope           		Mean: 152.14 		Best: 917.06 		N:6
+Wilson         		Mean: 90.9 		Best: 917.06 		N:10
+Smith          		Mean: 114.12 		Best: 914.58 		N:8
+
+########## REPORT GEN: 171 ##########
+SPECIES: 
+Davis          		Mean: 101.93 		Best: 949.9 		N:9
+Hope           		Mean: 130.41 		Best: 949.9 		N:7
+Smith          		Mean: 114.79 		Best: 949.9 		N:8
+Anderson       		Mean: 91.66 		Best: 939.99 		N:10
+Santana        		Mean: 76.15 		Best: 935.71 		N:12
+Allen          		Mean: 101.51 		Best: 933.46 		N:9
+Tice           		Mean: 182.8 		Best: 917.06 		N:5
+Wilson         		Mean: 75.75 		Best: 916.98 		N:12
+Mcclain        		Mean: 113.94 		Best: 912.87 		N:8
+Desrochers     		Mean: 130.28 		Best: 912.68 		N:7
+
+########## REPORT GEN: 172 ##########
+SPECIES: 
+Davis          		Mean: 91.6 		Best: 949.9 		N:10
+Hope           		Mean: 101.62 		Best: 949.9 		N:9
+Smith          		Mean: 91.61 		Best: 949.9 		N:10
+Tice           		Mean: 83.09 		Best: 939.99 		N:11
+Desrochers     		Mean: 75.99 		Best: 935.71 		N:12
+Allen          		Mean: 130.75 		Best: 933.46 		N:7
+Wilson         		Mean: 101.35 		Best: 917.06 		N:9
+Mcclain        		Mean: 114.27 		Best: 917.06 		N:8
+Santana        		Mean: 151.49 		Best: 914.29 		N:6
+Anderson       		Mean: 113.88 		Best: 912.68 		N:8
+
+########## REPORT GEN: 173 ##########
+SPECIES: 
+Tice           		Mean: 57.05 		Best: 949.9 		N:16
+Wilson         		Mean: 101.62 		Best: 949.9 		N:9
+Mcclain        		Mean: 131.14 		Best: 949.9 		N:7
+Smith          		Mean: 114.39 		Best: 949.9 		N:8
+Allen          		Mean: 91.38 		Best: 939.99 		N:10
+Hope           		Mean: 101.24 		Best: 933.46 		N:9
+Desrochers     		Mean: 75.76 		Best: 933.46 		N:12
+Santana        		Mean: 152.12 		Best: 916.98 		N:6
+Davis          		Mean: 151.96 		Best: 914.58 		N:6
+Anderson       		Mean: 100.81 		Best: 914.58 		N:9
+
+########## REPORT GEN: 174 ##########
+SPECIES: 
+Mcclain        		Mean: 83.45 		Best: 949.9 		N:11
+Desrochers     		Mean: 75.97 		Best: 949.9 		N:12
+Davis          		Mean: 65.44 		Best: 949.9 		N:14
+Smith          		Mean: 91.31 		Best: 949.9 		N:10
+Anderson       		Mean: 101.55 		Best: 949.9 		N:9
+Allen          		Mean: 82.92 		Best: 939.99 		N:11
+Hope           		Mean: 183.13 		Best: 933.46 		N:5
+Tice           		Mean: 56.79 		Best: 917.03 		N:16
+Santana        		Mean: 303.14 		Best: 912.52 		N:3
+Wilson         		Mean: 130.0 		Best: 911.45 		N:7
+
+########## REPORT GEN: 175 ##########
+SPECIES: 
+Mcclain        		Mean: 91.64 		Best: 949.9 		N:10
+Desrochers     		Mean: 307.97 		Best: 949.9 		N:3
+Davis          		Mean: 76.19 		Best: 949.9 		N:12
+Anderson       		Mean: 153.09 		Best: 949.9 		N:6
+Hope           		Mean: 183.13 		Best: 949.9 		N:5
+Allen          		Mean: 101.89 		Best: 939.99 		N:9
+Tice           		Mean: 82.99 		Best: 933.46 		N:11
+Santana        		Mean: 129.95 		Best: 914.58 		N:7
+Smith          		Mean: 182.18 		Best: 914.06 		N:5
+Wilson         		Mean: 101.23 		Best: 913.32 		N:9
+
+########## REPORT GEN: 176 ##########
+SPECIES: 
+Desrochers     		Mean: 101.66 		Best: 949.9 		N:9
+Davis          		Mean: 130.73 		Best: 949.9 		N:7
+Santana        		Mean: 102.02 		Best: 949.9 		N:9
+Wilson         		Mean: 76.11 		Best: 949.9 		N:12
+Anderson       		Mean: 91.82 		Best: 949.9 		N:10
+Allen          		Mean: 130.3 		Best: 933.46 		N:7
+Hope           		Mean: 151.44 		Best: 914.58 		N:6
+Smith          		Mean: 151.21 		Best: 914.58 		N:6
+Tice           		Mean: 181.42 		Best: 912.52 		N:5
+Mcclain        		Mean: 151.27 		Best: 910.03 		N:6
+
+########## REPORT GEN: 177 ##########
+SPECIES: 
+Smith          		Mean: 114.2 		Best: 949.9 		N:8
+Mcclain        		Mean: 70.44 		Best: 949.9 		N:13
+Wilson         		Mean: 60.96 		Best: 949.9 		N:15
+Davis          		Mean: 153.71 		Best: 949.9 		N:6
+Tice           		Mean: 153.21 		Best: 933.46 		N:6
+Allen          		Mean: 64.84 		Best: 914.58 		N:14
+Santana        		Mean: 100.91 		Best: 914.58 		N:9
+Hope           		Mean: 113.11 		Best: 914.08 		N:8
+Anderson       		Mean: 226.71 		Best: 908.19 		N:4
+Desrochers     		Mean: 100.44 		Best: 907.95 		N:9
+
+########## REPORT GEN: 178 ##########
+SPECIES: 
+Wilson         		Mean: 152.85 		Best: 949.9 		N:6
+Anderson       		Mean: 82.26 		Best: 949.9 		N:11
+Smith          		Mean: 70.48 		Best: 949.9 		N:13
+Allen          		Mean: 83.03 		Best: 949.9 		N:11
+Hope           		Mean: 152.11 		Best: 932.7 		N:6
+Mcclain        		Mean: 113.26 		Best: 914.58 		N:8
+Davis          		Mean: 227.25 		Best: 910.49 		N:4
+Tice           		Mean: 90.3 		Best: 908.58 		N:10
+Santana        		Mean: 90.5 		Best: 908.58 		N:10
+Desrochers     		Mean: 113.18 		Best: 908.53 		N:8
+
+########## REPORT GEN: 179 ##########
+SPECIES: 
+Wilson         		Mean: 69.95 		Best: 949.9 		N:13
+Hope           		Mean: 113.39 		Best: 949.9 		N:8
+Santana        		Mean: 114.8 		Best: 949.9 		N:8
+Desrochers     		Mean: 130.53 		Best: 949.9 		N:7
+Allen          		Mean: 150.61 		Best: 929.61 		N:6
+Anderson       		Mean: 90.81 		Best: 920.89 		N:10
+Smith          		Mean: 90.7 		Best: 914.58 		N:10
+Tice           		Mean: 100.52 		Best: 908.58 		N:9
+Mcclain        		Mean: 90.43 		Best: 907.95 		N:10
+Davis          		Mean: 225.85 		Best: 906.22 		N:4
+
+########## REPORT GEN: 180 ##########
+SPECIES: 
+Wilson         		Mean: 90.75 		Best: 949.9 		N:10
+Hope           		Mean: 82.22 		Best: 949.9 		N:11
+Santana        		Mean: 82.78 		Best: 949.9 		N:11
+Davis          		Mean: 101.36 		Best: 949.9 		N:9
+Allen          		Mean: 82.79 		Best: 949.9 		N:11
+Desrochers     		Mean: 460.76 		Best: 931.65 		N:2
+Anderson       		Mean: 182.45 		Best: 920.89 		N:5
+Tice           		Mean: 101.16 		Best: 920.89 		N:9
+Smith          		Mean: 82.01 		Best: 907.95 		N:11
+Mcclain        		Mean: 149.11 		Best: 903.51 		N:6
+
+########## REPORT GEN: 181 ##########
+SPECIES: 
+Wilson         		Mean: 101.43 		Best: 949.9 		N:9
+Hope           		Mean: 60.2 		Best: 949.9 		N:15
+Allen          		Mean: 153.16 		Best: 949.9 		N:6
+Desrochers     		Mean: 182.15 		Best: 949.9 		N:5
+Mcclain        		Mean: 113.4 		Best: 949.9 		N:8
+Davis          		Mean: 226.94 		Best: 920.89 		N:4
+Anderson       		Mean: 151.81 		Best: 920.89 		N:6
+Tice           		Mean: 226.58 		Best: 920.68 		N:4
+Santana        		Mean: 150.18 		Best: 911.23 		N:6
+
+########## REPORT GEN: 182 ##########
+SPECIES: 
+Hope           		Mean: 229.79 		Best: 949.9 		N:4
+Santana        		Mean: 91.52 		Best: 949.9 		N:10
+Allen          		Mean: 184.6 		Best: 949.9 		N:5
+Anderson       		Mean: 184.26 		Best: 949.9 		N:5
+Desrochers     		Mean: 183.11 		Best: 931.65 		N:5
+Tice           		Mean: 150.04 		Best: 927.17 		N:6
+Davis          		Mean: 227.81 		Best: 920.89 		N:4
+Wilson         		Mean: 100.43 		Best: 919.28 		N:9
+Mcclain        		Mean: 128.09 		Best: 908.58 		N:7
+Smith          		Mean: 298.44 		Best: 903.23 		N:3
+
+########## REPORT GEN: 183 ##########
+SPECIES: 
+Santana        		Mean: 152.97 		Best: 949.9 		N:6
+Allen          		Mean: 152.32 		Best: 949.9 		N:6
+Anderson       		Mean: 100.55 		Best: 949.9 		N:9
+Tice           		Mean: 69.88 		Best: 949.9 		N:13
+Davis          		Mean: 131.05 		Best: 949.9 		N:7
+Desrochers     		Mean: 151.52 		Best: 931.65 		N:6
+Smith          		Mean: 90.02 		Best: 931.65 		N:10
+Hope           		Mean: 82.2 		Best: 914.58 		N:11
+Wilson         		Mean: 223.39 		Best: 907.95 		N:4
+Mcclain        		Mean: 128.18 		Best: 903.26 		N:7
+
+########## REPORT GEN: 184 ##########
+SPECIES: 
+Santana        		Mean: 152.71 		Best: 949.9 		N:6
+Tice           		Mean: 91.59 		Best: 949.9 		N:10
+Smith          		Mean: 64.56 		Best: 949.9 		N:14
+Allen          		Mean: 69.76 		Best: 949.9 		N:13
+Davis          		Mean: 114.39 		Best: 949.9 		N:8
+Desrochers     		Mean: 150.6 		Best: 931.65 		N:6
+Hope           		Mean: 81.94 		Best: 931.65 		N:11
+Mcclain        		Mean: 100.13 		Best: 929.92 		N:9
+Wilson         		Mean: 180.0 		Best: 910.78 		N:5
+Anderson       		Mean: 179.56 		Best: 903.23 		N:5
+
+########## REPORT GEN: 185 ##########
+SPECIES: 
+Santana        		Mean: 230.29 		Best: 949.9 		N:4
+Smith          		Mean: 75.29 		Best: 949.9 		N:12
+Mcclain        		Mean: 128.89 		Best: 949.9 		N:7
+Tice           		Mean: 75.4 		Best: 949.9 		N:12
+Allen          		Mean: 82.16 		Best: 949.9 		N:11
+Davis          		Mean: 130.5 		Best: 949.9 		N:7
+Anderson       		Mean: 113.33 		Best: 931.65 		N:8
+Hope           		Mean: 99.98 		Best: 914.21 		N:9
+Desrochers     		Mean: 112.33 		Best: 910.78 		N:8
+Wilson         		Mean: 100.13 		Best: 907.95 		N:9
+
+########## REPORT GEN: 186 ##########
+SPECIES: 
+Smith          		Mean: 90.9 		Best: 949.9 		N:10
+Hope           		Mean: 102.28 		Best: 949.9 		N:9
+Anderson       		Mean: 151.22 		Best: 948.74 		N:6
+Davis          		Mean: 150.27 		Best: 931.65 		N:6
+Allen          		Mean: 56.23 		Best: 931.59 		N:16
+Tice           		Mean: 100.71 		Best: 929.92 		N:9
+Wilson         		Mean: 128.59 		Best: 910.78 		N:7
+Mcclain        		Mean: 128.44 		Best: 907.47 		N:7
+Desrochers     		Mean: 128.32 		Best: 906.84 		N:7
+Santana        		Mean: 148.61 		Best: 901.52 		N:6
+
+########## REPORT GEN: 187 ##########
+SPECIES: 
+Hope           		Mean: 75.45 		Best: 949.9 		N:12
+Desrochers     		Mean: 82.05 		Best: 949.9 		N:11
+Smith          		Mean: 75.43 		Best: 948.74 		N:12
+Tice           		Mean: 100.17 		Best: 931.65 		N:9
+Anderson       		Mean: 90.52 		Best: 931.59 		N:10
+Santana        		Mean: 128.4 		Best: 929.92 		N:7
+Davis          		Mean: 75.15 		Best: 928.22 		N:12
+Wilson         		Mean: 99.77 		Best: 910.78 		N:9
+Mcclain        		Mean: 99.85 		Best: 902.95 		N:9
+Allen          		Mean: 148.89 		Best: 899.0 		N:6
+
+########## REPORT GEN: 188 ##########
+SPECIES: 
+Allen          		Mean: 100.32 		Best: 949.9 		N:9
+Smith          		Mean: 100.49 		Best: 948.74 		N:9
+Desrochers     		Mean: 75.24 		Best: 942.57 		N:12
+Hope           		Mean: 81.84 		Best: 929.92 		N:11
+Mcclain        		Mean: 112.52 		Best: 929.92 		N:8
+Wilson         		Mean: 81.58 		Best: 910.78 		N:11
+Anderson       		Mean: 81.21 		Best: 908.61 		N:11
+Santana        		Mean: 81.41 		Best: 906.53 		N:11
+Davis          		Mean: 149.44 		Best: 903.27 		N:6
+Tice           		Mean: 177.66 		Best: 894.87 		N:5
+
+########## REPORT GEN: 189 ##########
+SPECIES: 
+Santana        		Mean: 128.7 		Best: 949.9 		N:7
+Wilson         		Mean: 100.38 		Best: 948.74 		N:9
+Allen          		Mean: 112.17 		Best: 942.57 		N:8
+Smith          		Mean: 150.73 		Best: 929.92 		N:6
+Mcclain        		Mean: 74.53 		Best: 914.56 		N:12
+Tice           		Mean: 98.81 		Best: 908.61 		N:9
+Hope           		Mean: 111.77 		Best: 902.59 		N:8
+Davis          		Mean: 99.1 		Best: 902.59 		N:9
+Desrochers     		Mean: 111.23 		Best: 902.43 		N:8
+Anderson       		Mean: 99.06 		Best: 901.55 		N:9
+
+########## REPORT GEN: 190 ##########
+SPECIES: 
+Tice           		Mean: 82.29 		Best: 949.9 		N:11
+Wilson         		Mean: 74.95 		Best: 948.74 		N:12
+Smith          		Mean: 99.21 		Best: 929.92 		N:9
+Desrochers     		Mean: 89.52 		Best: 917.49 		N:10
+Allen          		Mean: 111.46 		Best: 910.78 		N:8
+Santana        		Mean: 99.62 		Best: 908.77 		N:9
+Mcclain        		Mean: 89.43 		Best: 908.61 		N:10
+Davis          		Mean: 149.15 		Best: 906.54 		N:6
+Anderson       		Mean: 98.93 		Best: 903.18 		N:9
+Hope           		Mean: 74.12 		Best: 901.52 		N:12
+
+########## REPORT GEN: 191 ##########
+SPECIES: 
+Tice           		Mean: 68.89 		Best: 949.9 		N:13
+Santana        		Mean: 64.08 		Best: 948.74 		N:14
+Davis          		Mean: 89.33 		Best: 917.49 		N:10
+Allen          		Mean: 89.14 		Best: 910.78 		N:10
+Wilson         		Mean: 99.45 		Best: 908.77 		N:9
+Hope           		Mean: 222.73 		Best: 908.61 		N:4
+Anderson       		Mean: 89.1 		Best: 903.86 		N:10
+Smith          		Mean: 126.97 		Best: 903.18 		N:7
+Mcclain        		Mean: 127.98 		Best: 903.18 		N:7
+Desrochers     		Mean: 99.14 		Best: 902.59 		N:9
+
+########## REPORT GEN: 192 ##########
+SPECIES: 
+Santana        		Mean: 68.79 		Best: 949.9 		N:13
+Anderson       		Mean: 112.3 		Best: 948.74 		N:8
+Desrochers     		Mean: 223.34 		Best: 917.49 		N:4
+Wilson         		Mean: 81.29 		Best: 914.39 		N:11
+Tice           		Mean: 69.32 		Best: 910.78 		N:13
+Allen          		Mean: 81.33 		Best: 908.61 		N:11
+Davis          		Mean: 98.84 		Best: 905.36 		N:9
+Mcclain        		Mean: 126.98 		Best: 904.18 		N:7
+Hope           		Mean: 177.85 		Best: 902.55 		N:5
+Smith          		Mean: 221.41 		Best: 886.84 		N:4
+
+########## REPORT GEN: 193 ##########
+SPECIES: 
+Desrochers     		Mean: 150.93 		Best: 949.9 		N:6
+Smith          		Mean: 150.01 		Best: 949.9 		N:6
+Anderson       		Mean: 112.77 		Best: 948.74 		N:8
+Allen          		Mean: 111.5 		Best: 917.49 		N:8
+Hope           		Mean: 99.41 		Best: 914.39 		N:9
+Santana        		Mean: 111.41 		Best: 908.61 		N:8
+Davis          		Mean: 68.71 		Best: 908.61 		N:13
+Mcclain        		Mean: 127.8 		Best: 906.6 		N:7
+Tice           		Mean: 148.25 		Best: 900.75 		N:6
+Wilson         		Mean: 147.45 		Best: 886.84 		N:6
+
+########## REPORT GEN: 194 ##########
+SPECIES: 
+Hope           		Mean: 90.18 		Best: 949.9 		N:10
+Tice           		Mean: 74.27 		Best: 949.9 		N:12
+Santana        		Mean: 63.91 		Best: 941.53 		N:14
+Anderson       		Mean: 127.88 		Best: 917.49 		N:7
+Desrochers     		Mean: 55.68 		Best: 917.01 		N:16
+Mcclain        		Mean: 99.4 		Best: 917.01 		N:9
+Wilson         		Mean: 98.93 		Best: 917.01 		N:9
+Smith          		Mean: 99.42 		Best: 910.85 		N:9
+Allen          		Mean: 111.45 		Best: 908.61 		N:8
+Davis          		Mean: 177.68 		Best: 903.18 		N:5
+
+########## REPORT GEN: 195 ##########
+SPECIES: 
+Desrochers     		Mean: 180.54 		Best: 949.9 		N:5
+Davis          		Mean: 99.77 		Best: 949.9 		N:9
+Smith          		Mean: 89.99 		Best: 941.53 		N:10
+Mcclain        		Mean: 68.71 		Best: 923.78 		N:13
+Hope           		Mean: 127.83 		Best: 917.01 		N:7
+Tice           		Mean: 90.02 		Best: 917.01 		N:10
+Wilson         		Mean: 81.2 		Best: 910.85 		N:11
+Santana        		Mean: 150.31 		Best: 908.61 		N:6
+Anderson       		Mean: 88.92 		Best: 908.31 		N:10
+Allen          		Mean: 88.43 		Best: 885.86 		N:10
+
+########## REPORT GEN: 196 ##########
+SPECIES: 
+Davis          		Mean: 111.77 		Best: 949.98 		N:8
+Smith          		Mean: 82.48 		Best: 949.9 		N:11
+Mcclain        		Mean: 64.14 		Best: 949.9 		N:14
+Santana        		Mean: 99.23 		Best: 923.78 		N:9
+Hope           		Mean: 99.17 		Best: 917.01 		N:9
+Anderson       		Mean: 89.27 		Best: 910.85 		N:10
+Wilson         		Mean: 127.65 		Best: 906.97 		N:7
+Allen          		Mean: 127.59 		Best: 906.2 		N:7
+Desrochers     		Mean: 147.75 		Best: 898.08 		N:6
+Tice           		Mean: 110.7 		Best: 897.84 		N:8
+
+########## REPORT GEN: 197 ##########
+SPECIES: 
+Davis          		Mean: 90.07 		Best: 949.98 		N:10
+Mcclain        		Mean: 81.64 		Best: 949.9 		N:11
+Santana        		Mean: 99.48 		Best: 949.9 		N:9
+Allen          		Mean: 59.64 		Best: 949.9 		N:15
+Tice           		Mean: 99.56 		Best: 941.53 		N:9
+Hope           		Mean: 74.34 		Best: 911.33 		N:12
+Desrochers     		Mean: 126.82 		Best: 909.45 		N:7
+Smith          		Mean: 74.0 		Best: 906.2 		N:12
+Wilson         		Mean: 299.03 		Best: 903.63 		N:3
+Anderson       		Mean: 111.38 		Best: 903.18 		N:8
+
+########## REPORT GEN: 198 ##########
+SPECIES: 
+Hope           		Mean: 179.62 		Best: 949.98 		N:5
+Wilson         		Mean: 101.44 		Best: 949.9 		N:9
+Anderson       		Mean: 89.96 		Best: 949.9 		N:10
+Tice           		Mean: 68.69 		Best: 921.88 		N:13
+Davis          		Mean: 178.8 		Best: 911.33 		N:5
+Santana        		Mean: 111.78 		Best: 908.31 		N:8
+Allen          		Mean: 127.91 		Best: 908.31 		N:7
+Smith          		Mean: 110.86 		Best: 906.2 		N:8
+Desrochers     		Mean: 98.8 		Best: 903.18 		N:9
+Mcclain        		Mean: 442.66 		Best: 886.84 		N:2
+
+########## REPORT GEN: 199 ##########
+SPECIES: 
+Anderson       		Mean: 150.52 		Best: 949.98 		N:6
+Hope           		Mean: 111.91 		Best: 949.9 		N:8
+Desrochers     		Mean: 81.57 		Best: 949.9 		N:11
+Smith          		Mean: 112.22 		Best: 940.01 		N:8
+Davis          		Mean: 223.35 		Best: 921.88 		N:4
+Tice           		Mean: 225.6 		Best: 911.33 		N:4
+Wilson         		Mean: 111.9 		Best: 908.31 		N:8
+Mcclain        		Mean: 89.47 		Best: 908.31 		N:10
+Santana        		Mean: 223.43 		Best: 903.75 		N:4
+Allen          		Mean: 126.44 		Best: 892.94 		N:7
+
+########## REPORT GEN: 200 ##########
+SPECIES: 
+Desrochers     		Mean: 113.3 		Best: 949.98 		N:8
+Allen          		Mean: 114.15 		Best: 949.9 		N:8
+Tice           		Mean: 128.45 		Best: 940.01 		N:7
+Hope           		Mean: 112.13 		Best: 921.88 		N:8
+Smith          		Mean: 99.86 		Best: 921.88 		N:9
+Davis          		Mean: 226.22 		Best: 921.88 		N:4
+Wilson         		Mean: 89.57 		Best: 909.22 		N:10
+Anderson       		Mean: 127.96 		Best: 908.31 		N:7
+Santana        		Mean: 149.61 		Best: 906.79 		N:6
+Mcclain        		Mean: 110.98 		Best: 906.31 		N:8
+

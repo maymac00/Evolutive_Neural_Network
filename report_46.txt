@@ -1,0 +1,361 @@
+########## REPORT GEN: 2 ##########
+SPECIES: 
+Loomis         		Mean: 8.47 		Best: 53.0 		N:4
+Vargas         		Mean: 3.4  		Best: 42.5 		N:5
+Evans          		Mean: 3.39 		Best: 41.25 		N:6
+Goudeau        		Mean: 3.32 		Best: 39.75 		N:5
+Easter         		Mean: 3.26 		Best: 39.22 		N:6
+Brewer         		Mean: 2.46 		Best: 32.55 		N:7
+Pinkett        		Mean: 10.55 		Best: 31.43 		N:2
+Carson         		Mean: 2.34 		Best: 29.5 		N:6
+Johnson        		Mean: 1.85 		Best: 11.5 		N:6
+Jones          		Mean: 5.43 		Best: 11.5 		N:2
+Toler          		Mean: 2.06 		Best: 11.0 		N:5
+Lee            		Mean: 5.33 		Best: 10.75 		N:2
+Fagundes       		Mean: 2.55 		Best: 10.25 		N:4
+Nicolas        		Mean: 4.95 		Best: 10.25 		N:2
+Shelman        		Mean: 5.16 		Best: 10.25 		N:2
+Stone          		Mean: 4.62 		Best: 9.5 		N:2
+
+########## REPORT GEN: 3 ##########
+SPECIES: 
+Beddo          		Mean: 7.82 		Best: 46.71 		N:3
+Toler          		Mean: 6.4  		Best: 39.73 		N:4
+Goudeau        		Mean: 4.75 		Best: 36.15 		N:6
+Elmore         		Mean: 11.75 		Best: 36.11 		N:2
+Johnson        		Mean: 6.37 		Best: 35.5 		N:3
+Brewer         		Mean: 2.86 		Best: 29.67 		N:5
+Evans          		Mean: 5.33 		Best: 27.02 		N:3
+Stone          		Mean: 5.38 		Best: 26.95 		N:3
+Ross           		Mean: 3.51 		Best: 11.25 		N:3
+Dalton         		Mean: 5.33 		Best: 11.25 		N:2
+Loomis         		Mean: 2.53 		Best: 11.0 		N:4
+Fagundes       		Mean: 3.49 		Best: 10.75 		N:3
+Nicolas        		Mean: 2.54 		Best: 10.75 		N:4
+Easter         		Mean: 3.35 		Best: 10.5 		N:3
+Jones          		Mean: 5.18 		Best: 10.5 		N:2
+Lee            		Mean: 2.44 		Best: 10.5 		N:4
+Shelman        		Mean: 5.07 		Best: 10.5 		N:2
+Johnson        		Mean: 5.23 		Best: 10.25 		N:2
+
+########## REPORT GEN: 4 ##########
+SPECIES: 
+Evans          		Mean: 4.79 		Best: 44.0 		N:4
+Dalton         		Mean: 4.17 		Best: 43.75 		N:5
+Brewer         		Mean: 3.28 		Best: 38.5 		N:5
+Carson         		Mean: 6.52 		Best: 38.0 		N:3
+Vargas         		Mean: 12.19 		Best: 37.14 		N:2
+Beddo          		Mean: 2.53 		Best: 35.66 		N:6
+Jones          		Mean: 4.32 		Best: 34.71 		N:4
+Goudeau        		Mean: 3.09 		Best: 33.01 		N:5
+Johnson        		Mean: 5.31 		Best: 32.71 		N:4
+Loomis         		Mean: 4.08 		Best: 32.06 		N:4
+Easter         		Mean: 2.76 		Best: 29.49 		N:5
+Pinkett        		Mean: 3.77 		Best: 25.86 		N:4
+Ross           		Mean: 5.18 		Best: 24.22 		N:3
+Lee            		Mean: 5.02 		Best: 11.25 		N:2
+Stone          		Mean: 3.46 		Best: 10.75 		N:3
+Nicolas        		Mean: 5.12 		Best: 10.25 		N:2
+Groys          		Mean: 5.04 		Best: 10.0 		N:2
+
+########## REPORT GEN: 5 ##########
+SPECIES: 
+Evans          		Mean: 7.25 		Best: 44.25 		N:4
+Brewer         		Mean: 3.83 		Best: 40.52 		N:6
+Beddo          		Mean: 12.65 		Best: 39.29 		N:2
+Carson         		Mean: 3.91 		Best: 38.47 		N:6
+Loomis         		Mean: 11.97 		Best: 36.0 		N:2
+Johnson        		Mean: 6.1  		Best: 33.88 		N:3
+Vargas         		Mean: 2.88 		Best: 32.11 		N:5
+Dalton         		Mean: 2.95 		Best: 31.07 		N:6
+Groys          		Mean: 9.26 		Best: 26.57 		N:2
+Elmore         		Mean: 2.21 		Best: 25.33 		N:6
+Nicolas        		Mean: 2.62 		Best: 11.25 		N:4
+Fagundes       		Mean: 2.55 		Best: 11.0 		N:4
+Goudeau        		Mean: 4.88 		Best: 10.75 		N:2
+Lee            		Mean: 5.19 		Best: 10.5 		N:2
+Ross           		Mean: 2.51 		Best: 10.0 		N:4
+Pinkett        		Mean: 4.78 		Best: 9.75 		N:2
+
+########## REPORT GEN: 6 ##########
+SPECIES: 
+Vargas         		Mean: 2.29 		Best: 45.5 		N:9
+Goudeau        		Mean: 3.42 		Best: 44.5 		N:7
+Fagundes       		Mean: 21.38 		Best: 44.25 		N:2
+Easter         		Mean: 10.18 		Best: 44.0 		N:3
+Pinkett        		Mean: 8.95 		Best: 37.99 		N:3
+Dalton         		Mean: 10.68 		Best: 33.08 		N:2
+Shelman        		Mean: 4.07 		Best: 33.03 		N:4
+Evans          		Mean: 4.19 		Best: 33.0 		N:4
+Elmore         		Mean: 3.8  		Best: 12.0 		N:3
+Nicolas        		Mean: 5.58 		Best: 11.75 		N:2
+Lee            		Mean: 2.0  		Best: 11.75 		N:5
+Ross           		Mean: 3.49 		Best: 11.25 		N:3
+Stone          		Mean: 3.5  		Best: 11.0 		N:3
+Brewer         		Mean: 1.71 		Best: 10.75 		N:6
+Loomis         		Mean: 5.16 		Best: 10.75 		N:2
+
+########## REPORT GEN: 7 ##########
+SPECIES: 
+Fagundes       		Mean: 12.88 		Best: 45.0 		N:3
+Dalton         		Mean: 3.88 		Best: 43.69 		N:6
+Johnson        		Mean: 9.94 		Best: 40.25 		N:3
+Brewer         		Mean: 6.65 		Best: 39.0 		N:3
+Loomis         		Mean: 9.0  		Best: 38.2 		N:3
+Groys          		Mean: 5.17 		Best: 37.54 		N:4
+Pinkett        		Mean: 5.39 		Best: 35.36 		N:4
+Vargas         		Mean: 6.39 		Best: 35.16 		N:3
+Evans          		Mean: 4.18 		Best: 35.03 		N:4
+Goudeau        		Mean: 8.57 		Best: 33.64 		N:3
+Easter         		Mean: 5.91 		Best: 33.21 		N:3
+Shelman        		Mean: 4.92 		Best: 32.5 		N:4
+Nicolas        		Mean: 2.54 		Best: 11.5 		N:4
+Lee            		Mean: 5.34 		Best: 11.0 		N:2
+
+########## REPORT GEN: 8 ##########
+SPECIES: 
+Ross           		Mean: 13.95 		Best: 51.5 		N:3
+Nicolas        		Mean: 10.03 		Best: 48.0 		N:3
+Goudeau        		Mean: 7.37 		Best: 45.0 		N:3
+Groys          		Mean: 9.05 		Best: 44.07 		N:3
+Dalton         		Mean: 8.57 		Best: 40.6 		N:3
+Lee            		Mean: 12.71 		Best: 40.4 		N:2
+Easter         		Mean: 3.65 		Best: 40.01 		N:5
+Brewer         		Mean: 3.24 		Best: 39.31 		N:6
+Shelman        		Mean: 17.58 		Best: 37.26 		N:2
+Elmore         		Mean: 6.41 		Best: 35.59 		N:3
+Beddo          		Mean: 3.05 		Best: 34.2 		N:6
+Fagundes       		Mean: 2.97 		Best: 32.9 		N:6
+Vargas         		Mean: 5.77 		Best: 29.55 		N:3
+Loomis         		Mean: 5.77 		Best: 29.26 		N:3
+Stone          		Mean: 5.01 		Best: 10.25 		N:2
+
+########## REPORT GEN: 9 ##########
+SPECIES: 
+Ross           		Mean: 11.62 		Best: 52.5 		N:3
+Lee            		Mean: 4.68 		Best: 49.75 		N:6
+Fagundes       		Mean: 5.43 		Best: 49.66 		N:5
+Vargas         		Mean: 8.62 		Best: 48.92 		N:4
+Goudeau        		Mean: 10.62 		Best: 47.25 		N:3
+Easter         		Mean: 6.94 		Best: 46.75 		N:5
+Loomis         		Mean: 19.43 		Best: 46.0 		N:2
+Shelman        		Mean: 5.23 		Best: 41.25 		N:6
+Beddo          		Mean: 6.31 		Best: 40.47 		N:4
+Brewer         		Mean: 12.17 		Best: 38.54 		N:2
+Dalton         		Mean: 4.95 		Best: 36.96 		N:5
+Johnson        		Mean: 4.24 		Best: 34.84 		N:4
+Stone          		Mean: 4.24 		Best: 34.68 		N:4
+Elmore         		Mean: 6.91 		Best: 33.26 		N:3
+Groys          		Mean: 11.3 		Best: 32.62 		N:2
+
+########## REPORT GEN: 10 ##########
+SPECIES: 
+Groys          		Mean: 3.41 		Best: 46.45 		N:6
+Nicolas        		Mean: 6.93 		Best: 46.25 		N:5
+Lee            		Mean: 12.29 		Best: 46.0 		N:3
+Elmore         		Mean: 6.33 		Best: 45.25 		N:4
+Brewer         		Mean: 7.58 		Best: 42.63 		N:4
+Shelman        		Mean: 4.32 		Best: 42.0 		N:6
+Goudeau        		Mean: 11.46 		Best: 41.5 		N:3
+Dalton         		Mean: 19.24 		Best: 41.2 		N:2
+Vargas         		Mean: 5.21 		Best: 41.18 		N:5
+Easter         		Mean: 12.81 		Best: 40.6 		N:2
+Johnson        		Mean: 4.81 		Best: 36.87 		N:4
+Ross           		Mean: 4.39 		Best: 36.75 		N:6
+Stone          		Mean: 8.69 		Best: 36.32 		N:3
+Loomis         		Mean: 3.41 		Best: 34.0 		N:6
+Bell           		Mean: 10.57 		Best: 31.46 		N:2
+
+########## REPORT GEN: 11 ##########
+SPECIES: 
+Ross           		Mean: 11.06 		Best: 47.75 		N:3
+Vargas         		Mean: 9.02 		Best: 47.49 		N:4
+Nicolas        		Mean: 7.62 		Best: 47.05 		N:5
+Shelman        		Mean: 5.05 		Best: 45.5 		N:4
+Fagundes       		Mean: 9.76 		Best: 45.5 		N:3
+Groys          		Mean: 3.41 		Best: 41.8 		N:7
+Bell           		Mean: 9.28 		Best: 41.75 		N:4
+Dalton         		Mean: 3.11 		Best: 40.14 		N:8
+Johnson        		Mean: 4.19 		Best: 39.5 		N:6
+Elmore         		Mean: 9.85 		Best: 39.25 		N:3
+Goudeau        		Mean: 3.67 		Best: 37.2 		N:8
+Loomis         		Mean: 6.45 		Best: 36.41 		N:3
+Easter         		Mean: 7.44 		Best: 29.35 		N:3
+
+########## REPORT GEN: 12 ##########
+SPECIES: 
+Loomis         		Mean: 5.75 		Best: 48.5 		N:6
+Johnson        		Mean: 11.65 		Best: 46.5 		N:3
+Brewer         		Mean: 7.53 		Best: 46.3 		N:4
+Ross           		Mean: 5.92 		Best: 46.25 		N:6
+Easter         		Mean: 4.35 		Best: 42.55 		N:6
+Fagundes       		Mean: 18.54 		Best: 40.25 		N:2
+Bell           		Mean: 2.54 		Best: 39.25 		N:7
+Stone          		Mean: 3.03 		Best: 36.5 		N:5
+Nicolas        		Mean: 2.34 		Best: 35.08 		N:9
+Shelman        		Mean: 9.74 		Best: 33.43 		N:3
+Groys          		Mean: 6.0  		Best: 32.59 		N:3
+Dalton         		Mean: 4.97 		Best: 31.37 		N:4
+Elmore         		Mean: 6.04 		Best: 29.89 		N:4
+Goudeau        		Mean: 4.99 		Best: 10.25 		N:2
+
+########## REPORT GEN: 13 ##########
+SPECIES: 
+Dalton         		Mean: 4.67 		Best: 56.5 		N:6
+Bell           		Mean: 19.51 		Best: 47.75 		N:2
+Goudeau        		Mean: 5.33 		Best: 45.05 		N:6
+Ross           		Mean: 2.87 		Best: 44.41 		N:8
+Elmore         		Mean: 8.24 		Best: 42.25 		N:4
+Fagundes       		Mean: 3.92 		Best: 41.5 		N:6
+Easter         		Mean: 7.86 		Best: 39.75 		N:4
+Groys          		Mean: 18.27 		Best: 38.5 		N:2
+Loomis         		Mean: 2.99 		Best: 36.89 		N:8
+Stone          		Mean: 3.71 		Best: 36.79 		N:5
+Vargas         		Mean: 5.26 		Best: 35.12 		N:4
+Brewer         		Mean: 4.59 		Best: 33.83 		N:5
+Johnson        		Mean: 10.53 		Best: 31.68 		N:2
+Shelman        		Mean: 7.16 		Best: 30.99 		N:4
+
+########## REPORT GEN: 14 ##########
+SPECIES: 
+Brewer         		Mean: 12.29 		Best: 50.19 		N:3
+Nicolas        		Mean: 19.06 		Best: 49.0 		N:2
+Ross           		Mean: 4.35 		Best: 47.25 		N:5
+Shelman        		Mean: 20.27 		Best: 44.0 		N:2
+Loomis         		Mean: 13.18 		Best: 41.83 		N:2
+Johnson        		Mean: 3.65 		Best: 41.51 		N:6
+Elmore         		Mean: 4.57 		Best: 40.75 		N:6
+Fagundes       		Mean: 2.81 		Best: 40.44 		N:8
+Groys          		Mean: 4.78 		Best: 40.32 		N:5
+Stone          		Mean: 10.7 		Best: 38.64 		N:3
+Dalton         		Mean: 4.4  		Best: 34.05 		N:5
+Goudeau        		Mean: 6.82 		Best: 33.56 		N:4
+
+########## REPORT GEN: 15 ##########
+SPECIES: 
+Goudeau        		Mean: 12.03 		Best: 49.0 		N:3
+Loomis         		Mean: 7.39 		Best: 47.75 		N:5
+Bell           		Mean: 3.56 		Best: 46.5 		N:6
+Elmore         		Mean: 8.87 		Best: 44.23 		N:4
+Ross           		Mean: 10.67 		Best: 42.5 		N:3
+Groys          		Mean: 20.64 		Best: 42.25 		N:2
+Dalton         		Mean: 8.92 		Best: 40.5 		N:4
+Johnson        		Mean: 6.72 		Best: 40.21 		N:5
+Fagundes       		Mean: 12.64 		Best: 40.0 		N:2
+Shelman        		Mean: 12.57 		Best: 39.75 		N:3
+Stone          		Mean: 6.16 		Best: 39.5 		N:5
+Easter         		Mean: 5.53 		Best: 27.77 		N:4
+
+########## REPORT GEN: 16 ##########
+SPECIES: 
+Groys          		Mean: 7.33 		Best: 98.31 		N:6
+Dalton         		Mean: 18.65 		Best: 50.0 		N:2
+Loomis         		Mean: 4.94 		Best: 48.25 		N:4
+Fagundes       		Mean: 4.96 		Best: 45.58 		N:7
+Bell           		Mean: 12.18 		Best: 44.59 		N:3
+Elmore         		Mean: 7.21 		Best: 44.29 		N:5
+Ross           		Mean: 9.27 		Best: 43.6 		N:4
+Shelman        		Mean: 9.63 		Best: 42.0 		N:4
+Brewer         		Mean: 7.1  		Best: 42.0 		N:4
+Stone          		Mean: 8.16 		Best: 40.74 		N:4
+Goudeau        		Mean: 6.12 		Best: 33.62 		N:4
+Johnson        		Mean: 8.52 		Best: 33.46 		N:3
+Vargas         		Mean: 10.68 		Best: 32.52 		N:2
+Easter         		Mean: 4.55 		Best: 9.0 		N:2
+
+########## REPORT GEN: 17 ##########
+SPECIES: 
+Easter         		Mean: 7.09 		Best: 79.57 		N:4
+Johnson        		Mean: 6.17 		Best: 52.5 		N:6
+Ross           		Mean: 5.15 		Best: 48.25 		N:7
+Dalton         		Mean: 9.75 		Best: 48.16 		N:4
+Groys          		Mean: 5.63 		Best: 46.1 		N:6
+Stone          		Mean: 3.39 		Best: 46.0 		N:8
+Bell           		Mean: 4.53 		Best: 41.0 		N:8
+Vargas         		Mean: 3.05 		Best: 40.0 		N:8
+Shelman        		Mean: 4.1  		Best: 37.69 		N:8
+Brewer         		Mean: 8.22 		Best: 36.92 		N:4
+Fagundes       		Mean: 8.47 		Best: 33.17 		N:3
+Loomis         		Mean: 4.43 		Best: 32.6 		N:5
+Goudeau        		Mean: 9.62 		Best: 27.73 		N:2
+
+########## REPORT GEN: 18 ##########
+SPECIES: 
+Shelman        		Mean: 4.74 		Best: 46.75 		N:6
+Stone          		Mean: 7.61 		Best: 43.5 		N:4
+Loomis         		Mean: 7.28 		Best: 42.21 		N:4
+Fagundes       		Mean: 3.91 		Best: 41.25 		N:8
+Groys          		Mean: 6.86 		Best: 41.15 		N:4
+Brewer         		Mean: 8.97 		Best: 39.51 		N:4
+Goudeau        		Mean: 4.24 		Best: 38.7 		N:6
+Easter         		Mean: 2.82 		Best: 35.46 		N:9
+Vargas         		Mean: 7.98 		Best: 34.73 		N:3
+Dalton         		Mean: 2.08 		Best: 34.45 		N:12
+Ross           		Mean: 10.64 		Best: 34.26 		N:3
+Elmore         		Mean: 15.67 		Best: 33.53 		N:2
+Bell           		Mean: 2.75 		Best: 30.83 		N:6
+Johnson        		Mean: 13.38 		Best: 28.91 		N:2
+
+########## REPORT GEN: 19 ##########
+SPECIES: 
+Brewer         		Mean: 15.29 		Best: 56.0 		N:3
+Ross           		Mean: 6.65 		Best: 51.7 		N:5
+Bell           		Mean: 4.51 		Best: 46.75 		N:7
+Groys          		Mean: 8.36 		Best: 44.0 		N:4
+Johnson        		Mean: 10.11 		Best: 43.0 		N:3
+Easter         		Mean: 3.08 		Best: 42.57 		N:10
+Fagundes       		Mean: 4.52 		Best: 40.5 		N:7
+Shelman        		Mean: 3.2  		Best: 40.0 		N:7
+Goudeau        		Mean: 6.28 		Best: 36.99 		N:3
+Stone          		Mean: 1.94 		Best: 36.73 		N:11
+Vargas         		Mean: 5.6  		Best: 34.21 		N:4
+Dalton         		Mean: 11.0 		Best: 33.76 		N:2
+Elmore         		Mean: 3.62 		Best: 32.59 		N:7
+
+########## REPORT GEN: 20 ##########
+SPECIES: 
+Easter         		Mean: 13.99 		Best: 121.87 		N:4
+Shelman        		Mean: 3.51 		Best: 52.0 		N:10
+Goudeau        		Mean: 7.87 		Best: 49.0 		N:4
+Elmore         		Mean: 4.7  		Best: 46.75 		N:4
+Stone          		Mean: 3.08 		Best: 46.72 		N:10
+Groys          		Mean: 4.64 		Best: 46.03 		N:6
+Fagundes       		Mean: 4.88 		Best: 45.0 		N:5
+Vargas         		Mean: 3.8  		Best: 41.74 		N:7
+Bell           		Mean: 1.95 		Best: 40.18 		N:8
+Johnson        		Mean: 3.96 		Best: 36.04 		N:6
+Brewer         		Mean: 6.63 		Best: 32.23 		N:4
+Ross           		Mean: 9.32 		Best: 27.69 		N:2
+
+########## REPORT GEN: 21 ##########
+SPECIES: 
+Ross           		Mean: 5.01 		Best: 101.04 		N:7
+Easter         		Mean: 2.78 		Best: 48.16 		N:12
+Stone          		Mean: 12.82 		Best: 47.5 		N:3
+Bell           		Mean: 5.42 		Best: 43.0 		N:5
+Goudeau        		Mean: 3.74 		Best: 42.79 		N:6
+Dalton         		Mean: 9.24 		Best: 42.75 		N:3
+Johnson        		Mean: 5.74 		Best: 42.25 		N:4
+Fagundes       		Mean: 10.32 		Best: 42.01 		N:3
+Vargas         		Mean: 4.31 		Best: 40.5 		N:6
+Elmore         		Mean: 3.21 		Best: 38.75 		N:7
+Brewer         		Mean: 9.24 		Best: 38.12 		N:3
+Shelman        		Mean: 2.82 		Best: 33.73 		N:8
+Groys          		Mean: 5.15 		Best: 27.32 		N:3
+
+########## REPORT GEN: 22 ##########
+SPECIES: 
+Shelman        		Mean: 3.3  		Best: 106.95 		N:8
+Fagundes       		Mean: 4.51 		Best: 48.5 		N:6
+Ross           		Mean: 4.5  		Best: 44.75 		N:6
+Dalton         		Mean: 3.39 		Best: 43.75 		N:5
+Elmore         		Mean: 3.48 		Best: 41.28 		N:8
+Easter         		Mean: 7.15 		Best: 41.25 		N:5
+Vargas         		Mean: 3.01 		Best: 40.5 		N:6
+Johnson        		Mean: 5.55 		Best: 38.72 		N:4
+Goudeau        		Mean: 6.37 		Best: 38.32 		N:3
+Brewer         		Mean: 2.9  		Best: 38.0 		N:7
+Stone          		Mean: 2.56 		Best: 37.73 		N:9
+Bell           		Mean: 8.66 		Best: 35.89 		N:3
+Groys          		Mean: 5.23 		Best: 11.25 		N:2
+

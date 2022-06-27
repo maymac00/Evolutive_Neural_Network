@@ -1,0 +1,63 @@
+########## REPORT GEN: 2 ##########
+SPECIES: 
+Finseth        		Mean: 15.82 		Best: 301.9 		N:6
+Wheaton        		Mean: 76.09 		Best: 177.2 		N:2
+Roberts        		Mean: 3.86 		Best: 149.13 		N:10
+Bermudez       		Mean: 19.55 		Best: 86.0 		N:3
+Flamer         		Mean: 2.16 		Best: 72.96 		N:10
+Allen          		Mean: 4.39 		Best: 37.0 		N:4
+Frederick      		Mean: 1.69 		Best: 31.19 		N:8
+Welch          		Mean: 2.23 		Best: 27.58 		N:6
+Nunez          		Mean: 4.98 		Best: 10.75 		N:2
+Patel          		Mean: 2.6  		Best: 10.75 		N:4
+Morgan         		Mean: 5.24 		Best: 10.5 		N:2
+Wagner         		Mean: 5.12 		Best: 10.25 		N:2
+Fennell        		Mean: 5.0  		Best: 10.0 		N:2
+Pena           		Mean: 4.44 		Best: 9.25 		N:2
+
+########## REPORT GEN: 3 ##########
+SPECIES: 
+Baker          		Mean: 12.5 		Best: 297.02 		N:7
+Roberts        		Mean: 11.22 		Best: 180.28 		N:5
+Adams          		Mean: 31.6 		Best: 111.81 		N:2
+Herceg         		Mean: 6.68 		Best: 75.13 		N:4
+Bermudez       		Mean: 14.43 		Best: 47.6 		N:2
+Allen          		Mean: 2.58 		Best: 37.54 		N:6
+Welch          		Mean: 10.67 		Best: 31.36 		N:2
+Flamer         		Mean: 3.01 		Best: 26.5 		N:5
+Patel          		Mean: 3.95 		Best: 12.0 		N:3
+Finseth        		Mean: 3.39 		Best: 11.0 		N:3
+Frederick      		Mean: 1.56 		Best: 11.0 		N:7
+Fennell        		Mean: 5.45 		Best: 11.0 		N:2
+Nunez          		Mean: 5.12 		Best: 10.75 		N:2
+Morgan         		Mean: 4.98 		Best: 10.25 		N:2
+Christenberry  		Mean: 5.06 		Best: 10.25 		N:2
+
+########## REPORT GEN: 4 ##########
+SPECIES: 
+Allen          		Mean: 8.89 		Best: 270.61 		N:8
+Flamer         		Mean: 22.12 		Best: 171.86 		N:3
+Wagner         		Mean: 37.92 		Best: 137.5 		N:2
+Adams          		Mean: 43.15 		Best: 134.25 		N:2
+Roberts        		Mean: 34.73 		Best: 127.75 		N:2
+Bermudez       		Mean: 19.16 		Best: 65.77 		N:2
+Herceg         		Mean: 7.08 		Best: 41.4 		N:3
+Pena           		Mean: 6.15 		Best: 34.34 		N:3
+Wheaton        		Mean: 3.68 		Best: 12.25 		N:3
+Welch          		Mean: 2.72 		Best: 12.25 		N:4
+Baker          		Mean: 3.63 		Best: 11.75 		N:3
+
+########## REPORT GEN: 5 ##########
+SPECIES: 
+Baker          		Mean: 36.96 		Best: 500.0 		N:4
+Frederick      		Mean: 10.75 		Best: 144.25 		N:5
+Adams          		Mean: 11.89 		Best: 140.5 		N:5
+Wheaton        		Mean: 30.3 		Best: 136.25 		N:3
+Christenberry  		Mean: 35.73 		Best: 129.87 		N:2
+Bermudez       		Mean: 35.68 		Best: 129.6 		N:2
+Pena           		Mean: 19.12 		Best: 127.82 		N:3
+Flamer         		Mean: 6.05 		Best: 106.82 		N:5
+Roberts        		Mean: 7.62 		Best: 46.39 		N:3
+Wagner         		Mean: 13.99 		Best: 32.39 		N:2
+Morgan         		Mean: 5.13 		Best: 10.5 		N:2
+

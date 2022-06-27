@@ -2,8 +2,10 @@ import copy
 from numpy.random import randint
 
 from Specie import Specie
-from Individual import *
-from IndividualFactory import *
+from Individual import Individual
+from IndividualFactory import IndividualFactory
+import numpy as np
+from numpy.random import choice, rand
 import NEAT
 
 
@@ -18,7 +20,7 @@ class Population:
             for i in ind.inp:
                 for o in ind.out:
                     ind.add_connection(i, o, True)
-            for i in range(6):
+            for i in range(1):
                 ind.force_mutate()
             self.speciate(ind)
         # metrics
@@ -29,8 +31,6 @@ class Population:
         self.current_gen_fitness = []
         self.mean_fitness = -1
         self.gen_fitness = []
-
-        self.file = open("report_" + str(int(np.ceil(rand() * 100))) + ".txt", "w")
 
     def __str__(self):
         out = ""
@@ -56,8 +56,6 @@ class Population:
         self.species = sorted(self.species, key=lambda s: s.individuals[0].fitness * -1)
 
     def metrics(self):
-        if self.n_gens > 1:
-            self.file.write(self.__str__())
         self.n_gens += 1
 
         top = self.species[0].individuals[0]

@@ -1,0 +1,28 @@
+########## REPORT GEN: 2 ##########
+SPECIES: 
+Phillips       		Mean: 14.36 		Best: 46.0 		N:3
+Haskell        		Mean: 1.7  		Best: 43.83 		N:10
+Evangelista    		Mean: 6.59 		Best: 40.5 		N:5
+Koehler        		Mean: 19.58 		Best: 39.77 		N:2
+Deisher        		Mean: 1.17 		Best: 39.32 		N:14
+Draper         		Mean: 12.05 		Best: 36.41 		N:2
+Gunia          		Mean: 1.42 		Best: 35.92 		N:10
+Buckley        		Mean: 1.9  		Best: 30.61 		N:8
+Mims           		Mean: 1.35 		Best: 12.25 		N:8
+Adkins         		Mean: 5.56 		Best: 11.25 		N:2
+
+########## REPORT GEN: 3 ##########
+SPECIES: 
+Mims           		Mean: 13.38 		Best: 45.25 		N:3
+Draper         		Mean: 1.76 		Best: 44.0 		N:10
+Phillips       		Mean: 9.32 		Best: 41.0 		N:3
+Koehler        		Mean: 9.13 		Best: 40.62 		N:4
+Gunia          		Mean: 3.24 		Best: 40.0 		N:5
+Buckley        		Mean: 2.07 		Best: 36.5 		N:8
+Deisher        		Mean: 4.58 		Best: 33.25 		N:5
+Rottinghaus    		Mean: 16.24 		Best: 32.5 		N:2
+Haskell        		Mean: 4.2  		Best: 27.54 		N:4
+Adkins         		Mean: 2.16 		Best: 11.75 		N:5
+Evangelista    		Mean: 5.3  		Best: 11.0 		N:2
+Murphy         		Mean: 4.84 		Best: 9.75 		N:2
+

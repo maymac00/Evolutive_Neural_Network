@@ -1,0 +1,963 @@
+########## REPORT GEN: 2 ##########
+SPECIES: 
+Knight         		Mean: 8.19 		Best: 51.25 		N:3
+Kelly          		Mean: 2.27 		Best: 42.68 		N:8
+Castleberry    		Mean: 1.5  		Best: 42.5 		N:11
+Barrows        		Mean: 4.49 		Best: 39.75 		N:4
+Lingafelter    		Mean: 12.15 		Best: 38.06 		N:2
+Robson         		Mean: 2.01 		Best: 33.14 		N:8
+Roberts        		Mean: 1.64 		Best: 32.69 		N:8
+Akkerman       		Mean: 2.05 		Best: 31.04 		N:7
+Bell           		Mean: 1.71 		Best: 22.65 		N:7
+Alford         		Mean: 1.6  		Best: 22.32 		N:9
+Wall           		Mean: 3.56 		Best: 11.25 		N:3
+Crier          		Mean: 3.38 		Best: 11.0 		N:3
+
+########## REPORT GEN: 3 ##########
+SPECIES: 
+Lingafelter    		Mean: 2.67 		Best: 44.41 		N:6
+Kelly          		Mean: 16.34 		Best: 42.75 		N:2
+Alford         		Mean: 6.83 		Best: 41.75 		N:3
+Roberts        		Mean: 4.51 		Best: 38.43 		N:4
+Robson         		Mean: 12.45 		Best: 38.0 		N:2
+Crier          		Mean: 5.5  		Best: 37.83 		N:4
+Castleberry    		Mean: 4.53 		Best: 37.41 		N:4
+Thrasher       		Mean: 10.53 		Best: 34.5 		N:3
+Wall           		Mean: 4.99 		Best: 34.25 		N:4
+Knight         		Mean: 6.3  		Best: 33.82 		N:3
+Bell           		Mean: 3.14 		Best: 32.49 		N:5
+Barrows        		Mean: 4.98 		Best: 23.22 		N:3
+Akkerman       		Mean: 1.32 		Best: 12.0 		N:8
+
+########## REPORT GEN: 4 ##########
+SPECIES: 
+Wall           		Mean: 4.24 		Best: 46.25 		N:6
+Akkerman       		Mean: 2.82 		Best: 45.82 		N:7
+Kelly          		Mean: 4.05 		Best: 43.04 		N:6
+Bell           		Mean: 6.13 		Best: 40.91 		N:4
+Thrasher       		Mean: 6.15 		Best: 39.55 		N:4
+Castleberry    		Mean: 15.91 		Best: 38.63 		N:2
+Robson         		Mean: 4.57 		Best: 38.25 		N:6
+Lingafelter    		Mean: 4.14 		Best: 37.58 		N:5
+Knight         		Mean: 2.03 		Best: 35.75 		N:10
+Barrows        		Mean: 2.48 		Best: 31.29 		N:6
+Alford         		Mean: 10.48 		Best: 31.19 		N:2
+Crier          		Mean: 5.15 		Best: 26.26 		N:3
+
+########## REPORT GEN: 5 ##########
+SPECIES: 
+Thrasher       		Mean: 7.64 		Best: 55.49 		N:4
+Crier          		Mean: 5.13 		Best: 48.75 		N:6
+Knight         		Mean: 3.76 		Best: 47.75 		N:7
+Alford         		Mean: 4.31 		Best: 42.0 		N:6
+Lingafelter    		Mean: 13.49 		Best: 41.75 		N:2
+Robson         		Mean: 7.18 		Best: 40.75 		N:4
+Bell           		Mean: 1.58 		Best: 39.5 		N:10
+Castleberry    		Mean: 4.29 		Best: 36.86 		N:4
+Akkerman       		Mean: 2.42 		Best: 33.03 		N:6
+Kelly          		Mean: 3.83 		Best: 31.96 		N:5
+Wall           		Mean: 2.94 		Best: 31.96 		N:5
+Barrows        		Mean: 5.04 		Best: 11.0 		N:2
+
+########## REPORT GEN: 6 ##########
+SPECIES: 
+Bell           		Mean: 2.74 		Best: 47.4 		N:9
+Crier          		Mean: 2.35 		Best: 46.25 		N:8
+Barrows        		Mean: 3.6  		Best: 44.0 		N:8
+Lingafelter    		Mean: 6.72 		Best: 43.85 		N:4
+Knight         		Mean: 9.57 		Best: 42.7 		N:3
+Akkerman       		Mean: 3.64 		Best: 41.54 		N:8
+Alford         		Mean: 7.11 		Best: 41.27 		N:3
+Wall           		Mean: 7.0  		Best: 41.14 		N:3
+Thrasher       		Mean: 3.19 		Best: 38.99 		N:6
+Kelly          		Mean: 5.34 		Best: 32.38 		N:4
+Castleberry    		Mean: 1.89 		Best: 30.8 		N:8
+Robson         		Mean: 2.04 		Best: 11.0 		N:5
+
+########## REPORT GEN: 7 ##########
+SPECIES: 
+Lingafelter    		Mean: 5.57 		Best: 43.75 		N:5
+Barrows        		Mean: 12.86 		Best: 43.13 		N:3
+Bell           		Mean: 3.97 		Best: 43.0 		N:6
+Kelly          		Mean: 1.54 		Best: 41.75 		N:9
+Akkerman       		Mean: 3.22 		Best: 41.0 		N:7
+Castleberry    		Mean: 2.19 		Best: 40.5 		N:8
+Wall           		Mean: 3.7  		Best: 40.25 		N:7
+Knight         		Mean: 2.57 		Best: 40.0 		N:9
+Robson         		Mean: 2.52 		Best: 36.45 		N:6
+Alford         		Mean: 5.44 		Best: 11.25 		N:2
+Crier          		Mean: 5.12 		Best: 10.75 		N:2
+Thrasher       		Mean: 2.43 		Best: 10.75 		N:4
+
+########## REPORT GEN: 8 ##########
+SPECIES: 
+Castleberry    		Mean: 2.16 		Best: 51.75 		N:12
+Alford         		Mean: 3.33 		Best: 43.75 		N:6
+Robson         		Mean: 1.7  		Best: 43.25 		N:10
+Crier          		Mean: 7.02 		Best: 42.27 		N:3
+Barrows        		Mean: 6.01 		Best: 41.0 		N:4
+Lingafelter    		Mean: 2.67 		Best: 39.75 		N:8
+Knight         		Mean: 2.51 		Best: 36.6 		N:6
+Thrasher       		Mean: 5.22 		Best: 31.36 		N:4
+Kelly          		Mean: 3.66 		Best: 11.25 		N:3
+Wall           		Mean: 1.75 		Best: 11.0 		N:6
+Akkerman       		Mean: 4.89 		Best: 10.0 		N:2
+Bell           		Mean: 4.93 		Best: 9.75 		N:2
+
+########## REPORT GEN: 9 ##########
+SPECIES: 
+Bell           		Mean: 3.15 		Best: 76.12 		N:8
+Castleberry    		Mean: 2.34 		Best: 73.26 		N:8
+Lingafelter    		Mean: 5.14 		Best: 48.75 		N:6
+Wall           		Mean: 2.14 		Best: 44.64 		N:8
+Knight         		Mean: 4.1  		Best: 33.22 		N:4
+Akkerman       		Mean: 6.15 		Best: 32.84 		N:3
+Kelly          		Mean: 2.79 		Best: 31.56 		N:6
+Thrasher       		Mean: 2.84 		Best: 12.0 		N:4
+Robson         		Mean: 3.74 		Best: 11.5 		N:3
+Alford         		Mean: 1.47 		Best: 10.75 		N:7
+Barrows        		Mean: 1.99 		Best: 10.75 		N:5
+Crier          		Mean: 2.01 		Best: 10.5 		N:5
+
+########## REPORT GEN: 10 ##########
+SPECIES: 
+Kelly          		Mean: 15.12 		Best: 84.01 		N:3
+Lingafelter    		Mean: 3.77 		Best: 83.86 		N:7
+Akkerman       		Mean: 2.25 		Best: 66.28 		N:10
+Wall           		Mean: 2.2  		Best: 43.75 		N:8
+Crier          		Mean: 2.76 		Best: 43.6 		N:7
+Thrasher       		Mean: 1.82 		Best: 39.5 		N:8
+Robson         		Mean: 4.08 		Best: 33.36 		N:4
+Alford         		Mean: 1.05 		Best: 25.5 		N:12
+Castleberry    		Mean: 4.81 		Best: 22.87 		N:3
+Knight         		Mean: 1.77 		Best: 11.75 		N:6
+Bell           		Mean: 1.72 		Best: 11.5 		N:6
+Barrows        		Mean: 1.95 		Best: 10.0 		N:5
+
+########## REPORT GEN: 11 ##########
+SPECIES: 
+Thrasher       		Mean: 2.75 		Best: 82.15 		N:8
+Kelly          		Mean: 1.61 		Best: 67.21 		N:10
+Bell           		Mean: 9.42 		Best: 58.54 		N:4
+Knight         		Mean: 4.47 		Best: 42.28 		N:4
+Akkerman       		Mean: 1.56 		Best: 36.22 		N:10
+Alford         		Mean: 5.77 		Best: 31.92 		N:3
+Crier          		Mean: 3.61 		Best: 28.84 		N:4
+Robson         		Mean: 1.97 		Best: 11.75 		N:5
+Castleberry    		Mean: 3.64 		Best: 11.75 		N:3
+Lingafelter    		Mean: 2.01 		Best: 11.0 		N:5
+Barrows        		Mean: 1.68 		Best: 10.75 		N:6
+Wall           		Mean: 3.21 		Best: 10.5 		N:3
+
+########## REPORT GEN: 12 ##########
+SPECIES: 
+Bell           		Mean: 4.38 		Best: 84.3 		N:6
+Wall           		Mean: 6.22 		Best: 67.38 		N:4
+Lingafelter    		Mean: 3.06 		Best: 61.82 		N:7
+Kelly          		Mean: 2.17 		Best: 43.14 		N:7
+Barrows        		Mean: 2.1  		Best: 42.65 		N:8
+Akkerman       		Mean: 5.85 		Best: 42.44 		N:4
+Knight         		Mean: 2.54 		Best: 41.69 		N:6
+Crier          		Mean: 2.59 		Best: 41.44 		N:6
+Castleberry    		Mean: 6.79 		Best: 40.25 		N:3
+Robson         		Mean: 2.94 		Best: 35.21 		N:6
+Alford         		Mean: 1.7  		Best: 33.95 		N:8
+Thrasher       		Mean: 2.01 		Best: 11.25 		N:5
+
+########## REPORT GEN: 13 ##########
+SPECIES: 
+Bell           		Mean: 3.9  		Best: 61.86 		N:6
+Crier          		Mean: 5.76 		Best: 61.11 		N:4
+Thrasher       		Mean: 5.55 		Best: 59.47 		N:4
+Castleberry    		Mean: 2.0  		Best: 56.91 		N:8
+Barrows        		Mean: 4.74 		Best: 45.54 		N:4
+Akkerman       		Mean: 1.78 		Best: 42.75 		N:10
+Lingafelter    		Mean: 2.55 		Best: 42.63 		N:7
+Robson         		Mean: 3.24 		Best: 41.5 		N:6
+Wall           		Mean: 2.91 		Best: 37.17 		N:7
+Kelly          		Mean: 1.95 		Best: 36.06 		N:8
+Knight         		Mean: 1.75 		Best: 11.5 		N:6
+Alford         		Mean: 1.7  		Best: 11.0 		N:6
+
+########## REPORT GEN: 14 ##########
+SPECIES: 
+Castleberry    		Mean: 4.68 		Best: 140.21 		N:8
+Robson         		Mean: 4.99 		Best: 94.32 		N:6
+Thrasher       		Mean: 6.71 		Best: 74.98 		N:4
+Akkerman       		Mean: 1.65 		Best: 70.1 		N:12
+Barrows        		Mean: 4.84 		Best: 64.84 		N:6
+Knight         		Mean: 17.76 		Best: 61.25 		N:2
+Wall           		Mean: 1.77 		Best: 44.0 		N:8
+Bell           		Mean: 2.41 		Best: 39.09 		N:7
+Kelly          		Mean: 2.4  		Best: 38.56 		N:7
+Alford         		Mean: 1.12 		Best: 12.0 		N:9
+Lingafelter    		Mean: 3.29 		Best: 11.5 		N:3
+Crier          		Mean: 1.65 		Best: 11.25 		N:6
+
+########## REPORT GEN: 15 ##########
+SPECIES: 
+Alford         		Mean: 16.19 		Best: 124.28 		N:3
+Wall           		Mean: 2.96 		Best: 98.15 		N:11
+Bell           		Mean: 3.49 		Best: 74.21 		N:6
+Thrasher       		Mean: 7.05 		Best: 59.6 		N:4
+Robson         		Mean: 1.46 		Best: 55.96 		N:10
+Crier          		Mean: 2.51 		Best: 42.37 		N:6
+Barrows        		Mean: 2.13 		Best: 40.5 		N:7
+Kelly          		Mean: 3.93 		Best: 33.49 		N:4
+Knight         		Mean: 1.89 		Best: 33.0 		N:7
+Akkerman       		Mean: 3.7  		Best: 12.25 		N:3
+Lingafelter    		Mean: 1.92 		Best: 10.5 		N:5
+Castleberry    		Mean: 3.28 		Best: 10.25 		N:3
+
+########## REPORT GEN: 16 ##########
+SPECIES: 
+Crier          		Mean: 6.71 		Best: 84.71 		N:5
+Kelly          		Mean: 11.98 		Best: 84.38 		N:3
+Lingafelter    		Mean: 7.67 		Best: 73.37 		N:4
+Castleberry    		Mean: 6.29 		Best: 70.69 		N:4
+Akkerman       		Mean: 3.79 		Best: 55.25 		N:6
+Alford         		Mean: 4.64 		Best: 55.14 		N:6
+Knight         		Mean: 2.1  		Best: 44.25 		N:7
+Robson         		Mean: 1.99 		Best: 10.75 		N:5
+Thrasher       		Mean: 1.05 		Best: 10.25 		N:9
+Wall           		Mean: 1.55 		Best: 10.0 		N:6
+Barrows        		Mean: 1.87 		Best: 9.75 		N:5
+Bell           		Mean: 3.14 		Best: 9.5 		N:3
+
+########## REPORT GEN: 17 ##########
+SPECIES: 
+Bell           		Mean: 6.2  		Best: 125.33 		N:6
+Akkerman       		Mean: 4.85 		Best: 92.56 		N:6
+Castleberry    		Mean: 3.44 		Best: 84.88 		N:7
+Robson         		Mean: 11.4 		Best: 82.24 		N:3
+Alford         		Mean: 1.9  		Best: 72.56 		N:10
+Barrows        		Mean: 7.56 		Best: 61.9 		N:5
+Wall           		Mean: 7.6  		Best: 48.25 		N:3
+Thrasher       		Mean: 1.98 		Best: 38.5 		N:9
+Kelly          		Mean: 2.21 		Best: 32.52 		N:6
+Crier          		Mean: 3.46 		Best: 31.8 		N:5
+Lingafelter    		Mean: 1.68 		Best: 11.25 		N:6
+Knight         		Mean: 4.83 		Best: 9.75 		N:2
+
+########## REPORT GEN: 18 ##########
+SPECIES: 
+Robson         		Mean: 8.43 		Best: 109.9 		N:5
+Lingafelter    		Mean: 2.4  		Best: 75.0 		N:9
+Kelly          		Mean: 3.32 		Best: 73.72 		N:7
+Akkerman       		Mean: 2.7  		Best: 73.39 		N:7
+Knight         		Mean: 6.47 		Best: 72.27 		N:5
+Crier          		Mean: 2.38 		Best: 60.36 		N:9
+Thrasher       		Mean: 3.03 		Best: 60.28 		N:6
+Alford         		Mean: 4.08 		Best: 60.12 		N:5
+Castleberry    		Mean: 5.92 		Best: 32.84 		N:3
+Bell           		Mean: 1.85 		Best: 31.18 		N:7
+Barrows        		Mean: 2.53 		Best: 11.0 		N:4
+Wall           		Mean: 1.6  		Best: 10.0 		N:6
+
+########## REPORT GEN: 19 ##########
+SPECIES: 
+Alford         		Mean: 2.11 		Best: 101.76 		N:12
+Bell           		Mean: 4.18 		Best: 101.13 		N:6
+Lingafelter    		Mean: 3.19 		Best: 96.6 		N:9
+Wall           		Mean: 6.29 		Best: 80.41 		N:5
+Robson         		Mean: 4.6  		Best: 75.0 		N:5
+Castleberry    		Mean: 3.82 		Best: 72.92 		N:7
+Barrows        		Mean: 2.36 		Best: 56.16 		N:7
+Crier          		Mean: 2.73 		Best: 49.75 		N:6
+Akkerman       		Mean: 3.11 		Best: 39.53 		N:5
+Knight         		Mean: 2.01 		Best: 10.75 		N:5
+Thrasher       		Mean: 3.2  		Best: 9.75 		N:3
+Kelly          		Mean: 1.52 		Best: 9.5 		N:6
+
+########## REPORT GEN: 20 ##########
+SPECIES: 
+Kelly          		Mean: 5.14 		Best: 102.58 		N:7
+Knight         		Mean: 4.04 		Best: 98.32 		N:9
+Castleberry    		Mean: 2.14 		Best: 82.89 		N:12
+Alford         		Mean: 2.66 		Best: 70.2 		N:7
+Lingafelter    		Mean: 4.36 		Best: 67.8 		N:5
+Barrows        		Mean: 3.42 		Best: 65.71 		N:7
+Robson         		Mean: 1.76 		Best: 65.35 		N:9
+Crier          		Mean: 3.97 		Best: 61.4 		N:7
+Akkerman       		Mean: 0.81 		Best: 11.5 		N:12
+Wall           		Mean: 1.37 		Best: 10.0 		N:7
+Bell           		Mean: 2.28 		Best: 9.5 		N:4
+
+########## REPORT GEN: 21 ##########
+SPECIES: 
+Alford         		Mean: 4.26 		Best: 101.75 		N:6
+Crier          		Mean: 3.76 		Best: 100.1 		N:11
+Barrows        		Mean: 2.95 		Best: 92.79 		N:9
+Robson         		Mean: 3.8  		Best: 86.63 		N:6
+Bell           		Mean: 3.33 		Best: 81.12 		N:10
+Akkerman       		Mean: 1.68 		Best: 79.26 		N:10
+Knight         		Mean: 5.07 		Best: 77.3 		N:6
+Thrasher       		Mean: 3.18 		Best: 68.05 		N:7
+Kelly          		Mean: 2.37 		Best: 9.5 		N:4
+Lingafelter    		Mean: 2.32 		Best: 9.5 		N:4
+Wall           		Mean: 1.56 		Best: 9.5 		N:6
+
+########## REPORT GEN: 22 ##########
+SPECIES: 
+Thrasher       		Mean: 4.44 		Best: 88.98 		N:8
+Kelly          		Mean: 2.37 		Best: 83.81 		N:8
+Lingafelter    		Mean: 2.34 		Best: 83.54 		N:8
+Alford         		Mean: 2.32 		Best: 81.4 		N:11
+Akkerman       		Mean: 4.22 		Best: 79.3 		N:7
+Bell           		Mean: 6.16 		Best: 64.79 		N:5
+Wall           		Mean: 3.95 		Best: 59.95 		N:5
+Castleberry    		Mean: 2.57 		Best: 43.25 		N:6
+Robson         		Mean: 1.53 		Best: 30.28 		N:8
+Crier          		Mean: 2.14 		Best: 28.26 		N:6
+Barrows        		Mean: 1.93 		Best: 10.25 		N:5
+
+########## REPORT GEN: 23 ##########
+SPECIES: 
+Barrows        		Mean: 6.64 		Best: 116.78 		N:6
+Crier          		Mean: 2.93 		Best: 116.45 		N:8
+Castleberry    		Mean: 2.86 		Best: 85.07 		N:9
+Wall           		Mean: 8.58 		Best: 78.14 		N:5
+Alford         		Mean: 7.53 		Best: 72.92 		N:5
+Knight         		Mean: 16.22 		Best: 70.22 		N:3
+Robson         		Mean: 6.24 		Best: 67.84 		N:5
+Kelly          		Mean: 2.07 		Best: 55.02 		N:9
+Bell           		Mean: 1.48 		Best: 53.86 		N:11
+Lingafelter    		Mean: 4.73 		Best: 47.21 		N:4
+Akkerman       		Mean: 3.82 		Best: 32.28 		N:4
+Thrasher       		Mean: 3.28 		Best: 10.25 		N:3
+
+########## REPORT GEN: 24 ##########
+SPECIES: 
+Knight         		Mean: 9.48 		Best: 125.02 		N:5
+Kelly          		Mean: 4.71 		Best: 120.2 		N:7
+Lingafelter    		Mean: 9.27 		Best: 95.31 		N:6
+Bell           		Mean: 2.17 		Best: 91.45 		N:14
+Barrows        		Mean: 6.54 		Best: 78.09 		N:5
+Thrasher       		Mean: 2.1  		Best: 66.59 		N:10
+Robson         		Mean: 7.51 		Best: 62.8 		N:4
+Castleberry    		Mean: 2.52 		Best: 62.12 		N:10
+Crier          		Mean: 1.76 		Best: 45.33 		N:8
+Akkerman       		Mean: 2.36 		Best: 10.75 		N:4
+Wall           		Mean: 1.86 		Best: 9.75 		N:5
+
+########## REPORT GEN: 25 ##########
+SPECIES: 
+Lingafelter    		Mean: 8.93 		Best: 245.56 		N:7
+Castleberry    		Mean: 5.74 		Best: 163.76 		N:11
+Barrows        		Mean: 14.92 		Best: 141.51 		N:4
+Knight         		Mean: 5.92 		Best: 118.26 		N:6
+Wall           		Mean: 3.16 		Best: 93.02 		N:10
+Thrasher       		Mean: 8.99 		Best: 91.0 		N:5
+Robson         		Mean: 4.9  		Best: 76.07 		N:6
+Kelly          		Mean: 4.61 		Best: 74.5 		N:8
+Crier          		Mean: 3.93 		Best: 70.38 		N:7
+Bell           		Mean: 16.71 		Best: 55.89 		N:2
+Akkerman       		Mean: 1.37 		Best: 10.5 		N:7
+Alford         		Mean: 3.08 		Best: 9.5 		N:3
+
+########## REPORT GEN: 26 ##########
+SPECIES: 
+Crier          		Mean: 5.2  		Best: 119.25 		N:9
+Wall           		Mean: 8.96 		Best: 107.79 		N:6
+Castleberry    		Mean: 5.63 		Best: 99.84 		N:5
+Barrows        		Mean: 8.0  		Best: 96.73 		N:7
+Kelly          		Mean: 3.06 		Best: 82.6 		N:8
+Robson         		Mean: 3.07 		Best: 80.23 		N:8
+Bell           		Mean: 16.94 		Best: 76.6 		N:3
+Thrasher       		Mean: 3.53 		Best: 66.92 		N:7
+Lingafelter    		Mean: 8.61 		Best: 66.01 		N:4
+Akkerman       		Mean: 2.39 		Best: 44.33 		N:7
+Knight         		Mean: 3.79 		Best: 32.18 		N:4
+Alford         		Mean: 4.53 		Best: 9.25 		N:2
+
+########## REPORT GEN: 27 ##########
+SPECIES: 
+Akkerman       		Mean: 5.12 		Best: 140.1 		N:9
+Kelly          		Mean: 9.23 		Best: 116.08 		N:5
+Knight         		Mean: 6.25 		Best: 113.19 		N:6
+Castleberry    		Mean: 4.91 		Best: 107.5 		N:10
+Robson         		Mean: 8.62 		Best: 101.22 		N:5
+Bell           		Mean: 4.69 		Best: 97.8 		N:7
+Crier          		Mean: 11.3 		Best: 94.06 		N:5
+Wall           		Mean: 4.64 		Best: 80.17 		N:7
+Lingafelter    		Mean: 5.42 		Best: 78.54 		N:7
+Barrows        		Mean: 3.09 		Best: 78.23 		N:10
+Alford         		Mean: 10.76 		Best: 77.43 		N:4
+
+########## REPORT GEN: 28 ##########
+SPECIES: 
+Alford         		Mean: 16.23 		Best: 166.8 		N:5
+Crier          		Mean: 13.82 		Best: 131.86 		N:4
+Thrasher       		Mean: 9.06 		Best: 114.84 		N:4
+Knight         		Mean: 8.65 		Best: 98.59 		N:7
+Kelly          		Mean: 26.12 		Best: 98.31 		N:3
+Robson         		Mean: 15.97 		Best: 97.98 		N:5
+Castleberry    		Mean: 16.1 		Best: 94.0 		N:4
+Barrows        		Mean: 11.06 		Best: 80.83 		N:3
+Akkerman       		Mean: 10.32 		Best: 78.09 		N:4
+Bell           		Mean: 3.31 		Best: 67.94 		N:6
+Wall           		Mean: 3.08 		Best: 67.0 		N:10
+
+########## REPORT GEN: 29 ##########
+SPECIES: 
+Wall           		Mean: 11.07 		Best: 185.12 		N:6
+Castleberry    		Mean: 17.91 		Best: 126.19 		N:4
+Robson         		Mean: 6.54 		Best: 112.53 		N:7
+Thrasher       		Mean: 7.18 		Best: 108.0 		N:9
+Lingafelter    		Mean: 4.17 		Best: 107.16 		N:11
+Knight         		Mean: 4.32 		Best: 105.94 		N:6
+Alford         		Mean: 9.71 		Best: 103.52 		N:6
+Bell           		Mean: 7.09 		Best: 102.07 		N:7
+Barrows        		Mean: 4.03 		Best: 95.75 		N:6
+Akkerman       		Mean: 11.1 		Best: 66.02 		N:4
+Kelly          		Mean: 5.4  		Best: 62.3 		N:6
+Crier          		Mean: 3.85 		Best: 58.44 		N:5
+
+########## REPORT GEN: 30 ##########
+SPECIES: 
+Crier          		Mean: 4.13 		Best: 192.48 		N:12
+Barrows        		Mean: 4.95 		Best: 137.51 		N:11
+Bell           		Mean: 14.47 		Best: 135.06 		N:5
+Lingafelter    		Mean: 28.12 		Best: 102.36 		N:2
+Castleberry    		Mean: 7.16 		Best: 96.97 		N:8
+Akkerman       		Mean: 3.35 		Best: 95.88 		N:8
+Kelly          		Mean: 18.79 		Best: 90.23 		N:3
+Alford         		Mean: 3.19 		Best: 86.64 		N:10
+Thrasher       		Mean: 4.34 		Best: 85.14 		N:7
+Wall           		Mean: 5.47 		Best: 81.45 		N:9
+Robson         		Mean: 4.2  		Best: 71.43 		N:7
+
+########## REPORT GEN: 31 ##########
+SPECIES: 
+Akkerman       		Mean: 14.26 		Best: 140.59 		N:4
+Crier          		Mean: 7.8  		Best: 119.75 		N:9
+Bell           		Mean: 55.4 		Best: 112.56 		N:2
+Knight         		Mean: 8.11 		Best: 102.69 		N:7
+Thrasher       		Mean: 5.6  		Best: 101.36 		N:5
+Wall           		Mean: 12.68 		Best: 95.07 		N:3
+Robson         		Mean: 8.4  		Best: 88.39 		N:7
+Lingafelter    		Mean: 7.22 		Best: 86.19 		N:4
+Castleberry    		Mean: 12.83 		Best: 81.7 		N:4
+Kelly          		Mean: 6.13 		Best: 80.03 		N:5
+Alford         		Mean: 5.61 		Best: 71.6 		N:7
+Barrows        		Mean: 13.46 		Best: 56.89 		N:3
+
+########## REPORT GEN: 32 ##########
+SPECIES: 
+Wall           		Mean: 8.72 		Best: 193.24 		N:8
+Barrows        		Mean: 23.65 		Best: 132.92 		N:4
+Lingafelter    		Mean: 13.68 		Best: 124.08 		N:5
+Akkerman       		Mean: 22.16 		Best: 123.98 		N:3
+Robson         		Mean: 4.88 		Best: 120.57 		N:10
+Kelly          		Mean: 17.51 		Best: 94.27 		N:4
+Alford         		Mean: 15.97 		Best: 77.99 		N:3
+Castleberry    		Mean: 9.31 		Best: 75.36 		N:5
+Knight         		Mean: 5.34 		Best: 73.05 		N:5
+Thrasher       		Mean: 3.17 		Best: 66.45 		N:6
+Crier          		Mean: 5.25 		Best: 58.93 		N:5
+
+########## REPORT GEN: 33 ##########
+SPECIES: 
+Crier          		Mean: 50.05 		Best: 189.52 		N:2
+Kelly          		Mean: 10.05 		Best: 178.49 		N:8
+Alford         		Mean: 18.67 		Best: 171.18 		N:5
+Bell           		Mean: 16.55 		Best: 164.03 		N:4
+Barrows        		Mean: 8.71 		Best: 144.98 		N:10
+Castleberry    		Mean: 16.48 		Best: 125.73 		N:5
+Wall           		Mean: 15.3 		Best: 124.57 		N:5
+Knight         		Mean: 7.21 		Best: 115.51 		N:7
+Akkerman       		Mean: 38.14 		Best: 87.78 		N:2
+Thrasher       		Mean: 9.91 		Best: 82.57 		N:5
+Lingafelter    		Mean: 4.02 		Best: 77.71 		N:7
+Robson         		Mean: 3.78 		Best: 56.63 		N:5
+
+########## REPORT GEN: 34 ##########
+SPECIES: 
+Akkerman       		Mean: 19.68 		Best: 219.09 		N:5
+Robson         		Mean: 7.59 		Best: 181.43 		N:9
+Wall           		Mean: 17.57 		Best: 176.43 		N:6
+Kelly          		Mean: 11.84 		Best: 160.4 		N:7
+Lingafelter    		Mean: 11.21 		Best: 131.19 		N:6
+Knight         		Mean: 8.18 		Best: 128.93 		N:7
+Thrasher       		Mean: 10.7 		Best: 120.83 		N:5
+Bell           		Mean: 10.12 		Best: 94.36 		N:4
+Barrows        		Mean: 12.49 		Best: 85.28 		N:4
+Castleberry    		Mean: 6.03 		Best: 68.05 		N:4
+Crier          		Mean: 9.34 		Best: 56.92 		N:4
+
+########## REPORT GEN: 35 ##########
+SPECIES: 
+Alford         		Mean: 13.64 		Best: 164.08 		N:6
+Akkerman       		Mean: 7.13 		Best: 141.89 		N:9
+Wall           		Mean: 31.56 		Best: 137.27 		N:3
+Crier          		Mean: 20.95 		Best: 136.61 		N:4
+Castleberry    		Mean: 11.06 		Best: 131.15 		N:6
+Thrasher       		Mean: 3.91 		Best: 106.34 		N:12
+Lingafelter    		Mean: 18.45 		Best: 101.97 		N:3
+Bell           		Mean: 6.45 		Best: 70.31 		N:6
+Barrows        		Mean: 10.0 		Best: 68.59 		N:5
+Kelly          		Mean: 8.49 		Best: 65.33 		N:5
+Knight         		Mean: 11.74 		Best: 64.16 		N:4
+Robson         		Mean: 8.7  		Best: 53.19 		N:5
+
+########## REPORT GEN: 36 ##########
+SPECIES: 
+Knight         		Mean: 13.86 		Best: 174.29 		N:7
+Thrasher       		Mean: 6.79 		Best: 154.23 		N:8
+Akkerman       		Mean: 16.49 		Best: 151.13 		N:4
+Alford         		Mean: 18.13 		Best: 142.67 		N:4
+Castleberry    		Mean: 8.9  		Best: 136.26 		N:8
+Bell           		Mean: 7.73 		Best: 130.77 		N:7
+Robson         		Mean: 6.75 		Best: 121.06 		N:9
+Wall           		Mean: 13.84 		Best: 118.13 		N:5
+Lingafelter    		Mean: 6.53 		Best: 113.68 		N:7
+Crier          		Mean: 12.46 		Best: 106.42 		N:5
+Barrows        		Mean: 8.54 		Best: 100.75 		N:5
+Kelly          		Mean: 15.49 		Best: 83.04 		N:3
+
+########## REPORT GEN: 37 ##########
+SPECIES: 
+Robson         		Mean: 6.47 		Best: 175.35 		N:10
+Akkerman       		Mean: 6.97 		Best: 171.85 		N:8
+Kelly          		Mean: 6.85 		Best: 169.76 		N:8
+Bell           		Mean: 7.34 		Best: 161.39 		N:10
+Lingafelter    		Mean: 8.49 		Best: 143.07 		N:6
+Castleberry    		Mean: 10.51 		Best: 125.5 		N:6
+Crier          		Mean: 13.47 		Best: 125.49 		N:6
+Alford         		Mean: 4.38 		Best: 116.98 		N:10
+Wall           		Mean: 5.39 		Best: 115.68 		N:7
+Knight         		Mean: 14.02 		Best: 67.23 		N:3
+Barrows        		Mean: 5.53 		Best: 60.04 		N:4
+Thrasher       		Mean: 2.31 		Best: 9.75 		N:4
+
+########## REPORT GEN: 38 ##########
+SPECIES: 
+Castleberry    		Mean: 7.95 		Best: 213.32 		N:10
+Lingafelter    		Mean: 11.11 		Best: 180.69 		N:5
+Wall           		Mean: 15.91 		Best: 160.26 		N:5
+Bell           		Mean: 4.27 		Best: 160.19 		N:13
+Barrows        		Mean: 12.55 		Best: 122.61 		N:5
+Robson         		Mean: 4.32 		Best: 113.6 		N:9
+Kelly          		Mean: 3.69 		Best: 109.16 		N:10
+Alford         		Mean: 5.45 		Best: 96.09 		N:5
+Akkerman       		Mean: 5.1  		Best: 91.54 		N:8
+Crier          		Mean: 7.9  		Best: 56.82 		N:4
+Thrasher       		Mean: 4.37 		Best: 47.98 		N:5
+Knight         		Mean: 1.6  		Best: 10.0 		N:6
+
+########## REPORT GEN: 39 ##########
+SPECIES: 
+Lingafelter    		Mean: 6.32 		Best: 200.5 		N:8
+Knight         		Mean: 5.71 		Best: 191.6 		N:10
+Akkerman       		Mean: 5.39 		Best: 188.56 		N:10
+Robson         		Mean: 13.15 		Best: 180.38 		N:4
+Castleberry    		Mean: 10.29 		Best: 169.64 		N:6
+Crier          		Mean: 11.74 		Best: 147.38 		N:6
+Alford         		Mean: 6.16 		Best: 127.43 		N:7
+Wall           		Mean: 4.03 		Best: 92.1 		N:9
+Kelly          		Mean: 10.01 		Best: 67.15 		N:5
+Barrows        		Mean: 3.74 		Best: 66.7 		N:7
+Bell           		Mean: 2.81 		Best: 65.5 		N:9
+Thrasher       		Mean: 4.54 		Best: 9.25 		N:2
+
+########## REPORT GEN: 40 ##########
+SPECIES: 
+Knight         		Mean: 24.62 		Best: 221.46 		N:4
+Barrows        		Mean: 5.81 		Best: 220.28 		N:10
+Thrasher       		Mean: 4.78 		Best: 207.96 		N:13
+Bell           		Mean: 11.65 		Best: 198.47 		N:7
+Castleberry    		Mean: 7.35 		Best: 170.26 		N:7
+Wall           		Mean: 5.89 		Best: 120.42 		N:8
+Akkerman       		Mean: 3.35 		Best: 107.63 		N:7
+Alford         		Mean: 3.63 		Best: 71.08 		N:9
+Lingafelter    		Mean: 6.37 		Best: 65.5 		N:6
+Kelly          		Mean: 1.28 		Best: 43.3 		N:10
+Crier          		Mean: 2.35 		Best: 9.75 		N:4
+
+########## REPORT GEN: 41 ##########
+SPECIES: 
+Wall           		Mean: 27.57 		Best: 202.47 		N:4
+Kelly          		Mean: 6.34 		Best: 201.85 		N:7
+Robson         		Mean: 5.05 		Best: 190.65 		N:10
+Bell           		Mean: 4.15 		Best: 176.38 		N:9
+Crier          		Mean: 12.35 		Best: 125.45 		N:5
+Barrows        		Mean: 4.03 		Best: 117.73 		N:8
+Castleberry    		Mean: 3.02 		Best: 113.41 		N:8
+Thrasher       		Mean: 6.85 		Best: 82.62 		N:5
+Knight         		Mean: 8.53 		Best: 73.75 		N:4
+Alford         		Mean: 5.73 		Best: 71.25 		N:5
+Akkerman       		Mean: 15.81 		Best: 53.87 		N:2
+Lingafelter    		Mean: 6.63 		Best: 40.75 		N:3
+
+########## REPORT GEN: 42 ##########
+SPECIES: 
+Robson         		Mean: 6.75 		Best: 199.69 		N:10
+Wall           		Mean: 10.49 		Best: 168.4 		N:6
+Akkerman       		Mean: 6.36 		Best: 159.22 		N:7
+Knight         		Mean: 15.28 		Best: 154.98 		N:5
+Thrasher       		Mean: 6.85 		Best: 118.88 		N:6
+Bell           		Mean: 5.33 		Best: 112.68 		N:7
+Kelly          		Mean: 8.74 		Best: 99.8 		N:5
+Castleberry    		Mean: 24.86 		Best: 89.07 		N:2
+Lingafelter    		Mean: 4.65 		Best: 78.62 		N:7
+Alford         		Mean: 7.04 		Best: 76.31 		N:5
+Barrows        		Mean: 5.37 		Best: 57.36 		N:4
+Crier          		Mean: 3.56 		Best: 50.65 		N:5
+
+########## REPORT GEN: 43 ##########
+SPECIES: 
+Crier          		Mean: 8.54 		Best: 212.22 		N:7
+Wall           		Mean: 9.93 		Best: 191.0 		N:6
+Lingafelter    		Mean: 4.74 		Best: 174.74 		N:7
+Knight         		Mean: 3.04 		Best: 168.95 		N:10
+Robson         		Mean: 9.79 		Best: 160.77 		N:6
+Bell           		Mean: 10.02 		Best: 114.19 		N:6
+Alford         		Mean: 6.06 		Best: 94.61 		N:7
+Castleberry    		Mean: 3.93 		Best: 92.8 		N:6
+Barrows        		Mean: 3.37 		Best: 65.4 		N:7
+Kelly          		Mean: 5.05 		Best: 58.52 		N:6
+Thrasher       		Mean: 3.35 		Best: 46.27 		N:5
+
+########## REPORT GEN: 44 ##########
+SPECIES: 
+Wall           		Mean: 14.99 		Best: 189.78 		N:6
+Lingafelter    		Mean: 13.26 		Best: 156.14 		N:6
+Akkerman       		Mean: 19.48 		Best: 155.46 		N:3
+Barrows        		Mean: 11.92 		Best: 144.86 		N:5
+Alford         		Mean: 22.26 		Best: 138.4 		N:3
+Bell           		Mean: 6.18 		Best: 78.87 		N:5
+Robson         		Mean: 15.89 		Best: 53.49 		N:2
+Castleberry    		Mean: 8.0  		Best: 52.44 		N:3
+Kelly          		Mean: 7.08 		Best: 47.14 		N:4
+Knight         		Mean: 3.04 		Best: 9.75 		N:3
+Crier          		Mean: 4.76 		Best: 9.5 		N:2
+
+########## REPORT GEN: 45 ##########
+SPECIES: 
+Castleberry    		Mean: 14.44 		Best: 231.21 		N:5
+Alford         		Mean: 15.36 		Best: 176.58 		N:5
+Thrasher       		Mean: 10.05 		Best: 173.83 		N:6
+Lingafelter    		Mean: 5.77 		Best: 152.08 		N:7
+Crier          		Mean: 15.79 		Best: 149.99 		N:5
+Akkerman       		Mean: 5.17 		Best: 111.29 		N:8
+Bell           		Mean: 2.67 		Best: 73.19 		N:7
+Barrows        		Mean: 3.6  		Best: 50.75 		N:5
+Robson         		Mean: 3.25 		Best: 43.05 		N:5
+Wall           		Mean: 3.12 		Best: 10.0 		N:3
+Knight         		Mean: 1.57 		Best: 10.0 		N:6
+Kelly          		Mean: 4.76 		Best: 9.75 		N:2
+
+########## REPORT GEN: 46 ##########
+SPECIES: 
+Lingafelter    		Mean: 6.19 		Best: 194.27 		N:7
+Bell           		Mean: 6.26 		Best: 176.4 		N:6
+Wall           		Mean: 6.43 		Best: 176.27 		N:7
+Thrasher       		Mean: 11.09 		Best: 148.28 		N:5
+Kelly          		Mean: 3.46 		Best: 143.11 		N:9
+Barrows        		Mean: 3.92 		Best: 133.68 		N:8
+Akkerman       		Mean: 4.55 		Best: 130.34 		N:8
+Crier          		Mean: 14.36 		Best: 121.46 		N:4
+Alford         		Mean: 13.66 		Best: 116.29 		N:5
+Castleberry    		Mean: 4.38 		Best: 96.38 		N:7
+Knight         		Mean: 5.24 		Best: 92.55 		N:5
+Robson         		Mean: 6.41 		Best: 73.46 		N:4
+
+########## REPORT GEN: 47 ##########
+SPECIES: 
+Alford         		Mean: 5.58 		Best: 208.22 		N:8
+Robson         		Mean: 12.26 		Best: 193.25 		N:6
+Thrasher       		Mean: 3.12 		Best: 181.35 		N:11
+Knight         		Mean: 8.4  		Best: 161.56 		N:8
+Barrows        		Mean: 5.38 		Best: 145.82 		N:6
+Castleberry    		Mean: 3.42 		Best: 137.56 		N:9
+Lingafelter    		Mean: 9.42 		Best: 132.66 		N:7
+Bell           		Mean: 5.4  		Best: 100.5 		N:6
+Crier          		Mean: 11.75 		Best: 86.26 		N:3
+Akkerman       		Mean: 4.3  		Best: 59.58 		N:6
+Wall           		Mean: 2.56 		Best: 46.11 		N:6
+Kelly          		Mean: 2.4  		Best: 9.75 		N:4
+
+########## REPORT GEN: 48 ##########
+SPECIES: 
+Thrasher       		Mean: 7.42 		Best: 219.17 		N:6
+Knight         		Mean: 5.48 		Best: 193.12 		N:10
+Castleberry    		Mean: 6.31 		Best: 172.25 		N:6
+Kelly          		Mean: 12.32 		Best: 165.04 		N:7
+Alford         		Mean: 15.26 		Best: 158.31 		N:4
+Crier          		Mean: 4.65 		Best: 152.95 		N:9
+Bell           		Mean: 1.8  		Best: 122.34 		N:11
+Wall           		Mean: 9.24 		Best: 118.95 		N:4
+Akkerman       		Mean: 4.74 		Best: 107.11 		N:7
+Lingafelter    		Mean: 3.14 		Best: 101.75 		N:9
+Robson         		Mean: 3.06 		Best: 9.5 		N:3
+Barrows        		Mean: 1.53 		Best: 9.5 		N:6
+
+########## REPORT GEN: 49 ##########
+SPECIES: 
+Thrasher       		Mean: 10.1 		Best: 199.39 		N:8
+Lingafelter    		Mean: 6.23 		Best: 198.53 		N:7
+Barrows        		Mean: 6.25 		Best: 187.65 		N:10
+Alford         		Mean: 3.31 		Best: 180.08 		N:10
+Wall           		Mean: 6.03 		Best: 167.32 		N:7
+Knight         		Mean: 8.6  		Best: 151.5 		N:6
+Bell           		Mean: 6.07 		Best: 113.66 		N:5
+Akkerman       		Mean: 4.22 		Best: 66.56 		N:5
+Kelly          		Mean: 2.2  		Best: 16.25 		N:5
+Robson         		Mean: 0.95 		Best: 10.0 		N:10
+Crier          		Mean: 3.18 		Best: 9.75 		N:3
+Castleberry    		Mean: 1.56 		Best: 9.5 		N:6
+
+########## REPORT GEN: 50 ##########
+SPECIES: 
+Crier          		Mean: 15.61 		Best: 193.76 		N:6
+Robson         		Mean: 4.01 		Best: 189.01 		N:8
+Bell           		Mean: 2.57 		Best: 171.41 		N:10
+Thrasher       		Mean: 5.55 		Best: 152.39 		N:6
+Lingafelter    		Mean: 10.52 		Best: 148.28 		N:5
+Knight         		Mean: 3.02 		Best: 147.87 		N:11
+Kelly          		Mean: 2.44 		Best: 130.16 		N:11
+Castleberry    		Mean: 6.79 		Best: 114.2 		N:6
+Wall           		Mean: 3.16 		Best: 99.08 		N:7
+Akkerman       		Mean: 1.01 		Best: 58.35 		N:13
+Alford         		Mean: 1.82 		Best: 49.79 		N:8
+Barrows        		Mean: 1.71 		Best: 15.62 		N:6
+
+########## REPORT GEN: 51 ##########
+SPECIES: 
+Knight         		Mean: 16.74 		Best: 268.59 		N:5
+Wall           		Mean: 9.43 		Best: 229.86 		N:8
+Lingafelter    		Mean: 9.09 		Best: 212.22 		N:8
+Thrasher       		Mean: 4.69 		Best: 205.41 		N:10
+Alford         		Mean: 3.53 		Best: 174.1 		N:12
+Akkerman       		Mean: 2.71 		Best: 128.89 		N:10
+Bell           		Mean: 9.21 		Best: 106.09 		N:5
+Kelly          		Mean: 2.68 		Best: 105.41 		N:8
+Robson         		Mean: 9.44 		Best: 66.2 		N:3
+Crier          		Mean: 2.29 		Best: 9.5 		N:4
+Castleberry    		Mean: 2.24 		Best: 9.5 		N:4
+Barrows        		Mean: 2.24 		Best: 9.25 		N:4
+
+########## REPORT GEN: 52 ##########
+SPECIES: 
+Wall           		Mean: 13.39 		Best: 235.41 		N:6
+Robson         		Mean: 7.7  		Best: 206.29 		N:9
+Knight         		Mean: 16.22 		Best: 203.6 		N:6
+Alford         		Mean: 5.14 		Best: 167.41 		N:10
+Bell           		Mean: 4.14 		Best: 160.91 		N:8
+Thrasher       		Mean: 5.82 		Best: 155.84 		N:7
+Crier          		Mean: 3.21 		Best: 136.73 		N:8
+Akkerman       		Mean: 8.62 		Best: 107.94 		N:4
+Castleberry    		Mean: 1.75 		Best: 88.0 		N:10
+Lingafelter    		Mean: 2.38 		Best: 9.75 		N:4
+Kelly          		Mean: 1.33 		Best: 9.75 		N:7
+Barrows        		Mean: 3.11 		Best: 9.5 		N:3
+
+########## REPORT GEN: 53 ##########
+SPECIES: 
+Crier          		Mean: 12.25 		Best: 222.56 		N:7
+Wall           		Mean: 29.28 		Best: 209.69 		N:3
+Akkerman       		Mean: 4.52 		Best: 205.76 		N:10
+Thrasher       		Mean: 6.17 		Best: 200.17 		N:8
+Barrows        		Mean: 6.67 		Best: 191.57 		N:6
+Alford         		Mean: 23.09 		Best: 187.2 		N:3
+Knight         		Mean: 3.84 		Best: 179.95 		N:9
+Castleberry    		Mean: 3.62 		Best: 164.92 		N:10
+Lingafelter    		Mean: 3.9  		Best: 150.3 		N:11
+Bell           		Mean: 6.61 		Best: 126.03 		N:6
+Kelly          		Mean: 1.59 		Best: 10.25 		N:6
+
+########## REPORT GEN: 54 ##########
+SPECIES: 
+Alford         		Mean: 8.92 		Best: 203.62 		N:8
+Thrasher       		Mean: 38.08 		Best: 197.11 		N:3
+Robson         		Mean: 14.86 		Best: 190.81 		N:5
+Wall           		Mean: 6.46 		Best: 183.34 		N:6
+Barrows        		Mean: 5.08 		Best: 182.81 		N:9
+Crier          		Mean: 8.22 		Best: 166.24 		N:5
+Akkerman       		Mean: 42.92 		Best: 161.02 		N:2
+Lingafelter    		Mean: 7.9  		Best: 158.95 		N:5
+Kelly          		Mean: 11.15 		Best: 149.32 		N:4
+Bell           		Mean: 4.65 		Best: 69.98 		N:6
+Knight         		Mean: 1.37 		Best: 10.5 		N:7
+Castleberry    		Mean: 2.39 		Best: 9.75 		N:4
+
+########## REPORT GEN: 55 ##########
+SPECIES: 
+Alford         		Mean: 16.04 		Best: 229.44 		N:6
+Barrows        		Mean: 16.67 		Best: 204.65 		N:5
+Castleberry    		Mean: 19.54 		Best: 203.53 		N:4
+Thrasher       		Mean: 16.32 		Best: 201.53 		N:5
+Kelly          		Mean: 14.09 		Best: 200.32 		N:5
+Robson         		Mean: 15.23 		Best: 185.62 		N:6
+Akkerman       		Mean: 12.75 		Best: 179.32 		N:6
+Bell           		Mean: 28.47 		Best: 167.29 		N:3
+Knight         		Mean: 12.16 		Best: 164.47 		N:4
+Crier          		Mean: 15.82 		Best: 122.47 		N:3
+Lingafelter    		Mean: 3.23 		Best: 10.25 		N:3
+Wall           		Mean: 1.32 		Best: 9.75 		N:7
+
+########## REPORT GEN: 56 ##########
+SPECIES: 
+Barrows        		Mean: 11.23 		Best: 211.51 		N:6
+Thrasher       		Mean: 7.92 		Best: 187.02 		N:9
+Crier          		Mean: 11.93 		Best: 184.92 		N:8
+Wall           		Mean: 3.47 		Best: 157.83 		N:10
+Kelly          		Mean: 11.22 		Best: 150.06 		N:4
+Castleberry    		Mean: 2.82 		Best: 142.15 		N:10
+Bell           		Mean: 3.52 		Best: 123.75 		N:9
+Alford         		Mean: 2.82 		Best: 113.54 		N:8
+Lingafelter    		Mean: 1.61 		Best: 10.0 		N:6
+Robson         		Mean: 1.89 		Best: 9.75 		N:5
+Akkerman       		Mean: 2.33 		Best: 9.75 		N:4
+Knight         		Mean: 4.7  		Best: 9.5 		N:2
+
+########## REPORT GEN: 57 ##########
+SPECIES: 
+Lingafelter    		Mean: 5.05 		Best: 222.4 		N:12
+Alford         		Mean: 19.04 		Best: 190.39 		N:5
+Barrows        		Mean: 14.33 		Best: 188.02 		N:6
+Wall           		Mean: 4.98 		Best: 187.35 		N:7
+Knight         		Mean: 4.79 		Best: 174.48 		N:9
+Akkerman       		Mean: 7.78 		Best: 166.92 		N:7
+Bell           		Mean: 3.7  		Best: 124.85 		N:7
+Crier          		Mean: 1.74 		Best: 65.83 		N:9
+Robson         		Mean: 2.41 		Best: 10.0 		N:4
+Thrasher       		Mean: 1.92 		Best: 9.75 		N:5
+Castleberry    		Mean: 2.3  		Best: 9.75 		N:4
+Kelly          		Mean: 2.35 		Best: 9.5 		N:4
+
+########## REPORT GEN: 58 ##########
+SPECIES: 
+Alford         		Mean: 6.19 		Best: 244.9 		N:7
+Castleberry    		Mean: 9.96 		Best: 227.9 		N:7
+Barrows        		Mean: 12.93 		Best: 220.16 		N:6
+Thrasher       		Mean: 5.66 		Best: 219.85 		N:7
+Wall           		Mean: 9.2  		Best: 219.78 		N:7
+Robson         		Mean: 9.91 		Best: 170.31 		N:6
+Bell           		Mean: 11.69 		Best: 147.72 		N:5
+Crier          		Mean: 4.69 		Best: 145.72 		N:9
+Akkerman       		Mean: 5.61 		Best: 100.65 		N:5
+Lingafelter    		Mean: 1.57 		Best: 9.75 		N:6
+Kelly          		Mean: 1.34 		Best: 9.75 		N:7
+Knight         		Mean: 4.44 		Best: 9.0 		N:2
+
+########## REPORT GEN: 59 ##########
+SPECIES: 
+Wall           		Mean: 7.74 		Best: 220.55 		N:8
+Barrows        		Mean: 9.01 		Best: 218.0 		N:7
+Alford         		Mean: 7.82 		Best: 213.9 		N:8
+Akkerman       		Mean: 8.95 		Best: 202.44 		N:7
+Castleberry    		Mean: 7.2  		Best: 188.11 		N:10
+Knight         		Mean: 3.07 		Best: 174.35 		N:10
+Crier          		Mean: 5.69 		Best: 156.2 		N:6
+Kelly          		Mean: 2.96 		Best: 120.17 		N:8
+Lingafelter    		Mean: 0.96 		Best: 10.25 		N:10
+Thrasher       		Mean: 1.92 		Best: 10.0 		N:5
+Robson         		Mean: 1.35 		Best: 9.75 		N:7
+Bell           		Mean: 3.12 		Best: 9.75 		N:3
+
+########## REPORT GEN: 60 ##########
+SPECIES: 
+Robson         		Mean: 17.97 		Best: 271.12 		N:5
+Wall           		Mean: 7.16 		Best: 204.38 		N:8
+Bell           		Mean: 6.23 		Best: 203.59 		N:10
+Crier          		Mean: 3.91 		Best: 198.12 		N:15
+Castleberry    		Mean: 6.3  		Best: 190.76 		N:9
+Barrows        		Mean: 3.06 		Best: 163.54 		N:10
+Kelly          		Mean: 3.42 		Best: 152.1 		N:8
+Lingafelter    		Mean: 2.02 		Best: 147.82 		N:11
+Akkerman       		Mean: 3.2  		Best: 138.37 		N:8
+Knight         		Mean: 6.73 		Best: 129.13 		N:5
+Alford         		Mean: 1.36 		Best: 10.25 		N:7
+Thrasher       		Mean: 2.27 		Best: 9.5 		N:4
+
+########## REPORT GEN: 61 ##########
+SPECIES: 
+Bell           		Mean: 4.57 		Best: 262.17 		N:11
+Akkerman       		Mean: 6.38 		Best: 257.29 		N:10
+Knight         		Mean: 16.78 		Best: 239.03 		N:4
+Barrows        		Mean: 10.0 		Best: 214.3 		N:8
+Kelly          		Mean: 8.24 		Best: 192.64 		N:7
+Castleberry    		Mean: 9.09 		Best: 187.07 		N:5
+Thrasher       		Mean: 4.59 		Best: 182.53 		N:10
+Lingafelter    		Mean: 4.29 		Best: 153.12 		N:7
+Crier          		Mean: 3.91 		Best: 134.49 		N:7
+Wall           		Mean: 5.15 		Best: 89.76 		N:5
+Robson         		Mean: 2.36 		Best: 10.0 		N:4
+Alford         		Mean: 2.33 		Best: 9.5 		N:4
+
+########## REPORT GEN: 62 ##########
+SPECIES: 
+Barrows        		Mean: 3.22 		Best: 293.75 		N:11
+Thrasher       		Mean: 7.76 		Best: 232.23 		N:6
+Knight         		Mean: 5.81 		Best: 226.16 		N:7
+Lingafelter    		Mean: 10.3 		Best: 217.49 		N:5
+Wall           		Mean: 5.59 		Best: 214.45 		N:7
+Kelly          		Mean: 14.98 		Best: 209.76 		N:4
+Alford         		Mean: 6.11 		Best: 168.42 		N:8
+Akkerman       		Mean: 4.83 		Best: 167.52 		N:9
+Bell           		Mean: 2.11 		Best: 158.86 		N:11
+Castleberry    		Mean: 11.71 		Best: 158.63 		N:4
+Crier          		Mean: 5.03 		Best: 77.91 		N:6
+Robson         		Mean: 4.63 		Best: 9.25 		N:2
+
+########## REPORT GEN: 63 ##########
+SPECIES: 
+Castleberry    		Mean: 10.54 		Best: 406.5 		N:9
+Akkerman       		Mean: 5.53 		Best: 225.21 		N:9
+Robson         		Mean: 7.23 		Best: 212.01 		N:6
+Kelly          		Mean: 25.18 		Best: 206.77 		N:3
+Bell           		Mean: 5.09 		Best: 192.68 		N:7
+Crier          		Mean: 4.85 		Best: 181.51 		N:11
+Barrows        		Mean: 3.34 		Best: 146.91 		N:8
+Lingafelter    		Mean: 1.9  		Best: 10.25 		N:5
+Thrasher       		Mean: 1.36 		Best: 10.0 		N:7
+Knight         		Mean: 1.06 		Best: 10.0 		N:9
+Wall           		Mean: 2.37 		Best: 9.75 		N:4
+Alford         		Mean: 2.27 		Best: 9.5 		N:4
+
+########## REPORT GEN: 64 ##########
+SPECIES: 
+Kelly          		Mean: 19.44 		Best: 301.97 		N:5
+Lingafelter    		Mean: 5.29 		Best: 179.81 		N:9
+Knight         		Mean: 5.01 		Best: 175.55 		N:9
+Thrasher       		Mean: 12.67 		Best: 174.16 		N:4
+Robson         		Mean: 3.53 		Best: 159.13 		N:8
+Castleberry    		Mean: 1.59 		Best: 10.0 		N:6
+Barrows        		Mean: 3.2  		Best: 10.0 		N:3
+Crier          		Mean: 2.37 		Best: 9.75 		N:4
+Wall           		Mean: 1.15 		Best: 9.75 		N:8
+Alford         		Mean: 1.8  		Best: 9.75 		N:5
+Bell           		Mean: 1.88 		Best: 9.5 		N:5
+Akkerman       		Mean: 3.01 		Best: 9.25 		N:3
+
+########## REPORT GEN: 65 ##########
+SPECIES: 
+Wall           		Mean: 37.41 		Best: 315.87 		N:3
+Castleberry    		Mean: 5.74 		Best: 299.75 		N:8
+Crier          		Mean: 9.65 		Best: 249.56 		N:7
+Akkerman       		Mean: 10.47 		Best: 221.94 		N:5
+Knight         		Mean: 4.24 		Best: 203.54 		N:8
+Robson         		Mean: 14.51 		Best: 172.82 		N:5
+Bell           		Mean: 1.36 		Best: 10.25 		N:7
+Kelly          		Mean: 4.95 		Best: 10.0 		N:2
+Alford         		Mean: 1.93 		Best: 10.0 		N:5
+Lingafelter    		Mean: 1.5  		Best: 9.75 		N:6
+Thrasher       		Mean: 1.9  		Best: 9.75 		N:5
+Barrows        		Mean: 3.03 		Best: 9.25 		N:3
+
+########## REPORT GEN: 66 ##########
+SPECIES: 
+Thrasher       		Mean: 21.64 		Best: 500.0 		N:5
+Barrows        		Mean: 28.99 		Best: 297.03 		N:5
+Wall           		Mean: 6.89 		Best: 198.82 		N:6
+Robson         		Mean: 13.4 		Best: 185.38 		N:4
+Knight         		Mean: 8.9  		Best: 183.98 		N:5
+Kelly          		Mean: 10.88 		Best: 181.1 		N:6
+Bell           		Mean: 8.48 		Best: 172.97 		N:5
+Crier          		Mean: 8.09 		Best: 162.99 		N:5
+Castleberry    		Mean: 1.34 		Best: 10.0 		N:7
+Akkerman       		Mean: 1.62 		Best: 10.0 		N:6
+Alford         		Mean: 2.41 		Best: 10.0 		N:4
+Lingafelter    		Mean: 3.09 		Best: 9.25 		N:3
+

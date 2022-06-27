@@ -1,0 +1,768 @@
+########## REPORT GEN: 2 ##########
+SPECIES: 
+Jones          		Mean: 62.76 		Best: 950.66 		N:16
+Hill           		Mean: 470.93 		Best: 933.51 		N:2
+Cutts          		Mean: 72.73 		Best: 939.89 		N:14
+Ratcliff       		Mean: 66.88 		Best: 931.27 		N:14
+Hopper         		Mean: 56.04 		Best: 939.89 		N:18
+Schott         		Mean: 133.5 		Best: 931.27 		N:7
+Jackson        		Mean: 186.25 		Best: 931.27 		N:5
+Baylor         		Mean: 67.21 		Best: 934.1 		N:15
+Ledesma        		Mean: 317.37 		Best: 931.27 		N:3
+Payne          		Mean: 323.01 		Best: 922.47 		N:3
+Fox            		Mean: 330.11 		Best: 934.1 		N:3
+
+########## REPORT GEN: 3 ##########
+SPECIES: 
+Dunlap         		Mean: 248.42 		Best: 950.66 		N:4
+Ramos          		Mean: 328.83 		Best: 935.58 		N:3
+Hill           		Mean: 192.08 		Best: 934.1 		N:5
+Hopper         		Mean: 195.96 		Best: 934.1 		N:5
+Cutts          		Mean: 124.8 		Best: 933.51 		N:8
+Fox            		Mean: 99.27 		Best: 934.1 		N:10
+Mccartney      		Mean: 124.09 		Best: 934.1 		N:8
+Jones          		Mean: 141.02 		Best: 931.27 		N:7
+Ratcliff       		Mean: 85.92 		Best: 931.27 		N:11
+Schott         		Mean: 80.61 		Best: 931.27 		N:12
+Jackson        		Mean: 137.29 		Best: 939.89 		N:7
+Baylor         		Mean: 162.84 		Best: 931.27 		N:6
+Payne          		Mean: 247.04 		Best: 931.27 		N:4
+Kimball        		Mean: 123.23 		Best: 931.27 		N:8
+
+########## REPORT GEN: 4 ##########
+SPECIES: 
+Mccartney      		Mean: 98.23 		Best: 950.66 		N:10
+Ramos          		Mean: 142.19 		Best: 942.62 		N:7
+Dunlap         		Mean: 99.48 		Best: 933.51 		N:10
+Jones          		Mean: 198.74 		Best: 933.51 		N:5
+Kimball        		Mean: 242.95 		Best: 933.51 		N:4
+Meyers         		Mean: 318.29 		Best: 933.51 		N:3
+Hill           		Mean: 475.24 		Best: 931.27 		N:2
+Hopper         		Mean: 165.64 		Best: 935.58 		N:6
+Fox            		Mean: 123.6 		Best: 934.1 		N:8
+Ratcliff       		Mean: 156.36 		Best: 931.27 		N:6
+Jackson        		Mean: 162.3 		Best: 931.27 		N:6
+Baylor         		Mean: 326.56 		Best: 935.58 		N:3
+Ledesma        		Mean: 194.76 		Best: 939.89 		N:5
+Payne          		Mean: 109.58 		Best: 931.73 		N:9
+Copeland       		Mean: 479.19 		Best: 931.27 		N:2
+Jackson        		Mean: 478.73 		Best: 931.27 		N:2
+Fairbanks      		Mean: 194.16 		Best: 931.27 		N:5
+Schott         		Mean: 160.78 		Best: 931.27 		N:6
+
+########## REPORT GEN: 5 ##########
+SPECIES: 
+Ledesma        		Mean: 108.7 		Best: 950.66 		N:9
+Kimball        		Mean: 88.95 		Best: 942.62 		N:11
+Baylor         		Mean: 468.76 		Best: 934.1 		N:2
+Dunlap         		Mean: 191.94 		Best: 933.84 		N:5
+Ramos          		Mean: 138.85 		Best: 933.51 		N:7
+Meyers         		Mean: 476.42 		Best: 933.51 		N:2
+Fairbanks      		Mean: 320.41 		Best: 933.51 		N:3
+Jones          		Mean: 139.92 		Best: 935.58 		N:7
+Hill           		Mean: 122.65 		Best: 932.39 		N:8
+Hopper         		Mean: 88.83 		Best: 935.46 		N:11
+Fox            		Mean: 244.37 		Best: 931.27 		N:4
+Ratcliff       		Mean: 240.26 		Best: 931.27 		N:4
+Jackson        		Mean: 162.47 		Best: 931.27 		N:6
+Payne          		Mean: 195.34 		Best: 931.27 		N:5
+Copeland       		Mean: 239.63 		Best: 931.27 		N:4
+Jackson        		Mean: 244.57 		Best: 933.51 		N:4
+Schott         		Mean: 240.04 		Best: 931.27 		N:4
+Cutts          		Mean: 461.23 		Best: 922.47 		N:2
+
+########## REPORT GEN: 6 ##########
+SPECIES: 
+Schott         		Mean: 139.66 		Best: 950.66 		N:7
+Jackson        		Mean: 320.94 		Best: 942.62 		N:3
+Hopper         		Mean: 160.5 		Best: 934.1 		N:6
+Ledesma        		Mean: 194.25 		Best: 933.84 		N:5
+Baylor         		Mean: 122.99 		Best: 933.84 		N:8
+Ramos          		Mean: 88.39 		Best: 933.51 		N:11
+Fairbanks      		Mean: 139.35 		Best: 934.1 		N:7
+Copeland       		Mean: 239.58 		Best: 933.51 		N:4
+Mccartney      		Mean: 240.24 		Best: 934.1 		N:4
+Kimball        		Mean: 161.18 		Best: 934.1 		N:6
+Dunlap         		Mean: 190.77 		Best: 934.61 		N:5
+Fox            		Mean: 242.38 		Best: 931.27 		N:4
+Ratcliff       		Mean: 191.34 		Best: 931.27 		N:5
+Cutts          		Mean: 138.02 		Best: 931.27 		N:7
+Gallardo       		Mean: 316.76 		Best: 931.27 		N:3
+Payne          		Mean: 241.23 		Best: 931.27 		N:4
+Meyers         		Mean: 469.22 		Best: 926.09 		N:2
+Hill           		Mean: 137.69 		Best: 927.26 		N:7
+
+########## REPORT GEN: 7 ##########
+SPECIES: 
+Fox            		Mean: 161.38 		Best: 950.66 		N:6
+Copeland       		Mean: 120.36 		Best: 942.62 		N:8
+Gallardo       		Mean: 192.55 		Best: 942.62 		N:5
+Baylor         		Mean: 237.17 		Best: 934.1 		N:4
+Schott         		Mean: 192.84 		Best: 933.51 		N:5
+Jackson        		Mean: 191.2 		Best: 933.51 		N:5
+Payne          		Mean: 193.21 		Best: 934.1 		N:5
+Jackson        		Mean: 316.85 		Best: 931.27 		N:3
+Hopper         		Mean: 158.88 		Best: 931.27 		N:6
+Ramos          		Mean: 192.35 		Best: 931.27 		N:5
+Dunlap         		Mean: 239.69 		Best: 931.27 		N:4
+Ratcliff       		Mean: 193.05 		Best: 931.27 		N:5
+Cutts          		Mean: 136.88 		Best: 931.27 		N:7
+Hill           		Mean: 137.28 		Best: 931.27 		N:7
+Ledesma        		Mean: 137.43 		Best: 933.84 		N:7
+Mccartney      		Mean: 190.95 		Best: 933.51 		N:5
+Jones          		Mean: 193.68 		Best: 933.51 		N:5
+Meyers         		Mean: 237.96 		Best: 930.09 		N:4
+Kimball        		Mean: 313.49 		Best: 918.62 		N:3
+
+########## REPORT GEN: 8 ##########
+SPECIES: 
+Fox            		Mean: 191.41 		Best: 950.66 		N:5
+Cutts          		Mean: 192.34 		Best: 950.66 		N:5
+Jackson        		Mean: 136.7 		Best: 942.62 		N:7
+Dunlap         		Mean: 136.31 		Best: 942.62 		N:7
+Baylor         		Mean: 159.92 		Best: 941.47 		N:6
+Kimball        		Mean: 136.82 		Best: 939.89 		N:7
+Jackson        		Mean: 160.65 		Best: 934.1 		N:6
+Payne          		Mean: 119.89 		Best: 933.51 		N:8
+Jones          		Mean: 190.67 		Best: 932.44 		N:5
+Copeland       		Mean: 158.4 		Best: 931.27 		N:6
+Fairbanks      		Mean: 320.71 		Best: 934.1 		N:3
+Schott         		Mean: 158.11 		Best: 931.27 		N:6
+Gallardo       		Mean: 118.61 		Best: 931.27 		N:8
+Ramos          		Mean: 237.82 		Best: 930.09 		N:4
+Hill           		Mean: 189.83 		Best: 930.09 		N:5
+Mccartney      		Mean: 160.31 		Best: 933.51 		N:6
+Ledesma        		Mean: 471.35 		Best: 922.45 		N:2
+Hopper         		Mean: 465.41 		Best: 911.91 		N:2
+
+########## REPORT GEN: 9 ##########
+SPECIES: 
+Ledesma        		Mean: 160.76 		Best: 950.66 		N:6
+Cutts          		Mean: 160.26 		Best: 942.62 		N:6
+Dunlap         		Mean: 190.07 		Best: 941.47 		N:5
+Hill           		Mean: 241.58 		Best: 940.72 		N:4
+Baylor         		Mean: 160.33 		Best: 939.89 		N:6
+Fox            		Mean: 191.05 		Best: 938.47 		N:5
+Schott         		Mean: 317.23 		Best: 932.44 		N:3
+Hopper         		Mean: 159.72 		Best: 932.44 		N:6
+Copeland       		Mean: 472.28 		Best: 931.73 		N:2
+Ratcliff       		Mean: 310.76 		Best: 931.27 		N:3
+Fairbanks      		Mean: 133.81 		Best: 931.27 		N:7
+Meyers         		Mean: 311.66 		Best: 931.27 		N:3
+Ramos          		Mean: 190.4 		Best: 931.04 		N:5
+Jackson        		Mean: 134.69 		Best: 931.27 		N:7
+Payne          		Mean: 158.26 		Best: 930.09 		N:6
+Jones          		Mean: 191.19 		Best: 932.44 		N:5
+Gallardo       		Mean: 135.63 		Best: 932.44 		N:7
+Jackson        		Mean: 134.86 		Best: 927.26 		N:7
+Mccartney      		Mean: 156.61 		Best: 925.83 		N:6
+
+########## REPORT GEN: 10 ##########
+SPECIES: 
+Ramos          		Mean: 105.53 		Best: 951.07 		N:9
+Jones          		Mean: 158.22 		Best: 950.66 		N:6
+Kimball        		Mean: 238.51 		Best: 950.66 		N:4
+Payne          		Mean: 188.19 		Best: 943.77 		N:5
+Schott         		Mean: 240.28 		Best: 942.62 		N:4
+Ratcliff       		Mean: 136.07 		Best: 940.72 		N:7
+Gallardo       		Mean: 476.22 		Best: 939.89 		N:2
+Fairbanks      		Mean: 189.22 		Best: 938.47 		N:5
+Jackson        		Mean: 190.94 		Best: 938.47 		N:5
+Jackson        		Mean: 239.67 		Best: 941.47 		N:4
+Baylor         		Mean: 134.4 		Best: 934.1 		N:7
+Dunlap         		Mean: 134.25 		Best: 933.51 		N:7
+Fox            		Mean: 190.23 		Best: 933.51 		N:5
+Meyers         		Mean: 238.16 		Best: 933.51 		N:4
+Hill           		Mean: 185.26 		Best: 932.44 		N:5
+Ledesma        		Mean: 188.97 		Best: 931.27 		N:5
+Cutts          		Mean: 316.94 		Best: 931.27 		N:3
+Hopper         		Mean: 118.63 		Best: 931.27 		N:8
+Mccartney      		Mean: 316.34 		Best: 930.09 		N:3
+Copeland       		Mean: 310.5 		Best: 922.47 		N:3
+
+########## REPORT GEN: 11 ##########
+SPECIES: 
+Gallardo       		Mean: 135.98 		Best: 953.24 		N:7
+Mccartney      		Mean: 190.08 		Best: 951.08 		N:5
+Jones          		Mean: 106.15 		Best: 951.07 		N:9
+Ramos          		Mean: 237.62 		Best: 950.66 		N:4
+Schott         		Mean: 321.86 		Best: 950.66 		N:3
+Fairbanks      		Mean: 313.93 		Best: 941.47 		N:3
+Jackson        		Mean: 191.82 		Best: 940.72 		N:5
+Hopper         		Mean: 158.16 		Best: 939.89 		N:6
+Copeland       		Mean: 191.75 		Best: 942.62 		N:5
+Dunlap         		Mean: 118.24 		Best: 938.47 		N:8
+Fox            		Mean: 156.75 		Best: 938.47 		N:6
+Ledesma        		Mean: 118.47 		Best: 938.47 		N:8
+Cutts          		Mean: 136.56 		Best: 938.47 		N:7
+Hill           		Mean: 315.71 		Best: 934.1 		N:3
+Baylor         		Mean: 236.97 		Best: 933.51 		N:4
+Kimball        		Mean: 308.67 		Best: 931.27 		N:3
+Meyers         		Mean: 311.37 		Best: 931.27 		N:3
+Payne          		Mean: 134.73 		Best: 933.95 		N:7
+Jackson        		Mean: 469.71 		Best: 924.79 		N:2
+Ratcliff       		Mean: 468.33 		Best: 920.54 		N:2
+
+########## REPORT GEN: 12 ##########
+SPECIES: 
+Hopper         		Mean: 188.06 		Best: 960.38 		N:5
+Gallardo       		Mean: 136.45 		Best: 951.08 		N:7
+Dunlap         		Mean: 157.97 		Best: 951.08 		N:6
+Payne          		Mean: 159.92 		Best: 951.07 		N:6
+Ratcliff       		Mean: 158.39 		Best: 951.06 		N:6
+Hill           		Mean: 476.69 		Best: 950.66 		N:2
+Kimball        		Mean: 480.48 		Best: 949.22 		N:2
+Fairbanks      		Mean: 231.83 		Best: 939.89 		N:4
+Cutts          		Mean: 118.12 		Best: 939.89 		N:8
+Schott         		Mean: 158.49 		Best: 939.05 		N:6
+Fox            		Mean: 135.07 		Best: 938.47 		N:7
+Baylor         		Mean: 189.42 		Best: 938.47 		N:5
+Jackson        		Mean: 134.73 		Best: 933.84 		N:7
+Mccartney      		Mean: 136.69 		Best: 939.89 		N:7
+Ledesma        		Mean: 156.82 		Best: 932.32 		N:6
+Jones          		Mean: 233.97 		Best: 930.09 		N:4
+Copeland       		Mean: 463.84 		Best: 930.09 		N:2
+Meyers         		Mean: 104.55 		Best: 930.09 		N:9
+
+########## REPORT GEN: 13 ##########
+SPECIES: 
+Fox            		Mean: 119.33 		Best: 951.08 		N:8
+Fairbanks      		Mean: 190.65 		Best: 951.08 		N:5
+Cutts          		Mean: 159.09 		Best: 950.66 		N:6
+Baylor         		Mean: 190.2 		Best: 950.66 		N:5
+Jones          		Mean: 134.41 		Best: 950.66 		N:7
+Meyers         		Mean: 135.67 		Best: 950.66 		N:7
+Ratcliff       		Mean: 134.67 		Best: 950.66 		N:7
+Hill           		Mean: 135.09 		Best: 949.22 		N:7
+Jackson        		Mean: 236.38 		Best: 949.22 		N:4
+Mccartney      		Mean: 237.84 		Best: 951.08 		N:4
+Gallardo       		Mean: 311.16 		Best: 939.05 		N:3
+Payne          		Mean: 234.29 		Best: 937.55 		N:4
+Jackson        		Mean: 105.24 		Best: 937.55 		N:9
+Copeland       		Mean: 234.69 		Best: 933.84 		N:4
+Hopper         		Mean: 186.99 		Best: 933.51 		N:5
+Kimball        		Mean: 155.03 		Best: 930.09 		N:6
+Schott         		Mean: 311.36 		Best: 927.26 		N:3
+Dunlap         		Mean: 306.03 		Best: 918.62 		N:3
+Ledesma        		Mean: 304.42 		Best: 910.43 		N:3
+
+########## REPORT GEN: 14 ##########
+SPECIES: 
+Copeland       		Mean: 189.27 		Best: 968.04 		N:5
+Dunlap         		Mean: 158.97 		Best: 960.38 		N:6
+Fairbanks      		Mean: 103.04 		Best: 951.07 		N:9
+Hill           		Mean: 134.54 		Best: 950.66 		N:7
+Mccartney      		Mean: 156.17 		Best: 950.66 		N:6
+Jackson        		Mean: 478.71 		Best: 949.22 		N:2
+Payne          		Mean: 237.54 		Best: 949.22 		N:4
+Jackson        		Mean: 237.0 		Best: 950.66 		N:4
+Kimball        		Mean: 136.0 		Best: 950.66 		N:7
+Schott         		Mean: 118.65 		Best: 950.66 		N:8
+Baylor         		Mean: 185.62 		Best: 939.05 		N:5
+Meyers         		Mean: 235.65 		Best: 938.47 		N:4
+Hopper         		Mean: 116.5 		Best: 938.47 		N:8
+Cutts          		Mean: 313.39 		Best: 937.55 		N:3
+Ratcliff       		Mean: 236.29 		Best: 937.55 		N:4
+Jones          		Mean: 186.05 		Best: 930.09 		N:5
+Fox            		Mean: 231.46 		Best: 922.41 		N:4
+Ledesma        		Mean: 154.43 		Best: 921.73 		N:6
+Gallardo       		Mean: 306.69 		Best: 910.21 		N:3
+
+########## REPORT GEN: 15 ##########
+SPECIES: 
+Hill           		Mean: 135.56 		Best: 968.04 		N:7
+Meyers         		Mean: 135.5 		Best: 968.04 		N:7
+Ratcliff       		Mean: 312.29 		Best: 968.04 		N:3
+Kimball        		Mean: 134.64 		Best: 960.38 		N:7
+Dunlap         		Mean: 232.74 		Best: 951.07 		N:4
+Cutts          		Mean: 188.65 		Best: 951.07 		N:5
+Gallardo       		Mean: 133.53 		Best: 950.66 		N:7
+Copeland       		Mean: 117.38 		Best: 949.22 		N:8
+Mccartney      		Mean: 157.28 		Best: 949.22 		N:6
+Fox            		Mean: 156.96 		Best: 949.22 		N:6
+Ledesma        		Mean: 187.64 		Best: 949.22 		N:5
+Schott         		Mean: 187.16 		Best: 938.47 		N:5
+Fairbanks      		Mean: 309.24 		Best: 933.51 		N:3
+Jackson        		Mean: 232.86 		Best: 933.51 		N:4
+Baylor         		Mean: 309.09 		Best: 933.51 		N:3
+Jackson        		Mean: 188.19 		Best: 931.27 		N:5
+Payne          		Mean: 155.74 		Best: 930.09 		N:6
+Jones          		Mean: 233.86 		Best: 930.09 		N:4
+Hopper         		Mean: 182.18 		Best: 925.53 		N:5
+
+########## REPORT GEN: 16 ##########
+SPECIES: 
+Dunlap         		Mean: 85.04 		Best: 968.04 		N:11
+Gallardo       		Mean: 188.16 		Best: 968.04 		N:5
+Schott         		Mean: 237.71 		Best: 968.04 		N:4
+Fairbanks      		Mean: 239.63 		Best: 968.04 		N:4
+Jackson        		Mean: 133.42 		Best: 968.04 		N:7
+Payne          		Mean: 185.22 		Best: 968.04 		N:5
+Kimball        		Mean: 104.86 		Best: 960.38 		N:9
+Fox            		Mean: 236.46 		Best: 960.38 		N:4
+Ledesma        		Mean: 134.14 		Best: 951.07 		N:7
+Baylor         		Mean: 189.29 		Best: 951.07 		N:5
+Hill           		Mean: 471.89 		Best: 950.66 		N:2
+Hopper         		Mean: 239.86 		Best: 951.07 		N:4
+Copeland       		Mean: 94.27 		Best: 949.22 		N:10
+Ratcliff       		Mean: 232.68 		Best: 938.47 		N:4
+Mccartney      		Mean: 187.17 		Best: 931.27 		N:5
+Meyers         		Mean: 92.54 		Best: 931.27 		N:10
+Jones          		Mean: 460.92 		Best: 922.41 		N:2
+
+########## REPORT GEN: 17 ##########
+SPECIES: 
+Schott         		Mean: 189.8 		Best: 968.04 		N:5
+Payne          		Mean: 119.13 		Best: 968.04 		N:8
+Fox            		Mean: 92.81 		Best: 968.04 		N:10
+Hopper         		Mean: 95.43 		Best: 968.04 		N:10
+Meyers         		Mean: 116.84 		Best: 968.04 		N:8
+Cutts          		Mean: 231.05 		Best: 968.04 		N:4
+Kimball        		Mean: 236.58 		Best: 960.38 		N:4
+Baylor         		Mean: 158.44 		Best: 960.38 		N:6
+Fairbanks      		Mean: 154.83 		Best: 951.07 		N:6
+Jackson        		Mean: 189.49 		Best: 950.66 		N:5
+Ratcliff       		Mean: 156.84 		Best: 949.22 		N:6
+Jackson        		Mean: 117.19 		Best: 933.51 		N:8
+Copeland       		Mean: 185.01 		Best: 933.51 		N:5
+Dunlap         		Mean: 310.73 		Best: 931.27 		N:3
+Mccartney      		Mean: 461.3 		Best: 931.27 		N:2
+Hill           		Mean: 230.37 		Best: 928.42 		N:4
+Jones          		Mean: 232.07 		Best: 926.25 		N:4
+
+########## REPORT GEN: 18 ##########
+SPECIES: 
+Payne          		Mean: 158.78 		Best: 968.04 		N:6
+Cutts          		Mean: 131.77 		Best: 968.04 		N:7
+Ledesma        		Mean: 238.33 		Best: 968.04 		N:4
+Ratcliff       		Mean: 157.0 		Best: 968.04 		N:6
+Hill           		Mean: 156.7 		Best: 968.04 		N:6
+Fox            		Mean: 238.91 		Best: 960.38 		N:4
+Meyers         		Mean: 105.31 		Best: 960.38 		N:9
+Jones          		Mean: 133.39 		Best: 951.07 		N:7
+Jackson        		Mean: 134.4 		Best: 950.66 		N:7
+Copeland       		Mean: 158.09 		Best: 951.07 		N:6
+Dunlap         		Mean: 235.21 		Best: 950.66 		N:4
+Kimball        		Mean: 103.48 		Best: 943.77 		N:9
+Jackson        		Mean: 465.3 		Best: 938.04 		N:2
+Fairbanks      		Mean: 182.96 		Best: 932.0 		N:5
+Hopper         		Mean: 312.63 		Best: 931.27 		N:3
+Schott         		Mean: 232.04 		Best: 931.27 		N:4
+Baylor         		Mean: 184.51 		Best: 926.09 		N:5
+Gallardo       		Mean: 458.85 		Best: 925.53 		N:2
+Mccartney      		Mean: 228.1 		Best: 906.63 		N:4
+
+########## REPORT GEN: 19 ##########
+SPECIES: 
+Hill           		Mean: 235.13 		Best: 968.04 		N:4
+Fox            		Mean: 236.38 		Best: 968.04 		N:4
+Jones          		Mean: 104.59 		Best: 968.04 		N:9
+Copeland       		Mean: 237.87 		Best: 968.04 		N:4
+Baylor         		Mean: 158.15 		Best: 968.04 		N:6
+Dunlap         		Mean: 135.76 		Best: 967.95 		N:7
+Ledesma        		Mean: 158.42 		Best: 949.22 		N:6
+Ratcliff       		Mean: 234.99 		Best: 951.76 		N:4
+Jackson        		Mean: 77.44 		Best: 949.22 		N:12
+Mccartney      		Mean: 116.88 		Best: 949.22 		N:8
+Jackson        		Mean: 158.22 		Best: 950.66 		N:6
+Hopper         		Mean: 153.35 		Best: 943.77 		N:6
+Schott         		Mean: 230.7 		Best: 938.04 		N:4
+Fairbanks      		Mean: 103.25 		Best: 932.0 		N:9
+Kimball        		Mean: 461.48 		Best: 925.83 		N:2
+Gallardo       		Mean: 460.18 		Best: 925.83 		N:2
+Meyers         		Mean: 458.77 		Best: 925.53 		N:2
+Payne          		Mean: 184.07 		Best: 925.53 		N:5
+
+########## REPORT GEN: 20 ##########
+SPECIES: 
+Copeland       		Mean: 238.02 		Best: 968.04 		N:4
+Ratcliff       		Mean: 94.51 		Best: 968.04 		N:10
+Jackson        		Mean: 191.96 		Best: 968.04 		N:5
+Fairbanks      		Mean: 156.98 		Best: 968.04 		N:6
+Kimball        		Mean: 71.76 		Best: 968.04 		N:13
+Gallardo       		Mean: 313.21 		Best: 968.04 		N:3
+Jones          		Mean: 188.28 		Best: 967.95 		N:5
+Jackson        		Mean: 313.96 		Best: 960.38 		N:3
+Payne          		Mean: 158.25 		Best: 951.76 		N:6
+Fox            		Mean: 103.93 		Best: 949.27 		N:9
+Hopper         		Mean: 187.72 		Best: 949.27 		N:5
+Ledesma        		Mean: 134.67 		Best: 949.22 		N:7
+Meyers         		Mean: 315.4 		Best: 949.01 		N:3
+Schott         		Mean: 313.49 		Best: 944.12 		N:3
+Baylor         		Mean: 231.45 		Best: 931.27 		N:4
+Hill           		Mean: 153.43 		Best: 925.83 		N:6
+Mccartney      		Mean: 306.61 		Best: 925.83 		N:3
+Dunlap         		Mean: 153.58 		Best: 926.25 		N:6
+
+########## REPORT GEN: 21 ##########
+SPECIES: 
+Kimball        		Mean: 315.93 		Best: 968.04 		N:3
+Meyers         		Mean: 71.44 		Best: 968.04 		N:13
+Schott         		Mean: 156.78 		Best: 968.04 		N:6
+Dunlap         		Mean: 118.52 		Best: 968.04 		N:8
+Jackson        		Mean: 133.91 		Best: 968.04 		N:7
+Copeland       		Mean: 231.69 		Best: 960.38 		N:4
+Jackson        		Mean: 93.16 		Best: 951.76 		N:10
+Payne          		Mean: 157.13 		Best: 951.07 		N:6
+Gallardo       		Mean: 157.66 		Best: 949.27 		N:6
+Ledesma        		Mean: 104.21 		Best: 949.27 		N:9
+Hill           		Mean: 188.99 		Best: 949.22 		N:5
+Jones          		Mean: 236.05 		Best: 949.01 		N:4
+Fairbanks      		Mean: 187.93 		Best: 944.12 		N:5
+Baylor         		Mean: 185.69 		Best: 939.93 		N:5
+Fox            		Mean: 308.92 		Best: 936.85 		N:3
+Mccartney      		Mean: 461.49 		Best: 925.83 		N:2
+Hopper         		Mean: 457.81 		Best: 925.83 		N:2
+Ratcliff       		Mean: 450.65 		Best: 896.96 		N:2
+
+########## REPORT GEN: 22 ##########
+SPECIES: 
+Meyers         		Mean: 318.52 		Best: 968.04 		N:3
+Schott         		Mean: 156.02 		Best: 968.04 		N:6
+Mccartney      		Mean: 104.4 		Best: 968.04 		N:9
+Hopper         		Mean: 189.19 		Best: 968.04 		N:5
+Ratcliff       		Mean: 317.42 		Best: 968.04 		N:3
+Jackson        		Mean: 155.89 		Best: 968.04 		N:6
+Gallardo       		Mean: 115.51 		Best: 968.04 		N:8
+Ledesma        		Mean: 136.4 		Best: 968.04 		N:7
+Baylor         		Mean: 314.59 		Best: 960.38 		N:3
+Kimball        		Mean: 235.76 		Best: 960.38 		N:4
+Hill           		Mean: 132.85 		Best: 960.38 		N:7
+Fairbanks      		Mean: 94.01 		Best: 949.27 		N:10
+Fox            		Mean: 104.07 		Best: 949.01 		N:9
+Dunlap         		Mean: 132.37 		Best: 925.83 		N:7
+Jackson        		Mean: 308.41 		Best: 925.83 		N:3
+Copeland       		Mean: 182.89 		Best: 913.46 		N:5
+Payne          		Mean: 227.32 		Best: 901.05 		N:4
+
+########## REPORT GEN: 23 ##########
+SPECIES: 
+Mccartney      		Mean: 188.41 		Best: 968.04 		N:5
+Hopper         		Mean: 157.56 		Best: 968.04 		N:6
+Jackson        		Mean: 188.69 		Best: 968.04 		N:5
+Fox            		Mean: 155.7 		Best: 968.04 		N:6
+Payne          		Mean: 119.52 		Best: 968.04 		N:8
+Gallardo       		Mean: 116.8 		Best: 968.04 		N:8
+Ledesma        		Mean: 187.78 		Best: 967.95 		N:5
+Jones          		Mean: 237.99 		Best: 967.95 		N:4
+Schott         		Mean: 134.77 		Best: 960.38 		N:7
+Jackson        		Mean: 134.08 		Best: 960.38 		N:7
+Dunlap         		Mean: 234.02 		Best: 953.35 		N:4
+Kimball        		Mean: 315.3 		Best: 949.27 		N:3
+Hill           		Mean: 155.54 		Best: 944.12 		N:6
+Fairbanks      		Mean: 132.38 		Best: 943.77 		N:7
+Baylor         		Mean: 185.69 		Best: 936.98 		N:5
+Meyers         		Mean: 185.89 		Best: 927.07 		N:5
+Ratcliff       		Mean: 153.96 		Best: 926.25 		N:6
+Copeland       		Mean: 303.49 		Best: 907.82 		N:3
+
+########## REPORT GEN: 24 ##########
+SPECIES: 
+Fox            		Mean: 484.01 		Best: 968.04 		N:2
+Gallardo       		Mean: 318.87 		Best: 968.04 		N:3
+Schott         		Mean: 158.75 		Best: 968.04 		N:6
+Kimball        		Mean: 133.8 		Best: 968.04 		N:7
+Baylor         		Mean: 190.97 		Best: 968.04 		N:5
+Meyers         		Mean: 321.41 		Best: 968.04 		N:3
+Jones          		Mean: 133.8 		Best: 968.04 		N:7
+Jackson        		Mean: 103.56 		Best: 967.95 		N:9
+Ledesma        		Mean: 133.05 		Best: 967.95 		N:7
+Jackson        		Mean: 134.9 		Best: 967.95 		N:7
+Hopper         		Mean: 155.55 		Best: 960.38 		N:6
+Mccartney      		Mean: 155.38 		Best: 950.99 		N:6
+Fairbanks      		Mean: 185.34 		Best: 943.77 		N:5
+Copeland       		Mean: 232.39 		Best: 936.85 		N:4
+Dunlap         		Mean: 115.48 		Best: 925.83 		N:8
+Hill           		Mean: 186.36 		Best: 925.83 		N:5
+Ratcliff       		Mean: 184.45 		Best: 922.48 		N:5
+Payne          		Mean: 183.16 		Best: 914.0 		N:5
+
+########## REPORT GEN: 25 ##########
+SPECIES: 
+Fox            		Mean: 154.75 		Best: 968.04 		N:6
+Baylor         		Mean: 236.51 		Best: 968.04 		N:4
+Ledesma        		Mean: 189.8 		Best: 968.04 		N:5
+Payne          		Mean: 317.27 		Best: 968.04 		N:3
+Hopper         		Mean: 187.55 		Best: 968.04 		N:5
+Gallardo       		Mean: 118.95 		Best: 968.04 		N:8
+Schott         		Mean: 135.74 		Best: 967.95 		N:7
+Fairbanks      		Mean: 116.2 		Best: 960.38 		N:8
+Jackson        		Mean: 187.67 		Best: 960.38 		N:5
+Jackson        		Mean: 116.91 		Best: 960.38 		N:8
+Mccartney      		Mean: 155.61 		Best: 944.42 		N:6
+Dunlap         		Mean: 156.93 		Best: 943.77 		N:6
+Ratcliff       		Mean: 154.78 		Best: 943.77 		N:6
+Hill           		Mean: 153.16 		Best: 936.85 		N:6
+Kimball        		Mean: 115.15 		Best: 934.47 		N:8
+Meyers         		Mean: 184.41 		Best: 931.8 		N:5
+Jones          		Mean: 306.27 		Best: 925.83 		N:3
+
+########## REPORT GEN: 26 ##########
+SPECIES: 
+Jackson        		Mean: 316.34 		Best: 968.04 		N:3
+Mccartney      		Mean: 117.89 		Best: 968.04 		N:8
+Dunlap         		Mean: 116.86 		Best: 968.04 		N:8
+Hill           		Mean: 157.33 		Best: 968.04 		N:6
+Meyers         		Mean: 135.26 		Best: 968.04 		N:7
+Ledesma        		Mean: 135.47 		Best: 967.95 		N:7
+Payne          		Mean: 231.93 		Best: 967.95 		N:4
+Fox            		Mean: 314.07 		Best: 960.38 		N:3
+Hopper         		Mean: 133.4 		Best: 960.38 		N:7
+Fairbanks      		Mean: 104.51 		Best: 960.38 		N:9
+Jones          		Mean: 238.02 		Best: 960.38 		N:4
+Baylor         		Mean: 474.84 		Best: 956.8 		N:2
+Schott         		Mean: 115.71 		Best: 952.67 		N:8
+Gallardo       		Mean: 155.32 		Best: 944.36 		N:6
+Copeland       		Mean: 153.32 		Best: 944.12 		N:6
+Jackson        		Mean: 463.23 		Best: 943.77 		N:2
+Ratcliff       		Mean: 231.39 		Best: 931.8 		N:4
+Kimball        		Mean: 153.81 		Best: 931.8 		N:6
+
+########## REPORT GEN: 27 ##########
+SPECIES: 
+Jackson        		Mean: 186.59 		Best: 968.04 		N:5
+Hill           		Mean: 93.19 		Best: 968.04 		N:10
+Meyers         		Mean: 132.8 		Best: 968.04 		N:7
+Baylor         		Mean: 156.5 		Best: 968.04 		N:6
+Kimball        		Mean: 133.08 		Best: 968.04 		N:7
+Schott         		Mean: 187.09 		Best: 967.95 		N:5
+Ratcliff       		Mean: 134.88 		Best: 967.95 		N:7
+Ledesma        		Mean: 131.82 		Best: 960.38 		N:7
+Fox            		Mean: 188.77 		Best: 960.38 		N:5
+Fairbanks      		Mean: 116.64 		Best: 960.38 		N:8
+Jones          		Mean: 186.02 		Best: 960.38 		N:5
+Gallardo       		Mean: 156.52 		Best: 960.38 		N:6
+Jackson        		Mean: 310.8 		Best: 950.6 		N:3
+Payne          		Mean: 187.21 		Best: 950.46 		N:5
+Hopper         		Mean: 307.43 		Best: 937.84 		N:3
+Dunlap         		Mean: 227.92 		Best: 927.79 		N:4
+Mccartney      		Mean: 183.27 		Best: 924.12 		N:5
+Copeland       		Mean: 455.08 		Best: 911.3 		N:2
+
+########## REPORT GEN: 28 ##########
+SPECIES: 
+Meyers         		Mean: 135.44 		Best: 968.04 		N:7
+Kimball        		Mean: 103.6 		Best: 968.04 		N:9
+Jackson        		Mean: 310.05 		Best: 968.04 		N:3
+Copeland       		Mean: 116.77 		Best: 968.04 		N:8
+Fox            		Mean: 135.32 		Best: 968.04 		N:7
+Dunlap         		Mean: 115.87 		Best: 967.95 		N:8
+Schott         		Mean: 472.24 		Best: 963.06 		N:2
+Jackson        		Mean: 102.8 		Best: 960.38 		N:9
+Payne          		Mean: 116.26 		Best: 960.38 		N:8
+Hopper         		Mean: 231.28 		Best: 960.38 		N:4
+Mccartney      		Mean: 131.9 		Best: 953.35 		N:7
+Ledesma        		Mean: 187.92 		Best: 952.67 		N:5
+Ratcliff       		Mean: 102.87 		Best: 950.6 		N:9
+Baylor         		Mean: 184.26 		Best: 927.79 		N:5
+Jones          		Mean: 304.58 		Best: 911.3 		N:3
+Hill           		Mean: 304.12 		Best: 910.22 		N:3
+Gallardo       		Mean: 453.71 		Best: 903.76 		N:2
+
+########## REPORT GEN: 29 ##########
+SPECIES: 
+Hopper         		Mean: 157.02 		Best: 973.39 		N:6
+Kimball        		Mean: 235.23 		Best: 968.04 		N:4
+Dunlap         		Mean: 231.5 		Best: 968.04 		N:4
+Ledesma        		Mean: 117.66 		Best: 968.04 		N:8
+Ratcliff       		Mean: 239.15 		Best: 968.04 		N:4
+Baylor         		Mean: 310.07 		Best: 968.04 		N:3
+Jones          		Mean: 183.4 		Best: 967.95 		N:5
+Payne          		Mean: 93.09 		Best: 963.06 		N:10
+Copeland       		Mean: 115.6 		Best: 960.38 		N:8
+Fox            		Mean: 187.81 		Best: 960.38 		N:5
+Meyers         		Mean: 132.18 		Best: 953.35 		N:7
+Gallardo       		Mean: 115.19 		Best: 944.12 		N:8
+Jackson        		Mean: 102.21 		Best: 942.94 		N:9
+Hill           		Mean: 305.28 		Best: 914.57 		N:3
+Fairbanks      		Mean: 130.15 		Best: 911.3 		N:7
+Schott         		Mean: 302.99 		Best: 906.26 		N:3
+Mccartney      		Mean: 453.8 		Best: 903.76 		N:2
+Jackson        		Mean: 226.13 		Best: 902.12 		N:4
+
+########## REPORT GEN: 30 ##########
+SPECIES: 
+Dunlap         		Mean: 133.97 		Best: 973.39 		N:7
+Hopper         		Mean: 235.55 		Best: 968.04 		N:4
+Payne          		Mean: 131.61 		Best: 968.04 		N:7
+Fox            		Mean: 311.92 		Best: 968.04 		N:3
+Meyers         		Mean: 186.02 		Best: 968.04 		N:5
+Jones          		Mean: 155.67 		Best: 967.95 		N:6
+Jackson        		Mean: 115.04 		Best: 967.95 		N:8
+Mccartney      		Mean: 116.17 		Best: 967.95 		N:8
+Copeland       		Mean: 309.85 		Best: 966.93 		N:3
+Ratcliff       		Mean: 77.19 		Best: 960.38 		N:12
+Hill           		Mean: 309.26 		Best: 960.38 		N:3
+Jackson        		Mean: 467.22 		Best: 956.78 		N:2
+Schott         		Mean: 153.64 		Best: 953.35 		N:6
+Ledesma        		Mean: 113.85 		Best: 911.3 		N:8
+Baylor         		Mean: 129.94 		Best: 910.22 		N:7
+Fairbanks      		Mean: 302.97 		Best: 902.39 		N:3
+Gallardo       		Mean: 453.34 		Best: 900.29 		N:2
+Kimball        		Mean: 450.0 		Best: 899.1 		N:2
+
+########## REPORT GEN: 31 ##########
+SPECIES: 
+Jackson        		Mean: 155.09 		Best: 973.39 		N:6
+Fairbanks      		Mean: 185.4 		Best: 973.39 		N:5
+Meyers         		Mean: 133.42 		Best: 968.04 		N:7
+Jackson        		Mean: 131.85 		Best: 968.04 		N:7
+Copeland       		Mean: 469.96 		Best: 968.04 		N:2
+Schott         		Mean: 231.25 		Best: 968.04 		N:4
+Baylor         		Mean: 309.83 		Best: 968.04 		N:3
+Payne          		Mean: 235.63 		Best: 967.95 		N:4
+Hill           		Mean: 114.54 		Best: 967.95 		N:8
+Gallardo       		Mean: 471.13 		Best: 967.95 		N:2
+Mccartney      		Mean: 229.53 		Best: 960.38 		N:4
+Ratcliff       		Mean: 114.92 		Best: 956.78 		N:8
+Kimball        		Mean: 184.19 		Best: 956.78 		N:5
+Fox            		Mean: 231.0 		Best: 942.94 		N:4
+Jones          		Mean: 181.52 		Best: 906.26 		N:5
+Ledesma        		Mean: 453.26 		Best: 900.32 		N:2
+
+########## REPORT GEN: 32 ##########
+SPECIES: 
+Hill           		Mean: 309.61 		Best: 973.39 		N:3
+Ledesma        		Mean: 315.23 		Best: 973.39 		N:3
+Fox            		Mean: 187.31 		Best: 968.04 		N:5
+Jackson        		Mean: 310.26 		Best: 967.95 		N:3
+Jones          		Mean: 308.32 		Best: 967.95 		N:3
+Fairbanks      		Mean: 236.13 		Best: 960.38 		N:4
+Payne          		Mean: 183.95 		Best: 960.38 		N:5
+Gallardo       		Mean: 467.07 		Best: 956.78 		N:2
+Schott         		Mean: 228.2 		Best: 909.24 		N:4
+Mccartney      		Mean: 453.93 		Best: 907.82 		N:2
+Ratcliff       		Mean: 226.32 		Best: 906.26 		N:4
+Copeland       		Mean: 151.29 		Best: 902.76 		N:6
+Kimball        		Mean: 453.55 		Best: 902.12 		N:2
+Dunlap         		Mean: 226.23 		Best: 900.48 		N:4
+
+########## REPORT GEN: 33 ##########
+SPECIES: 
+Schott         		Mean: 471.61 		Best: 973.39 		N:2
+Ratcliff       		Mean: 309.37 		Best: 973.39 		N:3
+Fairbanks      		Mean: 234.04 		Best: 967.95 		N:4
+Copeland       		Mean: 230.91 		Best: 967.95 		N:4
+Kimball        		Mean: 237.58 		Best: 967.95 		N:4
+Fox            		Mean: 185.82 		Best: 960.38 		N:5
+Payne          		Mean: 183.01 		Best: 944.42 		N:5
+Jackson        		Mean: 303.47 		Best: 922.64 		N:3
+Meyers         		Mean: 230.24 		Best: 922.64 		N:4
+Gallardo       		Mean: 302.73 		Best: 907.82 		N:3
+Dunlap         		Mean: 151.45 		Best: 907.82 		N:6
+Ledesma        		Mean: 226.96 		Best: 902.12 		N:4
+Mccartney      		Mean: 453.37 		Best: 900.48 		N:2
+Baylor         		Mean: 451.99 		Best: 900.35 		N:2
+Jones          		Mean: 448.08 		Best: 896.16 		N:2
+
+########## REPORT GEN: 34 ##########
+SPECIES: 
+Ratcliff       		Mean: 133.51 		Best: 973.39 		N:7
+Fox            		Mean: 187.59 		Best: 973.39 		N:5
+Meyers         		Mean: 233.79 		Best: 973.39 		N:4
+Kimball        		Mean: 469.22 		Best: 967.95 		N:2
+Jackson        		Mean: 114.28 		Best: 958.63 		N:8
+Gallardo       		Mean: 183.41 		Best: 955.86 		N:5
+Hill           		Mean: 182.93 		Best: 952.67 		N:5
+Jones          		Mean: 228.5 		Best: 951.56 		N:4
+Schott         		Mean: 226.76 		Best: 910.22 		N:4
+Jackson        		Mean: 452.39 		Best: 900.48 		N:2
+Baylor         		Mean: 453.42 		Best: 900.48 		N:2
+Ledesma        		Mean: 301.55 		Best: 900.35 		N:3
+Payne          		Mean: 301.45 		Best: 900.34 		N:3
+Fairbanks      		Mean: 452.32 		Best: 900.12 		N:2
+
+########## REPORT GEN: 35 ##########
+SPECIES: 
+Fox            		Mean: 186.68 		Best: 973.39 		N:5
+Kimball        		Mean: 186.75 		Best: 973.39 		N:5
+Gallardo       		Mean: 183.88 		Best: 973.39 		N:5
+Jones          		Mean: 133.21 		Best: 973.39 		N:7
+Baylor         		Mean: 232.42 		Best: 973.39 		N:4
+Payne          		Mean: 231.13 		Best: 973.39 		N:4
+Fairbanks      		Mean: 230.53 		Best: 958.63 		N:4
+Copeland       		Mean: 152.78 		Best: 953.23 		N:6
+Mccartney      		Mean: 307.81 		Best: 953.23 		N:3
+Hill           		Mean: 130.11 		Best: 950.74 		N:7
+Ledesma        		Mean: 305.21 		Best: 934.33 		N:3
+Jackson        		Mean: 456.38 		Best: 927.79 		N:2
+Schott         		Mean: 228.22 		Best: 923.94 		N:4
+Dunlap         		Mean: 226.92 		Best: 910.22 		N:4
+Jackson        		Mean: 302.53 		Best: 907.82 		N:3
+
+########## REPORT GEN: 36 ##########
+SPECIES: 
+Kimball        		Mean: 185.58 		Best: 973.39 		N:5
+Jones          		Mean: 114.83 		Best: 973.39 		N:8
+Payne          		Mean: 153.26 		Best: 973.39 		N:6
+Mccartney      		Mean: 184.57 		Best: 973.39 		N:5
+Hill           		Mean: 183.32 		Best: 973.39 		N:5
+Dunlap         		Mean: 153.69 		Best: 973.39 		N:6
+Meyers         		Mean: 188.34 		Best: 973.39 		N:5
+Copeland       		Mean: 314.34 		Best: 958.63 		N:3
+Fox            		Mean: 91.45 		Best: 953.23 		N:10
+Baylor         		Mean: 228.02 		Best: 923.94 		N:4
+Schott         		Mean: 113.4 		Best: 920.62 		N:8
+Gallardo       		Mean: 225.49 		Best: 910.22 		N:4
+Jackson        		Mean: 100.85 		Best: 907.82 		N:9
+Ledesma        		Mean: 300.88 		Best: 900.34 		N:3
+Fairbanks      		Mean: 150.65 		Best: 900.26 		N:6
+Jackson        		Mean: 226.3 		Best: 900.26 		N:4
+
+########## REPORT GEN: 37 ##########
+SPECIES: 
+Jones          		Mean: 230.05 		Best: 973.39 		N:4
+Hill           		Mean: 153.04 		Best: 973.39 		N:6
+Dunlap         		Mean: 132.53 		Best: 973.39 		N:7
+Baylor         		Mean: 116.54 		Best: 973.39 		N:8
+Schott         		Mean: 186.26 		Best: 973.39 		N:5
+Jackson        		Mean: 153.07 		Best: 973.39 		N:6
+Ledesma        		Mean: 234.19 		Best: 973.39 		N:4
+Copeland       		Mean: 307.58 		Best: 958.63 		N:3
+Kimball        		Mean: 184.21 		Best: 958.57 		N:5
+Meyers         		Mean: 457.39 		Best: 923.94 		N:2
+Fairbanks      		Mean: 113.7 		Best: 920.62 		N:8
+Fox            		Mean: 100.52 		Best: 906.27 		N:9
+Mccartney      		Mean: 224.88 		Best: 904.63 		N:4
+Gallardo       		Mean: 129.15 		Best: 902.89 		N:7
+Payne          		Mean: 451.16 		Best: 900.48 		N:2
+Jackson        		Mean: 150.75 		Best: 900.39 		N:6
+
+########## REPORT GEN: 38 ##########
+SPECIES: 
+Jones          		Mean: 115.46 		Best: 973.39 		N:8
+Hill           		Mean: 183.15 		Best: 973.39 		N:5
+Dunlap         		Mean: 113.93 		Best: 973.39 		N:8
+Schott         		Mean: 131.4 		Best: 973.39 		N:7
+Kimball        		Mean: 186.78 		Best: 973.39 		N:5
+Fox            		Mean: 229.9 		Best: 973.39 		N:4
+Gallardo       		Mean: 233.24 		Best: 973.39 		N:4
+Jackson        		Mean: 183.0 		Best: 958.57 		N:5
+Baylor         		Mean: 114.26 		Best: 946.96 		N:8
+Meyers         		Mean: 182.89 		Best: 946.96 		N:5
+Fairbanks      		Mean: 130.76 		Best: 946.96 		N:7
+Jackson        		Mean: 227.78 		Best: 930.9 		N:4
+Payne          		Mean: 151.81 		Best: 927.18 		N:6
+Ledesma        		Mean: 181.24 		Best: 906.27 		N:5
+Mccartney      		Mean: 179.95 		Best: 901.54 		N:5
+Copeland       		Mean: 300.13 		Best: 901.27 		N:3
+
+########## REPORT GEN: 39 ##########
+SPECIES: 
+Schott         		Mean: 155.54 		Best: 999.9 		N:6
+Hill           		Mean: 158.07 		Best: 973.39 		N:6
+Dunlap         		Mean: 183.23 		Best: 973.39 		N:5
+Gallardo       		Mean: 152.71 		Best: 973.39 		N:6
+Jackson        		Mean: 152.45 		Best: 973.39 		N:6
+Ledesma        		Mean: 308.51 		Best: 973.39 		N:3
+Mccartney      		Mean: 152.72 		Best: 973.39 		N:6
+Copeland       		Mean: 185.03 		Best: 973.39 		N:5
+Jones          		Mean: 231.23 		Best: 946.96 		N:4
+Fairbanks      		Mean: 302.52 		Best: 923.81 		N:3
+Meyers         		Mean: 129.61 		Best: 915.91 		N:7
+Kimball        		Mean: 226.16 		Best: 906.27 		N:4
+Fox            		Mean: 100.34 		Best: 906.27 		N:9
+Payne          		Mean: 150.27 		Best: 906.27 		N:6
+Jackson        		Mean: 128.85 		Best: 901.27 		N:7
+Baylor         		Mean: 226.36 		Best: 903.61 		N:4
+

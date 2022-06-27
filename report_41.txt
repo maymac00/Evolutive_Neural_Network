@@ -1,0 +1,760 @@
+########## REPORT GEN: 2 ##########
+SPECIES: 
+Goto           		Mean: 229.82 		Best: 900.71 		N:4
+Robinson       		Mean: 93.38 		Best: 900.76 		N:10
+Dunaway        		Mean: 452.01 		Best: 900.67 		N:2
+Myers          		Mean: 309.78 		Best: 900.67 		N:3
+Shanklin       		Mean: 185.5 		Best: 900.67 		N:5
+Horton         		Mean: 450.34 		Best: 900.67 		N:2
+Curl           		Mean: 450.34 		Best: 900.67 		N:2
+Frazier        		Mean: 458.83 		Best: 900.67 		N:2
+Wilhoite       		Mean: 232.79 		Best: 900.67 		N:4
+Bridge         		Mean: 452.84 		Best: 900.64 		N:2
+Labossiere     		Mean: 451.52 		Best: 900.64 		N:2
+Swiger         		Mean: 85.03 		Best: 900.67 		N:11
+Moody          		Mean: 85.13 		Best: 900.71 		N:11
+Schaffner      		Mean: 232.02 		Best: 900.71 		N:4
+
+########## REPORT GEN: 3 ##########
+SPECIES: 
+Goto           		Mean: 187.07 		Best: 900.76 		N:5
+Myers          		Mean: 460.8 		Best: 900.67 		N:2
+Shanklin       		Mean: 462.0 		Best: 900.67 		N:2
+Horton         		Mean: 305.17 		Best: 900.67 		N:3
+Bartsch        		Mean: 312.38 		Best: 900.67 		N:3
+Curl           		Mean: 309.25 		Best: 900.67 		N:3
+Frazier        		Mean: 156.35 		Best: 900.67 		N:6
+Bridge         		Mean: 154.58 		Best: 900.67 		N:6
+Robinson       		Mean: 133.58 		Best: 900.67 		N:7
+Dunaway        		Mean: 186.0 		Best: 900.66 		N:5
+Wilhoite       		Mean: 185.69 		Best: 900.67 		N:5
+Labossiere     		Mean: 452.27 		Best: 900.64 		N:2
+Swiger         		Mean: 308.8 		Best: 900.67 		N:3
+Schaffner      		Mean: 185.55 		Best: 900.71 		N:5
+
+########## REPORT GEN: 4 ##########
+SPECIES: 
+Moody          		Mean: 231.11 		Best: 900.79 		N:4
+Goto           		Mean: 458.17 		Best: 900.67 		N:2
+Myers          		Mean: 457.58 		Best: 900.67 		N:2
+Shanklin       		Mean: 185.5 		Best: 900.67 		N:5
+Daughtry       		Mean: 309.36 		Best: 900.67 		N:3
+Bartsch        		Mean: 231.54 		Best: 900.67 		N:4
+Wilhoite       		Mean: 310.3 		Best: 900.67 		N:3
+Swiger         		Mean: 231.1 		Best: 900.71 		N:4
+Frazier        		Mean: 308.63 		Best: 900.64 		N:3
+Bridge         		Mean: 451.15 		Best: 900.64 		N:2
+Robinson       		Mean: 306.9 		Best: 900.64 		N:3
+Schaffner      		Mean: 300.21 		Best: 900.62 		N:3
+Dunaway        		Mean: 229.97 		Best: 900.67 		N:4
+Davis          		Mean: 153.89 		Best: 900.67 		N:6
+
+########## REPORT GEN: 5 ##########
+SPECIES: 
+Myers          		Mean: 185.88 		Best: 900.67 		N:5
+Moody          		Mean: 231.27 		Best: 900.78 		N:4
+Shanklin       		Mean: 306.42 		Best: 900.67 		N:3
+Daughtry       		Mean: 154.21 		Best: 900.67 		N:6
+Curl           		Mean: 183.32 		Best: 900.67 		N:5
+Swiger         		Mean: 184.51 		Best: 900.67 		N:5
+Labossiere     		Mean: 183.93 		Best: 900.67 		N:5
+Dunaway        		Mean: 185.57 		Best: 900.67 		N:5
+Goto           		Mean: 231.67 		Best: 900.67 		N:4
+Frazier        		Mean: 458.37 		Best: 900.64 		N:2
+Robinson       		Mean: 308.54 		Best: 900.64 		N:3
+Bartsch        		Mean: 306.48 		Best: 900.79 		N:3
+Davis          		Mean: 305.03 		Best: 900.61 		N:3
+
+########## REPORT GEN: 6 ##########
+SPECIES: 
+Davis          		Mean: 307.6 		Best: 902.32 		N:3
+Myers          		Mean: 457.76 		Best: 900.67 		N:2
+Shanklin       		Mean: 231.39 		Best: 900.67 		N:4
+Curl           		Mean: 303.04 		Best: 900.67 		N:3
+Moody          		Mean: 307.54 		Best: 900.67 		N:3
+Daughtry       		Mean: 131.77 		Best: 900.67 		N:7
+Labossiere     		Mean: 230.64 		Best: 900.67 		N:4
+Robinson       		Mean: 452.24 		Best: 900.64 		N:2
+Frazier        		Mean: 131.97 		Best: 900.67 		N:7
+Schaffner      		Mean: 184.77 		Best: 900.67 		N:5
+Dunaway        		Mean: 306.73 		Best: 900.67 		N:3
+Horton         		Mean: 230.1 		Best: 900.64 		N:4
+Bartsch        		Mean: 102.67 		Best: 900.67 		N:9
+
+########## REPORT GEN: 7 ##########
+SPECIES: 
+Schaffner      		Mean: 229.59 		Best: 902.77 		N:4
+Horton         		Mean: 132.57 		Best: 902.32 		N:7
+Goto           		Mean: 131.92 		Best: 901.37 		N:7
+Swiger         		Mean: 305.49 		Best: 902.32 		N:3
+Moody          		Mean: 182.34 		Best: 900.67 		N:5
+Labossiere     		Mean: 457.31 		Best: 900.67 		N:2
+Robinson       		Mean: 230.64 		Best: 903.88 		N:4
+Frazier        		Mean: 455.74 		Best: 900.67 		N:2
+Dunaway        		Mean: 457.31 		Best: 900.67 		N:2
+Curl           		Mean: 457.29 		Best: 900.62 		N:2
+Daughtry       		Mean: 230.15 		Best: 900.62 		N:4
+Myers          		Mean: 184.02 		Best: 900.64 		N:5
+Shanklin       		Mean: 229.65 		Best: 900.64 		N:4
+Bartsch        		Mean: 184.2 		Best: 900.64 		N:5
+Davis          		Mean: 305.68 		Best: 900.64 		N:3
+
+########## REPORT GEN: 8 ##########
+SPECIES: 
+Curl           		Mean: 183.99 		Best: 902.77 		N:5
+Davis          		Mean: 305.53 		Best: 900.67 		N:3
+Moody          		Mean: 183.69 		Best: 900.67 		N:5
+Frazier        		Mean: 131.44 		Best: 900.67 		N:7
+Horton         		Mean: 152.82 		Best: 900.64 		N:6
+Swiger         		Mean: 102.88 		Best: 901.37 		N:9
+Robinson       		Mean: 228.1 		Best: 900.64 		N:4
+Shanklin       		Mean: 153.92 		Best: 902.32 		N:6
+Bartsch        		Mean: 303.83 		Best: 900.64 		N:3
+Labossiere     		Mean: 455.57 		Best: 900.61 		N:2
+Myers          		Mean: 184.09 		Best: 900.76 		N:5
+Schaffner      		Mean: 306.73 		Best: 900.67 		N:3
+Goto           		Mean: 230.03 		Best: 900.67 		N:4
+Dunaway        		Mean: 227.64 		Best: 900.67 		N:4
+
+########## REPORT GEN: 9 ##########
+SPECIES: 
+Moody          		Mean: 457.63 		Best: 902.77 		N:2
+Curl           		Mean: 183.53 		Best: 900.67 		N:5
+Horton         		Mean: 114.73 		Best: 900.67 		N:8
+Shanklin       		Mean: 153.01 		Best: 900.67 		N:6
+Goto           		Mean: 306.26 		Best: 900.67 		N:3
+Davis          		Mean: 131.4 		Best: 900.67 		N:7
+Frazier        		Mean: 454.07 		Best: 900.64 		N:2
+Daughtry       		Mean: 229.83 		Best: 900.67 		N:4
+Swiger         		Mean: 305.11 		Best: 900.67 		N:3
+Robinson       		Mean: 83.69 		Best: 905.25 		N:11
+Labossiere     		Mean: 304.34 		Best: 902.77 		N:3
+Bartsch        		Mean: 459.51 		Best: 900.62 		N:2
+Dunaway        		Mean: 305.36 		Best: 900.64 		N:3
+Schaffner      		Mean: 455.58 		Best: 900.6 		N:2
+Myers          		Mean: 304.67 		Best: 900.6 		N:3
+
+########## REPORT GEN: 10 ##########
+SPECIES: 
+Moody          		Mean: 304.92 		Best: 902.77 		N:3
+Labossiere     		Mean: 456.27 		Best: 902.77 		N:2
+Frazier        		Mean: 115.16 		Best: 902.76 		N:8
+Curl           		Mean: 183.2 		Best: 900.69 		N:5
+Robinson       		Mean: 152.94 		Best: 902.77 		N:6
+Daughtry       		Mean: 227.22 		Best: 900.64 		N:4
+Swiger         		Mean: 92.06 		Best: 900.67 		N:10
+Bartsch        		Mean: 228.87 		Best: 900.64 		N:4
+Dunaway        		Mean: 183.96 		Best: 900.64 		N:5
+Goto           		Mean: 114.92 		Best: 900.67 		N:8
+Horton         		Mean: 183.16 		Best: 900.64 		N:5
+Schaffner      		Mean: 305.39 		Best: 900.64 		N:3
+Myers          		Mean: 304.3 		Best: 900.61 		N:3
+Shanklin       		Mean: 152.2 		Best: 902.77 		N:6
+
+########## REPORT GEN: 11 ##########
+SPECIES: 
+Labossiere     		Mean: 184.3 		Best: 924.3 		N:5
+Horton         		Mean: 229.41 		Best: 902.76 		N:4
+Schaffner      		Mean: 228.56 		Best: 900.69 		N:4
+Davis          		Mean: 228.99 		Best: 900.69 		N:4
+Bartsch        		Mean: 91.88 		Best: 900.67 		N:10
+Shanklin       		Mean: 114.85 		Best: 902.77 		N:8
+Moody          		Mean: 227.72 		Best: 900.61 		N:4
+Frazier        		Mean: 183.42 		Best: 902.77 		N:5
+Daughtry       		Mean: 303.38 		Best: 900.61 		N:3
+Dunaway        		Mean: 152.57 		Best: 900.64 		N:6
+Curl           		Mean: 183.56 		Best: 900.64 		N:5
+Swiger         		Mean: 455.0 		Best: 900.6 		N:2
+Myers          		Mean: 303.85 		Best: 900.6 		N:3
+
+########## REPORT GEN: 12 ##########
+SPECIES: 
+Horton         		Mean: 153.81 		Best: 924.3 		N:6
+Frazier        		Mean: 307.12 		Best: 924.3 		N:3
+Bartsch        		Mean: 456.37 		Best: 903.21 		N:2
+Myers          		Mean: 182.27 		Best: 902.76 		N:5
+Moody          		Mean: 228.17 		Best: 901.64 		N:4
+Davis          		Mean: 228.53 		Best: 901.37 		N:4
+Labossiere     		Mean: 152.7 		Best: 900.69 		N:6
+Goto           		Mean: 229.75 		Best: 900.67 		N:4
+Swiger         		Mean: 152.2 		Best: 900.64 		N:6
+Schaffner      		Mean: 152.61 		Best: 900.61 		N:6
+Curl           		Mean: 456.19 		Best: 900.61 		N:2
+Daughtry       		Mean: 303.82 		Best: 902.77 		N:3
+Robinson       		Mean: 152.44 		Best: 900.61 		N:6
+
+########## REPORT GEN: 13 ##########
+SPECIES: 
+Goto           		Mean: 183.77 		Best: 924.3 		N:5
+Daughtry       		Mean: 132.05 		Best: 924.3 		N:7
+Robinson       		Mean: 114.99 		Best: 924.3 		N:8
+Shanklin       		Mean: 229.7 		Best: 907.82 		N:4
+Moody          		Mean: 305.69 		Best: 902.77 		N:3
+Myers          		Mean: 229.43 		Best: 902.76 		N:4
+Labossiere     		Mean: 304.36 		Best: 900.69 		N:3
+Swiger         		Mean: 304.89 		Best: 903.21 		N:3
+Bartsch        		Mean: 456.36 		Best: 900.67 		N:2
+Frazier        		Mean: 183.07 		Best: 900.62 		N:5
+Horton         		Mean: 152.12 		Best: 900.6 		N:6
+Curl           		Mean: 453.28 		Best: 900.53 		N:2
+
+########## REPORT GEN: 14 ##########
+SPECIES: 
+Myers          		Mean: 229.24 		Best: 924.3 		N:4
+Frazier        		Mean: 153.45 		Best: 924.3 		N:6
+Schaffner      		Mean: 184.0 		Best: 924.3 		N:5
+Bartsch        		Mean: 230.51 		Best: 918.8 		N:4
+Moody          		Mean: 303.38 		Best: 908.03 		N:3
+Horton         		Mean: 130.76 		Best: 907.82 		N:7
+Robinson       		Mean: 227.05 		Best: 902.77 		N:4
+Goto           		Mean: 228.9 		Best: 901.64 		N:4
+Dunaway        		Mean: 228.46 		Best: 901.64 		N:4
+Curl           		Mean: 303.03 		Best: 900.9 		N:3
+Swiger         		Mean: 455.04 		Best: 900.71 		N:2
+Daughtry       		Mean: 227.79 		Best: 900.69 		N:4
+Shanklin       		Mean: 182.11 		Best: 900.67 		N:5
+
+########## REPORT GEN: 15 ##########
+SPECIES: 
+Frazier        		Mean: 307.92 		Best: 924.3 		N:3
+Bartsch        		Mean: 115.3 		Best: 924.3 		N:8
+Labossiere     		Mean: 152.41 		Best: 924.3 		N:6
+Daughtry       		Mean: 130.73 		Best: 908.03 		N:7
+Curl           		Mean: 305.5 		Best: 907.82 		N:3
+Shanklin       		Mean: 229.04 		Best: 904.83 		N:4
+Moody          		Mean: 454.72 		Best: 902.76 		N:2
+Dunaway        		Mean: 228.46 		Best: 902.53 		N:4
+Myers          		Mean: 302.28 		Best: 901.64 		N:3
+Robinson       		Mean: 229.31 		Best: 901.64 		N:4
+Swiger         		Mean: 227.95 		Best: 901.64 		N:4
+Schaffner      		Mean: 151.94 		Best: 901.72 		N:6
+Goto           		Mean: 152.72 		Best: 902.77 		N:6
+Horton         		Mean: 450.25 		Best: 900.51 		N:2
+
+########## REPORT GEN: 16 ##########
+SPECIES: 
+Robinson       		Mean: 305.39 		Best: 928.41 		N:3
+Frazier        		Mean: 91.55 		Best: 924.3 		N:10
+Labossiere     		Mean: 152.76 		Best: 924.3 		N:6
+Curl           		Mean: 154.79 		Best: 924.3 		N:6
+Swiger         		Mean: 101.92 		Best: 924.3 		N:9
+Goto           		Mean: 304.84 		Best: 924.3 		N:3
+Shanklin       		Mean: 153.08 		Best: 914.19 		N:6
+Daughtry       		Mean: 229.36 		Best: 907.82 		N:4
+Schaffner      		Mean: 304.63 		Best: 907.82 		N:3
+Dunaway        		Mean: 303.79 		Best: 902.53 		N:3
+Horton         		Mean: 113.87 		Best: 901.64 		N:8
+Bartsch        		Mean: 303.98 		Best: 900.67 		N:3
+Moody          		Mean: 451.22 		Best: 900.51 		N:2
+Myers          		Mean: 181.68 		Best: 901.64 		N:5
+
+########## REPORT GEN: 17 ##########
+SPECIES: 
+Goto           		Mean: 185.16 		Best: 928.41 		N:5
+Curl           		Mean: 115.37 		Best: 924.3 		N:8
+Shanklin       		Mean: 228.67 		Best: 924.3 		N:4
+Daughtry       		Mean: 152.26 		Best: 924.3 		N:6
+Bartsch        		Mean: 114.59 		Best: 924.3 		N:8
+Myers          		Mean: 114.13 		Best: 924.3 		N:8
+Labossiere     		Mean: 130.15 		Best: 902.77 		N:7
+Swiger         		Mean: 151.91 		Best: 902.77 		N:6
+Schaffner      		Mean: 303.26 		Best: 902.53 		N:3
+Horton         		Mean: 453.44 		Best: 901.64 		N:2
+Moody          		Mean: 181.48 		Best: 900.92 		N:5
+Frazier        		Mean: 152.23 		Best: 901.64 		N:6
+Robinson       		Mean: 451.2 		Best: 900.51 		N:2
+
+########## REPORT GEN: 18 ##########
+SPECIES: 
+Moody          		Mean: 152.74 		Best: 928.41 		N:6
+Goto           		Mean: 151.96 		Best: 924.3 		N:6
+Curl           		Mean: 182.67 		Best: 924.3 		N:5
+Shanklin       		Mean: 229.88 		Best: 924.3 		N:4
+Swiger         		Mean: 182.46 		Best: 924.3 		N:5
+Frazier        		Mean: 183.02 		Best: 924.3 		N:5
+Robinson       		Mean: 130.4 		Best: 924.3 		N:7
+Dunaway        		Mean: 228.8 		Best: 911.27 		N:4
+Schaffner      		Mean: 227.91 		Best: 902.77 		N:4
+Horton         		Mean: 151.75 		Best: 901.64 		N:6
+Labossiere     		Mean: 450.25 		Best: 900.51 		N:2
+Myers          		Mean: 227.0 		Best: 900.51 		N:4
+
+########## REPORT GEN: 19 ##########
+SPECIES: 
+Bartsch        		Mean: 183.57 		Best: 927.0 		N:5
+Shanklin       		Mean: 305.08 		Best: 924.3 		N:3
+Robinson       		Mean: 457.65 		Best: 924.3 		N:2
+Dunaway        		Mean: 184.03 		Best: 924.3 		N:5
+Schaffner      		Mean: 305.31 		Best: 924.3 		N:3
+Horton         		Mean: 459.6 		Best: 924.3 		N:2
+Labossiere     		Mean: 304.49 		Best: 924.3 		N:3
+Daughtry       		Mean: 91.22 		Best: 907.82 		N:10
+Frazier        		Mean: 227.6 		Best: 900.71 		N:4
+Curl           		Mean: 180.51 		Best: 900.53 		N:5
+Moody          		Mean: 302.55 		Best: 900.51 		N:3
+Swiger         		Mean: 181.32 		Best: 900.92 		N:5
+
+########## REPORT GEN: 20 ##########
+SPECIES: 
+Myers          		Mean: 153.09 		Best: 928.41 		N:6
+Schaffner      		Mean: 183.34 		Best: 928.41 		N:5
+Goto           		Mean: 468.52 		Best: 928.41 		N:2
+Robinson       		Mean: 182.89 		Best: 924.3 		N:5
+Dunaway        		Mean: 183.55 		Best: 924.3 		N:5
+Horton         		Mean: 153.28 		Best: 924.3 		N:6
+Daughtry       		Mean: 230.17 		Best: 924.3 		N:4
+Frazier        		Mean: 228.3 		Best: 924.3 		N:4
+Curl           		Mean: 229.28 		Best: 924.3 		N:4
+Moody          		Mean: 227.9 		Best: 924.3 		N:4
+Labossiere     		Mean: 456.51 		Best: 907.82 		N:2
+Shanklin       		Mean: 226.87 		Best: 900.95 		N:4
+Swiger         		Mean: 226.0 		Best: 900.92 		N:4
+Bartsch        		Mean: 182.36 		Best: 900.71 		N:5
+
+########## REPORT GEN: 21 ##########
+SPECIES: 
+Myers          		Mean: 153.06 		Best: 928.41 		N:6
+Frazier        		Mean: 114.65 		Best: 928.41 		N:8
+Curl           		Mean: 228.44 		Best: 928.41 		N:4
+Daughtry       		Mean: 184.03 		Best: 927.0 		N:5
+Goto           		Mean: 229.86 		Best: 924.3 		N:4
+Robinson       		Mean: 130.48 		Best: 924.3 		N:7
+Moody          		Mean: 306.16 		Best: 924.3 		N:3
+Shanklin       		Mean: 131.97 		Best: 924.3 		N:7
+Swiger         		Mean: 459.13 		Best: 924.3 		N:2
+Bartsch        		Mean: 130.68 		Best: 924.3 		N:7
+Schaffner      		Mean: 151.92 		Best: 910.64 		N:6
+Labossiere     		Mean: 152.08 		Best: 907.82 		N:6
+Dunaway        		Mean: 150.99 		Best: 900.51 		N:6
+
+########## REPORT GEN: 22 ##########
+SPECIES: 
+Goto           		Mean: 308.2 		Best: 928.41 		N:3
+Dunaway        		Mean: 132.84 		Best: 928.41 		N:7
+Frazier        		Mean: 152.52 		Best: 924.3 		N:6
+Curl           		Mean: 306.75 		Best: 924.3 		N:3
+Daughtry       		Mean: 184.62 		Best: 924.3 		N:5
+Robinson       		Mean: 306.06 		Best: 924.3 		N:3
+Moody          		Mean: 183.38 		Best: 924.3 		N:5
+Shanklin       		Mean: 152.1 		Best: 924.3 		N:6
+Swiger         		Mean: 306.77 		Best: 924.3 		N:3
+Bartsch        		Mean: 131.31 		Best: 924.3 		N:7
+Horton         		Mean: 306.58 		Best: 924.3 		N:3
+Myers          		Mean: 227.67 		Best: 900.53 		N:4
+Labossiere     		Mean: 300.8 		Best: 900.51 		N:3
+
+########## REPORT GEN: 23 ##########
+SPECIES: 
+Curl           		Mean: 114.12 		Best: 928.41 		N:8
+Goto           		Mean: 184.01 		Best: 927.0 		N:5
+Shanklin       		Mean: 228.89 		Best: 927.0 		N:4
+Frazier        		Mean: 114.99 		Best: 924.3 		N:8
+Daughtry       		Mean: 462.15 		Best: 924.3 		N:2
+Moody          		Mean: 182.64 		Best: 924.3 		N:5
+Swiger         		Mean: 182.91 		Best: 924.3 		N:5
+Horton         		Mean: 183.93 		Best: 924.3 		N:5
+Labossiere     		Mean: 130.91 		Best: 924.3 		N:7
+Robinson       		Mean: 183.27 		Best: 924.07 		N:5
+Schaffner      		Mean: 182.8 		Best: 910.64 		N:5
+Myers          		Mean: 451.81 		Best: 900.92 		N:2
+Dunaway        		Mean: 454.39 		Best: 900.51 		N:2
+
+########## REPORT GEN: 24 ##########
+SPECIES: 
+Goto           		Mean: 132.32 		Best: 934.99 		N:7
+Shanklin       		Mean: 131.13 		Best: 928.41 		N:7
+Swiger         		Mean: 183.03 		Best: 928.41 		N:5
+Bartsch        		Mean: 306.1 		Best: 927.0 		N:3
+Myers          		Mean: 230.7 		Best: 927.0 		N:4
+Curl           		Mean: 228.37 		Best: 924.3 		N:4
+Daughtry       		Mean: 228.92 		Best: 924.3 		N:4
+Robinson       		Mean: 153.69 		Best: 924.3 		N:6
+Dunaway        		Mean: 183.18 		Best: 924.3 		N:5
+Frazier        		Mean: 308.88 		Best: 924.3 		N:3
+Horton         		Mean: 225.98 		Best: 900.65 		N:4
+
+########## REPORT GEN: 25 ##########
+SPECIES: 
+Schaffner      		Mean: 114.78 		Best: 934.99 		N:8
+Daughtry       		Mean: 154.14 		Best: 928.41 		N:6
+Horton         		Mean: 465.43 		Best: 928.41 		N:2
+Myers          		Mean: 131.98 		Best: 927.0 		N:7
+Frazier        		Mean: 309.02 		Best: 927.0 		N:3
+Goto           		Mean: 307.14 		Best: 924.3 		N:3
+Swiger         		Mean: 184.37 		Best: 924.3 		N:5
+Moody          		Mean: 114.61 		Best: 924.3 		N:8
+Shanklin       		Mean: 227.48 		Best: 900.67 		N:4
+Robinson       		Mean: 226.9 		Best: 900.48 		N:4
+Bartsch        		Mean: 451.82 		Best: 900.41 		N:2
+
+########## REPORT GEN: 26 ##########
+SPECIES: 
+Curl           		Mean: 131.7 		Best: 934.99 		N:7
+Schaffner      		Mean: 132.02 		Best: 928.41 		N:7
+Daughtry       		Mean: 460.27 		Best: 928.41 		N:2
+Horton         		Mean: 465.52 		Best: 928.41 		N:2
+Frazier        		Mean: 229.22 		Best: 927.0 		N:4
+Goto           		Mean: 229.32 		Best: 927.0 		N:4
+Moody          		Mean: 232.24 		Best: 927.0 		N:4
+Robinson       		Mean: 230.75 		Best: 927.0 		N:4
+Dunaway        		Mean: 154.36 		Best: 924.3 		N:6
+Swiger         		Mean: 153.94 		Best: 924.07 		N:6
+Myers          		Mean: 227.06 		Best: 900.82 		N:4
+Shanklin       		Mean: 300.83 		Best: 900.41 		N:3
+
+########## REPORT GEN: 27 ##########
+SPECIES: 
+Shanklin       		Mean: 103.12 		Best: 934.99 		N:9
+Horton         		Mean: 185.04 		Best: 928.41 		N:5
+Moody          		Mean: 230.47 		Best: 928.41 		N:4
+Swiger         		Mean: 114.17 		Best: 928.41 		N:8
+Curl           		Mean: 230.66 		Best: 927.0 		N:4
+Goto           		Mean: 115.09 		Best: 928.41 		N:8
+Robinson       		Mean: 184.15 		Best: 927.0 		N:5
+Dunaway        		Mean: 115.35 		Best: 927.0 		N:8
+Myers          		Mean: 130.02 		Best: 924.3 		N:7
+Frazier        		Mean: 303.55 		Best: 924.23 		N:3
+Daughtry       		Mean: 451.45 		Best: 900.39 		N:2
+Schaffner      		Mean: 227.54 		Best: 900.48 		N:4
+
+########## REPORT GEN: 28 ##########
+SPECIES: 
+Curl           		Mean: 115.15 		Best: 934.99 		N:8
+Robinson       		Mean: 228.97 		Best: 934.99 		N:4
+Schaffner      		Mean: 83.74 		Best: 928.7 		N:11
+Moody          		Mean: 131.45 		Best: 928.41 		N:7
+Swiger         		Mean: 182.65 		Best: 928.41 		N:5
+Myers          		Mean: 311.78 		Best: 928.41 		N:3
+Horton         		Mean: 228.69 		Best: 927.0 		N:4
+Dunaway        		Mean: 84.07 		Best: 927.0 		N:11
+Daughtry       		Mean: 228.84 		Best: 927.0 		N:4
+Goto           		Mean: 152.34 		Best: 924.3 		N:6
+Shanklin       		Mean: 226.04 		Best: 900.41 		N:4
+Frazier        		Mean: 300.76 		Best: 900.39 		N:3
+
+########## REPORT GEN: 29 ##########
+SPECIES: 
+Dunaway        		Mean: 115.6 		Best: 934.99 		N:8
+Daughtry       		Mean: 131.98 		Best: 934.99 		N:7
+Goto           		Mean: 101.89 		Best: 934.99 		N:9
+Robinson       		Mean: 305.28 		Best: 928.41 		N:3
+Horton         		Mean: 183.1 		Best: 928.41 		N:5
+Frazier        		Mean: 130.79 		Best: 928.41 		N:7
+Curl           		Mean: 183.86 		Best: 927.64 		N:5
+Swiger         		Mean: 130.4 		Best: 927.0 		N:7
+Myers          		Mean: 76.11 		Best: 927.0 		N:12
+Shanklin       		Mean: 130.47 		Best: 927.0 		N:7
+Schaffner      		Mean: 180.95 		Best: 900.69 		N:5
+Moody          		Mean: 181.22 		Best: 900.39 		N:5
+
+########## REPORT GEN: 30 ##########
+SPECIES: 
+Frazier        		Mean: 184.2 		Best: 934.99 		N:5
+Shanklin       		Mean: 229.15 		Best: 934.99 		N:4
+Schaffner      		Mean: 115.14 		Best: 934.99 		N:8
+Moody          		Mean: 83.08 		Best: 934.99 		N:11
+Dunaway        		Mean: 101.24 		Best: 928.41 		N:9
+Robinson       		Mean: 70.45 		Best: 928.41 		N:13
+Curl           		Mean: 131.71 		Best: 928.41 		N:7
+Horton         		Mean: 114.22 		Best: 927.0 		N:8
+Swiger         		Mean: 130.38 		Best: 927.0 		N:7
+Daughtry       		Mean: 151.37 		Best: 905.64 		N:6
+Goto           		Mean: 226.55 		Best: 900.48 		N:4
+Myers          		Mean: 151.14 		Best: 900.39 		N:6
+
+########## REPORT GEN: 31 ##########
+SPECIES: 
+Frazier        		Mean: 131.7 		Best: 934.99 		N:7
+Moody          		Mean: 130.44 		Best: 934.99 		N:7
+Daughtry       		Mean: 101.78 		Best: 934.99 		N:9
+Goto           		Mean: 114.62 		Best: 934.99 		N:8
+Schaffner      		Mean: 130.24 		Best: 928.41 		N:7
+Horton         		Mean: 228.82 		Best: 928.41 		N:4
+Swiger         		Mean: 182.58 		Best: 928.41 		N:5
+Dunaway        		Mean: 130.34 		Best: 928.34 		N:7
+Curl           		Mean: 230.49 		Best: 927.64 		N:4
+Shanklin       		Mean: 82.77 		Best: 916.9 		N:11
+Robinson       		Mean: 151.51 		Best: 901.27 		N:6
+Myers          		Mean: 101.14 		Best: 900.96 		N:9
+
+########## REPORT GEN: 32 ##########
+SPECIES: 
+Moody          		Mean: 131.78 		Best: 934.99 		N:7
+Dunaway        		Mean: 308.91 		Best: 934.99 		N:3
+Myers          		Mean: 153.4 		Best: 934.99 		N:6
+Daughtry       		Mean: 75.95 		Best: 929.96 		N:12
+Frazier        		Mean: 101.24 		Best: 928.41 		N:9
+Horton         		Mean: 182.83 		Best: 928.34 		N:5
+Schaffner      		Mean: 114.66 		Best: 927.64 		N:8
+Goto           		Mean: 130.43 		Best: 927.0 		N:7
+Robinson       		Mean: 102.05 		Best: 928.41 		N:9
+Swiger         		Mean: 182.33 		Best: 916.9 		N:5
+Shanklin       		Mean: 130.15 		Best: 916.9 		N:7
+Curl           		Mean: 150.75 		Best: 900.29 		N:6
+
+########## REPORT GEN: 33 ##########
+SPECIES: 
+Myers          		Mean: 114.72 		Best: 934.99 		N:8
+Horton         		Mean: 83.31 		Best: 934.99 		N:11
+Shanklin       		Mean: 182.28 		Best: 934.99 		N:5
+Robinson       		Mean: 182.66 		Best: 929.96 		N:5
+Schaffner      		Mean: 131.95 		Best: 928.34 		N:7
+Moody          		Mean: 60.69 		Best: 927.32 		N:15
+Dunaway        		Mean: 230.1 		Best: 927.32 		N:4
+Daughtry       		Mean: 182.42 		Best: 927.0 		N:5
+Swiger         		Mean: 151.22 		Best: 900.35 		N:6
+Curl           		Mean: 100.83 		Best: 900.4 		N:9
+Goto           		Mean: 129.61 		Best: 900.25 		N:7
+Frazier        		Mean: 302.14 		Best: 900.19 		N:3
+
+########## REPORT GEN: 34 ##########
+SPECIES: 
+Moody          		Mean: 130.01 		Best: 934.99 		N:7
+Dunaway        		Mean: 114.47 		Best: 934.99 		N:8
+Curl           		Mean: 101.64 		Best: 934.99 		N:9
+Myers          		Mean: 101.84 		Best: 927.64 		N:9
+Goto           		Mean: 130.4 		Best: 927.64 		N:7
+Schaffner      		Mean: 460.33 		Best: 927.32 		N:2
+Horton         		Mean: 183.6 		Best: 927.0 		N:5
+Shanklin       		Mean: 130.47 		Best: 918.8 		N:7
+Robinson       		Mean: 130.31 		Best: 916.9 		N:7
+Daughtry       		Mean: 75.78 		Best: 916.9 		N:12
+Frazier        		Mean: 151.0 		Best: 900.98 		N:6
+Swiger         		Mean: 151.2 		Best: 900.24 		N:6
+
+########## REPORT GEN: 35 ##########
+SPECIES: 
+Dunaway        		Mean: 152.94 		Best: 934.99 		N:6
+Curl           		Mean: 115.39 		Best: 934.99 		N:8
+Schaffner      		Mean: 151.34 		Best: 934.99 		N:6
+Goto           		Mean: 308.52 		Best: 927.64 		N:3
+Myers          		Mean: 91.04 		Best: 927.32 		N:10
+Horton         		Mean: 114.28 		Best: 927.32 		N:8
+Frazier        		Mean: 152.6 		Best: 927.0 		N:6
+Swiger         		Mean: 130.26 		Best: 927.0 		N:7
+Daughtry       		Mean: 113.66 		Best: 918.8 		N:8
+Moody          		Mean: 151.14 		Best: 900.22 		N:6
+Shanklin       		Mean: 181.34 		Best: 900.22 		N:5
+Robinson       		Mean: 181.3 		Best: 900.22 		N:5
+
+########## REPORT GEN: 36 ##########
+SPECIES: 
+Frazier        		Mean: 82.61 		Best: 934.99 		N:11
+Shanklin       		Mean: 114.45 		Best: 934.99 		N:8
+Curl           		Mean: 113.98 		Best: 928.57 		N:8
+Horton         		Mean: 153.11 		Best: 927.64 		N:6
+Moody          		Mean: 91.0 		Best: 927.64 		N:10
+Schaffner      		Mean: 228.71 		Best: 927.32 		N:4
+Goto           		Mean: 130.32 		Best: 927.0 		N:7
+Swiger         		Mean: 82.43 		Best: 919.37 		N:11
+Robinson       		Mean: 182.15 		Best: 918.8 		N:5
+Myers          		Mean: 151.17 		Best: 900.34 		N:6
+Daughtry       		Mean: 150.96 		Best: 900.22 		N:6
+Dunaway        		Mean: 226.2 		Best: 900.34 		N:4
+
+########## REPORT GEN: 37 ##########
+SPECIES: 
+Schaffner      		Mean: 183.57 		Best: 934.99 		N:5
+Goto           		Mean: 114.09 		Best: 934.99 		N:8
+Dunaway        		Mean: 114.42 		Best: 928.57 		N:8
+Frazier        		Mean: 91.17 		Best: 927.64 		N:10
+Horton         		Mean: 101.07 		Best: 927.64 		N:9
+Swiger         		Mean: 82.42 		Best: 902.49 		N:11
+Daughtry       		Mean: 69.77 		Best: 900.85 		N:13
+Myers          		Mean: 181.18 		Best: 905.87 		N:5
+Shanklin       		Mean: 226.36 		Best: 900.35 		N:4
+Robinson       		Mean: 150.74 		Best: 900.34 		N:6
+Moody          		Mean: 301.96 		Best: 900.16 		N:3
+Curl           		Mean: 452.73 		Best: 900.12 		N:2
+
+########## REPORT GEN: 38 ##########
+SPECIES: 
+Dunaway        		Mean: 181.91 		Best: 934.99 		N:5
+Swiger         		Mean: 181.94 		Best: 934.99 		N:5
+Moody          		Mean: 113.76 		Best: 934.99 		N:8
+Goto           		Mean: 152.15 		Best: 928.57 		N:6
+Frazier        		Mean: 305.26 		Best: 927.64 		N:3
+Myers          		Mean: 75.67 		Best: 927.64 		N:12
+Curl           		Mean: 151.08 		Best: 902.49 		N:6
+Horton         		Mean: 151.12 		Best: 900.81 		N:6
+Daughtry       		Mean: 82.07 		Best: 900.72 		N:11
+Schaffner      		Mean: 225.86 		Best: 900.81 		N:4
+Robinson       		Mean: 225.31 		Best: 900.12 		N:4
+
+########## REPORT GEN: 39 ##########
+SPECIES: 
+Frazier        		Mean: 230.9 		Best: 934.99 		N:4
+Curl           		Mean: 183.98 		Best: 934.99 		N:5
+Shanklin       		Mean: 182.64 		Best: 934.99 		N:5
+Daughtry       		Mean: 152.02 		Best: 927.64 		N:6
+Schaffner      		Mean: 152.11 		Best: 927.64 		N:6
+Myers          		Mean: 152.0 		Best: 925.38 		N:6
+Swiger         		Mean: 113.01 		Best: 902.49 		N:8
+Dunaway        		Mean: 113.17 		Best: 900.81 		N:8
+Goto           		Mean: 226.51 		Best: 900.62 		N:4
+Horton         		Mean: 226.72 		Best: 901.11 		N:4
+Moody          		Mean: 226.45 		Best: 900.18 		N:4
+Robinson       		Mean: 150.89 		Best: 900.62 		N:6
+
+########## REPORT GEN: 40 ##########
+SPECIES: 
+Curl           		Mean: 131.59 		Best: 934.99 		N:7
+Schaffner      		Mean: 75.61 		Best: 934.99 		N:12
+Horton         		Mean: 152.69 		Best: 934.99 		N:6
+Moody          		Mean: 182.99 		Best: 934.99 		N:5
+Robinson       		Mean: 91.26 		Best: 934.99 		N:10
+Myers          		Mean: 130.03 		Best: 927.64 		N:7
+Swiger         		Mean: 101.21 		Best: 927.64 		N:9
+Dunaway        		Mean: 151.11 		Best: 900.35 		N:6
+Goto           		Mean: 150.95 		Best: 900.25 		N:6
+Daughtry       		Mean: 100.55 		Best: 900.53 		N:9
+Shanklin       		Mean: 100.62 		Best: 900.18 		N:9
+
+########## REPORT GEN: 41 ##########
+SPECIES: 
+Robinson       		Mean: 76.25 		Best: 934.99 		N:12
+Myers          		Mean: 152.03 		Best: 934.99 		N:6
+Goto           		Mean: 228.84 		Best: 934.99 		N:4
+Daughtry       		Mean: 152.91 		Best: 934.99 		N:6
+Horton         		Mean: 460.15 		Best: 927.64 		N:2
+Shanklin       		Mean: 302.57 		Best: 914.67 		N:3
+Schaffner      		Mean: 129.58 		Best: 900.35 		N:7
+Frazier        		Mean: 452.48 		Best: 900.18 		N:2
+Curl           		Mean: 301.74 		Best: 900.18 		N:3
+Swiger         		Mean: 226.17 		Best: 900.77 		N:4
+Dunaway        		Mean: 129.42 		Best: 900.34 		N:7
+Moody          		Mean: 180.82 		Best: 900.17 		N:5
+
+########## REPORT GEN: 42 ##########
+SPECIES: 
+Horton         		Mean: 114.39 		Best: 934.99 		N:8
+Schaffner      		Mean: 151.94 		Best: 934.99 		N:6
+Swiger         		Mean: 151.78 		Best: 934.99 		N:6
+Moody          		Mean: 130.17 		Best: 934.99 		N:7
+Daughtry       		Mean: 152.33 		Best: 927.64 		N:6
+Goto           		Mean: 151.46 		Best: 914.67 		N:6
+Frazier        		Mean: 181.59 		Best: 914.67 		N:5
+Robinson       		Mean: 301.83 		Best: 900.18 		N:3
+Myers          		Mean: 150.71 		Best: 900.11 		N:6
+Shanklin       		Mean: 301.86 		Best: 900.18 		N:3
+Dunaway        		Mean: 226.29 		Best: 900.18 		N:4
+Curl           		Mean: 150.43 		Best: 900.18 		N:6
+
+########## REPORT GEN: 43 ##########
+SPECIES: 
+Horton         		Mean: 151.89 		Best: 934.99 		N:6
+Schaffner      		Mean: 183.13 		Best: 934.99 		N:5
+Frazier        		Mean: 130.19 		Best: 934.99 		N:7
+Robinson       		Mean: 101.05 		Best: 934.99 		N:9
+Myers          		Mean: 113.56 		Best: 928.96 		N:8
+Moody          		Mean: 101.16 		Best: 927.64 		N:9
+Swiger         		Mean: 303.44 		Best: 914.67 		N:3
+Shanklin       		Mean: 129.88 		Best: 914.67 		N:7
+Curl           		Mean: 226.65 		Best: 914.67 		N:4
+Daughtry       		Mean: 129.36 		Best: 900.19 		N:7
+Dunaway        		Mean: 100.56 		Best: 900.17 		N:9
+Goto           		Mean: 225.51 		Best: 900.11 		N:4
+
+########## REPORT GEN: 44 ##########
+SPECIES: 
+Moody          		Mean: 306.56 		Best: 934.99 		N:3
+Swiger         		Mean: 91.76 		Best: 934.99 		N:10
+Goto           		Mean: 304.99 		Best: 934.99 		N:3
+Myers          		Mean: 82.52 		Best: 928.96 		N:11
+Daughtry       		Mean: 82.75 		Best: 927.64 		N:11
+Robinson       		Mean: 302.38 		Best: 914.67 		N:3
+Horton         		Mean: 150.76 		Best: 900.18 		N:6
+Frazier        		Mean: 113.2 		Best: 900.18 		N:8
+Shanklin       		Mean: 301.5 		Best: 900.17 		N:3
+Dunaway        		Mean: 150.74 		Best: 900.19 		N:6
+Curl           		Mean: 181.13 		Best: 900.43 		N:5
+Schaffner      		Mean: 112.84 		Best: 900.77 		N:8
+
+########## REPORT GEN: 45 ##########
+SPECIES: 
+Swiger         		Mean: 130.21 		Best: 934.99 		N:7
+Goto           		Mean: 113.73 		Best: 934.99 		N:8
+Shanklin       		Mean: 82.76 		Best: 934.99 		N:11
+Dunaway        		Mean: 82.72 		Best: 934.99 		N:11
+Schaffner      		Mean: 152.93 		Best: 934.99 		N:6
+Curl           		Mean: 129.86 		Best: 928.96 		N:7
+Daughtry       		Mean: 150.84 		Best: 914.67 		N:6
+Moody          		Mean: 225.66 		Best: 900.18 		N:4
+Frazier        		Mean: 226.2 		Best: 900.87 		N:4
+Horton         		Mean: 300.41 		Best: 900.38 		N:3
+Myers          		Mean: 300.63 		Best: 900.16 		N:3
+
+########## REPORT GEN: 46 ##########
+SPECIES: 
+Swiger         		Mean: 182.28 		Best: 934.99 		N:5
+Schaffner      		Mean: 114.75 		Best: 934.99 		N:8
+Moody          		Mean: 227.98 		Best: 934.99 		N:4
+Robinson       		Mean: 227.97 		Best: 934.99 		N:4
+Shanklin       		Mean: 113.69 		Best: 919.54 		N:8
+Curl           		Mean: 451.24 		Best: 900.38 		N:2
+Goto           		Mean: 451.09 		Best: 900.16 		N:2
+Myers          		Mean: 100.52 		Best: 900.18 		N:9
+Dunaway        		Mean: 150.71 		Best: 900.16 		N:6
+Daughtry       		Mean: 180.96 		Best: 900.14 		N:5
+Frazier        		Mean: 180.93 		Best: 900.74 		N:5
+Horton         		Mean: 150.73 		Best: 900.18 		N:6
+
+########## REPORT GEN: 47 ##########
+SPECIES: 
+Shanklin       		Mean: 151.8 		Best: 934.99 		N:6
+Curl           		Mean: 90.97 		Best: 934.99 		N:10
+Horton         		Mean: 91.1 		Best: 934.99 		N:10
+Frazier        		Mean: 301.8 		Best: 906.95 		N:3
+Dunaway        		Mean: 450.91 		Best: 900.38 		N:2
+Goto           		Mean: 180.4 		Best: 900.87 		N:5
+Moody          		Mean: 129.19 		Best: 900.5 		N:7
+Myers          		Mean: 129.34 		Best: 900.26 		N:7
+Daughtry       		Mean: 301.67 		Best: 900.14 		N:3
+Swiger         		Mean: 225.41 		Best: 900.38 		N:4
+Schaffner      		Mean: 226.32 		Best: 900.11 		N:4
+Robinson       		Mean: 128.91 		Best: 900.11 		N:7
+
+########## REPORT GEN: 48 ##########
+SPECIES: 
+Shanklin       		Mean: 130.07 		Best: 934.99 		N:7
+Horton         		Mean: 182.63 		Best: 934.98 		N:5
+Daughtry       		Mean: 82.34 		Best: 918.09 		N:11
+Schaffner      		Mean: 150.98 		Best: 906.95 		N:6
+Dunaway        		Mean: 180.59 		Best: 900.35 		N:5
+Robinson       		Mean: 451.11 		Best: 900.26 		N:2
+Myers          		Mean: 128.81 		Best: 900.16 		N:7
+Curl           		Mean: 150.74 		Best: 900.38 		N:6
+Frazier        		Mean: 180.87 		Best: 900.11 		N:5
+Swiger         		Mean: 100.55 		Best: 900.38 		N:9
+Goto           		Mean: 300.67 		Best: 900.19 		N:3
+Moody          		Mean: 225.19 		Best: 900.12 		N:4
+
+########## REPORT GEN: 49 ##########
+SPECIES: 
+Dunaway        		Mean: 227.9 		Best: 934.99 		N:4
+Swiger         		Mean: 182.47 		Best: 934.98 		N:5
+Daughtry       		Mean: 82.39 		Best: 918.09 		N:11
+Myers          		Mean: 82.35 		Best: 906.95 		N:11
+Schaffner      		Mean: 180.61 		Best: 900.88 		N:5
+Goto           		Mean: 225.63 		Best: 900.14 		N:4
+Shanklin       		Mean: 100.45 		Best: 901.12 		N:9
+Robinson       		Mean: 226.12 		Best: 900.11 		N:4
+Curl           		Mean: 129.27 		Best: 903.43 		N:7
+Horton         		Mean: 150.39 		Best: 900.34 		N:6
+Moody          		Mean: 180.51 		Best: 900.26 		N:5
+
+########## REPORT GEN: 50 ##########
+SPECIES: 
+Daughtry       		Mean: 229.13 		Best: 934.99 		N:4
+Curl           		Mean: 182.06 		Best: 934.99 		N:5
+Shanklin       		Mean: 182.06 		Best: 934.98 		N:5
+Moody          		Mean: 113.01 		Best: 906.95 		N:8
+Dunaway        		Mean: 225.65 		Best: 900.22 		N:4
+Myers          		Mean: 180.4 		Best: 900.16 		N:5
+Frazier        		Mean: 181.03 		Best: 900.35 		N:5
+Swiger         		Mean: 129.12 		Best: 900.35 		N:7
+Schaffner      		Mean: 100.49 		Best: 900.35 		N:9
+Goto           		Mean: 181.03 		Best: 900.35 		N:5
+Horton         		Mean: 225.43 		Best: 900.07 		N:4
+Robinson       		Mean: 128.92 		Best: 900.18 		N:7
+

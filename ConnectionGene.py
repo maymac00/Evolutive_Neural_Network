@@ -1,8 +1,14 @@
-import json
-
 from numpy.random import rand
 
-from Evolutive_Neural_Network.NEAT import NEAT
+from NEAT import NEAT
+
+"""
+ConnectionGene class
+
+    This class is used to represent a connection between two nodes.
+    It contains the weight of the connection, the innovation number and
+    the enabled status
+"""
 
 
 class ConnectionGene:
@@ -25,5 +31,6 @@ class ConnectionGene:
         return hash((self.inp, self.out))
 
     def toJson(self):
-        s = "{\"inp\":" + str(self.inp) + ",\"out\": " + str(self.out) + ",\"w\": " + str(self.w) + ",\"enable\": " + ("1" if self.enable else "0") + ",\"innovation\": " + str(self.innovation) + "}"
+        s = "{\"inp\":" + str(self.inp) + ",\"out\": " + str(self.out) + ",\"w\": " + str(self.w) + ",\"enable\": " + (
+            "1" if self.enable else "0") + ",\"innovation\": " + str(self.innovation) + "}"
         return s

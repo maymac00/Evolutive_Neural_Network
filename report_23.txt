@@ -1,0 +1,233 @@
+########## REPORT GEN: 2 ##########
+SPECIES: 
+Gabe           		Mean: 8.44 		Best: 18.0 		N:2
+Prechtel       		Mean: 6.78 		Best: 15.75 		N:2
+Seifert        		Mean: 6.59 		Best: 13.7 		N:2
+Brock          		Mean: 5.72 		Best: 11.75 		N:2
+Silva          		Mean: 5.06 		Best: 11.25 		N:2
+Delarosa       		Mean: 1.75 		Best: 11.0 		N:6
+Horn           		Mean: 5.44 		Best: 11.0 		N:2
+Avelar         		Mean: 5.19 		Best: 11.0 		N:2
+Mcmullen       		Mean: 5.19 		Best: 10.75 		N:2
+Hubbert        		Mean: 5.19 		Best: 10.5 		N:2
+Weibe          		Mean: 5.12 		Best: 10.25 		N:2
+
+########## REPORT GEN: 3 ##########
+SPECIES: 
+Webb           		Mean: 3.08 		Best: 20.5 		N:5
+Prechtel       		Mean: 3.61 		Best: 18.0 		N:4
+Bell           		Mean: 5.46 		Best: 10.76 		N:2
+Avelar         		Mean: 5.43 		Best: 10.75 		N:2
+Brock          		Mean: 4.93 		Best: 10.5 		N:2
+
+########## REPORT GEN: 4 ##########
+SPECIES: 
+Bell           		Mean: 4.82 		Best: 28.33 		N:4
+Seifert        		Mean: 10.24 		Best: 28.25 		N:2
+Webb           		Mean: 8.58 		Best: 18.67 		N:2
+Hubbert        		Mean: 5.44 		Best: 11.75 		N:2
+Horn           		Mean: 5.31 		Best: 11.0 		N:2
+Brock          		Mean: 5.0  		Best: 10.25 		N:2
+
+########## REPORT GEN: 5 ##########
+SPECIES: 
+Seifert        		Mean: 3.72 		Best: 27.29 		N:4
+Webb           		Mean: 9.15 		Best: 20.0 		N:2
+Brock          		Mean: 3.98 		Best: 14.0 		N:3
+Bell           		Mean: 3.77 		Best: 12.5 		N:3
+Avelar         		Mean: 5.56 		Best: 11.75 		N:2
+Mcmullen       		Mean: 4.74 		Best: 9.5 		N:2
+
+########## REPORT GEN: 6 ##########
+SPECIES: 
+Gabe           		Mean: 10.43 		Best: 30.87 		N:2
+Prechtel       		Mean: 3.57 		Best: 21.37 		N:4
+Webb           		Mean: 6.17 		Best: 20.21 		N:3
+Brock          		Mean: 4.87 		Best: 17.22 		N:3
+Avelar         		Mean: 5.44 		Best: 11.5 		N:2
+Hubbert        		Mean: 5.19 		Best: 10.75 		N:2
+
+########## REPORT GEN: 7 ##########
+SPECIES: 
+Gabe           		Mean: 6.43 		Best: 41.18 		N:4
+Prechtel       		Mean: 9.97 		Best: 28.98 		N:2
+Hubbert        		Mean: 3.79 		Best: 27.26 		N:4
+Horn           		Mean: 5.29 		Best: 26.92 		N:3
+Brock          		Mean: 8.55 		Best: 22.28 		N:2
+Webb           		Mean: 4.41 		Best: 16.04 		N:3
+Mcmullen       		Mean: 5.43 		Best: 11.75 		N:2
+
+########## REPORT GEN: 8 ##########
+SPECIES: 
+Hubbert        		Mean: 6.08 		Best: 34.12 		N:3
+Prechtel       		Mean: 5.45 		Best: 33.5 		N:4
+Brock          		Mean: 9.82 		Best: 28.79 		N:2
+Horn           		Mean: 7.07 		Best: 28.5 		N:3
+Gabe           		Mean: 6.2  		Best: 21.47 		N:3
+Mcmullen       		Mean: 4.63 		Best: 18.06 		N:3
+Avelar         		Mean: 5.25 		Best: 11.25 		N:2
+
+########## REPORT GEN: 9 ##########
+SPECIES: 
+Avelar         		Mean: 4.64 		Best: 38.1 		N:4
+Brock          		Mean: 8.47 		Best: 31.0 		N:3
+Prechtel       		Mean: 4.08 		Best: 28.12 		N:4
+Webb           		Mean: 5.56 		Best: 28.0 		N:3
+Gabe           		Mean: 3.41 		Best: 10.5 		N:3
+
+########## REPORT GEN: 10 ##########
+SPECIES: 
+Brock          		Mean: 4.4  		Best: 31.53 		N:5
+Webb           		Mean: 5.78 		Best: 30.92 		N:3
+Hubbert        		Mean: 5.67 		Best: 29.24 		N:4
+Horn           		Mean: 7.72 		Best: 21.25 		N:2
+
+########## REPORT GEN: 11 ##########
+SPECIES: 
+Horn           		Mean: 16.79 		Best: 41.5 		N:2
+Prechtel       		Mean: 6.15 		Best: 32.0 		N:3
+Webb           		Mean: 3.87 		Best: 28.5 		N:5
+Avelar         		Mean: 5.51 		Best: 11.5 		N:2
+
+########## REPORT GEN: 12 ##########
+SPECIES: 
+Horn           		Mean: 5.19 		Best: 46.75 		N:6
+Webb           		Mean: 11.72 		Best: 40.01 		N:3
+Avelar         		Mean: 5.13 		Best: 25.0 		N:3
+Hubbert        		Mean: 4.83 		Best: 10.0 		N:2
+
+########## REPORT GEN: 13 ##########
+SPECIES: 
+Prechtel       		Mean: 3.75 		Best: 46.0 		N:7
+Webb           		Mean: 4.0  		Best: 38.93 		N:5
+Horn           		Mean: 7.62 		Best: 33.64 		N:3
+Avelar         		Mean: 5.65 		Best: 29.25 		N:3
+Hubbert        		Mean: 3.72 		Best: 11.25 		N:3
+
+########## REPORT GEN: 14 ##########
+SPECIES: 
+Prechtel       		Mean: 4.11 		Best: 35.73 		N:5
+Avelar         		Mean: 3.32 		Best: 30.75 		N:5
+Horn           		Mean: 6.63 		Best: 29.5 		N:3
+Hubbert        		Mean: 2.06 		Best: 29.5 		N:7
+Webb           		Mean: 2.6  		Best: 11.25 		N:4
+
+########## REPORT GEN: 15 ##########
+SPECIES: 
+Avelar         		Mean: 3.17 		Best: 45.0 		N:7
+Horn           		Mean: 1.5  		Best: 35.25 		N:11
+Webb           		Mean: 6.15 		Best: 32.14 		N:3
+Prechtel       		Mean: 3.28 		Best: 20.25 		N:4
+
+########## REPORT GEN: 16 ##########
+SPECIES: 
+Hubbert        		Mean: 7.12 		Best: 28.25 		N:3
+Horn           		Mean: 3.47 		Best: 24.37 		N:4
+Avelar         		Mean: 3.63 		Best: 16.5 		N:4
+Webb           		Mean: 3.54 		Best: 11.25 		N:3
+
+########## REPORT GEN: 17 ##########
+SPECIES: 
+Hubbert        		Mean: 9.28 		Best: 37.06 		N:3
+Webb           		Mean: 11.83 		Best: 29.45 		N:2
+Avelar         		Mean: 3.69 		Best: 27.56 		N:4
+Horn           		Mean: 5.2  		Best: 10.5 		N:2
+
+########## REPORT GEN: 18 ##########
+SPECIES: 
+Hubbert        		Mean: 3.21 		Best: 36.75 		N:7
+Webb           		Mean: 3.12 		Best: 29.23 		N:5
+Prechtel       		Mean: 6.2  		Best: 27.87 		N:3
+Avelar         		Mean: 10.25 		Best: 26.32 		N:2
+
+########## REPORT GEN: 19 ##########
+SPECIES: 
+Webb           		Mean: 5.52 		Best: 37.85 		N:4
+Horn           		Mean: 5.6  		Best: 36.31 		N:4
+Hubbert        		Mean: 2.29 		Best: 31.95 		N:7
+Avelar         		Mean: 10.3 		Best: 25.75 		N:2
+
+########## REPORT GEN: 20 ##########
+SPECIES: 
+Hubbert        		Mean: 4.58 		Best: 36.76 		N:5
+Webb           		Mean: 7.03 		Best: 33.58 		N:3
+Horn           		Mean: 6.21 		Best: 27.27 		N:3
+Prechtel       		Mean: 6.7  		Best: 26.64 		N:3
+
+########## REPORT GEN: 21 ##########
+SPECIES: 
+Horn           		Mean: 8.0  		Best: 39.14 		N:4
+Prechtel       		Mean: 13.74 		Best: 36.97 		N:2
+Hubbert        		Mean: 14.95 		Best: 34.85 		N:2
+Webb           		Mean: 9.37 		Best: 26.06 		N:2
+Avelar         		Mean: 6.8  		Best: 24.25 		N:3
+
+########## REPORT GEN: 22 ##########
+SPECIES: 
+Avelar         		Mean: 3.25 		Best: 37.66 		N:8
+Prechtel       		Mean: 8.84 		Best: 33.76 		N:3
+Webb           		Mean: 7.47 		Best: 31.73 		N:3
+Horn           		Mean: 9.64 		Best: 30.48 		N:3
+Hubbert        		Mean: 9.64 		Best: 21.52 		N:2
+
+########## REPORT GEN: 23 ##########
+SPECIES: 
+Webb           		Mean: 8.15 		Best: 32.27 		N:3
+Prechtel       		Mean: 5.59 		Best: 31.12 		N:4
+Horn           		Mean: 1.66 		Best: 28.0 		N:11
+Avelar         		Mean: 3.19 		Best: 27.0 		N:6
+
+########## REPORT GEN: 24 ##########
+SPECIES: 
+Avelar         		Mean: 6.77 		Best: 31.91 		N:4
+Webb           		Mean: 5.4  		Best: 31.54 		N:5
+Prechtel       		Mean: 4.73 		Best: 30.44 		N:4
+Hubbert        		Mean: 4.48 		Best: 29.1 		N:5
+
+########## REPORT GEN: 25 ##########
+SPECIES: 
+Horn           		Mean: 18.01 		Best: 39.25 		N:2
+Prechtel       		Mean: 2.44 		Best: 34.26 		N:10
+Webb           		Mean: 6.77 		Best: 29.2 		N:3
+Hubbert        		Mean: 8.58 		Best: 20.7 		N:2
+
+########## REPORT GEN: 26 ##########
+SPECIES: 
+Horn           		Mean: 3.33 		Best: 36.6 		N:6
+Hubbert        		Mean: 5.58 		Best: 28.33 		N:4
+Prechtel       		Mean: 3.36 		Best: 26.86 		N:6
+Webb           		Mean: 4.34 		Best: 26.5 		N:4
+
+########## REPORT GEN: 27 ##########
+SPECIES: 
+Prechtel       		Mean: 2.15 		Best: 33.48 		N:9
+Horn           		Mean: 1.7  		Best: 30.18 		N:11
+Hubbert        		Mean: 2.6  		Best: 27.69 		N:6
+Webb           		Mean: 6.73 		Best: 26.03 		N:3
+
+########## REPORT GEN: 28 ##########
+SPECIES: 
+Horn           		Mean: 12.06 		Best: 37.87 		N:2
+Hubbert        		Mean: 4.35 		Best: 23.85 		N:4
+Webb           		Mean: 4.11 		Best: 12.75 		N:3
+
+########## REPORT GEN: 29 ##########
+SPECIES: 
+Webb           		Mean: 10.82 		Best: 24.85 		N:2
+Hubbert        		Mean: 6.11 		Best: 20.5 		N:3
+
+########## REPORT GEN: 30 ##########
+SPECIES: 
+Webb           		Mean: 6.21 		Best: 23.07 		N:3
+Hubbert        		Mean: 10.1 		Best: 23.0 		N:2
+Horn           		Mean: 9.31 		Best: 19.0 		N:2
+
+########## REPORT GEN: 31 ##########
+SPECIES: 
+Webb           		Mean: 11.12 		Best: 25.6 		N:2
+Hubbert        		Mean: 6.61 		Best: 24.5 		N:3
+
+########## REPORT GEN: 32 ##########
+SPECIES: 
+Webb           		Mean: 8.59 		Best: 21.5 		N:2
+

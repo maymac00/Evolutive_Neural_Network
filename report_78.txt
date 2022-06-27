@@ -1,0 +1,2577 @@
+########## REPORT GEN: 2 ##########
+SPECIES: 
+Aguilar        		Mean: 456.32 		Best: 924.07 		N:2
+Elder          		Mean: 453.13 		Best: 909.75 		N:2
+Phillips       		Mean: 461.25 		Best: 909.04 		N:2
+Agrela         		Mean: 454.34 		Best: 907.33 		N:2
+Cooper         		Mean: 455.29 		Best: 906.89 		N:2
+Thompson       		Mean: 452.19 		Best: 905.78 		N:2
+Donovan        		Mean: 184.65 		Best: 905.72 		N:5
+Reese          		Mean: 231.86 		Best: 905.37 		N:4
+Wright         		Mean: 454.53 		Best: 904.63 		N:2
+Reeves         		Mean: 456.75 		Best: 904.45 		N:2
+Otte           		Mean: 230.11 		Best: 903.93 		N:4
+Gomez          		Mean: 451.17 		Best: 902.41 		N:2
+Kercy          		Mean: 114.99 		Best: 901.36 		N:8
+Miller         		Mean: 449.47 		Best: 901.35 		N:2
+Zacharias      		Mean: 308.49 		Best: 901.35 		N:3
+Fisher         		Mean: 449.36 		Best: 901.08 		N:2
+Johnston       		Mean: 229.22 		Best: 900.94 		N:4
+Lucas          		Mean: 454.82 		Best: 899.68 		N:2
+West           		Mean: 450.69 		Best: 898.73 		N:2
+Decena         		Mean: 303.21 		Best: 899.27 		N:3
+Mcconnell      		Mean: 303.37 		Best: 898.27 		N:3
+Williams       		Mean: 306.0 		Best: 905.61 		N:3
+Koenig         		Mean: 455.75 		Best: 897.9 		N:2
+Howery         		Mean: 305.09 		Best: 897.9 		N:3
+Key            		Mean: 448.23 		Best: 897.16 		N:2
+Sadler         		Mean: 448.48 		Best: 897.11 		N:2
+Bird           		Mean: 447.91 		Best: 896.95 		N:2
+Davis          		Mean: 448.27 		Best: 896.87 		N:2
+Sink           		Mean: 304.5 		Best: 897.75 		N:3
+Waters         		Mean: 304.53 		Best: 896.11 		N:3
+Zeigler        		Mean: 229.55 		Best: 901.11 		N:4
+Thompson       		Mean: 444.71 		Best: 890.71 		N:2
+
+########## REPORT GEN: 3 ##########
+SPECIES: 
+Aguilar        		Mean: 455.15 		Best: 909.62 		N:2
+Zeigler        		Mean: 460.47 		Best: 906.57 		N:2
+Agrela         		Mean: 453.21 		Best: 905.6 		N:2
+Reeves         		Mean: 454.88 		Best: 904.66 		N:2
+Elder          		Mean: 452.0 		Best: 904.52 		N:2
+Anderson       		Mean: 457.05 		Best: 904.23 		N:2
+Meyer          		Mean: 230.38 		Best: 903.9 		N:4
+Gomez          		Mean: 452.79 		Best: 903.88 		N:2
+Mcconnell      		Mean: 456.3 		Best: 902.5 		N:2
+Reese          		Mean: 306.99 		Best: 902.13 		N:3
+Davis          		Mean: 231.63 		Best: 901.27 		N:4
+Dimiceli       		Mean: 455.45 		Best: 900.4 		N:2
+Kercy          		Mean: 306.62 		Best: 899.81 		N:3
+Williams       		Mean: 456.1 		Best: 899.51 		N:2
+Miller         		Mean: 449.62 		Best: 899.26 		N:2
+Bird           		Mean: 448.48 		Best: 899.02 		N:2
+Howery         		Mean: 455.44 		Best: 899.01 		N:2
+Otte           		Mean: 457.75 		Best: 898.92 		N:2
+Ware           		Mean: 455.23 		Best: 898.69 		N:2
+Lucas          		Mean: 305.92 		Best: 899.63 		N:3
+Key            		Mean: 453.48 		Best: 898.08 		N:2
+Dirden         		Mean: 453.37 		Best: 898.04 		N:2
+West           		Mean: 449.01 		Best: 895.34 		N:2
+Sadler         		Mean: 305.34 		Best: 897.27 		N:3
+Thompson       		Mean: 442.44 		Best: 888.2 		N:2
+
+########## REPORT GEN: 4 ##########
+SPECIES: 
+Davis          		Mean: 229.19 		Best: 920.87 		N:4
+Aguilar        		Mean: 458.24 		Best: 919.68 		N:2
+Phillips       		Mean: 184.26 		Best: 909.18 		N:5
+Anderson       		Mean: 229.55 		Best: 905.76 		N:4
+Zeigler        		Mean: 305.03 		Best: 905.32 		N:3
+Gomez          		Mean: 452.34 		Best: 903.86 		N:2
+Zacharias      		Mean: 451.68 		Best: 903.71 		N:2
+Johnston       		Mean: 456.63 		Best: 902.41 		N:2
+Ware           		Mean: 304.02 		Best: 902.4 		N:3
+Miller         		Mean: 227.05 		Best: 901.42 		N:4
+Meyer          		Mean: 458.49 		Best: 900.94 		N:2
+Decena         		Mean: 183.1 		Best: 899.78 		N:5
+West           		Mean: 450.95 		Best: 899.51 		N:2
+Koenig         		Mean: 303.79 		Best: 905.51 		N:3
+Thompson       		Mean: 448.97 		Best: 898.82 		N:2
+Donovan        		Mean: 452.96 		Best: 898.27 		N:2
+Sink           		Mean: 228.83 		Best: 896.98 		N:4
+Bird           		Mean: 448.42 		Best: 896.16 		N:2
+Dimiceli       		Mean: 452.41 		Best: 895.71 		N:2
+
+########## REPORT GEN: 5 ##########
+SPECIES: 
+Davis          		Mean: 461.2 		Best: 917.98 		N:2
+Williams       		Mean: 308.41 		Best: 912.98 		N:3
+Aguilar        		Mean: 453.43 		Best: 908.49 		N:2
+Zeigler        		Mean: 458.78 		Best: 906.25 		N:2
+Ware           		Mean: 305.83 		Best: 906.17 		N:3
+Phillips       		Mean: 229.76 		Best: 905.8 		N:4
+Howery         		Mean: 306.43 		Best: 905.14 		N:3
+Lucas          		Mean: 230.35 		Best: 904.95 		N:4
+Kercy          		Mean: 228.74 		Best: 904.77 		N:4
+Agrela         		Mean: 456.25 		Best: 904.46 		N:2
+Thompson       		Mean: 456.47 		Best: 903.87 		N:2
+Dimiceli       		Mean: 303.95 		Best: 902.62 		N:3
+Meyer          		Mean: 229.47 		Best: 902.4 		N:4
+Donovan        		Mean: 304.89 		Best: 901.59 		N:3
+Bird           		Mean: 449.76 		Best: 900.88 		N:2
+Sink           		Mean: 305.25 		Best: 899.34 		N:3
+West           		Mean: 451.26 		Best: 898.8 		N:2
+Koenig         		Mean: 302.79 		Best: 900.57 		N:3
+
+########## REPORT GEN: 6 ##########
+SPECIES: 
+Ware           		Mean: 184.49 		Best: 917.94 		N:5
+Thompson       		Mean: 461.12 		Best: 914.33 		N:2
+Meyer          		Mean: 184.92 		Best: 914.19 		N:5
+Williams       		Mean: 306.67 		Best: 909.97 		N:3
+Otte           		Mean: 184.23 		Best: 906.02 		N:5
+Miller         		Mean: 452.11 		Best: 904.77 		N:2
+Gomez          		Mean: 301.73 		Best: 904.26 		N:3
+Thompson       		Mean: 457.51 		Best: 903.95 		N:2
+Kercy          		Mean: 456.51 		Best: 903.51 		N:2
+Howery         		Mean: 306.06 		Best: 903.41 		N:3
+Phillips       		Mean: 303.54 		Best: 902.77 		N:3
+West           		Mean: 451.64 		Best: 900.54 		N:2
+Bird           		Mean: 448.66 		Best: 899.11 		N:2
+Reese          		Mean: 455.03 		Best: 898.91 		N:2
+Davis          		Mean: 449.64 		Best: 898.64 		N:2
+Sink           		Mean: 300.2 		Best: 898.34 		N:3
+Dirden         		Mean: 452.92 		Best: 896.88 		N:2
+Lucas          		Mean: 454.48 		Best: 895.72 		N:2
+
+########## REPORT GEN: 7 ##########
+SPECIES: 
+Meyer          		Mean: 456.28 		Best: 916.03 		N:2
+Ware           		Mean: 229.13 		Best: 911.9 		N:4
+Howery         		Mean: 458.77 		Best: 910.19 		N:2
+Donovan        		Mean: 458.37 		Best: 906.16 		N:2
+Kercy          		Mean: 230.05 		Best: 906.05 		N:4
+Zacharias      		Mean: 184.21 		Best: 905.64 		N:5
+Lucas          		Mean: 303.99 		Best: 903.3 		N:3
+Otte           		Mean: 131.06 		Best: 902.37 		N:7
+Sink           		Mean: 449.78 		Best: 902.36 		N:2
+Reeves         		Mean: 457.13 		Best: 901.93 		N:2
+Thompson       		Mean: 184.15 		Best: 905.14 		N:5
+Koenig         		Mean: 456.14 		Best: 901.04 		N:2
+Dirden         		Mean: 446.27 		Best: 899.48 		N:2
+Thompson       		Mean: 302.84 		Best: 898.63 		N:3
+Gomez          		Mean: 455.55 		Best: 898.58 		N:2
+West           		Mean: 448.42 		Best: 896.98 		N:2
+Bird           		Mean: 299.0 		Best: 896.93 		N:3
+Davis          		Mean: 303.5 		Best: 895.97 		N:3
+
+########## REPORT GEN: 8 ##########
+SPECIES: 
+Anderson       		Mean: 229.96 		Best: 918.21 		N:4
+Aguilar        		Mean: 462.84 		Best: 915.92 		N:2
+Thompson       		Mean: 183.92 		Best: 913.03 		N:5
+Donovan        		Mean: 132.1 		Best: 910.36 		N:7
+Thompson       		Mean: 131.63 		Best: 909.65 		N:7
+Otte           		Mean: 457.3 		Best: 907.66 		N:2
+Meyer          		Mean: 457.82 		Best: 906.88 		N:2
+Reese          		Mean: 229.77 		Best: 906.02 		N:4
+Reeves         		Mean: 452.4 		Best: 905.28 		N:2
+Dirden         		Mean: 226.87 		Best: 904.67 		N:4
+Lucas          		Mean: 183.45 		Best: 906.76 		N:5
+Kercy          		Mean: 183.56 		Best: 905.17 		N:5
+Ware           		Mean: 229.45 		Best: 908.29 		N:4
+Gomez          		Mean: 304.78 		Best: 902.83 		N:3
+Sink           		Mean: 303.04 		Best: 900.93 		N:3
+Bird           		Mean: 448.32 		Best: 897.5 		N:2
+West           		Mean: 224.31 		Best: 896.71 		N:4
+
+########## REPORT GEN: 9 ##########
+SPECIES: 
+Gomez          		Mean: 306.38 		Best: 923.48 		N:3
+Donovan        		Mean: 230.87 		Best: 919.62 		N:4
+Lucas          		Mean: 102.08 		Best: 918.5 		N:9
+Anderson       		Mean: 229.65 		Best: 916.4 		N:4
+Koenig         		Mean: 183.22 		Best: 917.61 		N:5
+Zacharias      		Mean: 306.3 		Best: 907.46 		N:3
+Meyer          		Mean: 306.48 		Best: 906.96 		N:3
+Aguilar        		Mean: 228.19 		Best: 906.68 		N:4
+Otte           		Mean: 228.39 		Best: 906.91 		N:4
+Ware           		Mean: 131.04 		Best: 904.73 		N:7
+Reese          		Mean: 455.58 		Best: 904.1 		N:2
+Kercy          		Mean: 153.19 		Best: 906.51 		N:6
+Sink           		Mean: 451.5 		Best: 901.3 		N:2
+Thompson       		Mean: 449.8 		Best: 898.46 		N:2
+
+########## REPORT GEN: 10 ##########
+SPECIES: 
+Zacharias      		Mean: 231.96 		Best: 927.18 		N:4
+Koenig         		Mean: 229.69 		Best: 917.75 		N:4
+Ware           		Mean: 130.77 		Best: 916.64 		N:7
+Donovan        		Mean: 183.24 		Best: 912.63 		N:5
+Aguilar        		Mean: 304.95 		Best: 908.95 		N:3
+Anderson       		Mean: 306.47 		Best: 907.59 		N:3
+Meyer          		Mean: 152.49 		Best: 907.01 		N:6
+Lucas          		Mean: 457.7 		Best: 905.83 		N:2
+Kercy          		Mean: 229.07 		Best: 904.61 		N:4
+Thompson       		Mean: 454.9 		Best: 902.38 		N:2
+Reese          		Mean: 225.26 		Best: 900.99 		N:4
+West           		Mean: 225.06 		Best: 899.86 		N:4
+Thompson       		Mean: 448.88 		Best: 896.73 		N:2
+Dirden         		Mean: 443.65 		Best: 886.2 		N:2
+
+########## REPORT GEN: 11 ##########
+SPECIES: 
+Otte           		Mean: 304.89 		Best: 922.96 		N:3
+Lucas          		Mean: 131.37 		Best: 920.31 		N:7
+Gomez          		Mean: 229.39 		Best: 918.62 		N:4
+Ware           		Mean: 183.38 		Best: 913.69 		N:5
+Reese          		Mean: 305.23 		Best: 909.16 		N:3
+Donovan        		Mean: 184.12 		Best: 908.61 		N:5
+Anderson       		Mean: 304.11 		Best: 907.94 		N:3
+Thompson       		Mean: 456.59 		Best: 905.94 		N:2
+Koenig         		Mean: 182.46 		Best: 905.36 		N:5
+Thompson       		Mean: 150.25 		Best: 902.88 		N:6
+Aguilar        		Mean: 302.14 		Best: 900.07 		N:3
+Zacharias      		Mean: 302.23 		Best: 901.92 		N:3
+Dirden         		Mean: 297.03 		Best: 896.27 		N:3
+
+########## REPORT GEN: 12 ##########
+SPECIES: 
+Anderson       		Mean: 131.31 		Best: 928.1 		N:7
+Donovan        		Mean: 152.17 		Best: 912.93 		N:6
+Aguilar        		Mean: 229.92 		Best: 912.7 		N:4
+Kercy          		Mean: 456.65 		Best: 907.61 		N:2
+Gomez          		Mean: 302.5 		Best: 907.59 		N:3
+Koenig         		Mean: 302.35 		Best: 902.99 		N:3
+Reese          		Mean: 451.42 		Best: 902.48 		N:2
+Lucas          		Mean: 227.9 		Best: 902.83 		N:4
+Otte           		Mean: 304.2 		Best: 901.7 		N:3
+West           		Mean: 300.8 		Best: 900.87 		N:3
+Zacharias      		Mean: 129.66 		Best: 900.15 		N:7
+Thompson       		Mean: 450.81 		Best: 899.87 		N:2
+Thompson       		Mean: 182.58 		Best: 900.74 		N:5
+Sink           		Mean: 304.0 		Best: 899.23 		N:3
+Dirden         		Mean: 443.26 		Best: 887.86 		N:2
+
+########## REPORT GEN: 13 ##########
+SPECIES: 
+Gomez          		Mean: 230.92 		Best: 931.99 		N:4
+Ware           		Mean: 114.98 		Best: 924.45 		N:8
+Zacharias      		Mean: 458.74 		Best: 923.33 		N:2
+Anderson       		Mean: 304.94 		Best: 917.15 		N:3
+Donovan        		Mean: 182.5 		Best: 909.67 		N:5
+Sink           		Mean: 228.76 		Best: 909.18 		N:4
+Lucas          		Mean: 129.75 		Best: 905.61 		N:7
+Reese          		Mean: 454.76 		Best: 905.17 		N:2
+Koenig         		Mean: 227.55 		Best: 904.93 		N:4
+West           		Mean: 149.99 		Best: 901.24 		N:6
+Otte           		Mean: 301.87 		Best: 900.0 		N:3
+Thompson       		Mean: 299.69 		Best: 899.45 		N:3
+Aguilar        		Mean: 225.43 		Best: 897.85 		N:4
+Dirden         		Mean: 148.74 		Best: 895.7 		N:6
+
+########## REPORT GEN: 14 ##########
+SPECIES: 
+Sink           		Mean: 458.75 		Best: 927.18 		N:2
+Reese          		Mean: 308.47 		Best: 922.94 		N:3
+Zacharias      		Mean: 229.47 		Best: 920.68 		N:4
+Anderson       		Mean: 183.69 		Best: 919.28 		N:5
+Aguilar        		Mean: 228.01 		Best: 919.05 		N:4
+Kercy          		Mean: 130.2 		Best: 916.09 		N:7
+Otte           		Mean: 304.36 		Best: 915.54 		N:3
+Gomez          		Mean: 305.36 		Best: 906.08 		N:3
+Donovan        		Mean: 152.71 		Best: 908.75 		N:6
+Dirden         		Mean: 301.8 		Best: 904.79 		N:3
+Thompson       		Mean: 151.81 		Best: 904.24 		N:6
+West           		Mean: 179.95 		Best: 900.78 		N:5
+Koenig         		Mean: 226.96 		Best: 903.16 		N:4
+Thompson       		Mean: 299.34 		Best: 897.95 		N:3
+Lucas          		Mean: 299.37 		Best: 897.83 		N:3
+
+########## REPORT GEN: 15 ##########
+SPECIES: 
+Thompson       		Mean: 228.9 		Best: 928.47 		N:4
+Reese          		Mean: 182.45 		Best: 927.43 		N:5
+Thompson       		Mean: 182.09 		Best: 924.47 		N:5
+Dirden         		Mean: 114.29 		Best: 923.79 		N:8
+Zacharias      		Mean: 65.17 		Best: 920.91 		N:14
+Lucas          		Mean: 227.49 		Best: 920.14 		N:4
+Anderson       		Mean: 181.64 		Best: 919.82 		N:5
+Donovan        		Mean: 130.54 		Best: 919.67 		N:7
+Aguilar        		Mean: 457.13 		Best: 918.44 		N:2
+Kercy          		Mean: 182.5 		Best: 916.44 		N:5
+Sink           		Mean: 457.86 		Best: 915.4 		N:2
+Otte           		Mean: 152.47 		Best: 913.85 		N:6
+Koenig         		Mean: 229.49 		Best: 906.7 		N:4
+West           		Mean: 150.27 		Best: 901.66 		N:6
+
+########## REPORT GEN: 16 ##########
+SPECIES: 
+Gomez          		Mean: 130.91 		Best: 930.72 		N:7
+Thompson       		Mean: 462.46 		Best: 923.33 		N:2
+Donovan        		Mean: 83.84 		Best: 923.17 		N:11
+Lucas          		Mean: 182.93 		Best: 923.0 		N:5
+Koenig         		Mean: 229.58 		Best: 919.42 		N:4
+Kercy          		Mean: 151.77 		Best: 918.2 		N:6
+Reese          		Mean: 227.8 		Best: 914.48 		N:4
+Sink           		Mean: 455.71 		Best: 913.23 		N:2
+Aguilar        		Mean: 302.92 		Best: 911.35 		N:3
+Anderson       		Mean: 304.71 		Best: 907.15 		N:3
+Thompson       		Mean: 225.33 		Best: 904.79 		N:4
+Otte           		Mean: 152.32 		Best: 904.11 		N:6
+West           		Mean: 449.55 		Best: 897.45 		N:2
+
+########## REPORT GEN: 17 ##########
+SPECIES: 
+Anderson       		Mean: 459.15 		Best: 926.82 		N:2
+Aguilar        		Mean: 229.77 		Best: 926.73 		N:4
+Sink           		Mean: 304.17 		Best: 924.86 		N:3
+Gomez          		Mean: 152.23 		Best: 921.96 		N:6
+Otte           		Mean: 230.69 		Best: 921.58 		N:4
+Reese          		Mean: 460.94 		Best: 918.97 		N:2
+Donovan        		Mean: 182.91 		Best: 918.45 		N:5
+Koenig         		Mean: 130.03 		Best: 913.76 		N:7
+Thompson       		Mean: 182.92 		Best: 913.64 		N:5
+Lucas          		Mean: 130.81 		Best: 912.77 		N:7
+Kercy          		Mean: 301.49 		Best: 904.51 		N:3
+Zacharias      		Mean: 298.49 		Best: 903.53 		N:3
+Thompson       		Mean: 300.63 		Best: 900.76 		N:3
+
+########## REPORT GEN: 18 ##########
+SPECIES: 
+Kercy          		Mean: 131.36 		Best: 928.09 		N:7
+Lucas          		Mean: 229.59 		Best: 926.8 		N:4
+Thompson       		Mean: 307.31 		Best: 926.48 		N:3
+Koenig         		Mean: 131.7 		Best: 925.67 		N:7
+Reese          		Mean: 304.42 		Best: 919.43 		N:3
+Gomez          		Mean: 228.3 		Best: 917.64 		N:4
+Sink           		Mean: 152.39 		Best: 915.57 		N:6
+Anderson       		Mean: 228.11 		Best: 912.57 		N:4
+Zacharias      		Mean: 152.15 		Best: 911.92 		N:6
+Thompson       		Mean: 180.07 		Best: 903.21 		N:5
+West           		Mean: 448.1 		Best: 896.47 		N:2
+
+########## REPORT GEN: 19 ##########
+SPECIES: 
+Reese          		Mean: 464.28 		Best: 928.94 		N:2
+Dirden         		Mean: 305.26 		Best: 924.84 		N:3
+Anderson       		Mean: 114.91 		Best: 924.79 		N:8
+Aguilar        		Mean: 183.94 		Best: 924.3 		N:5
+Kercy          		Mean: 304.94 		Best: 921.07 		N:3
+Donovan        		Mean: 307.11 		Best: 921.03 		N:3
+Koenig         		Mean: 307.01 		Best: 918.7 		N:3
+Lucas          		Mean: 302.01 		Best: 913.67 		N:3
+West           		Mean: 302.59 		Best: 909.48 		N:3
+Sink           		Mean: 453.07 		Best: 906.97 		N:2
+Thompson       		Mean: 299.97 		Best: 900.28 		N:3
+Thompson       		Mean: 224.94 		Best: 900.11 		N:4
+
+########## REPORT GEN: 20 ##########
+SPECIES: 
+Kercy          		Mean: 231.93 		Best: 929.46 		N:4
+Anderson       		Mean: 183.55 		Best: 921.97 		N:5
+Thompson       		Mean: 306.42 		Best: 919.98 		N:3
+Lucas          		Mean: 227.91 		Best: 919.09 		N:4
+Thompson       		Mean: 151.99 		Best: 917.08 		N:6
+Reese          		Mean: 184.46 		Best: 916.7 		N:5
+Aguilar        		Mean: 459.02 		Best: 915.67 		N:2
+Otte           		Mean: 183.91 		Best: 915.14 		N:5
+Gomez          		Mean: 306.47 		Best: 917.04 		N:3
+Koenig         		Mean: 303.71 		Best: 913.87 		N:3
+Dirden         		Mean: 228.1 		Best: 912.53 		N:4
+Sink           		Mean: 181.75 		Best: 903.98 		N:5
+West           		Mean: 300.22 		Best: 901.53 		N:3
+
+########## REPORT GEN: 21 ##########
+SPECIES: 
+Thompson       		Mean: 230.62 		Best: 927.28 		N:4
+Dirden         		Mean: 131.7 		Best: 926.53 		N:7
+Lucas          		Mean: 228.59 		Best: 926.38 		N:4
+Anderson       		Mean: 153.04 		Best: 920.05 		N:6
+Otte           		Mean: 304.35 		Best: 919.86 		N:3
+Thompson       		Mean: 228.23 		Best: 918.47 		N:4
+Donovan        		Mean: 230.26 		Best: 918.26 		N:4
+Gomez          		Mean: 183.38 		Best: 918.17 		N:5
+Zacharias      		Mean: 304.3 		Best: 916.05 		N:3
+Aguilar        		Mean: 182.78 		Best: 914.5 		N:5
+Koenig         		Mean: 229.1 		Best: 912.0 		N:4
+Kercy          		Mean: 130.36 		Best: 911.96 		N:7
+
+########## REPORT GEN: 22 ##########
+SPECIES: 
+Zacharias      		Mean: 231.04 		Best: 928.84 		N:4
+Dirden         		Mean: 183.92 		Best: 925.56 		N:5
+Thompson       		Mean: 230.26 		Best: 924.86 		N:4
+Koenig         		Mean: 228.33 		Best: 923.89 		N:4
+Aguilar        		Mean: 229.32 		Best: 923.37 		N:4
+Kercy          		Mean: 130.39 		Best: 923.14 		N:7
+Donovan        		Mean: 229.71 		Best: 921.95 		N:4
+Reese          		Mean: 184.72 		Best: 923.05 		N:5
+Thompson       		Mean: 228.84 		Best: 918.04 		N:4
+Gomez          		Mean: 306.18 		Best: 914.56 		N:3
+Otte           		Mean: 101.37 		Best: 913.9 		N:9
+Anderson       		Mean: 227.75 		Best: 910.48 		N:4
+Lucas          		Mean: 449.46 		Best: 899.2 		N:2
+
+########## REPORT GEN: 23 ##########
+SPECIES: 
+West           		Mean: 184.08 		Best: 933.34 		N:5
+Kercy          		Mean: 185.04 		Best: 924.83 		N:5
+Anderson       		Mean: 228.15 		Best: 923.18 		N:4
+Otte           		Mean: 305.64 		Best: 921.83 		N:3
+Lucas          		Mean: 152.98 		Best: 919.9 		N:6
+Dirden         		Mean: 183.81 		Best: 916.64 		N:5
+Thompson       		Mean: 91.08 		Best: 916.11 		N:10
+Thompson       		Mean: 229.23 		Best: 914.43 		N:4
+Koenig         		Mean: 303.9 		Best: 911.8 		N:3
+Donovan        		Mean: 226.81 		Best: 911.64 		N:4
+Gomez          		Mean: 303.54 		Best: 910.36 		N:3
+Reese          		Mean: 303.52 		Best: 909.16 		N:3
+Aguilar        		Mean: 227.92 		Best: 908.54 		N:4
+Zacharias      		Mean: 302.68 		Best: 899.07 		N:3
+
+########## REPORT GEN: 24 ##########
+SPECIES: 
+Reese          		Mean: 184.01 		Best: 927.93 		N:5
+West           		Mean: 114.64 		Best: 926.72 		N:8
+Koenig         		Mean: 229.12 		Best: 924.72 		N:4
+Aguilar        		Mean: 153.0 		Best: 924.24 		N:6
+Anderson       		Mean: 182.24 		Best: 923.53 		N:5
+Otte           		Mean: 229.33 		Best: 922.39 		N:4
+Zacharias      		Mean: 101.81 		Best: 921.85 		N:9
+Lucas          		Mean: 153.16 		Best: 921.68 		N:6
+Thompson       		Mean: 91.46 		Best: 919.83 		N:10
+Kercy          		Mean: 182.19 		Best: 915.43 		N:5
+Donovan        		Mean: 82.95 		Best: 915.2 		N:11
+Thompson       		Mean: 227.97 		Best: 907.69 		N:4
+Dirden         		Mean: 181.65 		Best: 899.86 		N:5
+Gomez          		Mean: 452.26 		Best: 897.35 		N:2
+
+########## REPORT GEN: 25 ##########
+SPECIES: 
+Dirden         		Mean: 130.63 		Best: 939.09 		N:7
+Otte           		Mean: 230.43 		Best: 929.83 		N:4
+Anderson       		Mean: 151.91 		Best: 928.3 		N:6
+Thompson       		Mean: 130.32 		Best: 927.17 		N:7
+Reese          		Mean: 229.74 		Best: 924.54 		N:4
+West           		Mean: 228.16 		Best: 921.43 		N:4
+Koenig         		Mean: 152.57 		Best: 920.81 		N:6
+Kercy          		Mean: 76.3 		Best: 921.86 		N:12
+Zacharias      		Mean: 83.02 		Best: 919.98 		N:11
+Lucas          		Mean: 152.39 		Best: 917.19 		N:6
+Donovan        		Mean: 114.51 		Best: 918.58 		N:8
+Gomez          		Mean: 151.94 		Best: 908.31 		N:6
+Aguilar        		Mean: 451.37 		Best: 897.53 		N:2
+
+########## REPORT GEN: 26 ##########
+SPECIES: 
+West           		Mean: 230.19 		Best: 937.07 		N:4
+Otte           		Mean: 183.47 		Best: 933.68 		N:5
+Aguilar        		Mean: 101.75 		Best: 926.48 		N:9
+Gomez          		Mean: 304.98 		Best: 923.56 		N:3
+Zacharias      		Mean: 152.24 		Best: 921.13 		N:6
+Thompson       		Mean: 229.34 		Best: 920.48 		N:4
+Donovan        		Mean: 113.83 		Best: 920.09 		N:8
+Anderson       		Mean: 457.16 		Best: 911.95 		N:2
+Reese          		Mean: 151.8 		Best: 909.44 		N:6
+Thompson       		Mean: 113.79 		Best: 908.89 		N:8
+Dirden         		Mean: 226.69 		Best: 908.74 		N:4
+Koenig         		Mean: 299.46 		Best: 904.12 		N:3
+Kercy          		Mean: 299.89 		Best: 896.72 		N:3
+
+########## REPORT GEN: 27 ##########
+SPECIES: 
+Lucas          		Mean: 230.68 		Best: 934.92 		N:4
+Kercy          		Mean: 152.64 		Best: 930.1 		N:6
+Reese          		Mean: 305.13 		Best: 928.46 		N:3
+West           		Mean: 228.97 		Best: 926.11 		N:4
+Zacharias      		Mean: 456.54 		Best: 924.22 		N:2
+Thompson       		Mean: 76.28 		Best: 922.91 		N:12
+Thompson       		Mean: 152.02 		Best: 921.46 		N:6
+Donovan        		Mean: 227.78 		Best: 918.76 		N:4
+Dirden         		Mean: 182.42 		Best: 917.58 		N:5
+Aguilar        		Mean: 225.11 		Best: 909.53 		N:4
+Otte           		Mean: 151.53 		Best: 908.68 		N:6
+Anderson       		Mean: 453.8 		Best: 904.24 		N:2
+Koenig         		Mean: 298.96 		Best: 898.16 		N:3
+Gomez          		Mean: 181.21 		Best: 902.72 		N:5
+
+########## REPORT GEN: 28 ##########
+SPECIES: 
+Gomez          		Mean: 131.3 		Best: 944.73 		N:7
+Anderson       		Mean: 131.28 		Best: 935.57 		N:7
+West           		Mean: 304.24 		Best: 923.9 		N:3
+Donovan        		Mean: 227.06 		Best: 923.07 		N:4
+Aguilar        		Mean: 91.2 		Best: 920.89 		N:10
+Kercy          		Mean: 151.41 		Best: 920.79 		N:6
+Otte           		Mean: 228.83 		Best: 919.42 		N:4
+Reese          		Mean: 181.2 		Best: 915.84 		N:5
+Lucas          		Mean: 226.97 		Best: 913.43 		N:4
+Zacharias      		Mean: 181.53 		Best: 912.6 		N:5
+Thompson       		Mean: 181.16 		Best: 907.24 		N:5
+Koenig         		Mean: 301.8 		Best: 903.27 		N:3
+Dirden         		Mean: 302.07 		Best: 900.08 		N:3
+Thompson       		Mean: 149.68 		Best: 896.53 		N:6
+
+########## REPORT GEN: 29 ##########
+SPECIES: 
+West           		Mean: 303.32 		Best: 942.24 		N:3
+Aguilar        		Mean: 82.34 		Best: 927.29 		N:11
+Dirden         		Mean: 182.26 		Best: 920.55 		N:5
+Gomez          		Mean: 151.14 		Best: 920.45 		N:6
+Lucas          		Mean: 151.23 		Best: 918.76 		N:6
+Anderson       		Mean: 129.31 		Best: 914.96 		N:7
+Thompson       		Mean: 179.99 		Best: 914.33 		N:5
+Thompson       		Mean: 227.63 		Best: 913.54 		N:4
+Zacharias      		Mean: 128.85 		Best: 913.45 		N:7
+Reese          		Mean: 151.37 		Best: 911.88 		N:6
+Donovan        		Mean: 226.72 		Best: 911.63 		N:4
+Koenig         		Mean: 150.19 		Best: 911.52 		N:6
+Otte           		Mean: 456.86 		Best: 907.81 		N:2
+Kercy          		Mean: 81.68 		Best: 904.32 		N:11
+
+########## REPORT GEN: 30 ##########
+SPECIES: 
+Gomez          		Mean: 181.7 		Best: 947.12 		N:5
+Otte           		Mean: 113.28 		Best: 939.8 		N:8
+Donovan        		Mean: 182.85 		Best: 932.26 		N:5
+Thompson       		Mean: 229.37 		Best: 926.84 		N:4
+Reese          		Mean: 182.09 		Best: 922.94 		N:5
+Zacharias      		Mean: 303.1 		Best: 921.41 		N:3
+Kercy          		Mean: 100.27 		Best: 920.18 		N:9
+Thompson       		Mean: 129.44 		Best: 918.39 		N:7
+Lucas          		Mean: 129.17 		Best: 916.25 		N:7
+Dirden         		Mean: 299.88 		Best: 909.25 		N:3
+Aguilar        		Mean: 100.44 		Best: 910.06 		N:9
+Koenig         		Mean: 224.84 		Best: 907.86 		N:4
+West           		Mean: 450.68 		Best: 900.51 		N:2
+Anderson       		Mean: 127.78 		Best: 897.13 		N:7
+
+########## REPORT GEN: 31 ##########
+SPECIES: 
+Dirden         		Mean: 130.24 		Best: 940.59 		N:7
+Reese          		Mean: 152.33 		Best: 932.7 		N:6
+Thompson       		Mean: 153.17 		Best: 930.7 		N:6
+Aguilar        		Mean: 129.27 		Best: 927.39 		N:7
+Gomez          		Mean: 152.25 		Best: 927.19 		N:6
+Zacharias      		Mean: 227.25 		Best: 923.13 		N:4
+Anderson       		Mean: 130.65 		Best: 922.54 		N:7
+West           		Mean: 301.94 		Best: 909.07 		N:3
+Kercy          		Mean: 226.62 		Best: 906.19 		N:4
+Otte           		Mean: 113.08 		Best: 905.97 		N:8
+Lucas          		Mean: 451.36 		Best: 903.64 		N:2
+Koenig         		Mean: 178.74 		Best: 902.67 		N:5
+Thompson       		Mean: 298.85 		Best: 902.32 		N:3
+Donovan        		Mean: 112.44 		Best: 904.63 		N:8
+
+########## REPORT GEN: 32 ##########
+SPECIES: 
+Thompson       		Mean: 114.38 		Best: 946.14 		N:8
+Kercy          		Mean: 182.41 		Best: 939.35 		N:5
+Aguilar        		Mean: 114.21 		Best: 935.74 		N:8
+Thompson       		Mean: 306.73 		Best: 931.2 		N:3
+Zacharias      		Mean: 151.49 		Best: 929.25 		N:6
+Anderson       		Mean: 131.35 		Best: 929.19 		N:7
+Lucas          		Mean: 130.25 		Best: 928.15 		N:7
+Koenig         		Mean: 301.71 		Best: 920.89 		N:3
+West           		Mean: 226.64 		Best: 914.32 		N:4
+Donovan        		Mean: 151.72 		Best: 909.53 		N:6
+Dirden         		Mean: 150.45 		Best: 908.28 		N:6
+Reese          		Mean: 224.26 		Best: 907.77 		N:4
+Gomez          		Mean: 224.66 		Best: 905.2 		N:4
+Otte           		Mean: 442.93 		Best: 885.79 		N:2
+
+########## REPORT GEN: 33 ##########
+SPECIES: 
+Lucas          		Mean: 102.0 		Best: 932.89 		N:9
+Thompson       		Mean: 92.0 		Best: 932.16 		N:10
+West           		Mean: 303.01 		Best: 932.13 		N:3
+Kercy          		Mean: 305.45 		Best: 929.4 		N:3
+Koenig         		Mean: 130.44 		Best: 928.21 		N:7
+Otte           		Mean: 114.09 		Best: 927.29 		N:8
+Aguilar        		Mean: 91.64 		Best: 926.07 		N:10
+Anderson       		Mean: 454.56 		Best: 909.47 		N:2
+Zacharias      		Mean: 227.13 		Best: 907.26 		N:4
+Dirden         		Mean: 224.47 		Best: 906.37 		N:4
+Gomez          		Mean: 226.68 		Best: 906.16 		N:4
+Reese          		Mean: 299.0 		Best: 905.2 		N:3
+Thompson       		Mean: 178.99 		Best: 904.43 		N:5
+Donovan        		Mean: 225.14 		Best: 904.08 		N:4
+
+########## REPORT GEN: 34 ##########
+SPECIES: 
+West           		Mean: 129.59 		Best: 937.3 		N:7
+Reese          		Mean: 75.77 		Best: 936.15 		N:12
+Koenig         		Mean: 306.38 		Best: 931.26 		N:3
+Thompson       		Mean: 180.99 		Best: 930.95 		N:5
+Lucas          		Mean: 152.26 		Best: 928.24 		N:6
+Dirden         		Mean: 151.94 		Best: 927.71 		N:6
+Anderson       		Mean: 182.06 		Best: 926.13 		N:5
+Zacharias      		Mean: 113.91 		Best: 923.64 		N:8
+Thompson       		Mean: 151.57 		Best: 914.39 		N:6
+Gomez          		Mean: 150.66 		Best: 909.14 		N:6
+Otte           		Mean: 455.98 		Best: 907.33 		N:2
+Donovan        		Mean: 129.16 		Best: 904.97 		N:7
+Kercy          		Mean: 226.44 		Best: 904.77 		N:4
+
+########## REPORT GEN: 35 ##########
+SPECIES: 
+Zacharias      		Mean: 306.29 		Best: 935.65 		N:3
+Otte           		Mean: 306.14 		Best: 935.32 		N:3
+Gomez          		Mean: 130.9 		Best: 935.12 		N:7
+Aguilar        		Mean: 228.99 		Best: 934.19 		N:4
+Donovan        		Mean: 101.5 		Best: 933.33 		N:9
+Kercy          		Mean: 152.32 		Best: 927.93 		N:6
+Anderson       		Mean: 302.05 		Best: 909.06 		N:3
+Thompson       		Mean: 300.97 		Best: 907.74 		N:3
+Koenig         		Mean: 300.41 		Best: 907.09 		N:3
+West           		Mean: 129.2 		Best: 907.08 		N:7
+Lucas          		Mean: 224.4 		Best: 904.18 		N:4
+Reese          		Mean: 225.1 		Best: 903.77 		N:4
+Thompson       		Mean: 224.16 		Best: 903.75 		N:4
+
+########## REPORT GEN: 36 ##########
+SPECIES: 
+Otte           		Mean: 229.88 		Best: 944.85 		N:4
+Thompson       		Mean: 183.14 		Best: 943.26 		N:5
+Aguilar        		Mean: 100.82 		Best: 938.53 		N:9
+West           		Mean: 131.0 		Best: 933.39 		N:7
+Kercy          		Mean: 182.03 		Best: 932.15 		N:5
+Thompson       		Mean: 181.96 		Best: 922.27 		N:5
+Reese          		Mean: 460.43 		Best: 922.09 		N:2
+Donovan        		Mean: 113.82 		Best: 918.2 		N:8
+Zacharias      		Mean: 151.27 		Best: 916.44 		N:6
+Lucas          		Mean: 100.29 		Best: 907.66 		N:9
+Gomez          		Mean: 301.99 		Best: 904.59 		N:3
+Anderson       		Mean: 128.27 		Best: 903.47 		N:7
+Koenig         		Mean: 128.57 		Best: 902.85 		N:7
+
+########## REPORT GEN: 37 ##########
+SPECIES: 
+West           		Mean: 182.83 		Best: 955.63 		N:5
+Aguilar        		Mean: 130.96 		Best: 939.3 		N:7
+Reese          		Mean: 182.46 		Best: 935.44 		N:5
+Anderson       		Mean: 151.36 		Best: 933.48 		N:6
+Thompson       		Mean: 129.76 		Best: 929.33 		N:7
+Lucas          		Mean: 113.71 		Best: 921.95 		N:8
+Thompson       		Mean: 228.49 		Best: 921.63 		N:4
+Gomez          		Mean: 226.95 		Best: 914.99 		N:4
+Otte           		Mean: 302.93 		Best: 905.73 		N:3
+Kercy          		Mean: 129.0 		Best: 905.74 		N:7
+Koenig         		Mean: 150.86 		Best: 907.63 		N:6
+Zacharias      		Mean: 128.95 		Best: 903.89 		N:7
+Donovan        		Mean: 300.32 		Best: 900.87 		N:3
+
+########## REPORT GEN: 38 ##########
+SPECIES: 
+Donovan        		Mean: 228.26 		Best: 949.74 		N:4
+Koenig         		Mean: 114.87 		Best: 941.46 		N:8
+West           		Mean: 65.09 		Best: 938.6 		N:14
+Aguilar        		Mean: 130.73 		Best: 932.95 		N:7
+Gomez          		Mean: 227.56 		Best: 923.68 		N:4
+Otte           		Mean: 181.75 		Best: 922.93 		N:5
+Zacharias      		Mean: 224.89 		Best: 906.76 		N:4
+Kercy          		Mean: 150.83 		Best: 905.77 		N:6
+Thompson       		Mean: 129.42 		Best: 905.29 		N:7
+Thompson       		Mean: 129.23 		Best: 905.05 		N:7
+Anderson       		Mean: 129.5 		Best: 906.16 		N:7
+Reese          		Mean: 301.85 		Best: 903.54 		N:3
+Lucas          		Mean: 449.83 		Best: 899.14 		N:2
+
+########## REPORT GEN: 39 ##########
+SPECIES: 
+Lucas          		Mean: 113.84 		Best: 941.17 		N:8
+Koenig         		Mean: 129.76 		Best: 933.33 		N:7
+Anderson       		Mean: 113.9 		Best: 931.12 		N:8
+Donovan        		Mean: 113.79 		Best: 929.24 		N:8
+West           		Mean: 90.63 		Best: 927.94 		N:10
+Aguilar        		Mean: 226.87 		Best: 927.38 		N:4
+Zacharias      		Mean: 457.16 		Best: 925.95 		N:2
+Otte           		Mean: 454.3 		Best: 908.43 		N:2
+Gomez          		Mean: 149.17 		Best: 904.84 		N:6
+Thompson       		Mean: 299.86 		Best: 904.17 		N:3
+Thompson       		Mean: 150.54 		Best: 905.93 		N:6
+Reese          		Mean: 112.59 		Best: 903.27 		N:8
+Kercy          		Mean: 149.74 		Best: 902.1 		N:6
+
+########## REPORT GEN: 40 ##########
+SPECIES: 
+Thompson       		Mean: 130.06 		Best: 935.36 		N:7
+West           		Mean: 151.41 		Best: 935.24 		N:6
+Donovan        		Mean: 129.98 		Best: 931.5 		N:7
+Thompson       		Mean: 303.16 		Best: 927.39 		N:3
+Reese          		Mean: 182.34 		Best: 925.07 		N:5
+Zacharias      		Mean: 101.24 		Best: 923.5 		N:9
+Otte           		Mean: 301.91 		Best: 911.67 		N:3
+Anderson       		Mean: 180.14 		Best: 908.42 		N:5
+Lucas          		Mean: 225.36 		Best: 906.42 		N:4
+Kercy          		Mean: 150.49 		Best: 903.22 		N:6
+Gomez          		Mean: 225.05 		Best: 902.31 		N:4
+Aguilar        		Mean: 223.23 		Best: 897.88 		N:4
+
+########## REPORT GEN: 41 ##########
+SPECIES: 
+Zacharias      		Mean: 152.57 		Best: 943.15 		N:6
+Kercy          		Mean: 304.69 		Best: 940.0 		N:3
+Gomez          		Mean: 183.51 		Best: 938.21 		N:5
+Donovan        		Mean: 462.44 		Best: 930.09 		N:2
+Thompson       		Mean: 151.72 		Best: 929.52 		N:6
+Aguilar        		Mean: 182.38 		Best: 919.46 		N:5
+Reese          		Mean: 227.95 		Best: 918.48 		N:4
+Otte           		Mean: 181.39 		Best: 914.88 		N:5
+West           		Mean: 112.94 		Best: 914.82 		N:8
+Koenig         		Mean: 113.08 		Best: 906.62 		N:8
+Lucas          		Mean: 113.06 		Best: 908.05 		N:8
+Thompson       		Mean: 451.15 		Best: 901.27 		N:2
+
+########## REPORT GEN: 42 ##########
+SPECIES: 
+Donovan        		Mean: 70.93 		Best: 937.1 		N:13
+Lucas          		Mean: 130.02 		Best: 933.8 		N:7
+Zacharias      		Mean: 304.62 		Best: 932.29 		N:3
+Otte           		Mean: 229.62 		Best: 924.6 		N:4
+Reese          		Mean: 228.63 		Best: 922.36 		N:4
+Kercy          		Mean: 306.12 		Best: 921.16 		N:3
+Thompson       		Mean: 300.16 		Best: 907.14 		N:3
+Gomez          		Mean: 179.82 		Best: 903.74 		N:5
+West           		Mean: 128.55 		Best: 903.91 		N:7
+Koenig         		Mean: 451.89 		Best: 902.62 		N:2
+Thompson       		Mean: 150.8 		Best: 905.3 		N:6
+Aguilar        		Mean: 178.49 		Best: 898.11 		N:5
+
+########## REPORT GEN: 43 ##########
+SPECIES: 
+West           		Mean: 83.41 		Best: 944.78 		N:11
+Kercy          		Mean: 183.64 		Best: 931.36 		N:5
+Koenig         		Mean: 113.69 		Best: 924.79 		N:8
+Aguilar        		Mean: 82.08 		Best: 919.36 		N:11
+Otte           		Mean: 128.65 		Best: 910.1 		N:7
+Reese          		Mean: 226.93 		Best: 907.7 		N:4
+Thompson       		Mean: 181.64 		Best: 906.06 		N:5
+Zacharias      		Mean: 299.91 		Best: 905.74 		N:3
+Thompson       		Mean: 180.66 		Best: 905.49 		N:5
+Gomez          		Mean: 128.78 		Best: 905.36 		N:7
+Lucas          		Mean: 180.21 		Best: 904.3 		N:5
+
+########## REPORT GEN: 44 ##########
+SPECIES: 
+Reese          		Mean: 64.88 		Best: 935.81 		N:14
+Koenig         		Mean: 130.18 		Best: 934.19 		N:7
+Kercy          		Mean: 182.0 		Best: 933.72 		N:5
+Gomez          		Mean: 113.73 		Best: 926.32 		N:8
+Thompson       		Mean: 56.8 		Best: 919.8 		N:16
+Thompson       		Mean: 151.59 		Best: 918.28 		N:6
+Aguilar        		Mean: 151.35 		Best: 909.54 		N:6
+Zacharias      		Mean: 113.58 		Best: 909.43 		N:8
+Otte           		Mean: 151.38 		Best: 907.83 		N:6
+Lucas          		Mean: 226.13 		Best: 904.46 		N:4
+West           		Mean: 178.68 		Best: 895.43 		N:5
+
+########## REPORT GEN: 45 ##########
+SPECIES: 
+Reese          		Mean: 75.72 		Best: 938.7 		N:12
+Kercy          		Mean: 90.63 		Best: 938.36 		N:10
+Koenig         		Mean: 101.44 		Best: 927.08 		N:9
+Zacharias      		Mean: 129.2 		Best: 919.59 		N:7
+Gomez          		Mean: 151.04 		Best: 907.79 		N:6
+Thompson       		Mean: 90.6 		Best: 908.71 		N:10
+West           		Mean: 129.59 		Best: 907.19 		N:7
+Thompson       		Mean: 150.35 		Best: 906.49 		N:6
+Lucas          		Mean: 75.59 		Best: 906.66 		N:12
+Otte           		Mean: 90.34 		Best: 905.57 		N:10
+Aguilar        		Mean: 224.73 		Best: 902.16 		N:4
+
+########## REPORT GEN: 46 ##########
+SPECIES: 
+Reese          		Mean: 114.18 		Best: 927.78 		N:8
+Otte           		Mean: 65.06 		Best: 925.71 		N:14
+Gomez          		Mean: 151.18 		Best: 913.86 		N:6
+Koenig         		Mean: 128.62 		Best: 908.88 		N:7
+Thompson       		Mean: 100.55 		Best: 908.39 		N:9
+Aguilar        		Mean: 129.08 		Best: 907.12 		N:7
+Kercy          		Mean: 151.33 		Best: 908.35 		N:6
+Zacharias      		Mean: 180.31 		Best: 906.02 		N:5
+Lucas          		Mean: 128.79 		Best: 904.74 		N:7
+Thompson       		Mean: 69.72 		Best: 908.35 		N:13
+West           		Mean: 300.22 		Best: 903.55 		N:3
+
+########## REPORT GEN: 47 ##########
+SPECIES: 
+Kercy          		Mean: 129.62 		Best: 921.64 		N:7
+Gomez          		Mean: 90.34 		Best: 919.35 		N:10
+Reese          		Mean: 129.74 		Best: 916.76 		N:7
+Thompson       		Mean: 128.74 		Best: 909.02 		N:7
+Koenig         		Mean: 150.9 		Best: 907.49 		N:6
+Aguilar        		Mean: 75.25 		Best: 906.71 		N:12
+Lucas          		Mean: 225.45 		Best: 903.98 		N:4
+Otte           		Mean: 90.37 		Best: 907.06 		N:10
+Thompson       		Mean: 82.03 		Best: 904.97 		N:11
+West           		Mean: 299.25 		Best: 901.26 		N:3
+Zacharias      		Mean: 129.27 		Best: 903.92 		N:7
+
+########## REPORT GEN: 48 ##########
+SPECIES: 
+Aguilar        		Mean: 113.85 		Best: 936.71 		N:8
+Thompson       		Mean: 100.29 		Best: 916.78 		N:9
+Lucas          		Mean: 180.66 		Best: 907.08 		N:5
+Reese          		Mean: 82.33 		Best: 906.86 		N:11
+Thompson       		Mean: 112.77 		Best: 906.51 		N:8
+Otte           		Mean: 129.58 		Best: 906.3 		N:7
+Gomez          		Mean: 150.08 		Best: 905.15 		N:6
+Zacharias      		Mean: 225.05 		Best: 903.87 		N:4
+Koenig         		Mean: 226.1 		Best: 903.46 		N:4
+West           		Mean: 112.66 		Best: 902.6 		N:8
+Kercy          		Mean: 150.62 		Best: 905.0 		N:6
+
+########## REPORT GEN: 49 ##########
+SPECIES: 
+Aguilar        		Mean: 113.65 		Best: 940.85 		N:8
+Koenig         		Mean: 306.99 		Best: 935.19 		N:3
+Reese          		Mean: 181.97 		Best: 931.4 		N:5
+Gomez          		Mean: 75.46 		Best: 921.88 		N:12
+Otte           		Mean: 112.7 		Best: 912.59 		N:8
+Zacharias      		Mean: 129.47 		Best: 911.5 		N:7
+West           		Mean: 90.27 		Best: 907.66 		N:10
+Thompson       		Mean: 100.68 		Best: 905.95 		N:9
+Thompson       		Mean: 452.96 		Best: 903.79 		N:2
+Kercy          		Mean: 90.16 		Best: 904.84 		N:10
+Lucas          		Mean: 82.02 		Best: 907.11 		N:11
+
+########## REPORT GEN: 50 ##########
+SPECIES: 
+Koenig         		Mean: 69.93 		Best: 930.14 		N:13
+Kercy          		Mean: 113.96 		Best: 929.41 		N:8
+West           		Mean: 100.85 		Best: 921.05 		N:9
+Reese          		Mean: 129.76 		Best: 911.29 		N:7
+Gomez          		Mean: 448.94 		Best: 906.41 		N:2
+Thompson       		Mean: 451.95 		Best: 906.26 		N:2
+Aguilar        		Mean: 180.22 		Best: 905.23 		N:5
+Lucas          		Mean: 151.41 		Best: 906.11 		N:6
+Zacharias      		Mean: 181.19 		Best: 904.45 		N:5
+Otte           		Mean: 181.05 		Best: 904.28 		N:5
+Thompson       		Mean: 150.52 		Best: 899.95 		N:6
+
+########## REPORT GEN: 51 ##########
+SPECIES: 
+Kercy          		Mean: 90.79 		Best: 936.89 		N:10
+West           		Mean: 228.84 		Best: 929.86 		N:4
+Thompson       		Mean: 305.06 		Best: 925.04 		N:3
+Aguilar        		Mean: 181.17 		Best: 914.98 		N:5
+Lucas          		Mean: 113.61 		Best: 911.42 		N:8
+Gomez          		Mean: 90.51 		Best: 905.62 		N:10
+Thompson       		Mean: 149.96 		Best: 905.37 		N:6
+Reese          		Mean: 301.16 		Best: 904.31 		N:3
+Otte           		Mean: 181.12 		Best: 906.24 		N:5
+Koenig         		Mean: 150.76 		Best: 907.32 		N:6
+Zacharias      		Mean: 150.5 		Best: 902.37 		N:6
+
+########## REPORT GEN: 52 ##########
+SPECIES: 
+Kercy          		Mean: 153.51 		Best: 943.72 		N:6
+Lucas          		Mean: 82.22 		Best: 936.33 		N:11
+Thompson       		Mean: 70.16 		Best: 934.55 		N:13
+Thompson       		Mean: 130.05 		Best: 932.8 		N:7
+Gomez          		Mean: 228.93 		Best: 924.17 		N:4
+Zacharias      		Mean: 179.72 		Best: 907.0 		N:5
+West           		Mean: 129.49 		Best: 906.63 		N:7
+Otte           		Mean: 180.7 		Best: 905.88 		N:5
+Reese          		Mean: 81.78 		Best: 906.54 		N:11
+Koenig         		Mean: 226.32 		Best: 902.99 		N:4
+
+########## REPORT GEN: 53 ##########
+SPECIES: 
+Aguilar        		Mean: 130.39 		Best: 934.84 		N:7
+Thompson       		Mean: 151.44 		Best: 934.8 		N:6
+Otte           		Mean: 113.17 		Best: 925.12 		N:8
+Zacharias      		Mean: 130.06 		Best: 924.09 		N:7
+Koenig         		Mean: 226.61 		Best: 907.75 		N:4
+West           		Mean: 226.76 		Best: 906.76 		N:4
+Thompson       		Mean: 113.29 		Best: 906.17 		N:8
+Gomez          		Mean: 299.71 		Best: 906.07 		N:3
+Kercy          		Mean: 128.54 		Best: 905.7 		N:7
+Lucas          		Mean: 129.44 		Best: 904.41 		N:7
+Reese          		Mean: 299.34 		Best: 901.11 		N:3
+
+########## REPORT GEN: 54 ##########
+SPECIES: 
+Kercy          		Mean: 184.39 		Best: 936.8 		N:5
+Gomez          		Mean: 113.66 		Best: 928.82 		N:8
+Otte           		Mean: 90.69 		Best: 916.76 		N:10
+Lucas          		Mean: 180.78 		Best: 912.99 		N:5
+Zacharias      		Mean: 150.92 		Best: 908.52 		N:6
+Reese          		Mean: 112.91 		Best: 907.04 		N:8
+Koenig         		Mean: 224.39 		Best: 906.9 		N:4
+West           		Mean: 90.48 		Best: 906.81 		N:10
+Thompson       		Mean: 150.89 		Best: 905.73 		N:6
+Aguilar        		Mean: 180.91 		Best: 904.5 		N:5
+Thompson       		Mean: 445.68 		Best: 890.47 		N:2
+
+########## REPORT GEN: 55 ##########
+SPECIES: 
+Thompson       		Mean: 100.87 		Best: 926.95 		N:9
+Otte           		Mean: 100.71 		Best: 911.89 		N:9
+Reese          		Mean: 81.64 		Best: 911.75 		N:11
+Koenig         		Mean: 151.28 		Best: 911.74 		N:6
+Thompson       		Mean: 100.29 		Best: 906.5 		N:9
+Lucas          		Mean: 150.84 		Best: 904.64 		N:6
+Zacharias      		Mean: 180.17 		Best: 904.17 		N:5
+Kercy          		Mean: 180.48 		Best: 902.45 		N:5
+West           		Mean: 100.4 		Best: 905.15 		N:9
+Gomez          		Mean: 224.57 		Best: 901.4 		N:4
+
+########## REPORT GEN: 56 ##########
+SPECIES: 
+Thompson       		Mean: 60.34 		Best: 926.86 		N:15
+Gomez          		Mean: 82.24 		Best: 924.02 		N:11
+Zacharias      		Mean: 129.06 		Best: 908.02 		N:7
+Kercy          		Mean: 90.05 		Best: 907.03 		N:10
+Otte           		Mean: 150.51 		Best: 906.02 		N:6
+West           		Mean: 179.61 		Best: 901.89 		N:5
+Lucas          		Mean: 298.78 		Best: 901.83 		N:3
+Koenig         		Mean: 112.86 		Best: 905.55 		N:8
+Thompson       		Mean: 90.17 		Best: 905.62 		N:10
+Reese          		Mean: 112.76 		Best: 903.99 		N:8
+
+########## REPORT GEN: 57 ##########
+SPECIES: 
+West           		Mean: 226.74 		Best: 923.05 		N:4
+Kercy          		Mean: 151.13 		Best: 918.64 		N:6
+Thompson       		Mean: 149.85 		Best: 909.08 		N:6
+Koenig         		Mean: 150.58 		Best: 908.12 		N:6
+Lucas          		Mean: 129.26 		Best: 907.96 		N:7
+Thompson       		Mean: 112.95 		Best: 907.8 		N:8
+Otte           		Mean: 69.4 		Best: 908.34 		N:13
+Zacharias      		Mean: 100.26 		Best: 906.3 		N:9
+Gomez          		Mean: 100.5 		Best: 906.14 		N:9
+Reese          		Mean: 99.87 		Best: 901.66 		N:9
+
+########## REPORT GEN: 58 ##########
+SPECIES: 
+Thompson       		Mean: 90.66 		Best: 929.39 		N:10
+Koenig         		Mean: 100.85 		Best: 928.47 		N:9
+Otte           		Mean: 100.69 		Best: 927.95 		N:9
+West           		Mean: 113.19 		Best: 920.01 		N:8
+Kercy          		Mean: 100.29 		Best: 908.28 		N:9
+Gomez          		Mean: 69.41 		Best: 907.66 		N:13
+Reese          		Mean: 129.05 		Best: 906.31 		N:7
+Zacharias      		Mean: 90.25 		Best: 905.51 		N:10
+Thompson       		Mean: 112.61 		Best: 904.92 		N:8
+Lucas          		Mean: 179.59 		Best: 899.83 		N:5
+
+########## REPORT GEN: 59 ##########
+SPECIES: 
+Otte           		Mean: 306.46 		Best: 939.84 		N:3
+Koenig         		Mean: 82.32 		Best: 937.48 		N:11
+Thompson       		Mean: 74.98 		Best: 925.0 		N:12
+Gomez          		Mean: 74.9 		Best: 908.44 		N:12
+Zacharias      		Mean: 129.3 		Best: 907.26 		N:7
+West           		Mean: 89.72 		Best: 905.85 		N:10
+Reese          		Mean: 68.92 		Best: 905.36 		N:13
+Thompson       		Mean: 89.88 		Best: 903.84 		N:10
+Kercy          		Mean: 112.58 		Best: 902.77 		N:8
+Lucas          		Mean: 223.1 		Best: 895.6 		N:4
+
+########## REPORT GEN: 60 ##########
+SPECIES: 
+Reese          		Mean: 82.36 		Best: 938.11 		N:11
+Koenig         		Mean: 75.34 		Best: 920.85 		N:12
+Gomez          		Mean: 228.19 		Best: 918.51 		N:4
+Kercy          		Mean: 150.52 		Best: 909.84 		N:6
+Thompson       		Mean: 179.13 		Best: 907.86 		N:5
+Otte           		Mean: 75.1 		Best: 907.06 		N:12
+Lucas          		Mean: 90.21 		Best: 905.67 		N:10
+West           		Mean: 224.78 		Best: 905.19 		N:4
+Thompson       		Mean: 180.58 		Best: 905.54 		N:5
+Zacharias      		Mean: 449.69 		Best: 902.26 		N:2
+
+########## REPORT GEN: 61 ##########
+SPECIES: 
+Lucas          		Mean: 101.2 		Best: 941.54 		N:9
+Gomez          		Mean: 113.47 		Best: 922.39 		N:8
+West           		Mean: 150.65 		Best: 917.55 		N:6
+Thompson       		Mean: 149.54 		Best: 912.89 		N:6
+Otte           		Mean: 99.88 		Best: 908.05 		N:9
+Kercy          		Mean: 129.02 		Best: 907.79 		N:7
+Reese          		Mean: 303.33 		Best: 907.62 		N:3
+Thompson       		Mean: 112.73 		Best: 906.44 		N:8
+Zacharias      		Mean: 100.26 		Best: 906.34 		N:9
+Koenig         		Mean: 127.89 		Best: 902.74 		N:7
+
+########## REPORT GEN: 62 ##########
+SPECIES: 
+Otte           		Mean: 151.83 		Best: 938.22 		N:6
+Thompson       		Mean: 90.91 		Best: 931.3 		N:10
+Lucas          		Mean: 69.22 		Best: 929.89 		N:13
+Koenig         		Mean: 75.36 		Best: 921.78 		N:12
+Gomez          		Mean: 112.24 		Best: 907.59 		N:8
+West           		Mean: 150.0 		Best: 906.51 		N:6
+Zacharias      		Mean: 149.98 		Best: 904.37 		N:6
+Kercy          		Mean: 128.5 		Best: 904.19 		N:7
+Thompson       		Mean: 149.01 		Best: 904.14 		N:6
+Reese          		Mean: 128.02 		Best: 903.94 		N:7
+
+########## REPORT GEN: 63 ##########
+SPECIES: 
+Thompson       		Mean: 151.49 		Best: 935.66 		N:6
+Otte           		Mean: 180.63 		Best: 935.35 		N:5
+Thompson       		Mean: 82.09 		Best: 930.48 		N:11
+Reese          		Mean: 82.0 		Best: 929.92 		N:11
+Lucas          		Mean: 82.03 		Best: 924.17 		N:11
+Zacharias      		Mean: 82.11 		Best: 923.23 		N:11
+West           		Mean: 127.97 		Best: 911.55 		N:7
+Kercy          		Mean: 68.91 		Best: 908.22 		N:13
+Koenig         		Mean: 99.44 		Best: 904.92 		N:9
+Gomez          		Mean: 74.85 		Best: 906.15 		N:12
+
+########## REPORT GEN: 64 ##########
+SPECIES: 
+Reese          		Mean: 128.4 		Best: 932.49 		N:7
+Otte           		Mean: 81.72 		Best: 931.88 		N:11
+Koenig         		Mean: 81.62 		Best: 924.42 		N:11
+Kercy          		Mean: 75.24 		Best: 923.68 		N:12
+Gomez          		Mean: 81.95 		Best: 918.99 		N:11
+Lucas          		Mean: 82.19 		Best: 910.43 		N:11
+Thompson       		Mean: 299.43 		Best: 901.82 		N:3
+Zacharias      		Mean: 111.66 		Best: 901.2 		N:8
+Thompson       		Mean: 296.65 		Best: 892.45 		N:3
+West           		Mean: 126.73 		Best: 889.42 		N:7
+
+########## REPORT GEN: 65 ##########
+SPECIES: 
+West           		Mean: 150.39 		Best: 930.62 		N:6
+Gomez          		Mean: 303.92 		Best: 928.42 		N:3
+Zacharias      		Mean: 99.95 		Best: 923.74 		N:9
+Kercy          		Mean: 128.64 		Best: 918.95 		N:7
+Reese          		Mean: 179.14 		Best: 918.35 		N:5
+Otte           		Mean: 99.49 		Best: 916.96 		N:9
+Lucas          		Mean: 112.02 		Best: 911.02 		N:8
+Thompson       		Mean: 128.06 		Best: 910.1 		N:7
+Thompson       		Mean: 111.35 		Best: 901.22 		N:8
+Koenig         		Mean: 177.75 		Best: 894.62 		N:5
+
+########## REPORT GEN: 66 ##########
+SPECIES: 
+West           		Mean: 151.74 		Best: 943.2 		N:6
+Thompson       		Mean: 128.88 		Best: 927.03 		N:7
+Reese          		Mean: 112.39 		Best: 926.13 		N:8
+Lucas          		Mean: 75.31 		Best: 923.23 		N:12
+Kercy          		Mean: 149.92 		Best: 912.03 		N:6
+Otte           		Mean: 81.48 		Best: 907.62 		N:11
+Koenig         		Mean: 112.22 		Best: 908.12 		N:8
+Thompson       		Mean: 89.13 		Best: 900.93 		N:10
+Zacharias      		Mean: 178.8 		Best: 897.0 		N:5
+Gomez          		Mean: 177.94 		Best: 893.77 		N:5
+
+########## REPORT GEN: 67 ##########
+SPECIES: 
+West           		Mean: 81.31 		Best: 929.77 		N:11
+Kercy          		Mean: 113.1 		Best: 927.37 		N:8
+Koenig         		Mean: 150.2 		Best: 915.28 		N:6
+Lucas          		Mean: 89.44 		Best: 913.54 		N:10
+Zacharias      		Mean: 74.74 		Best: 911.15 		N:12
+Thompson       		Mean: 89.23 		Best: 900.13 		N:10
+Otte           		Mean: 111.38 		Best: 899.51 		N:8
+Thompson       		Mean: 63.7 		Best: 898.15 		N:14
+Gomez          		Mean: 178.22 		Best: 893.81 		N:5
+Reese          		Mean: 222.55 		Best: 892.35 		N:4
+
+########## REPORT GEN: 68 ##########
+SPECIES: 
+Thompson       		Mean: 112.96 		Best: 943.64 		N:8
+Zacharias      		Mean: 74.87 		Best: 940.45 		N:12
+West           		Mean: 112.94 		Best: 931.58 		N:8
+Kercy          		Mean: 100.23 		Best: 931.41 		N:9
+Otte           		Mean: 149.84 		Best: 919.38 		N:6
+Thompson       		Mean: 74.78 		Best: 912.41 		N:12
+Gomez          		Mean: 149.06 		Best: 907.46 		N:6
+Lucas          		Mean: 148.6 		Best: 897.43 		N:6
+Koenig         		Mean: 148.88 		Best: 896.54 		N:6
+Reese          		Mean: 111.34 		Best: 896.39 		N:8
+
+########## REPORT GEN: 69 ##########
+SPECIES: 
+Thompson       		Mean: 75.04 		Best: 931.54 		N:12
+Koenig         		Mean: 68.92 		Best: 923.5 		N:13
+Thompson       		Mean: 129.38 		Best: 923.28 		N:7
+Gomez          		Mean: 111.91 		Best: 905.47 		N:8
+Zacharias      		Mean: 89.43 		Best: 903.63 		N:10
+Lucas          		Mean: 89.58 		Best: 903.71 		N:10
+West           		Mean: 68.88 		Best: 903.54 		N:13
+Kercy          		Mean: 178.46 		Best: 899.68 		N:5
+Reese          		Mean: 89.23 		Best: 898.36 		N:10
+Otte           		Mean: 127.6 		Best: 897.23 		N:7
+
+########## REPORT GEN: 70 ##########
+SPECIES: 
+Kercy          		Mean: 100.94 		Best: 946.95 		N:9
+Koenig         		Mean: 99.34 		Best: 925.7 		N:9
+Thompson       		Mean: 128.37 		Best: 919.05 		N:7
+Reese          		Mean: 81.01 		Best: 908.7 		N:11
+Gomez          		Mean: 128.06 		Best: 907.14 		N:7
+West           		Mean: 74.91 		Best: 907.81 		N:12
+Zacharias      		Mean: 99.42 		Best: 902.87 		N:9
+Lucas          		Mean: 68.69 		Best: 899.36 		N:13
+Thompson       		Mean: 178.19 		Best: 894.44 		N:5
+Otte           		Mean: 148.33 		Best: 892.77 		N:6
+
+########## REPORT GEN: 71 ##########
+SPECIES: 
+Gomez          		Mean: 81.91 		Best: 926.1 		N:11
+Koenig         		Mean: 149.31 		Best: 925.0 		N:6
+Thompson       		Mean: 81.63 		Best: 922.89 		N:11
+Reese          		Mean: 111.91 		Best: 916.41 		N:8
+Thompson       		Mean: 68.64 		Best: 907.43 		N:13
+Kercy          		Mean: 128.04 		Best: 906.65 		N:7
+Otte           		Mean: 89.84 		Best: 906.12 		N:10
+West           		Mean: 99.53 		Best: 902.68 		N:9
+Zacharias      		Mean: 127.92 		Best: 899.8 		N:7
+Lucas          		Mean: 110.99 		Best: 891.77 		N:8
+
+########## REPORT GEN: 72 ##########
+SPECIES: 
+Koenig         		Mean: 74.82 		Best: 924.68 		N:12
+Kercy          		Mean: 64.15 		Best: 919.92 		N:14
+Gomez          		Mean: 112.31 		Best: 913.8 		N:8
+Lucas          		Mean: 127.72 		Best: 912.83 		N:7
+Otte           		Mean: 89.27 		Best: 906.15 		N:10
+Thompson       		Mean: 127.23 		Best: 900.52 		N:7
+Thompson       		Mean: 74.27 		Best: 900.22 		N:12
+West           		Mean: 111.32 		Best: 900.06 		N:8
+Reese          		Mean: 223.57 		Best: 899.69 		N:4
+Zacharias      		Mean: 74.3 		Best: 898.88 		N:12
+
+########## REPORT GEN: 73 ##########
+SPECIES: 
+Koenig         		Mean: 128.49 		Best: 930.55 		N:7
+Thompson       		Mean: 111.87 		Best: 921.4 		N:8
+West           		Mean: 89.55 		Best: 909.04 		N:10
+Lucas          		Mean: 111.7 		Best: 904.61 		N:8
+Gomez          		Mean: 74.34 		Best: 903.92 		N:12
+Thompson       		Mean: 89.25 		Best: 901.29 		N:10
+Otte           		Mean: 89.38 		Best: 899.07 		N:10
+Zacharias      		Mean: 111.43 		Best: 898.1 		N:8
+Reese          		Mean: 296.66 		Best: 895.03 		N:3
+Kercy          		Mean: 127.09 		Best: 893.62 		N:7
+
+########## REPORT GEN: 74 ##########
+SPECIES: 
+Reese          		Mean: 99.83 		Best: 942.58 		N:9
+Otte           		Mean: 111.6 		Best: 908.39 		N:8
+Koenig         		Mean: 127.62 		Best: 902.71 		N:7
+Lucas          		Mean: 88.97 		Best: 902.32 		N:10
+Zacharias      		Mean: 99.06 		Best: 902.22 		N:9
+Thompson       		Mean: 68.48 		Best: 901.85 		N:13
+Thompson       		Mean: 99.11 		Best: 901.28 		N:9
+West           		Mean: 111.39 		Best: 898.93 		N:8
+Kercy          		Mean: 222.34 		Best: 893.07 		N:4
+Gomez          		Mean: 295.22 		Best: 886.71 		N:3
+
+########## REPORT GEN: 75 ##########
+SPECIES: 
+Zacharias      		Mean: 112.43 		Best: 940.07 		N:8
+West           		Mean: 81.04 		Best: 906.33 		N:11
+Koenig         		Mean: 448.33 		Best: 904.39 		N:2
+Lucas          		Mean: 74.36 		Best: 903.94 		N:12
+Gomez          		Mean: 81.21 		Best: 901.94 		N:11
+Thompson       		Mean: 89.16 		Best: 900.96 		N:10
+Thompson       		Mean: 111.66 		Best: 900.47 		N:8
+Otte           		Mean: 178.13 		Best: 896.62 		N:5
+Kercy          		Mean: 295.51 		Best: 889.11 		N:3
+Reese          		Mean: 443.81 		Best: 886.28 		N:2
+
+########## REPORT GEN: 76 ##########
+SPECIES: 
+Otte           		Mean: 180.99 		Best: 936.31 		N:5
+Kercy          		Mean: 99.07 		Best: 911.48 		N:9
+Thompson       		Mean: 149.28 		Best: 905.64 		N:6
+Zacharias      		Mean: 89.14 		Best: 904.82 		N:10
+Thompson       		Mean: 111.17 		Best: 902.88 		N:8
+Koenig         		Mean: 223.23 		Best: 900.41 		N:4
+Reese          		Mean: 178.64 		Best: 899.8 		N:5
+Lucas          		Mean: 148.65 		Best: 897.19 		N:6
+West           		Mean: 296.67 		Best: 893.41 		N:3
+
+########## REPORT GEN: 77 ##########
+SPECIES: 
+Otte           		Mean: 63.89 		Best: 926.26 		N:14
+Thompson       		Mean: 149.74 		Best: 917.21 		N:6
+Thompson       		Mean: 111.99 		Best: 906.42 		N:8
+Zacharias      		Mean: 81.34 		Best: 905.92 		N:11
+Lucas          		Mean: 89.35 		Best: 904.18 		N:10
+West           		Mean: 111.57 		Best: 903.36 		N:8
+Koenig         		Mean: 297.31 		Best: 902.26 		N:3
+Kercy          		Mean: 127.77 		Best: 901.65 		N:7
+Reese          		Mean: 111.06 		Best: 889.63 		N:8
+
+########## REPORT GEN: 78 ##########
+SPECIES: 
+Lucas          		Mean: 129.92 		Best: 928.76 		N:7
+Thompson       		Mean: 112.51 		Best: 924.19 		N:8
+Koenig         		Mean: 81.34 		Best: 905.65 		N:11
+Zacharias      		Mean: 74.4 		Best: 904.43 		N:12
+Thompson       		Mean: 148.88 		Best: 904.38 		N:6
+Otte           		Mean: 448.55 		Best: 902.97 		N:2
+Reese          		Mean: 98.95 		Best: 902.62 		N:9
+Kercy          		Mean: 80.9 		Best: 901.4 		N:11
+West           		Mean: 80.9 		Best: 896.85 		N:11
+
+########## REPORT GEN: 79 ##########
+SPECIES: 
+Otte           		Mean: 152.22 		Best: 925.61 		N:6
+Zacharias      		Mean: 179.92 		Best: 922.06 		N:5
+West           		Mean: 81.56 		Best: 916.28 		N:11
+Koenig         		Mean: 90.03 		Best: 915.99 		N:10
+Reese          		Mean: 89.85 		Best: 908.82 		N:10
+Kercy          		Mean: 111.31 		Best: 901.77 		N:8
+Lucas          		Mean: 222.5 		Best: 894.34 		N:4
+Thompson       		Mean: 148.59 		Best: 893.81 		N:6
+Thompson       		Mean: 221.63 		Best: 892.87 		N:4
+
+########## REPORT GEN: 80 ##########
+SPECIES: 
+Otte           		Mean: 64.08 		Best: 942.4 		N:14
+West           		Mean: 129.7 		Best: 925.17 		N:7
+Zacharias      		Mean: 128.51 		Best: 923.99 		N:7
+Lucas          		Mean: 74.64 		Best: 921.08 		N:12
+Thompson       		Mean: 149.56 		Best: 911.03 		N:6
+Reese          		Mean: 89.49 		Best: 907.56 		N:10
+Kercy          		Mean: 127.41 		Best: 906.34 		N:7
+Koenig         		Mean: 127.4 		Best: 906.02 		N:7
+Thompson       		Mean: 178.28 		Best: 897.43 		N:5
+
+########## REPORT GEN: 81 ##########
+SPECIES: 
+Thompson       		Mean: 100.77 		Best: 944.67 		N:9
+Koenig         		Mean: 69.27 		Best: 944.57 		N:13
+Thompson       		Mean: 99.64 		Best: 926.27 		N:9
+Reese          		Mean: 59.52 		Best: 925.4 		N:15
+Kercy          		Mean: 99.77 		Best: 910.94 		N:9
+Lucas          		Mean: 112.06 		Best: 910.18 		N:8
+Zacharias      		Mean: 111.48 		Best: 906.21 		N:8
+West           		Mean: 74.31 		Best: 905.67 		N:12
+Otte           		Mean: 148.59 		Best: 903.17 		N:6
+
+########## REPORT GEN: 82 ##########
+SPECIES: 
+Zacharias      		Mean: 64.21 		Best: 927.3 		N:14
+Lucas          		Mean: 75.34 		Best: 924.33 		N:12
+Thompson       		Mean: 81.25 		Best: 924.17 		N:11
+Kercy          		Mean: 99.43 		Best: 918.27 		N:9
+Reese          		Mean: 99.21 		Best: 915.21 		N:9
+West           		Mean: 178.99 		Best: 909.87 		N:5
+Koenig         		Mean: 68.63 		Best: 904.51 		N:13
+Otte           		Mean: 89.57 		Best: 903.17 		N:10
+Thompson       		Mean: 98.83 		Best: 892.89 		N:9
+
+########## REPORT GEN: 83 ##########
+SPECIES: 
+Otte           		Mean: 74.9 		Best: 953.23 		N:12
+Koenig         		Mean: 75.08 		Best: 933.68 		N:12
+Thompson       		Mean: 112.34 		Best: 932.23 		N:8
+Lucas          		Mean: 81.28 		Best: 926.01 		N:11
+West           		Mean: 112.55 		Best: 921.53 		N:8
+Zacharias      		Mean: 149.84 		Best: 909.19 		N:6
+Thompson       		Mean: 99.16 		Best: 908.24 		N:9
+Reese          		Mean: 68.53 		Best: 899.54 		N:13
+Kercy          		Mean: 148.42 		Best: 892.28 		N:6
+
+########## REPORT GEN: 84 ##########
+SPECIES: 
+Reese          		Mean: 128.95 		Best: 950.56 		N:7
+Otte           		Mean: 81.88 		Best: 925.89 		N:11
+Zacharias      		Mean: 112.33 		Best: 920.86 		N:8
+Thompson       		Mean: 81.02 		Best: 911.82 		N:11
+Kercy          		Mean: 81.16 		Best: 908.87 		N:11
+West           		Mean: 99.1 		Best: 905.46 		N:9
+Koenig         		Mean: 80.95 		Best: 903.22 		N:11
+Lucas          		Mean: 80.98 		Best: 899.5 		N:11
+Thompson       		Mean: 89.1 		Best: 896.66 		N:10
+
+########## REPORT GEN: 85 ##########
+SPECIES: 
+Koenig         		Mean: 89.71 		Best: 936.5 		N:10
+West           		Mean: 56.13 		Best: 932.51 		N:16
+Thompson       		Mean: 128.11 		Best: 926.53 		N:7
+Otte           		Mean: 63.82 		Best: 908.95 		N:14
+Thompson       		Mean: 127.58 		Best: 908.65 		N:7
+Zacharias      		Mean: 111.51 		Best: 904.72 		N:8
+Reese          		Mean: 68.63 		Best: 904.24 		N:13
+Kercy          		Mean: 127.53 		Best: 898.14 		N:7
+Lucas          		Mean: 80.89 		Best: 896.12 		N:11
+
+########## REPORT GEN: 86 ##########
+SPECIES: 
+Lucas          		Mean: 89.51 		Best: 938.97 		N:10
+Reese          		Mean: 69.19 		Best: 923.94 		N:13
+Thompson       		Mean: 99.94 		Best: 921.31 		N:9
+Kercy          		Mean: 59.67 		Best: 910.48 		N:15
+West           		Mean: 74.49 		Best: 908.62 		N:12
+Otte           		Mean: 89.71 		Best: 908.38 		N:10
+Zacharias      		Mean: 149.4 		Best: 904.75 		N:6
+Thompson       		Mean: 111.76 		Best: 903.4 		N:8
+Koenig         		Mean: 63.57 		Best: 900.0 		N:14
+
+########## REPORT GEN: 87 ##########
+SPECIES: 
+Thompson       		Mean: 74.98 		Best: 928.04 		N:12
+Zacharias      		Mean: 81.82 		Best: 917.85 		N:11
+Otte           		Mean: 99.62 		Best: 909.86 		N:9
+Reese          		Mean: 99.94 		Best: 909.86 		N:9
+Thompson       		Mean: 55.85 		Best: 905.18 		N:16
+Koenig         		Mean: 127.76 		Best: 904.26 		N:7
+Kercy          		Mean: 74.36 		Best: 902.92 		N:12
+Lucas          		Mean: 81.35 		Best: 901.38 		N:11
+West           		Mean: 297.04 		Best: 893.36 		N:3
+
+########## REPORT GEN: 88 ##########
+SPECIES: 
+Zacharias      		Mean: 81.66 		Best: 925.85 		N:11
+Kercy          		Mean: 128.53 		Best: 925.39 		N:7
+Reese          		Mean: 127.35 		Best: 908.71 		N:7
+Thompson       		Mean: 99.66 		Best: 908.03 		N:9
+West           		Mean: 68.77 		Best: 907.78 		N:13
+Thompson       		Mean: 127.82 		Best: 905.07 		N:7
+Lucas          		Mean: 224.06 		Best: 904.56 		N:4
+Koenig         		Mean: 128.08 		Best: 904.22 		N:7
+Otte           		Mean: 81.45 		Best: 902.47 		N:11
+
+########## REPORT GEN: 89 ##########
+SPECIES: 
+Zacharias      		Mean: 74.66 		Best: 917.39 		N:12
+Otte           		Mean: 128.84 		Best: 917.09 		N:7
+West           		Mean: 64.11 		Best: 910.66 		N:14
+Reese          		Mean: 68.69 		Best: 909.83 		N:13
+Thompson       		Mean: 112.17 		Best: 909.67 		N:8
+Lucas          		Mean: 89.87 		Best: 908.11 		N:10
+Koenig         		Mean: 90.08 		Best: 907.73 		N:10
+Kercy          		Mean: 224.15 		Best: 907.5 		N:4
+Thompson       		Mean: 222.95 		Best: 896.01 		N:4
+
+########## REPORT GEN: 90 ##########
+SPECIES: 
+Kercy          		Mean: 112.65 		Best: 923.37 		N:8
+Zacharias      		Mean: 111.81 		Best: 921.53 		N:8
+Thompson       		Mean: 112.58 		Best: 919.34 		N:8
+West           		Mean: 89.95 		Best: 913.22 		N:10
+Koenig         		Mean: 128.73 		Best: 908.19 		N:7
+Thompson       		Mean: 89.52 		Best: 907.44 		N:10
+Reese          		Mean: 128.53 		Best: 907.35 		N:7
+Otte           		Mean: 111.39 		Best: 905.62 		N:8
+Lucas          		Mean: 127.12 		Best: 893.78 		N:7
+
+########## REPORT GEN: 91 ##########
+SPECIES: 
+Reese          		Mean: 100.29 		Best: 934.22 		N:9
+Thompson       		Mean: 128.22 		Best: 933.87 		N:7
+Kercy          		Mean: 64.15 		Best: 933.09 		N:14
+Otte           		Mean: 81.57 		Best: 917.47 		N:11
+West           		Mean: 64.12 		Best: 909.53 		N:14
+Zacharias      		Mean: 99.84 		Best: 909.5 		N:9
+Lucas          		Mean: 68.95 		Best: 909.45 		N:13
+Koenig         		Mean: 128.04 		Best: 908.15 		N:7
+Thompson       		Mean: 74.59 		Best: 908.1 		N:12
+
+########## REPORT GEN: 92 ##########
+SPECIES: 
+Koenig         		Mean: 90.64 		Best: 929.52 		N:10
+West           		Mean: 100.01 		Best: 926.58 		N:9
+Otte           		Mean: 64.06 		Best: 918.34 		N:14
+Lucas          		Mean: 100.16 		Best: 911.56 		N:9
+Thompson       		Mean: 68.85 		Best: 910.82 		N:13
+Zacharias      		Mean: 74.54 		Best: 910.58 		N:12
+Kercy          		Mean: 74.49 		Best: 906.22 		N:12
+Thompson       		Mean: 74.42 		Best: 900.41 		N:12
+Reese          		Mean: 448.81 		Best: 899.05 		N:2
+
+########## REPORT GEN: 93 ##########
+SPECIES: 
+Otte           		Mean: 100.1 		Best: 946.33 		N:9
+Thompson       		Mean: 113.5 		Best: 927.7 		N:8
+Koenig         		Mean: 149.32 		Best: 911.9 		N:6
+Lucas          		Mean: 81.48 		Best: 909.02 		N:11
+West           		Mean: 127.9 		Best: 908.87 		N:7
+Kercy          		Mean: 224.69 		Best: 908.59 		N:4
+Thompson       		Mean: 179.23 		Best: 908.01 		N:5
+Zacharias      		Mean: 128.64 		Best: 907.77 		N:7
+Reese          		Mean: 224.98 		Best: 903.66 		N:4
+
+########## REPORT GEN: 94 ##########
+SPECIES: 
+Otte           		Mean: 90.55 		Best: 927.41 		N:10
+Kercy          		Mean: 225.02 		Best: 925.69 		N:4
+Thompson       		Mean: 74.76 		Best: 913.94 		N:12
+Reese          		Mean: 81.42 		Best: 909.39 		N:11
+West           		Mean: 179.09 		Best: 907.87 		N:5
+Koenig         		Mean: 149.69 		Best: 904.6 		N:6
+Lucas          		Mean: 68.61 		Best: 903.72 		N:13
+Thompson       		Mean: 89.53 		Best: 903.45 		N:10
+Zacharias      		Mean: 178.55 		Best: 895.5 		N:5
+
+########## REPORT GEN: 95 ##########
+SPECIES: 
+Otte           		Mean: 89.96 		Best: 933.6 		N:10
+Lucas          		Mean: 128.55 		Best: 911.61 		N:7
+Reese          		Mean: 99.52 		Best: 909.32 		N:9
+Thompson       		Mean: 112.11 		Best: 908.53 		N:8
+Zacharias      		Mean: 111.7 		Best: 908.21 		N:8
+Koenig         		Mean: 149.05 		Best: 905.92 		N:6
+West           		Mean: 89.73 		Best: 904.27 		N:10
+Kercy          		Mean: 89.78 		Best: 903.37 		N:10
+Thompson       		Mean: 148.72 		Best: 902.29 		N:6
+
+########## REPORT GEN: 96 ##########
+SPECIES: 
+Lucas          		Mean: 151.06 		Best: 922.7 		N:6
+Otte           		Mean: 89.2 		Best: 910.73 		N:10
+Thompson       		Mean: 74.63 		Best: 908.74 		N:12
+Thompson       		Mean: 89.5 		Best: 907.29 		N:10
+Koenig         		Mean: 89.15 		Best: 904.88 		N:10
+West           		Mean: 49.81 		Best: 904.34 		N:18
+Zacharias      		Mean: 149.22 		Best: 903.09 		N:6
+Kercy          		Mean: 111.7 		Best: 902.09 		N:8
+Reese          		Mean: 89.44 		Best: 900.77 		N:10
+
+########## REPORT GEN: 97 ##########
+SPECIES: 
+Koenig         		Mean: 64.2 		Best: 923.36 		N:14
+West           		Mean: 112.41 		Best: 912.38 		N:8
+Thompson       		Mean: 68.85 		Best: 908.38 		N:13
+Kercy          		Mean: 128.13 		Best: 907.35 		N:7
+Otte           		Mean: 63.96 		Best: 906.47 		N:14
+Lucas          		Mean: 99.69 		Best: 905.35 		N:9
+Zacharias      		Mean: 81.36 		Best: 905.11 		N:11
+Reese          		Mean: 128.02 		Best: 905.39 		N:7
+Thompson       		Mean: 89.65 		Best: 903.39 		N:10
+
+########## REPORT GEN: 98 ##########
+SPECIES: 
+Reese          		Mean: 89.99 		Best: 915.8 		N:10
+Thompson       		Mean: 112.33 		Best: 910.37 		N:8
+West           		Mean: 56.27 		Best: 909.62 		N:16
+Zacharias      		Mean: 89.77 		Best: 909.6 		N:10
+Otte           		Mean: 64.09 		Best: 909.43 		N:14
+Thompson       		Mean: 74.63 		Best: 905.58 		N:12
+Koenig         		Mean: 99.69 		Best: 903.33 		N:9
+Kercy          		Mean: 149.54 		Best: 901.75 		N:6
+Lucas          		Mean: 111.52 		Best: 900.41 		N:8
+
+########## REPORT GEN: 99 ##########
+SPECIES: 
+Otte           		Mean: 56.12 		Best: 933.81 		N:16
+Thompson       		Mean: 74.71 		Best: 918.63 		N:12
+Reese          		Mean: 56.09 		Best: 912.2 		N:16
+Thompson       		Mean: 63.98 		Best: 906.59 		N:14
+Koenig         		Mean: 81.24 		Best: 905.84 		N:11
+Kercy          		Mean: 148.93 		Best: 904.41 		N:6
+Lucas          		Mean: 148.91 		Best: 902.43 		N:6
+West           		Mean: 178.85 		Best: 901.65 		N:5
+Zacharias      		Mean: 149.02 		Best: 899.95 		N:6
+
+########## REPORT GEN: 100 ##########
+SPECIES: 
+Otte           		Mean: 64.37 		Best: 936.52 		N:14
+Thompson       		Mean: 81.93 		Best: 924.49 		N:11
+Zacharias      		Mean: 81.51 		Best: 913.68 		N:11
+West           		Mean: 127.48 		Best: 910.78 		N:7
+Thompson       		Mean: 89.5 		Best: 908.2 		N:10
+Kercy          		Mean: 149.21 		Best: 907.08 		N:6
+Koenig         		Mean: 178.68 		Best: 904.33 		N:5
+Reese          		Mean: 59.52 		Best: 902.76 		N:15
+Lucas          		Mean: 147.91 		Best: 891.45 		N:6
+
+########## REPORT GEN: 101 ##########
+SPECIES: 
+Thompson       		Mean: 81.89 		Best: 929.76 		N:11
+Thompson       		Mean: 112.12 		Best: 924.52 		N:8
+Zacharias      		Mean: 99.23 		Best: 906.83 		N:9
+Kercy          		Mean: 63.87 		Best: 905.08 		N:14
+Lucas          		Mean: 74.47 		Best: 904.65 		N:12
+Reese          		Mean: 81.25 		Best: 904.14 		N:11
+Koenig         		Mean: 127.06 		Best: 897.19 		N:7
+Otte           		Mean: 111.17 		Best: 896.93 		N:8
+West           		Mean: 148.1 		Best: 896.05 		N:6
+
+########## REPORT GEN: 102 ##########
+SPECIES: 
+Thompson       		Mean: 180.19 		Best: 928.24 		N:5
+Koenig         		Mean: 59.68 		Best: 925.95 		N:15
+Zacharias      		Mean: 63.75 		Best: 925.72 		N:14
+Lucas          		Mean: 89.82 		Best: 910.9 		N:10
+West           		Mean: 74.43 		Best: 906.72 		N:12
+Otte           		Mean: 111.33 		Best: 901.15 		N:8
+Kercy          		Mean: 80.91 		Best: 899.56 		N:11
+Reese          		Mean: 80.79 		Best: 896.62 		N:11
+Thompson       		Mean: 110.85 		Best: 890.51 		N:8
+
+########## REPORT GEN: 103 ##########
+SPECIES: 
+Koenig         		Mean: 111.83 		Best: 931.65 		N:8
+West           		Mean: 81.36 		Best: 926.42 		N:11
+Lucas          		Mean: 89.27 		Best: 924.5 		N:10
+Thompson       		Mean: 74.47 		Best: 918.98 		N:12
+Kercy          		Mean: 80.84 		Best: 904.56 		N:11
+Otte           		Mean: 98.82 		Best: 903.71 		N:9
+Zacharias      		Mean: 99.03 		Best: 898.8 		N:9
+Reese          		Mean: 98.76 		Best: 895.63 		N:9
+Thompson       		Mean: 126.84 		Best: 889.85 		N:7
+
+########## REPORT GEN: 104 ##########
+SPECIES: 
+Kercy          		Mean: 149.14 		Best: 929.43 		N:6
+Otte           		Mean: 89.4 		Best: 924.58 		N:10
+Koenig         		Mean: 111.96 		Best: 923.21 		N:8
+Lucas          		Mean: 74.29 		Best: 918.42 		N:12
+Thompson       		Mean: 127.59 		Best: 912.82 		N:7
+Thompson       		Mean: 52.4 		Best: 912.77 		N:17
+West           		Mean: 89.01 		Best: 905.13 		N:10
+Zacharias      		Mean: 55.7 		Best: 903.52 		N:16
+Reese          		Mean: 98.62 		Best: 890.82 		N:9
+
+########## REPORT GEN: 105 ##########
+SPECIES: 
+Thompson       		Mean: 81.5 		Best: 929.12 		N:11
+Lucas          		Mean: 68.52 		Best: 924.58 		N:13
+Kercy          		Mean: 68.74 		Best: 921.26 		N:13
+Reese          		Mean: 74.14 		Best: 908.05 		N:12
+Otte           		Mean: 99.29 		Best: 903.45 		N:9
+West           		Mean: 98.83 		Best: 902.47 		N:9
+Zacharias      		Mean: 127.05 		Best: 901.86 		N:7
+Koenig         		Mean: 99.05 		Best: 898.07 		N:9
+Thompson       		Mean: 80.74 		Best: 893.35 		N:11
+
+########## REPORT GEN: 106 ##########
+SPECIES: 
+Thompson       		Mean: 49.68 		Best: 932.56 		N:18
+Koenig         		Mean: 81.24 		Best: 930.28 		N:11
+West           		Mean: 63.81 		Best: 928.02 		N:14
+Kercy          		Mean: 74.51 		Best: 926.51 		N:12
+Reese          		Mean: 224.09 		Best: 925.59 		N:4
+Lucas          		Mean: 68.31 		Best: 904.38 		N:13
+Zacharias      		Mean: 111.28 		Best: 899.35 		N:8
+Thompson       		Mean: 73.96 		Best: 893.91 		N:12
+Otte           		Mean: 296.03 		Best: 888.53 		N:3
+
+########## REPORT GEN: 107 ##########
+SPECIES: 
+Otte           		Mean: 74.61 		Best: 935.62 		N:12
+Reese          		Mean: 128.71 		Best: 930.21 		N:7
+Zacharias      		Mean: 149.42 		Best: 925.27 		N:6
+Thompson       		Mean: 89.53 		Best: 923.4 		N:10
+Kercy          		Mean: 148.74 		Best: 905.8 		N:6
+Koenig         		Mean: 178.52 		Best: 903.09 		N:5
+West           		Mean: 148.38 		Best: 902.64 		N:6
+Thompson       		Mean: 111.27 		Best: 897.88 		N:8
+Lucas          		Mean: 127.07 		Best: 892.53 		N:7
+
+########## REPORT GEN: 108 ##########
+SPECIES: 
+Thompson       		Mean: 89.46 		Best: 920.44 		N:10
+Thompson       		Mean: 149.62 		Best: 918.29 		N:6
+Zacharias      		Mean: 68.66 		Best: 918.06 		N:13
+Koenig         		Mean: 80.87 		Best: 906.1 		N:11
+Lucas          		Mean: 74.26 		Best: 904.14 		N:12
+Otte           		Mean: 74.05 		Best: 903.94 		N:12
+Reese          		Mean: 80.85 		Best: 902.98 		N:11
+West           		Mean: 148.08 		Best: 902.71 		N:6
+Kercy          		Mean: 110.96 		Best: 900.6 		N:8
+
+########## REPORT GEN: 109 ##########
+SPECIES: 
+Thompson       		Mean: 89.78 		Best: 931.34 		N:10
+Lucas          		Mean: 99.53 		Best: 927.52 		N:9
+Otte           		Mean: 89.42 		Best: 921.02 		N:10
+West           		Mean: 127.9 		Best: 913.54 		N:7
+Koenig         		Mean: 80.76 		Best: 909.5 		N:11
+Thompson       		Mean: 99.13 		Best: 909.3 		N:9
+Reese          		Mean: 98.98 		Best: 902.73 		N:9
+Zacharias      		Mean: 80.94 		Best: 902.44 		N:11
+Kercy          		Mean: 68.29 		Best: 894.0 		N:13
+
+########## REPORT GEN: 110 ##########
+SPECIES: 
+Thompson       		Mean: 68.82 		Best: 934.94 		N:13
+Otte           		Mean: 63.68 		Best: 934.59 		N:14
+Kercy          		Mean: 180.16 		Best: 928.06 		N:5
+Thompson       		Mean: 59.56 		Best: 914.69 		N:15
+Koenig         		Mean: 68.45 		Best: 913.32 		N:13
+Zacharias      		Mean: 127.25 		Best: 907.92 		N:7
+Reese          		Mean: 80.91 		Best: 905.7 		N:11
+Lucas          		Mean: 89.21 		Best: 905.64 		N:10
+West           		Mean: 147.68 		Best: 890.82 		N:6
+
+########## REPORT GEN: 111 ##########
+SPECIES: 
+Kercy          		Mean: 99.28 		Best: 936.48 		N:9
+Lucas          		Mean: 52.78 		Best: 927.46 		N:17
+Thompson       		Mean: 128.13 		Best: 927.25 		N:7
+Zacharias      		Mean: 111.47 		Best: 923.7 		N:8
+Otte           		Mean: 99.58 		Best: 916.03 		N:9
+Reese          		Mean: 98.82 		Best: 904.34 		N:9
+Koenig         		Mean: 111.22 		Best: 903.28 		N:8
+West           		Mean: 88.92 		Best: 902.93 		N:10
+Thompson       		Mean: 148.14 		Best: 893.99 		N:6
+
+########## REPORT GEN: 112 ##########
+SPECIES: 
+Thompson       		Mean: 69.14 		Best: 947.91 		N:13
+Koenig         		Mean: 111.93 		Best: 928.19 		N:8
+West           		Mean: 52.58 		Best: 926.18 		N:17
+Reese          		Mean: 111.64 		Best: 914.78 		N:8
+Zacharias      		Mean: 127.26 		Best: 913.22 		N:7
+Otte           		Mean: 179.12 		Best: 908.3 		N:5
+Thompson       		Mean: 68.5 		Best: 905.67 		N:13
+Kercy          		Mean: 89.1 		Best: 905.1 		N:10
+Lucas          		Mean: 68.28 		Best: 899.56 		N:13
+
+########## REPORT GEN: 113 ##########
+SPECIES: 
+Kercy          		Mean: 90.21 		Best: 952.53 		N:10
+Reese          		Mean: 99.73 		Best: 949.18 		N:9
+Thompson       		Mean: 111.76 		Best: 932.55 		N:8
+Lucas          		Mean: 81.1 		Best: 924.04 		N:11
+Thompson       		Mean: 74.53 		Best: 923.0 		N:12
+Zacharias      		Mean: 99.43 		Best: 919.65 		N:9
+Otte           		Mean: 80.68 		Best: 897.86 		N:11
+West           		Mean: 126.69 		Best: 893.93 		N:7
+Koenig         		Mean: 88.71 		Best: 889.0 		N:10
+
+########## REPORT GEN: 114 ##########
+SPECIES: 
+Thompson       		Mean: 89.38 		Best: 927.48 		N:10
+Koenig         		Mean: 59.51 		Best: 927.11 		N:15
+Otte           		Mean: 74.24 		Best: 924.43 		N:12
+Zacharias      		Mean: 99.23 		Best: 919.39 		N:9
+Reese          		Mean: 55.62 		Best: 906.98 		N:16
+Kercy          		Mean: 111.22 		Best: 904.66 		N:8
+Thompson       		Mean: 80.83 		Best: 904.24 		N:11
+West           		Mean: 80.91 		Best: 902.73 		N:11
+Lucas          		Mean: 296.4 		Best: 890.56 		N:3
+
+########## REPORT GEN: 115 ##########
+SPECIES: 
+Kercy          		Mean: 99.75 		Best: 955.45 		N:9
+Thompson       		Mean: 99.29 		Best: 936.38 		N:9
+Zacharias      		Mean: 89.72 		Best: 932.83 		N:10
+Thompson       		Mean: 99.59 		Best: 913.32 		N:9
+West           		Mean: 89.12 		Best: 909.56 		N:10
+Koenig         		Mean: 148.26 		Best: 902.0 		N:6
+Reese          		Mean: 126.86 		Best: 893.06 		N:7
+Otte           		Mean: 88.75 		Best: 891.64 		N:10
+Lucas          		Mean: 221.53 		Best: 887.02 		N:4
+
+########## REPORT GEN: 116 ##########
+SPECIES: 
+Otte           		Mean: 74.44 		Best: 950.64 		N:12
+West           		Mean: 63.91 		Best: 946.17 		N:14
+Reese          		Mean: 74.74 		Best: 943.99 		N:12
+Thompson       		Mean: 63.67 		Best: 923.35 		N:14
+Kercy          		Mean: 99.02 		Best: 915.08 		N:9
+Thompson       		Mean: 111.27 		Best: 906.21 		N:8
+Koenig         		Mean: 88.77 		Best: 902.45 		N:10
+Lucas          		Mean: 294.71 		Best: 883.9 		N:3
+
+########## REPORT GEN: 117 ##########
+SPECIES: 
+West           		Mean: 151.77 		Best: 940.69 		N:6
+Kercy          		Mean: 74.28 		Best: 932.85 		N:12
+Thompson       		Mean: 81.23 		Best: 931.79 		N:11
+Koenig         		Mean: 149.85 		Best: 925.73 		N:6
+Lucas          		Mean: 126.87 		Best: 899.76 		N:7
+Thompson       		Mean: 74.03 		Best: 899.58 		N:12
+Otte           		Mean: 127.04 		Best: 899.46 		N:7
+Reese          		Mean: 110.82 		Best: 891.6 		N:8
+
+########## REPORT GEN: 118 ##########
+SPECIES: 
+Otte           		Mean: 55.71 		Best: 934.06 		N:16
+Lucas          		Mean: 81.42 		Best: 930.83 		N:11
+Thompson       		Mean: 59.55 		Best: 928.34 		N:15
+Kercy          		Mean: 68.54 		Best: 912.4 		N:13
+Thompson       		Mean: 74.05 		Best: 905.85 		N:12
+West           		Mean: 111.26 		Best: 902.12 		N:8
+Koenig         		Mean: 127.21 		Best: 901.21 		N:7
+Reese          		Mean: 127.07 		Best: 896.84 		N:7
+
+########## REPORT GEN: 119 ##########
+SPECIES: 
+Lucas          		Mean: 64.03 		Best: 941.77 		N:14
+Koenig         		Mean: 99.68 		Best: 939.4 		N:9
+Otte           		Mean: 81.25 		Best: 933.33 		N:11
+Thompson       		Mean: 59.27 		Best: 920.98 		N:15
+Reese          		Mean: 68.47 		Best: 917.41 		N:13
+Thompson       		Mean: 148.68 		Best: 904.37 		N:6
+West           		Mean: 111.95 		Best: 903.41 		N:8
+Kercy          		Mean: 68.5 		Best: 898.97 		N:13
+
+########## REPORT GEN: 120 ##########
+SPECIES: 
+Kercy          		Mean: 112.91 		Best: 953.85 		N:8
+Reese          		Mean: 49.7 		Best: 946.26 		N:18
+West           		Mean: 68.84 		Best: 930.83 		N:13
+Thompson       		Mean: 99.12 		Best: 920.92 		N:9
+Lucas          		Mean: 98.65 		Best: 906.92 		N:9
+Thompson       		Mean: 89.1 		Best: 906.33 		N:10
+Koenig         		Mean: 111.22 		Best: 902.96 		N:8
+Otte           		Mean: 68.38 		Best: 899.73 		N:13
+
+########## REPORT GEN: 121 ##########
+SPECIES: 
+Koenig         		Mean: 59.6 		Best: 943.44 		N:15
+Thompson       		Mean: 55.96 		Best: 943.18 		N:16
+Lucas          		Mean: 89.25 		Best: 931.04 		N:10
+Otte           		Mean: 99.61 		Best: 927.08 		N:9
+Kercy          		Mean: 63.85 		Best: 925.71 		N:14
+Thompson       		Mean: 59.42 		Best: 909.6 		N:15
+West           		Mean: 68.55 		Best: 904.93 		N:13
+Reese          		Mean: 147.91 		Best: 891.06 		N:6
+
+########## REPORT GEN: 122 ##########
+SPECIES: 
+Thompson       		Mean: 56.06 		Best: 952.81 		N:16
+Reese          		Mean: 99.96 		Best: 946.47 		N:9
+Otte           		Mean: 128.29 		Best: 944.43 		N:7
+Kercy          		Mean: 99.53 		Best: 928.27 		N:9
+West           		Mean: 178.45 		Best: 908.75 		N:5
+Koenig         		Mean: 80.82 		Best: 902.3 		N:11
+Thompson       		Mean: 52.28 		Best: 902.29 		N:17
+Lucas          		Mean: 68.28 		Best: 890.32 		N:13
+
+########## REPORT GEN: 123 ##########
+SPECIES: 
+Thompson       		Mean: 89.71 		Best: 954.09 		N:10
+West           		Mean: 89.85 		Best: 934.86 		N:10
+Kercy          		Mean: 49.72 		Best: 934.08 		N:18
+Otte           		Mean: 89.11 		Best: 926.2 		N:10
+Thompson       		Mean: 68.73 		Best: 910.13 		N:13
+Lucas          		Mean: 111.83 		Best: 907.45 		N:8
+Reese          		Mean: 80.86 		Best: 899.69 		N:11
+Koenig         		Mean: 221.99 		Best: 897.1 		N:4
+
+########## REPORT GEN: 124 ##########
+SPECIES: 
+Thompson       		Mean: 59.61 		Best: 942.89 		N:15
+Reese          		Mean: 180.02 		Best: 934.52 		N:5
+West           		Mean: 111.82 		Best: 934.46 		N:8
+Lucas          		Mean: 74.42 		Best: 924.13 		N:12
+Kercy          		Mean: 89.66 		Best: 911.24 		N:10
+Thompson       		Mean: 89.1 		Best: 903.88 		N:10
+Koenig         		Mean: 81.01 		Best: 902.02 		N:11
+Otte           		Mean: 89.0 		Best: 901.89 		N:10
+
+########## REPORT GEN: 125 ##########
+SPECIES: 
+Otte           		Mean: 74.75 		Best: 943.29 		N:12
+Kercy          		Mean: 100.06 		Best: 938.45 		N:9
+Thompson       		Mean: 68.86 		Best: 936.01 		N:13
+Thompson       		Mean: 100.1 		Best: 930.64 		N:9
+Reese          		Mean: 128.37 		Best: 926.28 		N:7
+Koenig         		Mean: 81.55 		Best: 924.26 		N:11
+West           		Mean: 89.23 		Best: 908.88 		N:10
+Lucas          		Mean: 68.28 		Best: 893.02 		N:13
+
+########## REPORT GEN: 126 ##########
+SPECIES: 
+Reese          		Mean: 81.19 		Best: 932.87 		N:11
+Koenig         		Mean: 81.58 		Best: 932.61 		N:11
+Thompson       		Mean: 59.72 		Best: 926.67 		N:15
+Lucas          		Mean: 49.56 		Best: 925.02 		N:18
+Otte           		Mean: 148.7 		Best: 909.77 		N:6
+Thompson       		Mean: 68.58 		Best: 905.78 		N:13
+Kercy          		Mean: 68.33 		Best: 902.92 		N:13
+West           		Mean: 148.62 		Best: 898.71 		N:6
+
+########## REPORT GEN: 127 ##########
+SPECIES: 
+Otte           		Mean: 90.64 		Best: 954.9 		N:10
+Thompson       		Mean: 64.29 		Best: 946.24 		N:14
+Reese          		Mean: 129.3 		Best: 946.2 		N:7
+West           		Mean: 74.14 		Best: 906.02 		N:12
+Thompson       		Mean: 55.64 		Best: 902.9 		N:16
+Kercy          		Mean: 88.88 		Best: 893.68 		N:10
+Koenig         		Mean: 176.99 		Best: 888.91 		N:5
+Lucas          		Mean: 126.77 		Best: 887.46 		N:7
+
+########## REPORT GEN: 128 ##########
+SPECIES: 
+Thompson       		Mean: 90.05 		Best: 947.68 		N:10
+Kercy          		Mean: 75.1 		Best: 937.98 		N:12
+Otte           		Mean: 81.42 		Best: 934.1 		N:11
+Reese          		Mean: 63.6 		Best: 922.73 		N:14
+Lucas          		Mean: 149.72 		Best: 918.56 		N:6
+West           		Mean: 81.03 		Best: 902.43 		N:11
+Thompson       		Mean: 68.4 		Best: 894.28 		N:13
+Koenig         		Mean: 126.82 		Best: 889.87 		N:7
+
+########## REPORT GEN: 129 ##########
+SPECIES: 
+Koenig         		Mean: 75.01 		Best: 957.98 		N:12
+Kercy          		Mean: 99.44 		Best: 936.54 		N:9
+West           		Mean: 63.68 		Best: 928.98 		N:14
+Thompson       		Mean: 74.59 		Best: 924.99 		N:12
+Otte           		Mean: 127.87 		Best: 905.39 		N:7
+Lucas          		Mean: 55.52 		Best: 902.74 		N:16
+Reese          		Mean: 80.74 		Best: 895.9 		N:11
+Thompson       		Mean: 110.91 		Best: 891.32 		N:8
+
+########## REPORT GEN: 130 ##########
+SPECIES: 
+Koenig         		Mean: 74.33 		Best: 942.04 		N:12
+Kercy          		Mean: 52.76 		Best: 932.82 		N:17
+West           		Mean: 149.18 		Best: 932.22 		N:6
+Lucas          		Mean: 63.79 		Best: 927.63 		N:14
+Thompson       		Mean: 49.45 		Best: 913.76 		N:18
+Reese          		Mean: 89.31 		Best: 909.85 		N:10
+Otte           		Mean: 111.22 		Best: 901.31 		N:8
+Thompson       		Mean: 111.04 		Best: 891.38 		N:8
+
+########## REPORT GEN: 131 ##########
+SPECIES: 
+Thompson       		Mean: 81.92 		Best: 949.2 		N:11
+Kercy          		Mean: 74.62 		Best: 935.88 		N:12
+West           		Mean: 127.86 		Best: 933.53 		N:7
+Lucas          		Mean: 89.27 		Best: 930.32 		N:10
+Koenig         		Mean: 68.45 		Best: 924.21 		N:13
+Otte           		Mean: 99.27 		Best: 912.18 		N:9
+Thompson       		Mean: 55.68 		Best: 907.79 		N:16
+Reese          		Mean: 74.09 		Best: 904.62 		N:12
+
+########## REPORT GEN: 132 ##########
+SPECIES: 
+Reese          		Mean: 69.26 		Best: 961.44 		N:13
+West           		Mean: 74.6 		Best: 944.69 		N:12
+Lucas          		Mean: 69.21 		Best: 943.21 		N:13
+Koenig         		Mean: 74.99 		Best: 937.83 		N:12
+Otte           		Mean: 99.26 		Best: 919.56 		N:9
+Thompson       		Mean: 63.55 		Best: 911.16 		N:14
+Thompson       		Mean: 89.42 		Best: 911.02 		N:10
+Kercy          		Mean: 74.03 		Best: 903.36 		N:12
+
+########## REPORT GEN: 133 ##########
+SPECIES: 
+Koenig         		Mean: 63.99 		Best: 937.75 		N:14
+Kercy          		Mean: 100.2 		Best: 932.43 		N:9
+West           		Mean: 59.47 		Best: 920.26 		N:15
+Reese          		Mean: 111.87 		Best: 914.59 		N:8
+Otte           		Mean: 81.38 		Best: 910.92 		N:11
+Thompson       		Mean: 49.45 		Best: 901.7 		N:18
+Thompson       		Mean: 63.54 		Best: 898.7 		N:14
+Lucas          		Mean: 98.72 		Best: 891.21 		N:9
+
+########## REPORT GEN: 134 ##########
+SPECIES: 
+Thompson       		Mean: 56.25 		Best: 954.57 		N:16
+West           		Mean: 74.71 		Best: 932.84 		N:12
+Koenig         		Mean: 68.7 		Best: 920.98 		N:13
+Otte           		Mean: 63.6 		Best: 915.2 		N:14
+Reese          		Mean: 111.89 		Best: 910.78 		N:8
+Thompson       		Mean: 88.9 		Best: 898.86 		N:10
+Lucas          		Mean: 74.17 		Best: 898.79 		N:12
+Kercy          		Mean: 80.87 		Best: 895.97 		N:11
+
+########## REPORT GEN: 135 ##########
+SPECIES: 
+Koenig         		Mean: 52.91 		Best: 941.5 		N:17
+Kercy          		Mean: 64.0 		Best: 930.84 		N:14
+Reese          		Mean: 63.65 		Best: 912.28 		N:14
+Thompson       		Mean: 98.98 		Best: 907.5 		N:9
+Lucas          		Mean: 127.25 		Best: 899.34 		N:7
+West           		Mean: 88.78 		Best: 895.86 		N:10
+Otte           		Mean: 74.09 		Best: 894.37 		N:12
+Thompson       		Mean: 68.36 		Best: 893.81 		N:13
+
+########## REPORT GEN: 136 ##########
+SPECIES: 
+Koenig         		Mean: 81.58 		Best: 945.74 		N:11
+Thompson       		Mean: 81.4 		Best: 940.48 		N:11
+Kercy          		Mean: 55.98 		Best: 940.36 		N:16
+Thompson       		Mean: 52.6 		Best: 934.28 		N:17
+Reese          		Mean: 99.2 		Best: 911.84 		N:9
+West           		Mean: 59.41 		Best: 906.52 		N:15
+Lucas          		Mean: 224.08 		Best: 905.11 		N:4
+Otte           		Mean: 111.15 		Best: 901.69 		N:8
+
+########## REPORT GEN: 137 ##########
+SPECIES: 
+Otte           		Mean: 81.95 		Best: 936.24 		N:11
+West           		Mean: 59.94 		Best: 934.94 		N:15
+Koenig         		Mean: 81.18 		Best: 922.46 		N:11
+Reese          		Mean: 127.78 		Best: 912.15 		N:7
+Thompson       		Mean: 98.87 		Best: 907.76 		N:9
+Kercy          		Mean: 127.98 		Best: 907.49 		N:7
+Thompson       		Mean: 68.52 		Best: 906.25 		N:13
+Lucas          		Mean: 178.47 		Best: 905.78 		N:5
+
+########## REPORT GEN: 138 ##########
+SPECIES: 
+Thompson       		Mean: 68.81 		Best: 956.01 		N:13
+West           		Mean: 74.56 		Best: 945.75 		N:12
+Kercy          		Mean: 129.3 		Best: 944.5 		N:7
+Koenig         		Mean: 100.2 		Best: 941.96 		N:9
+Thompson       		Mean: 99.68 		Best: 909.87 		N:9
+Otte           		Mean: 89.43 		Best: 908.0 		N:10
+Reese          		Mean: 63.74 		Best: 905.96 		N:14
+Lucas          		Mean: 98.88 		Best: 900.87 		N:9
+
+########## REPORT GEN: 139 ##########
+SPECIES: 
+Otte           		Mean: 59.84 		Best: 940.58 		N:15
+Lucas          		Mean: 68.9 		Best: 936.13 		N:13
+Thompson       		Mean: 68.88 		Best: 934.32 		N:13
+Reese          		Mean: 81.37 		Best: 930.25 		N:11
+Thompson       		Mean: 59.77 		Best: 912.83 		N:15
+Koenig         		Mean: 111.81 		Best: 911.28 		N:8
+Kercy          		Mean: 74.35 		Best: 903.84 		N:12
+West           		Mean: 177.67 		Best: 888.74 		N:5
+
+########## REPORT GEN: 140 ##########
+SPECIES: 
+Otte           		Mean: 74.73 		Best: 949.73 		N:12
+Kercy          		Mean: 75.23 		Best: 944.71 		N:12
+West           		Mean: 68.97 		Best: 940.26 		N:13
+Lucas          		Mean: 111.45 		Best: 905.12 		N:8
+Thompson       		Mean: 99.2 		Best: 905.07 		N:9
+Koenig         		Mean: 127.17 		Best: 899.6 		N:7
+Thompson       		Mean: 74.08 		Best: 898.52 		N:12
+Reese          		Mean: 88.75 		Best: 890.38 		N:10
+
+########## REPORT GEN: 141 ##########
+SPECIES: 
+Lucas          		Mean: 74.89 		Best: 945.87 		N:12
+Reese          		Mean: 55.97 		Best: 920.19 		N:16
+West           		Mean: 49.45 		Best: 907.12 		N:18
+Thompson       		Mean: 98.75 		Best: 904.34 		N:9
+Koenig         		Mean: 52.29 		Best: 903.71 		N:17
+Otte           		Mean: 89.05 		Best: 900.84 		N:10
+Thompson       		Mean: 148.06 		Best: 900.17 		N:6
+Kercy          		Mean: 177.68 		Best: 891.48 		N:5
+
+########## REPORT GEN: 142 ##########
+SPECIES: 
+Reese          		Mean: 182.37 		Best: 948.05 		N:5
+Lucas          		Mean: 90.07 		Best: 942.66 		N:10
+West           		Mean: 99.35 		Best: 904.59 		N:9
+Kercy          		Mean: 111.18 		Best: 903.87 		N:8
+Thompson       		Mean: 81.06 		Best: 901.73 		N:11
+Koenig         		Mean: 98.85 		Best: 901.47 		N:9
+Otte           		Mean: 55.57 		Best: 898.47 		N:16
+Thompson       		Mean: 63.42 		Best: 896.05 		N:14
+
+########## REPORT GEN: 143 ##########
+SPECIES: 
+Reese          		Mean: 90.34 		Best: 954.78 		N:10
+Thompson       		Mean: 59.88 		Best: 937.18 		N:15
+Otte           		Mean: 90.02 		Best: 933.49 		N:10
+Thompson       		Mean: 52.69 		Best: 915.96 		N:17
+West           		Mean: 111.65 		Best: 903.81 		N:8
+Kercy          		Mean: 99.22 		Best: 902.58 		N:9
+Lucas          		Mean: 98.76 		Best: 900.25 		N:9
+Koenig         		Mean: 127.2 		Best: 899.06 		N:7
+
+########## REPORT GEN: 144 ##########
+SPECIES: 
+Reese          		Mean: 59.58 		Best: 946.63 		N:15
+Lucas          		Mean: 56.01 		Best: 939.22 		N:16
+West           		Mean: 89.37 		Best: 915.02 		N:10
+Kercy          		Mean: 74.62 		Best: 911.31 		N:12
+Otte           		Mean: 81.26 		Best: 905.28 		N:11
+Koenig         		Mean: 81.0 		Best: 902.97 		N:11
+Thompson       		Mean: 88.87 		Best: 902.22 		N:10
+Thompson       		Mean: 89.14 		Best: 899.62 		N:10
+
+########## REPORT GEN: 145 ##########
+SPECIES: 
+Koenig         		Mean: 99.64 		Best: 951.5 		N:9
+West           		Mean: 89.73 		Best: 921.1 		N:10
+Lucas          		Mean: 68.67 		Best: 908.62 		N:13
+Otte           		Mean: 74.4 		Best: 904.49 		N:12
+Kercy          		Mean: 59.3 		Best: 903.16 		N:15
+Thompson       		Mean: 52.37 		Best: 900.63 		N:17
+Thompson       		Mean: 74.19 		Best: 899.49 		N:12
+Reese          		Mean: 89.07 		Best: 898.69 		N:10
+
+########## REPORT GEN: 146 ##########
+SPECIES: 
+Reese          		Mean: 63.85 		Best: 950.18 		N:14
+Otte           		Mean: 52.53 		Best: 935.36 		N:17
+Koenig         		Mean: 74.54 		Best: 917.54 		N:12
+Lucas          		Mean: 99.21 		Best: 903.76 		N:9
+Thompson       		Mean: 52.39 		Best: 902.27 		N:17
+Thompson       		Mean: 80.84 		Best: 899.18 		N:11
+West           		Mean: 73.95 		Best: 894.1 		N:12
+Kercy          		Mean: 221.66 		Best: 887.04 		N:4
+
+########## REPORT GEN: 147 ##########
+SPECIES: 
+Thompson       		Mean: 112.56 		Best: 946.04 		N:8
+Thompson       		Mean: 81.06 		Best: 924.45 		N:11
+Otte           		Mean: 149.33 		Best: 916.85 		N:6
+Reese          		Mean: 99.0 		Best: 906.87 		N:9
+West           		Mean: 68.47 		Best: 905.91 		N:13
+Kercy          		Mean: 68.8 		Best: 905.88 		N:13
+Koenig         		Mean: 98.94 		Best: 900.94 		N:9
+Lucas          		Mean: 98.79 		Best: 900.13 		N:9
+
+########## REPORT GEN: 148 ##########
+SPECIES: 
+Kercy          		Mean: 89.75 		Best: 941.86 		N:10
+West           		Mean: 111.82 		Best: 926.15 		N:8
+Thompson       		Mean: 111.54 		Best: 917.23 		N:8
+Otte           		Mean: 88.88 		Best: 905.08 		N:10
+Reese          		Mean: 52.34 		Best: 903.66 		N:17
+Thompson       		Mean: 80.94 		Best: 900.66 		N:11
+Koenig         		Mean: 68.56 		Best: 899.82 		N:13
+Lucas          		Mean: 80.71 		Best: 895.22 		N:11
+
+########## REPORT GEN: 149 ##########
+SPECIES: 
+Otte           		Mean: 68.75 		Best: 938.39 		N:13
+Kercy          		Mean: 63.52 		Best: 921.28 		N:14
+Reese          		Mean: 68.5 		Best: 914.63 		N:13
+Lucas          		Mean: 52.36 		Best: 904.17 		N:17
+Thompson       		Mean: 111.23 		Best: 901.63 		N:8
+West           		Mean: 52.34 		Best: 901.56 		N:17
+Thompson       		Mean: 127.15 		Best: 899.32 		N:7
+Koenig         		Mean: 110.71 		Best: 887.3 		N:8
+
+########## REPORT GEN: 150 ##########
+SPECIES: 
+Reese          		Mean: 52.67 		Best: 955.77 		N:17
+Thompson       		Mean: 100.05 		Best: 946.16 		N:9
+Koenig         		Mean: 68.78 		Best: 932.16 		N:13
+West           		Mean: 74.17 		Best: 906.08 		N:12
+Otte           		Mean: 89.13 		Best: 904.7 		N:10
+Thompson       		Mean: 74.15 		Best: 899.52 		N:12
+Lucas          		Mean: 80.87 		Best: 895.36 		N:11
+Kercy          		Mean: 98.62 		Best: 889.04 		N:9
+
+########## REPORT GEN: 151 ##########
+SPECIES: 
+Koenig         		Mean: 59.79 		Best: 948.22 		N:15
+Reese          		Mean: 59.54 		Best: 937.79 		N:15
+Thompson       		Mean: 128.78 		Best: 937.73 		N:7
+Thompson       		Mean: 68.73 		Best: 915.61 		N:13
+West           		Mean: 298.77 		Best: 912.92 		N:3
+Kercy          		Mean: 59.44 		Best: 907.27 		N:15
+Lucas          		Mean: 59.27 		Best: 902.52 		N:15
+Otte           		Mean: 73.9 		Best: 887.22 		N:12
+
+########## REPORT GEN: 152 ##########
+SPECIES: 
+Lucas          		Mean: 152.13 		Best: 951.32 		N:6
+Kercy          		Mean: 149.53 		Best: 932.48 		N:6
+Thompson       		Mean: 89.39 		Best: 916.2 		N:10
+Otte           		Mean: 148.78 		Best: 911.91 		N:6
+Koenig         		Mean: 81.18 		Best: 905.28 		N:11
+Reese          		Mean: 80.98 		Best: 905.07 		N:11
+Thompson       		Mean: 127.51 		Best: 901.26 		N:7
+West           		Mean: 98.67 		Best: 893.83 		N:9
+
+########## REPORT GEN: 153 ##########
+SPECIES: 
+Kercy          		Mean: 129.34 		Best: 936.09 		N:7
+Otte           		Mean: 59.59 		Best: 933.19 		N:15
+Koenig         		Mean: 68.82 		Best: 918.33 		N:13
+West           		Mean: 68.6 		Best: 916.1 		N:13
+Thompson       		Mean: 89.22 		Best: 904.46 		N:10
+Lucas          		Mean: 74.31 		Best: 904.4 		N:12
+Reese          		Mean: 178.62 		Best: 901.13 		N:5
+Thompson       		Mean: 80.93 		Best: 900.48 		N:11
+
+########## REPORT GEN: 154 ##########
+SPECIES: 
+Thompson       		Mean: 99.59 		Best: 924.05 		N:9
+Kercy          		Mean: 74.53 		Best: 917.08 		N:12
+Koenig         		Mean: 63.82 		Best: 911.85 		N:14
+Otte           		Mean: 80.76 		Best: 907.82 		N:11
+Lucas          		Mean: 81.3 		Best: 902.92 		N:11
+West           		Mean: 99.09 		Best: 901.47 		N:9
+Thompson       		Mean: 222.54 		Best: 898.92 		N:4
+Reese          		Mean: 80.8 		Best: 892.98 		N:11
+
+########## REPORT GEN: 155 ##########
+SPECIES: 
+Reese          		Mean: 81.66 		Best: 948.89 		N:11
+Lucas          		Mean: 89.88 		Best: 937.11 		N:10
+Thompson       		Mean: 127.7 		Best: 935.53 		N:7
+Otte           		Mean: 74.71 		Best: 918.96 		N:12
+Koenig         		Mean: 74.51 		Best: 907.02 		N:12
+Thompson       		Mean: 127.37 		Best: 903.11 		N:7
+Kercy          		Mean: 98.66 		Best: 898.77 		N:9
+West           		Mean: 88.96 		Best: 895.93 		N:10
+
+########## REPORT GEN: 156 ##########
+SPECIES: 
+Lucas          		Mean: 99.37 		Best: 947.65 		N:9
+Thompson       		Mean: 74.64 		Best: 935.44 		N:12
+Koenig         		Mean: 90.49 		Best: 931.76 		N:10
+Thompson       		Mean: 68.53 		Best: 923.13 		N:13
+Otte           		Mean: 99.25 		Best: 915.15 		N:9
+Kercy          		Mean: 89.11 		Best: 901.14 		N:10
+Reese          		Mean: 49.44 		Best: 900.77 		N:18
+West           		Mean: 80.74 		Best: 896.64 		N:11
+
+########## REPORT GEN: 157 ##########
+SPECIES: 
+Reese          		Mean: 59.9 		Best: 952.18 		N:15
+Thompson       		Mean: 68.72 		Best: 936.83 		N:13
+Kercy          		Mean: 81.38 		Best: 933.51 		N:11
+Lucas          		Mean: 59.53 		Best: 931.71 		N:15
+Otte           		Mean: 59.52 		Best: 929.58 		N:15
+Thompson       		Mean: 89.89 		Best: 919.94 		N:10
+West           		Mean: 111.28 		Best: 906.06 		N:8
+Koenig         		Mean: 80.65 		Best: 890.55 		N:11
+
+########## REPORT GEN: 158 ##########
+SPECIES: 
+Reese          		Mean: 49.81 		Best: 933.24 		N:18
+Lucas          		Mean: 149.3 		Best: 932.57 		N:6
+Koenig         		Mean: 127.49 		Best: 927.22 		N:7
+Thompson       		Mean: 59.53 		Best: 924.29 		N:15
+Kercy          		Mean: 74.25 		Best: 917.12 		N:12
+Thompson       		Mean: 63.66 		Best: 908.57 		N:14
+Otte           		Mean: 63.52 		Best: 906.56 		N:14
+West           		Mean: 111.49 		Best: 906.23 		N:8
+
+########## REPORT GEN: 159 ##########
+SPECIES: 
+Thompson       		Mean: 63.98 		Best: 937.83 		N:14
+Otte           		Mean: 59.56 		Best: 937.45 		N:15
+West           		Mean: 128.38 		Best: 933.12 		N:7
+Thompson       		Mean: 55.76 		Best: 932.37 		N:16
+Kercy          		Mean: 74.49 		Best: 928.36 		N:12
+Reese          		Mean: 223.24 		Best: 914.99 		N:4
+Lucas          		Mean: 52.2 		Best: 890.48 		N:17
+Koenig         		Mean: 296.57 		Best: 889.27 		N:3
+
+########## REPORT GEN: 160 ##########
+SPECIES: 
+Lucas          		Mean: 56.61 		Best: 956.14 		N:16
+Kercy          		Mean: 99.29 		Best: 937.76 		N:9
+Thompson       		Mean: 100.04 		Best: 937.22 		N:9
+Reese          		Mean: 112.78 		Best: 937.1 		N:8
+Otte           		Mean: 179.46 		Best: 926.19 		N:5
+Thompson       		Mean: 297.83 		Best: 907.62 		N:3
+West           		Mean: 177.74 		Best: 904.38 		N:5
+Koenig         		Mean: 80.65 		Best: 896.08 		N:11
+
+########## REPORT GEN: 161 ##########
+SPECIES: 
+Reese          		Mean: 112.62 		Best: 939.06 		N:8
+Kercy          		Mean: 99.66 		Best: 937.74 		N:9
+Thompson       		Mean: 150.85 		Best: 936.55 		N:6
+Koenig         		Mean: 112.98 		Best: 933.0 		N:8
+Lucas          		Mean: 74.5 		Best: 931.9 		N:12
+Otte           		Mean: 151.85 		Best: 933.65 		N:6
+West           		Mean: 89.58 		Best: 916.15 		N:10
+Thompson       		Mean: 99.68 		Best: 913.07 		N:9
+
+########## REPORT GEN: 162 ##########
+SPECIES: 
+Koenig         		Mean: 83.54 		Best: 948.45 		N:11
+Thompson       		Mean: 75.11 		Best: 936.87 		N:12
+Kercy          		Mean: 69.35 		Best: 932.91 		N:13
+Reese          		Mean: 68.82 		Best: 916.87 		N:13
+Lucas          		Mean: 68.72 		Best: 916.52 		N:13
+West           		Mean: 99.22 		Best: 910.01 		N:9
+Thompson       		Mean: 68.77 		Best: 909.57 		N:13
+Otte           		Mean: 223.72 		Best: 908.78 		N:4
+
+########## REPORT GEN: 163 ##########
+SPECIES: 
+Kercy          		Mean: 112.33 		Best: 952.34 		N:8
+Thompson       		Mean: 81.93 		Best: 936.94 		N:11
+Thompson       		Mean: 59.71 		Best: 935.35 		N:15
+Koenig         		Mean: 99.6 		Best: 930.43 		N:9
+West           		Mean: 111.54 		Best: 917.65 		N:8
+Otte           		Mean: 89.22 		Best: 909.4 		N:10
+Reese          		Mean: 81.08 		Best: 909.37 		N:11
+Lucas          		Mean: 179.17 		Best: 907.56 		N:5
+
+########## REPORT GEN: 164 ##########
+SPECIES: 
+Thompson       		Mean: 89.69 		Best: 942.59 		N:10
+Thompson       		Mean: 112.6 		Best: 938.21 		N:8
+Reese          		Mean: 64.06 		Best: 936.07 		N:14
+West           		Mean: 64.39 		Best: 932.65 		N:14
+Otte           		Mean: 127.39 		Best: 908.09 		N:7
+Kercy          		Mean: 81.14 		Best: 905.95 		N:11
+Koenig         		Mean: 127.19 		Best: 904.35 		N:7
+Lucas          		Mean: 68.4 		Best: 901.3 		N:13
+
+########## REPORT GEN: 165 ##########
+SPECIES: 
+Kercy          		Mean: 52.66 		Best: 949.23 		N:17
+Lucas          		Mean: 68.59 		Best: 936.49 		N:13
+Thompson       		Mean: 68.97 		Best: 936.02 		N:13
+West           		Mean: 74.57 		Best: 934.47 		N:12
+Otte           		Mean: 99.42 		Best: 931.93 		N:9
+Koenig         		Mean: 111.82 		Best: 908.85 		N:8
+Reese          		Mean: 88.88 		Best: 903.94 		N:10
+Thompson       		Mean: 98.38 		Best: 888.02 		N:9
+
+########## REPORT GEN: 166 ##########
+SPECIES: 
+Koenig         		Mean: 149.6 		Best: 939.94 		N:6
+West           		Mean: 81.66 		Best: 936.01 		N:11
+Thompson       		Mean: 81.7 		Best: 935.0 		N:11
+Reese          		Mean: 89.49 		Best: 930.59 		N:10
+Thompson       		Mean: 49.48 		Best: 909.69 		N:18
+Kercy          		Mean: 68.5 		Best: 908.41 		N:13
+Lucas          		Mean: 59.47 		Best: 905.95 		N:15
+Otte           		Mean: 74.46 		Best: 903.28 		N:12
+
+########## REPORT GEN: 167 ##########
+SPECIES: 
+Reese          		Mean: 52.65 		Best: 934.2 		N:17
+Thompson       		Mean: 68.95 		Best: 933.14 		N:13
+Kercy          		Mean: 89.54 		Best: 927.41 		N:10
+Koenig         		Mean: 81.47 		Best: 920.78 		N:11
+Lucas          		Mean: 178.54 		Best: 908.99 		N:5
+Otte           		Mean: 111.39 		Best: 905.95 		N:8
+Thompson       		Mean: 68.47 		Best: 898.75 		N:13
+West           		Mean: 80.79 		Best: 892.06 		N:11
+
+########## REPORT GEN: 168 ##########
+SPECIES: 
+West           		Mean: 81.37 		Best: 944.72 		N:11
+Thompson       		Mean: 113.09 		Best: 937.37 		N:8
+Otte           		Mean: 46.97 		Best: 924.41 		N:19
+Kercy          		Mean: 99.21 		Best: 909.82 		N:9
+Thompson       		Mean: 89.25 		Best: 906.28 		N:10
+Koenig         		Mean: 111.21 		Best: 906.08 		N:8
+Lucas          		Mean: 74.17 		Best: 905.88 		N:12
+Reese          		Mean: 99.34 		Best: 907.78 		N:9
+
+########## REPORT GEN: 169 ##########
+SPECIES: 
+Lucas          		Mean: 89.94 		Best: 946.0 		N:10
+Thompson       		Mean: 49.79 		Best: 937.19 		N:18
+Otte           		Mean: 59.5 		Best: 931.06 		N:15
+West           		Mean: 68.57 		Best: 929.45 		N:13
+Thompson       		Mean: 49.91 		Best: 925.55 		N:18
+Reese          		Mean: 127.24 		Best: 905.39 		N:7
+Koenig         		Mean: 89.03 		Best: 895.72 		N:10
+Kercy          		Mean: 126.95 		Best: 892.63 		N:7
+
+########## REPORT GEN: 170 ##########
+SPECIES: 
+Lucas          		Mean: 99.98 		Best: 959.85 		N:9
+Koenig         		Mean: 112.41 		Best: 944.61 		N:8
+Reese          		Mean: 81.72 		Best: 938.67 		N:11
+Thompson       		Mean: 68.66 		Best: 932.39 		N:13
+Thompson       		Mean: 74.44 		Best: 931.82 		N:12
+Kercy          		Mean: 99.5 		Best: 926.29 		N:9
+Otte           		Mean: 63.76 		Best: 915.9 		N:14
+West           		Mean: 49.46 		Best: 898.99 		N:18
+
+########## REPORT GEN: 171 ##########
+SPECIES: 
+West           		Mean: 82.51 		Best: 952.14 		N:11
+Kercy          		Mean: 52.49 		Best: 938.25 		N:17
+Lucas          		Mean: 55.71 		Best: 918.36 		N:16
+Koenig         		Mean: 111.74 		Best: 911.26 		N:8
+Reese          		Mean: 63.61 		Best: 908.2 		N:14
+Otte           		Mean: 111.26 		Best: 907.74 		N:8
+Thompson       		Mean: 89.03 		Best: 899.56 		N:10
+Thompson       		Mean: 68.41 		Best: 896.95 		N:13
+
+########## REPORT GEN: 172 ##########
+SPECIES: 
+West           		Mean: 64.23 		Best: 935.95 		N:14
+Kercy          		Mean: 99.49 		Best: 913.38 		N:9
+Otte           		Mean: 80.92 		Best: 907.48 		N:11
+Thompson       		Mean: 63.68 		Best: 906.57 		N:14
+Lucas          		Mean: 98.79 		Best: 906.02 		N:9
+Thompson       		Mean: 63.46 		Best: 900.09 		N:14
+Koenig         		Mean: 68.34 		Best: 898.23 		N:13
+Reese          		Mean: 88.86 		Best: 897.88 		N:10
+
+########## REPORT GEN: 173 ##########
+SPECIES: 
+Koenig         		Mean: 89.28 		Best: 940.68 		N:10
+Thompson       		Mean: 46.85 		Best: 919.68 		N:19
+Thompson       		Mean: 59.47 		Best: 916.63 		N:15
+West           		Mean: 80.98 		Best: 906.65 		N:11
+Lucas          		Mean: 68.69 		Best: 906.11 		N:13
+Otte           		Mean: 148.79 		Best: 905.65 		N:6
+Kercy          		Mean: 68.69 		Best: 905.62 		N:13
+Reese          		Mean: 98.63 		Best: 896.6 		N:9
+
+########## REPORT GEN: 174 ##########
+SPECIES: 
+Otte           		Mean: 81.96 		Best: 946.01 		N:11
+Koenig         		Mean: 81.55 		Best: 943.73 		N:11
+Lucas          		Mean: 74.49 		Best: 933.81 		N:12
+Thompson       		Mean: 74.34 		Best: 907.54 		N:12
+Thompson       		Mean: 89.09 		Best: 906.27 		N:10
+Kercy          		Mean: 59.43 		Best: 905.69 		N:15
+Reese          		Mean: 99.25 		Best: 905.64 		N:9
+West           		Mean: 98.74 		Best: 899.44 		N:9
+
+########## REPORT GEN: 175 ##########
+SPECIES: 
+Otte           		Mean: 100.36 		Best: 958.99 		N:9
+Reese          		Mean: 47.13 		Best: 945.99 		N:19
+Thompson       		Mean: 81.37 		Best: 939.62 		N:11
+Koenig         		Mean: 89.52 		Best: 911.99 		N:10
+Kercy          		Mean: 63.69 		Best: 910.29 		N:14
+Lucas          		Mean: 68.61 		Best: 906.95 		N:13
+West           		Mean: 74.35 		Best: 906.49 		N:12
+Thompson       		Mean: 98.66 		Best: 894.15 		N:9
+
+########## REPORT GEN: 176 ##########
+SPECIES: 
+Reese          		Mean: 82.03 		Best: 951.64 		N:11
+Kercy          		Mean: 89.52 		Best: 913.99 		N:10
+Otte           		Mean: 81.08 		Best: 913.27 		N:11
+Thompson       		Mean: 59.56 		Best: 912.9 		N:15
+Lucas          		Mean: 55.8 		Best: 912.84 		N:16
+West           		Mean: 68.57 		Best: 908.05 		N:13
+Koenig         		Mean: 99.02 		Best: 907.6 		N:9
+Thompson       		Mean: 68.38 		Best: 905.39 		N:13
+
+########## REPORT GEN: 177 ##########
+SPECIES: 
+Reese          		Mean: 52.72 		Best: 961.37 		N:17
+Thompson       		Mean: 89.56 		Best: 931.07 		N:10
+Thompson       		Mean: 81.09 		Best: 916.8 		N:11
+West           		Mean: 74.48 		Best: 911.52 		N:12
+Lucas          		Mean: 80.93 		Best: 911.11 		N:11
+Kercy          		Mean: 81.01 		Best: 906.86 		N:11
+Otte           		Mean: 55.92 		Best: 907.21 		N:16
+Koenig         		Mean: 111.18 		Best: 905.61 		N:8
+
+########## REPORT GEN: 178 ##########
+SPECIES: 
+West           		Mean: 59.73 		Best: 954.95 		N:15
+Reese          		Mean: 59.57 		Best: 933.96 		N:15
+Lucas          		Mean: 111.64 		Best: 922.09 		N:8
+Otte           		Mean: 63.67 		Best: 918.57 		N:14
+Thompson       		Mean: 99.57 		Best: 913.51 		N:9
+Thompson       		Mean: 81.21 		Best: 912.1 		N:11
+Kercy          		Mean: 112.34 		Best: 912.0 		N:8
+Koenig         		Mean: 63.78 		Best: 908.56 		N:14
+
+########## REPORT GEN: 179 ##########
+SPECIES: 
+West           		Mean: 74.55 		Best: 937.74 		N:12
+Thompson       		Mean: 64.22 		Best: 924.88 		N:14
+Otte           		Mean: 128.28 		Best: 915.53 		N:7
+Reese          		Mean: 55.82 		Best: 911.68 		N:16
+Thompson       		Mean: 55.64 		Best: 908.45 		N:16
+Lucas          		Mean: 68.63 		Best: 906.93 		N:13
+Kercy          		Mean: 81.05 		Best: 904.77 		N:11
+Koenig         		Mean: 126.8 		Best: 890.8 		N:7
+
+########## REPORT GEN: 180 ##########
+SPECIES: 
+Kercy          		Mean: 69.21 		Best: 956.58 		N:13
+Otte           		Mean: 74.96 		Best: 924.03 		N:12
+Thompson       		Mean: 99.37 		Best: 910.25 		N:9
+Thompson       		Mean: 111.44 		Best: 910.22 		N:8
+Reese          		Mean: 74.4 		Best: 909.85 		N:12
+Koenig         		Mean: 112.31 		Best: 908.71 		N:8
+Lucas          		Mean: 81.16 		Best: 906.6 		N:11
+West           		Mean: 63.66 		Best: 905.81 		N:14
+
+########## REPORT GEN: 181 ##########
+SPECIES: 
+Thompson       		Mean: 89.98 		Best: 951.52 		N:10
+Otte           		Mean: 99.93 		Best: 941.85 		N:9
+West           		Mean: 69.16 		Best: 935.51 		N:13
+Thompson       		Mean: 89.15 		Best: 913.17 		N:10
+Kercy          		Mean: 52.34 		Best: 911.06 		N:17
+Reese          		Mean: 59.54 		Best: 910.99 		N:15
+Koenig         		Mean: 68.85 		Best: 908.32 		N:13
+Lucas          		Mean: 99.07 		Best: 906.66 		N:9
+
+########## REPORT GEN: 182 ##########
+SPECIES: 
+Thompson       		Mean: 99.17 		Best: 936.69 		N:9
+Kercy          		Mean: 68.94 		Best: 921.86 		N:13
+Thompson       		Mean: 178.53 		Best: 914.39 		N:5
+West           		Mean: 68.62 		Best: 911.04 		N:13
+Reese          		Mean: 55.6 		Best: 909.4 		N:16
+Lucas          		Mean: 74.24 		Best: 908.01 		N:12
+Otte           		Mean: 63.68 		Best: 907.4 		N:14
+Koenig         		Mean: 63.77 		Best: 905.53 		N:14
+
+########## REPORT GEN: 183 ##########
+SPECIES: 
+Reese          		Mean: 99.98 		Best: 956.42 		N:9
+Otte           		Mean: 89.94 		Best: 945.62 		N:10
+Lucas          		Mean: 74.63 		Best: 934.94 		N:12
+Thompson       		Mean: 81.9 		Best: 926.14 		N:11
+Kercy          		Mean: 89.57 		Best: 924.13 		N:10
+Thompson       		Mean: 99.17 		Best: 910.17 		N:9
+Koenig         		Mean: 63.93 		Best: 908.26 		N:14
+West           		Mean: 111.44 		Best: 906.68 		N:8
+
+########## REPORT GEN: 184 ##########
+SPECIES: 
+Thompson       		Mean: 55.89 		Best: 939.38 		N:16
+Otte           		Mean: 112.45 		Best: 937.36 		N:8
+Thompson       		Mean: 74.62 		Best: 927.38 		N:12
+Kercy          		Mean: 112.54 		Best: 921.46 		N:8
+Koenig         		Mean: 127.77 		Best: 919.13 		N:7
+West           		Mean: 74.65 		Best: 912.45 		N:12
+Lucas          		Mean: 38.89 		Best: 909.6 		N:23
+Reese          		Mean: 99.11 		Best: 908.37 		N:9
+
+########## REPORT GEN: 185 ##########
+SPECIES: 
+Lucas          		Mean: 90.41 		Best: 942.06 		N:10
+Thompson       		Mean: 55.97 		Best: 925.69 		N:16
+Kercy          		Mean: 49.84 		Best: 913.5 		N:18
+Otte           		Mean: 74.52 		Best: 913.18 		N:12
+Koenig         		Mean: 52.58 		Best: 912.53 		N:17
+Reese          		Mean: 89.22 		Best: 909.77 		N:10
+Thompson       		Mean: 68.52 		Best: 907.26 		N:13
+West           		Mean: 177.83 		Best: 895.79 		N:5
+
+########## REPORT GEN: 186 ##########
+SPECIES: 
+Thompson       		Mean: 47.08 		Best: 949.93 		N:19
+Otte           		Mean: 74.59 		Best: 914.16 		N:12
+Reese          		Mean: 89.75 		Best: 913.22 		N:10
+Koenig         		Mean: 89.41 		Best: 911.95 		N:10
+Kercy          		Mean: 89.48 		Best: 909.24 		N:10
+West           		Mean: 111.24 		Best: 906.83 		N:8
+Lucas          		Mean: 80.94 		Best: 901.52 		N:11
+Thompson       		Mean: 221.64 		Best: 888.3 		N:4
+
+########## REPORT GEN: 187 ##########
+SPECIES: 
+Thompson       		Mean: 74.94 		Best: 930.35 		N:12
+Thompson       		Mean: 111.93 		Best: 927.05 		N:8
+Koenig         		Mean: 81.04 		Best: 924.75 		N:11
+Kercy          		Mean: 179.08 		Best: 913.12 		N:5
+Reese          		Mean: 81.17 		Best: 907.51 		N:11
+West           		Mean: 42.38 		Best: 906.22 		N:21
+Lucas          		Mean: 88.98 		Best: 901.95 		N:10
+Otte           		Mean: 221.6 		Best: 887.53 		N:4
+
+########## REPORT GEN: 188 ##########
+SPECIES: 
+Kercy          		Mean: 128.31 		Best: 930.59 		N:7
+Otte           		Mean: 99.31 		Best: 929.19 		N:9
+Thompson       		Mean: 99.73 		Best: 927.43 		N:9
+Koenig         		Mean: 89.49 		Best: 911.29 		N:10
+Reese          		Mean: 89.04 		Best: 909.05 		N:10
+West           		Mean: 81.1 		Best: 908.62 		N:11
+Lucas          		Mean: 80.95 		Best: 907.35 		N:11
+Thompson       		Mean: 99.28 		Best: 907.31 		N:9
+
+########## REPORT GEN: 189 ##########
+SPECIES: 
+West           		Mean: 74.74 		Best: 956.35 		N:12
+Otte           		Mean: 74.74 		Best: 930.07 		N:12
+Kercy          		Mean: 99.3 		Best: 911.35 		N:9
+Reese          		Mean: 74.49 		Best: 910.1 		N:12
+Thompson       		Mean: 59.62 		Best: 909.45 		N:15
+Lucas          		Mean: 68.57 		Best: 908.01 		N:13
+Thompson       		Mean: 111.59 		Best: 907.42 		N:8
+Koenig         		Mean: 81.06 		Best: 906.15 		N:11
+
+########## REPORT GEN: 190 ##########
+SPECIES: 
+Reese          		Mean: 89.88 		Best: 938.77 		N:10
+Otte           		Mean: 59.51 		Best: 922.09 		N:15
+Thompson       		Mean: 52.55 		Best: 915.57 		N:17
+Thompson       		Mean: 68.69 		Best: 914.22 		N:13
+Koenig         		Mean: 127.69 		Best: 909.85 		N:7
+Lucas          		Mean: 49.47 		Best: 909.47 		N:18
+West           		Mean: 111.39 		Best: 905.95 		N:8
+Kercy          		Mean: 111.14 		Best: 899.08 		N:8
+
+########## REPORT GEN: 191 ##########
+SPECIES: 
+Lucas          		Mean: 55.87 		Best: 936.65 		N:16
+Kercy          		Mean: 112.05 		Best: 926.24 		N:8
+Thompson       		Mean: 74.65 		Best: 925.19 		N:12
+Reese          		Mean: 74.32 		Best: 912.44 		N:12
+Otte           		Mean: 56.05 		Best: 912.35 		N:16
+West           		Mean: 74.34 		Best: 910.27 		N:12
+Koenig         		Mean: 89.28 		Best: 908.65 		N:10
+Thompson       		Mean: 111.37 		Best: 898.78 		N:8
+
+########## REPORT GEN: 192 ##########
+SPECIES: 
+Otte           		Mean: 56.25 		Best: 940.42 		N:16
+Reese          		Mean: 69.18 		Best: 938.91 		N:13
+Thompson       		Mean: 82.23 		Best: 934.97 		N:11
+Lucas          		Mean: 99.63 		Best: 911.46 		N:9
+Thompson       		Mean: 74.08 		Best: 908.19 		N:12
+Kercy          		Mean: 80.96 		Best: 907.92 		N:11
+Koenig         		Mean: 111.85 		Best: 907.15 		N:8
+West           		Mean: 59.34 		Best: 905.85 		N:15
+
+########## REPORT GEN: 193 ##########
+SPECIES: 
+Thompson       		Mean: 82.14 		Best: 950.27 		N:11
+West           		Mean: 99.96 		Best: 933.53 		N:9
+Thompson       		Mean: 55.95 		Best: 916.36 		N:16
+Reese          		Mean: 81.21 		Best: 912.03 		N:11
+Otte           		Mean: 69.1 		Best: 910.25 		N:13
+Koenig         		Mean: 74.13 		Best: 908.78 		N:12
+Lucas          		Mean: 98.87 		Best: 907.79 		N:9
+Kercy          		Mean: 74.08 		Best: 899.87 		N:12
+
+########## REPORT GEN: 194 ##########
+SPECIES: 
+Koenig         		Mean: 74.71 		Best: 951.78 		N:12
+Thompson       		Mean: 49.76 		Best: 949.78 		N:18
+West           		Mean: 74.49 		Best: 914.99 		N:12
+Reese          		Mean: 99.21 		Best: 914.37 		N:9
+Kercy          		Mean: 49.47 		Best: 907.2 		N:18
+Otte           		Mean: 89.05 		Best: 905.45 		N:10
+Thompson       		Mean: 80.74 		Best: 899.58 		N:11
+Lucas          		Mean: 221.91 		Best: 886.3 		N:4
+
+########## REPORT GEN: 195 ##########
+SPECIES: 
+Thompson       		Mean: 47.15 		Best: 952.87 		N:19
+West           		Mean: 112.71 		Best: 940.72 		N:8
+Reese          		Mean: 111.54 		Best: 910.92 		N:8
+Koenig         		Mean: 89.19 		Best: 907.24 		N:10
+Kercy          		Mean: 111.32 		Best: 907.23 		N:8
+Lucas          		Mean: 68.62 		Best: 907.45 		N:13
+Thompson       		Mean: 148.25 		Best: 890.09 		N:6
+Otte           		Mean: 80.74 		Best: 890.23 		N:11
+
+########## REPORT GEN: 196 ##########
+SPECIES: 
+Kercy          		Mean: 112.96 		Best: 961.44 		N:8
+Thompson       		Mean: 81.19 		Best: 949.72 		N:11
+Reese          		Mean: 99.27 		Best: 930.8 		N:9
+Lucas          		Mean: 99.54 		Best: 927.28 		N:9
+Koenig         		Mean: 52.38 		Best: 909.57 		N:17
+Thompson       		Mean: 59.68 		Best: 908.28 		N:15
+West           		Mean: 81.11 		Best: 908.22 		N:11
+Otte           		Mean: 73.97 		Best: 893.45 		N:12
+
+########## REPORT GEN: 197 ##########
+SPECIES: 
+Koenig         		Mean: 81.64 		Best: 946.63 		N:11
+Thompson       		Mean: 112.19 		Best: 943.9 		N:8
+West           		Mean: 68.71 		Best: 936.9 		N:13
+Reese          		Mean: 47.04 		Best: 923.35 		N:19
+Otte           		Mean: 46.96 		Best: 908.66 		N:19
+Thompson       		Mean: 80.91 		Best: 900.44 		N:11
+Lucas          		Mean: 98.76 		Best: 898.59 		N:9
+Kercy          		Mean: 111.09 		Best: 891.45 		N:8
+
+########## REPORT GEN: 198 ##########
+SPECIES: 
+Lucas          		Mean: 74.94 		Best: 957.02 		N:12
+Thompson       		Mean: 64.44 		Best: 953.38 		N:14
+Otte           		Mean: 89.79 		Best: 950.91 		N:10
+Reese          		Mean: 68.5 		Best: 920.33 		N:13
+Kercy          		Mean: 74.35 		Best: 912.56 		N:12
+Thompson       		Mean: 52.41 		Best: 906.62 		N:17
+Koenig         		Mean: 80.83 		Best: 902.63 		N:11
+West           		Mean: 88.89 		Best: 897.84 		N:10
+
+########## REPORT GEN: 199 ##########
+SPECIES: 
+West           		Mean: 44.67 		Best: 937.87 		N:20
+Thompson       		Mean: 81.4 		Best: 929.55 		N:11
+Reese          		Mean: 82.07 		Best: 929.19 		N:11
+Koenig         		Mean: 99.76 		Best: 927.6 		N:9
+Kercy          		Mean: 89.57 		Best: 921.05 		N:10
+Thompson       		Mean: 59.51 		Best: 910.39 		N:15
+Lucas          		Mean: 80.9 		Best: 909.88 		N:11
+Otte           		Mean: 110.89 		Best: 892.35 		N:8
+
+########## REPORT GEN: 200 ##########
+SPECIES: 
+Thompson       		Mean: 59.79 		Best: 944.52 		N:15
+Reese          		Mean: 81.32 		Best: 937.41 		N:11
+Kercy          		Mean: 89.61 		Best: 935.4 		N:10
+Otte           		Mean: 49.75 		Best: 934.14 		N:18
+West           		Mean: 63.95 		Best: 921.79 		N:14
+Lucas          		Mean: 99.39 		Best: 906.17 		N:9
+Thompson       		Mean: 88.82 		Best: 904.29 		N:10
+Koenig         		Mean: 68.34 		Best: 899.98 		N:13
+

@@ -1,0 +1,94 @@
+########## REPORT GEN: 2 ##########
+SPECIES: 
+Sullivan       		Mean: 14.2 		Best: 46.5 		N:2
+Beasley        		Mean: 18.66 		Best: 41.25 		N:2
+Linkous        		Mean: 20.14 		Best: 40.83 		N:2
+Pham           		Mean: 4.63 		Best: 40.4 		N:4
+Sanchez        		Mean: 19.26 		Best: 40.04 		N:2
+Conway         		Mean: 16.24 		Best: 38.29 		N:2
+Garza          		Mean: 19.02 		Best: 37.96 		N:2
+Segal          		Mean: 16.45 		Best: 37.75 		N:2
+Olivas         		Mean: 17.84 		Best: 37.75 		N:2
+Chandler       		Mean: 18.15 		Best: 37.49 		N:2
+Mcintosh       		Mean: 6.18 		Best: 33.81 		N:3
+Wiemer         		Mean: 16.75 		Best: 32.65 		N:2
+Hoover         		Mean: 11.15 		Best: 32.59 		N:2
+Bennett        		Mean: 14.1 		Best: 30.82 		N:2
+Grant          		Mean: 4.01 		Best: 29.39 		N:4
+Grabner        		Mean: 9.39 		Best: 26.08 		N:2
+Brandt         		Mean: 10.19 		Best: 22.75 		N:2
+Puterbaugh     		Mean: 5.85 		Best: 12.38 		N:2
+Lindberg       		Mean: 2.83 		Best: 11.5 		N:4
+Arebalo        		Mean: 5.25 		Best: 11.0 		N:2
+Walter         		Mean: 5.38 		Best: 11.0 		N:2
+Walton         		Mean: 2.62 		Best: 10.75 		N:4
+
+########## REPORT GEN: 3 ##########
+SPECIES: 
+Davis          		Mean: 18.65 		Best: 62.35 		N:2
+Garza          		Mean: 15.7 		Best: 62.0 		N:3
+Hoover         		Mean: 11.24 		Best: 53.5 		N:3
+Puterbaugh     		Mean: 20.63 		Best: 49.34 		N:2
+Guy            		Mean: 20.4 		Best: 45.0 		N:2
+Sanchez        		Mean: 9.55 		Best: 41.75 		N:3
+Grant          		Mean: 11.22 		Best: 41.0 		N:3
+Olivas         		Mean: 18.1 		Best: 39.0 		N:2
+Barron         		Mean: 17.74 		Best: 39.0 		N:2
+Mcintosh       		Mean: 12.49 		Best: 38.28 		N:2
+Pham           		Mean: 12.36 		Best: 38.01 		N:2
+Wiemer         		Mean: 14.95 		Best: 36.75 		N:2
+Chandler       		Mean: 10.26 		Best: 35.27 		N:3
+Hufford        		Mean: 17.74 		Best: 35.15 		N:2
+Grabner        		Mean: 4.27 		Best: 35.15 		N:4
+Braaten        		Mean: 12.21 		Best: 32.5 		N:2
+Wallace        		Mean: 7.29 		Best: 31.25 		N:3
+Sullivan       		Mean: 10.5 		Best: 30.95 		N:2
+Lai            		Mean: 10.61 		Best: 30.82 		N:2
+Godsey         		Mean: 14.25 		Best: 29.01 		N:2
+Brandt         		Mean: 12.21 		Best: 27.51 		N:2
+Lindberg       		Mean: 8.87 		Best: 25.0 		N:2
+Segal          		Mean: 5.66 		Best: 11.25 		N:2
+Suzuki         		Mean: 5.53 		Best: 11.25 		N:2
+Walter         		Mean: 3.54 		Best: 11.0 		N:3
+
+########## REPORT GEN: 4 ##########
+SPECIES: 
+Segal          		Mean: 10.73 		Best: 48.75 		N:3
+Brandt         		Mean: 19.64 		Best: 45.98 		N:2
+Grabner        		Mean: 11.85 		Best: 45.04 		N:3
+Olivas         		Mean: 12.27 		Best: 42.5 		N:3
+Hoover         		Mean: 13.23 		Best: 42.0 		N:2
+Bennett        		Mean: 5.59 		Best: 41.82 		N:4
+Walton         		Mean: 13.33 		Best: 41.0 		N:3
+Garza          		Mean: 12.62 		Best: 40.78 		N:3
+Beasley        		Mean: 10.83 		Best: 40.21 		N:3
+Sullivan       		Mean: 18.43 		Best: 39.75 		N:2
+Wallace        		Mean: 9.9  		Best: 38.68 		N:3
+Jones          		Mean: 5.19 		Best: 38.62 		N:4
+Lindberg       		Mean: 6.41 		Best: 36.5 		N:5
+Prudencio      		Mean: 10.17 		Best: 29.7 		N:2
+Arebalo        		Mean: 9.93 		Best: 28.49 		N:2
+Mcintosh       		Mean: 12.29 		Best: 28.38 		N:2
+Rideau         		Mean: 9.82 		Best: 28.01 		N:2
+Wiemer         		Mean: 10.02 		Best: 27.65 		N:2
+Conway         		Mean: 11.22 		Best: 26.02 		N:2
+Tall           		Mean: 5.63 		Best: 12.0 		N:2
+
+########## REPORT GEN: 5 ##########
+SPECIES: 
+Garza          		Mean: 28.28 		Best: 99.3 		N:2
+Jones          		Mean: 3.35 		Best: 58.75 		N:8
+Olivas         		Mean: 6.15 		Best: 55.41 		N:6
+Godsey         		Mean: 8.93 		Best: 43.75 		N:3
+Tall           		Mean: 11.34 		Best: 43.25 		N:3
+Hoover         		Mean: 4.78 		Best: 43.0 		N:8
+Puterbaugh     		Mean: 6.83 		Best: 39.94 		N:3
+Braaten        		Mean: 16.03 		Best: 37.98 		N:2
+Guy            		Mean: 8.68 		Best: 37.0 		N:3
+Bennett        		Mean: 8.82 		Best: 35.08 		N:3
+Brandt         		Mean: 16.53 		Best: 32.93 		N:2
+Wiemer         		Mean: 4.28 		Best: 32.45 		N:5
+Prudencio      		Mean: 8.32 		Best: 31.92 		N:3
+Geffre         		Mean: 6.07 		Best: 29.6 		N:3
+Rideau         		Mean: 9.61 		Best: 26.11 		N:2
+

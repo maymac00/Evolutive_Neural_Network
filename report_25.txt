@@ -1,0 +1,842 @@
+########## REPORT GEN: 2 ##########
+SPECIES: 
+Ryan           		Mean: 2.76 		Best: 18.25 		N:5
+Escamilla      		Mean: 4.68 		Best: 15.75 		N:3
+Pomrenke       		Mean: 6.44 		Best: 14.75 		N:2
+Hanson         		Mean: 7.12 		Best: 14.75 		N:2
+Strassel       		Mean: 7.06 		Best: 14.5 		N:2
+Mavai          		Mean: 5.5  		Best: 12.25 		N:2
+Brown          		Mean: 0.6  		Best: 12.0 		N:17
+Todd           		Mean: 5.19 		Best: 11.75 		N:2
+Brunson        		Mean: 2.11 		Best: 11.25 		N:5
+Joy            		Mean: 5.19 		Best: 11.25 		N:2
+Lucius         		Mean: 5.38 		Best: 11.0 		N:2
+Ferguson       		Mean: 5.31 		Best: 10.75 		N:2
+Marzinske      		Mean: 5.12 		Best: 10.75 		N:2
+Horton         		Mean: 5.42 		Best: 10.75 		N:2
+Dean           		Mean: 5.31 		Best: 10.75 		N:2
+Markovich      		Mean: 5.25 		Best: 10.75 		N:2
+Kershaw        		Mean: 4.92 		Best: 10.75 		N:2
+Werkhoven      		Mean: 5.33 		Best: 10.5 		N:2
+Koshiol        		Mean: 5.0  		Best: 10.5 		N:2
+Canipe         		Mean: 5.19 		Best: 10.5 		N:2
+Rawe           		Mean: 5.07 		Best: 10.25 		N:2
+Crocker        		Mean: 5.0  		Best: 10.25 		N:2
+Carlson        		Mean: 4.93 		Best: 10.0 		N:2
+Williams       		Mean: 5.0  		Best: 10.0 		N:2
+Weech          		Mean: 4.83 		Best: 10.0 		N:2
+Frazier        		Mean: 5.0  		Best: 10.0 		N:2
+Molino         		Mean: 4.69 		Best: 9.5 		N:2
+
+########## REPORT GEN: 3 ##########
+SPECIES: 
+Robinson       		Mean: 2.47 		Best: 18.5 		N:5
+Brown          		Mean: 2.22 		Best: 18.25 		N:6
+Dean           		Mean: 1.65 		Best: 17.25 		N:7
+Strassel       		Mean: 3.3  		Best: 17.0 		N:4
+Brunson        		Mean: 6.78 		Best: 16.25 		N:2
+Koshiol        		Mean: 6.54 		Best: 15.25 		N:2
+Vig            		Mean: 3.19 		Best: 15.0 		N:4
+Weech          		Mean: 5.96 		Best: 14.0 		N:2
+Ryan           		Mean: 2.24 		Best: 13.25 		N:5
+Mavai          		Mean: 6.19 		Best: 12.5 		N:2
+Joecks         		Mean: 5.71 		Best: 12.25 		N:2
+Escamilla      		Mean: 1.77 		Best: 12.0 		N:6
+Carlson        		Mean: 5.79 		Best: 11.5 		N:2
+Frazier        		Mean: 5.17 		Best: 11.25 		N:2
+Canipe         		Mean: 2.73 		Best: 11.0 		N:4
+Werkhoven      		Mean: 3.36 		Best: 10.5 		N:3
+Rawe           		Mean: 5.24 		Best: 10.5 		N:2
+Williams       		Mean: 5.26 		Best: 10.5 		N:2
+Molino         		Mean: 4.99 		Best: 10.5 		N:2
+
+########## REPORT GEN: 4 ##########
+SPECIES: 
+Eaton          		Mean: 2.52 		Best: 20.56 		N:5
+Brunson        		Mean: 1.44 		Best: 16.25 		N:8
+Marzinske      		Mean: 4.43 		Best: 15.75 		N:3
+Lucius         		Mean: 6.57 		Best: 15.75 		N:2
+Carlson        		Mean: 2.92 		Best: 15.5 		N:4
+Escamilla      		Mean: 3.3  		Best: 15.25 		N:4
+Joecks         		Mean: 4.15 		Best: 14.25 		N:3
+Markovich      		Mean: 2.92 		Best: 13.75 		N:4
+Brown          		Mean: 5.88 		Best: 11.75 		N:2
+Frazier        		Mean: 5.47 		Best: 11.25 		N:2
+Kershaw        		Mean: 3.64 		Best: 11.25 		N:3
+Todd           		Mean: 5.38 		Best: 11.0 		N:2
+Robinson       		Mean: 2.12 		Best: 10.75 		N:5
+Koshiol        		Mean: 5.52 		Best: 10.75 		N:2
+Ferguson       		Mean: 3.47 		Best: 10.75 		N:3
+Canipe         		Mean: 5.02 		Best: 10.25 		N:2
+Vig            		Mean: 5.08 		Best: 10.0 		N:2
+
+########## REPORT GEN: 5 ##########
+SPECIES: 
+Markovich      		Mean: 3.75 		Best: 17.75 		N:4
+Carlson        		Mean: 4.56 		Best: 16.75 		N:3
+Brown          		Mean: 3.28 		Best: 16.0 		N:4
+Ryan           		Mean: 2.23 		Best: 15.75 		N:5
+Werkhoven      		Mean: 2.45 		Best: 15.0 		N:5
+Molino         		Mean: 6.45 		Best: 13.75 		N:2
+Sharma         		Mean: 5.4  		Best: 12.75 		N:2
+Joecks         		Mean: 3.99 		Best: 12.5 		N:3
+Marzinske      		Mean: 5.77 		Best: 11.5 		N:2
+Eaton          		Mean: 3.64 		Best: 11.25 		N:3
+Kershaw        		Mean: 5.27 		Best: 11.25 		N:2
+Crocker        		Mean: 5.33 		Best: 11.0 		N:2
+Frazier        		Mean: 5.32 		Best: 10.75 		N:2
+Ferguson       		Mean: 5.47 		Best: 10.75 		N:2
+Escamilla      		Mean: 5.23 		Best: 10.5 		N:2
+Robinson       		Mean: 5.07 		Best: 10.5 		N:2
+Mavai          		Mean: 4.92 		Best: 10.25 		N:2
+Brunson        		Mean: 5.02 		Best: 10.0 		N:2
+Rawe           		Mean: 4.98 		Best: 9.75 		N:2
+
+########## REPORT GEN: 6 ##########
+SPECIES: 
+Ryan           		Mean: 5.33 		Best: 19.15 		N:3
+Molino         		Mean: 4.93 		Best: 17.5 		N:3
+Crocker        		Mean: 1.97 		Best: 16.75 		N:6
+Ferguson       		Mean: 3.13 		Best: 16.75 		N:4
+Lucius         		Mean: 6.8  		Best: 15.57 		N:2
+Brunson        		Mean: 4.13 		Best: 14.75 		N:3
+Rawe           		Mean: 6.65 		Best: 14.5 		N:2
+Werkhoven      		Mean: 6.02 		Best: 14.0 		N:2
+Weech          		Mean: 3.07 		Best: 13.5 		N:4
+Brown          		Mean: 3.67 		Best: 12.75 		N:3
+Markovich      		Mean: 2.2  		Best: 12.25 		N:5
+Eaton          		Mean: 5.51 		Best: 12.0 		N:2
+Robinson       		Mean: 3.66 		Best: 12.0 		N:3
+Canipe         		Mean: 3.65 		Best: 11.75 		N:3
+Frazier        		Mean: 5.62 		Best: 11.5 		N:2
+Joecks         		Mean: 1.78 		Best: 11.0 		N:6
+Mavai          		Mean: 5.08 		Best: 10.25 		N:2
+
+########## REPORT GEN: 7 ##########
+SPECIES: 
+Robinson       		Mean: 3.56 		Best: 19.75 		N:4
+Ryan           		Mean: 8.53 		Best: 18.25 		N:2
+Markovich      		Mean: 3.39 		Best: 18.0 		N:4
+Eaton          		Mean: 4.5  		Best: 16.84 		N:3
+Brunson        		Mean: 4.24 		Best: 16.25 		N:3
+Rawe           		Mean: 3.04 		Best: 16.25 		N:4
+Molino         		Mean: 6.67 		Best: 15.75 		N:2
+Ferguson       		Mean: 3.36 		Best: 15.5 		N:4
+Frazier        		Mean: 2.26 		Best: 14.75 		N:5
+Canipe         		Mean: 2.86 		Best: 14.56 		N:4
+Crocker        		Mean: 3.27 		Best: 14.5 		N:4
+Joecks         		Mean: 2.61 		Best: 14.25 		N:5
+Werkhoven      		Mean: 6.14 		Best: 13.25 		N:2
+Dean           		Mean: 5.63 		Best: 11.75 		N:2
+Escamilla      		Mean: 3.4  		Best: 11.25 		N:3
+Weech          		Mean: 3.49 		Best: 10.75 		N:3
+Carlson        		Mean: 3.45 		Best: 10.5 		N:3
+
+########## REPORT GEN: 8 ##########
+SPECIES: 
+Kershaw        		Mean: 13.77 		Best: 44.33 		N:2
+Canipe         		Mean: 2.2  		Best: 22.0 		N:7
+Rawe           		Mean: 2.61 		Best: 18.51 		N:5
+Brunson        		Mean: 7.68 		Best: 17.5 		N:2
+Eaton          		Mean: 4.39 		Best: 17.0 		N:3
+Ferguson       		Mean: 2.23 		Best: 16.17 		N:6
+Weech          		Mean: 3.94 		Best: 14.25 		N:3
+Dean           		Mean: 4.18 		Best: 14.0 		N:3
+Crocker        		Mean: 6.28 		Best: 13.5 		N:2
+Werkhoven      		Mean: 5.95 		Best: 13.0 		N:2
+Marzinske      		Mean: 2.93 		Best: 13.0 		N:4
+Markovich      		Mean: 5.39 		Best: 11.25 		N:2
+Escamilla      		Mean: 3.56 		Best: 11.25 		N:3
+Ryan           		Mean: 5.22 		Best: 10.25 		N:2
+
+########## REPORT GEN: 9 ##########
+SPECIES: 
+Escamilla      		Mean: 5.44 		Best: 24.5 		N:3
+Crocker        		Mean: 5.52 		Best: 24.13 		N:3
+Brunson        		Mean: 6.01 		Best: 21.82 		N:3
+Robinson       		Mean: 7.36 		Best: 18.5 		N:2
+Werkhoven      		Mean: 3.06 		Best: 17.5 		N:4
+Todd           		Mean: 4.65 		Best: 17.0 		N:3
+Ferguson       		Mean: 3.09 		Best: 15.5 		N:4
+Molino         		Mean: 6.88 		Best: 14.75 		N:2
+Frazier        		Mean: 3.84 		Best: 14.25 		N:3
+Brown          		Mean: 5.93 		Best: 13.0 		N:2
+Dean           		Mean: 5.97 		Best: 12.5 		N:2
+Joecks         		Mean: 2.11 		Best: 11.5 		N:5
+Kershaw        		Mean: 2.12 		Best: 11.25 		N:5
+Marzinske      		Mean: 3.61 		Best: 11.0 		N:3
+Canipe         		Mean: 3.42 		Best: 10.25 		N:3
+Ryan           		Mean: 3.29 		Best: 10.25 		N:3
+
+########## REPORT GEN: 10 ##########
+SPECIES: 
+Ferguson       		Mean: 7.67 		Best: 49.0 		N:3
+Werkhoven      		Mean: 3.64 		Best: 38.75 		N:5
+Kershaw        		Mean: 2.46 		Best: 27.16 		N:6
+Marzinske      		Mean: 8.11 		Best: 22.26 		N:2
+Molino         		Mean: 3.39 		Best: 21.0 		N:4
+Dean           		Mean: 3.91 		Best: 18.0 		N:4
+Markovich      		Mean: 3.11 		Best: 17.49 		N:4
+Rawe           		Mean: 2.39 		Best: 16.5 		N:5
+Crocker        		Mean: 1.99 		Best: 16.04 		N:6
+Carlson        		Mean: 4.21 		Best: 15.49 		N:3
+Brown          		Mean: 6.69 		Best: 15.0 		N:2
+Robinson       		Mean: 6.6  		Best: 14.25 		N:2
+Canipe         		Mean: 2.31 		Best: 14.25 		N:5
+Todd           		Mean: 2.38 		Best: 14.0 		N:5
+Escamilla      		Mean: 3.59 		Best: 11.0 		N:3
+
+########## REPORT GEN: 11 ##########
+SPECIES: 
+Molino         		Mean: 7.1  		Best: 42.81 		N:3
+Dean           		Mean: 7.0  		Best: 39.53 		N:3
+Ferguson       		Mean: 9.6  		Best: 26.5 		N:2
+Brunson        		Mean: 5.51 		Best: 25.67 		N:3
+Rawe           		Mean: 3.86 		Best: 22.5 		N:4
+Brown          		Mean: 7.79 		Best: 20.56 		N:2
+Frazier        		Mean: 5.27 		Best: 19.75 		N:3
+Werkhoven      		Mean: 8.21 		Best: 18.0 		N:2
+Crocker        		Mean: 7.68 		Best: 17.5 		N:2
+Kershaw        		Mean: 7.27 		Best: 16.15 		N:2
+Carlson        		Mean: 1.97 		Best: 15.75 		N:6
+Joecks         		Mean: 4.54 		Best: 15.59 		N:3
+Robinson       		Mean: 3.24 		Best: 14.75 		N:4
+Todd           		Mean: 6.69 		Best: 14.25 		N:2
+Canipe         		Mean: 2.93 		Best: 13.5 		N:4
+Marzinske      		Mean: 2.77 		Best: 11.5 		N:4
+Escamilla      		Mean: 5.51 		Best: 11.0 		N:2
+Ryan           		Mean: 3.24 		Best: 10.25 		N:3
+
+########## REPORT GEN: 12 ##########
+SPECIES: 
+Dean           		Mean: 12.47 		Best: 40.0 		N:2
+Crocker        		Mean: 8.61 		Best: 38.0 		N:3
+Werkhoven      		Mean: 4.05 		Best: 33.0 		N:4
+Frazier        		Mean: 2.18 		Best: 28.54 		N:7
+Todd           		Mean: 2.89 		Best: 27.5 		N:6
+Brown          		Mean: 3.01 		Best: 27.45 		N:5
+Joecks         		Mean: 3.36 		Best: 25.71 		N:5
+Ferguson       		Mean: 6.42 		Best: 24.34 		N:3
+Canipe         		Mean: 1.95 		Best: 19.0 		N:7
+Ryan           		Mean: 2.82 		Best: 19.0 		N:5
+Robinson       		Mean: 2.93 		Best: 17.5 		N:5
+Marzinske      		Mean: 7.01 		Best: 16.5 		N:2
+Escamilla      		Mean: 4.47 		Best: 15.75 		N:3
+Rawe           		Mean: 3.79 		Best: 12.75 		N:3
+Molino         		Mean: 5.82 		Best: 12.25 		N:2
+Carlson        		Mean: 5.55 		Best: 11.5 		N:2
+Brunson        		Mean: 5.21 		Best: 10.75 		N:2
+
+########## REPORT GEN: 13 ##########
+SPECIES: 
+Kershaw        		Mean: 8.88 		Best: 41.84 		N:3
+Carlson        		Mean: 2.72 		Best: 39.43 		N:6
+Joecks         		Mean: 8.75 		Best: 35.82 		N:3
+Werkhoven      		Mean: 2.84 		Best: 28.25 		N:6
+Dean           		Mean: 2.88 		Best: 26.75 		N:5
+Canipe         		Mean: 2.07 		Best: 26.73 		N:7
+Brunson        		Mean: 2.19 		Best: 22.92 		N:6
+Frazier        		Mean: 3.2  		Best: 21.75 		N:4
+Rawe           		Mean: 4.82 		Best: 18.25 		N:3
+Marzinske      		Mean: 3.64 		Best: 17.5 		N:4
+Crocker        		Mean: 6.74 		Best: 17.25 		N:2
+Ferguson       		Mean: 3.96 		Best: 15.5 		N:3
+Todd           		Mean: 3.97 		Best: 15.25 		N:3
+Ryan           		Mean: 7.47 		Best: 15.25 		N:2
+Escamilla      		Mean: 6.12 		Best: 14.0 		N:2
+Markovich      		Mean: 3.3  		Best: 10.5 		N:3
+
+########## REPORT GEN: 14 ##########
+SPECIES: 
+Frazier        		Mean: 11.45 		Best: 51.75 		N:3
+Escamilla      		Mean: 14.93 		Best: 43.51 		N:2
+Marzinske      		Mean: 5.92 		Best: 43.25 		N:4
+Carlson        		Mean: 7.19 		Best: 39.76 		N:3
+Rawe           		Mean: 12.61 		Best: 33.56 		N:2
+Canipe         		Mean: 7.63 		Best: 33.4 		N:3
+Werkhoven      		Mean: 3.55 		Best: 28.78 		N:5
+Brown          		Mean: 2.29 		Best: 27.9 		N:6
+Robinson       		Mean: 9.74 		Best: 27.47 		N:2
+Dean           		Mean: 3.73 		Best: 27.25 		N:4
+Kershaw        		Mean: 6.01 		Best: 19.25 		N:3
+Molino         		Mean: 4.48 		Best: 19.25 		N:3
+Ferguson       		Mean: 3.5  		Best: 19.25 		N:4
+Ryan           		Mean: 2.4  		Best: 17.5 		N:6
+Brunson        		Mean: 5.06 		Best: 16.25 		N:3
+Markovich      		Mean: 5.61 		Best: 11.75 		N:2
+
+########## REPORT GEN: 15 ##########
+SPECIES: 
+Molino         		Mean: 8.91 		Best: 43.75 		N:3
+Ryan           		Mean: 13.87 		Best: 41.65 		N:2
+Todd           		Mean: 5.8  		Best: 41.41 		N:4
+Dean           		Mean: 18.03 		Best: 40.5 		N:2
+Kershaw        		Mean: 7.97 		Best: 37.71 		N:3
+Marzinske      		Mean: 6.2  		Best: 37.58 		N:4
+Rawe           		Mean: 2.56 		Best: 32.77 		N:7
+Escamilla      		Mean: 6.02 		Best: 28.64 		N:3
+Robinson       		Mean: 2.27 		Best: 27.77 		N:7
+Ferguson       		Mean: 13.14 		Best: 27.11 		N:2
+Joecks         		Mean: 2.19 		Best: 26.06 		N:7
+Canipe         		Mean: 6.32 		Best: 25.28 		N:3
+Brown          		Mean: 6.1  		Best: 22.25 		N:3
+Carlson        		Mean: 6.79 		Best: 16.75 		N:2
+Frazier        		Mean: 4.54 		Best: 16.0 		N:3
+
+########## REPORT GEN: 16 ##########
+SPECIES: 
+Ryan           		Mean: 15.75 		Best: 52.25 		N:2
+Canipe         		Mean: 7.91 		Best: 45.5 		N:3
+Marzinske      		Mean: 2.75 		Best: 42.5 		N:8
+Brown          		Mean: 13.41 		Best: 41.5 		N:2
+Carlson        		Mean: 7.97 		Best: 41.26 		N:3
+Molino         		Mean: 6.58 		Best: 36.89 		N:4
+Brunson        		Mean: 4.4  		Best: 36.63 		N:4
+Ferguson       		Mean: 14.21 		Best: 35.11 		N:2
+Todd           		Mean: 2.0  		Best: 34.79 		N:8
+Rawe           		Mean: 2.67 		Best: 33.85 		N:7
+Escamilla      		Mean: 7.23 		Best: 18.5 		N:2
+Joecks         		Mean: 6.73 		Best: 17.25 		N:2
+Robinson       		Mean: 6.18 		Best: 14.8 		N:2
+Werkhoven      		Mean: 3.34 		Best: 10.75 		N:3
+
+########## REPORT GEN: 17 ##########
+SPECIES: 
+Robinson       		Mean: 15.89 		Best: 48.86 		N:2
+Ferguson       		Mean: 11.54 		Best: 47.25 		N:3
+Dean           		Mean: 9.75 		Best: 43.25 		N:4
+Kershaw        		Mean: 4.06 		Best: 43.07 		N:7
+Brown          		Mean: 7.67 		Best: 41.81 		N:3
+Carlson        		Mean: 7.54 		Best: 40.75 		N:3
+Frazier        		Mean: 7.71 		Best: 40.75 		N:3
+Molino         		Mean: 11.76 		Best: 36.67 		N:2
+Todd           		Mean: 4.09 		Best: 35.27 		N:4
+Brunson        		Mean: 2.53 		Best: 34.19 		N:6
+Joecks         		Mean: 3.7  		Best: 33.01 		N:5
+Rawe           		Mean: 5.65 		Best: 32.66 		N:4
+Canipe         		Mean: 7.51 		Best: 20.76 		N:2
+Werkhoven      		Mean: 6.35 		Best: 15.5 		N:2
+Escamilla      		Mean: 3.97 		Best: 15.41 		N:3
+
+########## REPORT GEN: 18 ##########
+SPECIES: 
+Canipe         		Mean: 3.08 		Best: 50.5 		N:7
+Frazier        		Mean: 20.39 		Best: 47.75 		N:2
+Brown          		Mean: 14.06 		Best: 45.04 		N:3
+Joecks         		Mean: 4.28 		Best: 44.53 		N:6
+Carlson        		Mean: 7.2  		Best: 43.5 		N:3
+Robinson       		Mean: 6.95 		Best: 41.62 		N:3
+Todd           		Mean: 9.67 		Best: 41.25 		N:3
+Kershaw        		Mean: 11.34 		Best: 35.04 		N:2
+Escamilla      		Mean: 4.06 		Best: 35.01 		N:6
+Rawe           		Mean: 4.07 		Best: 33.1 		N:4
+Marzinske      		Mean: 12.45 		Best: 32.81 		N:2
+Dean           		Mean: 4.11 		Best: 31.34 		N:4
+Molino         		Mean: 2.38 		Best: 30.51 		N:7
+Ferguson       		Mean: 4.42 		Best: 18.25 		N:3
+Werkhoven      		Mean: 5.41 		Best: 11.5 		N:2
+Brunson        		Mean: 5.36 		Best: 11.0 		N:2
+
+########## REPORT GEN: 19 ##########
+SPECIES: 
+Canipe         		Mean: 3.33 		Best: 51.75 		N:7
+Carlson        		Mean: 10.23 		Best: 50.0 		N:3
+Ferguson       		Mean: 5.43 		Best: 48.75 		N:5
+Brown          		Mean: 3.35 		Best: 42.66 		N:6
+Frazier        		Mean: 6.78 		Best: 41.5 		N:3
+Todd           		Mean: 8.1  		Best: 41.0 		N:3
+Werkhoven      		Mean: 8.76 		Best: 38.54 		N:3
+Escamilla      		Mean: 3.36 		Best: 38.21 		N:5
+Robinson       		Mean: 3.4  		Best: 37.82 		N:5
+Rawe           		Mean: 2.56 		Best: 37.75 		N:7
+Joecks         		Mean: 3.46 		Best: 36.2 		N:7
+Dean           		Mean: 2.11 		Best: 11.5 		N:5
+Brunson        		Mean: 4.85 		Best: 10.25 		N:2
+
+########## REPORT GEN: 20 ##########
+SPECIES: 
+Todd           		Mean: 4.48 		Best: 48.75 		N:6
+Rawe           		Mean: 4.53 		Best: 47.25 		N:6
+Canipe         		Mean: 19.61 		Best: 43.25 		N:2
+Frazier        		Mean: 5.44 		Best: 42.25 		N:5
+Robinson       		Mean: 12.89 		Best: 40.75 		N:2
+Escamilla      		Mean: 2.41 		Best: 40.3 		N:7
+Dean           		Mean: 4.03 		Best: 36.17 		N:5
+Werkhoven      		Mean: 5.58 		Best: 35.42 		N:4
+Brunson        		Mean: 4.1  		Best: 34.74 		N:5
+Marzinske      		Mean: 6.29 		Best: 34.59 		N:3
+Joecks         		Mean: 3.68 		Best: 26.46 		N:4
+Carlson        		Mean: 9.71 		Best: 24.51 		N:2
+Ferguson       		Mean: 3.43 		Best: 11.0 		N:3
+
+########## REPORT GEN: 21 ##########
+SPECIES: 
+Robinson       		Mean: 4.56 		Best: 53.0 		N:5
+Escamilla      		Mean: 8.73 		Best: 49.5 		N:4
+Joecks         		Mean: 4.16 		Best: 45.25 		N:6
+Werkhoven      		Mean: 6.6  		Best: 45.0 		N:4
+Ferguson       		Mean: 8.37 		Best: 40.4 		N:3
+Carlson        		Mean: 4.5  		Best: 39.63 		N:4
+Marzinske      		Mean: 12.52 		Best: 39.25 		N:2
+Brown          		Mean: 7.77 		Best: 37.25 		N:3
+Rawe           		Mean: 10.63 		Best: 32.78 		N:2
+Dean           		Mean: 5.43 		Best: 28.29 		N:3
+Brunson        		Mean: 2.91 		Best: 13.5 		N:4
+Canipe         		Mean: 5.53 		Best: 11.0 		N:2
+Molino         		Mean: 5.27 		Best: 10.5 		N:2
+
+########## REPORT GEN: 22 ##########
+SPECIES: 
+Dean           		Mean: 4.33 		Best: 42.75 		N:5
+Brown          		Mean: 7.31 		Best: 41.25 		N:4
+Kershaw        		Mean: 8.08 		Best: 41.0 		N:4
+Ferguson       		Mean: 3.66 		Best: 40.0 		N:7
+Molino         		Mean: 4.4  		Best: 39.25 		N:5
+Werkhoven      		Mean: 7.65 		Best: 38.5 		N:3
+Joecks         		Mean: 9.2  		Best: 36.93 		N:3
+Escamilla      		Mean: 9.05 		Best: 25.93 		N:2
+Rawe           		Mean: 4.4  		Best: 18.75 		N:3
+Marzinske      		Mean: 3.49 		Best: 11.0 		N:3
+Frazier        		Mean: 3.49 		Best: 11.0 		N:3
+Carlson        		Mean: 2.59 		Best: 10.75 		N:4
+Brunson        		Mean: 2.57 		Best: 10.75 		N:4
+Canipe         		Mean: 2.59 		Best: 10.75 		N:4
+
+########## REPORT GEN: 23 ##########
+SPECIES: 
+Brunson        		Mean: 7.57 		Best: 46.0 		N:3
+Ferguson       		Mean: 3.54 		Best: 45.25 		N:5
+Canipe         		Mean: 3.09 		Best: 42.22 		N:7
+Brown          		Mean: 2.65 		Best: 40.25 		N:7
+Werkhoven      		Mean: 6.54 		Best: 39.64 		N:3
+Escamilla      		Mean: 3.22 		Best: 35.75 		N:5
+Dean           		Mean: 2.87 		Best: 34.85 		N:7
+Rawe           		Mean: 8.86 		Best: 24.0 		N:2
+Marzinske      		Mean: 2.86 		Best: 19.99 		N:5
+Molino         		Mean: 3.16 		Best: 17.5 		N:4
+Joecks         		Mean: 2.63 		Best: 11.0 		N:4
+Carlson        		Mean: 5.2  		Best: 10.75 		N:2
+
+########## REPORT GEN: 24 ##########
+SPECIES: 
+Carlson        		Mean: 6.15 		Best: 49.0 		N:5
+Escamilla      		Mean: 2.7  		Best: 44.33 		N:7
+Joecks         		Mean: 7.05 		Best: 42.5 		N:3
+Molino         		Mean: 7.07 		Best: 42.29 		N:3
+Werkhoven      		Mean: 4.63 		Best: 41.86 		N:4
+Ferguson       		Mean: 2.63 		Best: 38.17 		N:6
+Dean           		Mean: 3.09 		Best: 35.5 		N:5
+Brunson        		Mean: 7.83 		Best: 31.27 		N:3
+Canipe         		Mean: 9.18 		Best: 24.0 		N:2
+Brown          		Mean: 2.53 		Best: 10.5 		N:4
+Kershaw        		Mean: 3.33 		Best: 10.25 		N:3
+
+########## REPORT GEN: 25 ##########
+SPECIES: 
+Ferguson       		Mean: 8.45 		Best: 46.46 		N:5
+Brunson        		Mean: 2.46 		Best: 44.25 		N:8
+Kershaw        		Mean: 13.42 		Best: 43.31 		N:2
+Brown          		Mean: 3.48 		Best: 43.25 		N:5
+Dean           		Mean: 9.73 		Best: 38.65 		N:3
+Rawe           		Mean: 3.87 		Best: 30.58 		N:4
+Werkhoven      		Mean: 7.08 		Best: 30.47 		N:3
+Carlson        		Mean: 3.38 		Best: 29.85 		N:5
+Marzinske      		Mean: 2.78 		Best: 29.48 		N:6
+Escamilla      		Mean: 1.66 		Best: 21.75 		N:8
+Joecks         		Mean: 5.59 		Best: 11.5 		N:2
+Canipe         		Mean: 1.75 		Best: 11.25 		N:6
+
+########## REPORT GEN: 26 ##########
+SPECIES: 
+Brown          		Mean: 5.22 		Best: 50.25 		N:5
+Rawe           		Mean: 20.3 		Best: 43.25 		N:2
+Carlson        		Mean: 3.93 		Best: 43.09 		N:6
+Ferguson       		Mean: 3.21 		Best: 42.09 		N:7
+Molino         		Mean: 3.26 		Best: 42.02 		N:7
+Kershaw        		Mean: 3.31 		Best: 40.5 		N:6
+Canipe         		Mean: 4.49 		Best: 40.5 		N:4
+Marzinske      		Mean: 3.26 		Best: 39.9 		N:5
+Werkhoven      		Mean: 4.36 		Best: 37.42 		N:4
+Dean           		Mean: 6.08 		Best: 34.06 		N:3
+Escamilla      		Mean: 6.0  		Best: 31.93 		N:3
+Joecks         		Mean: 2.42 		Best: 19.25 		N:5
+Brunson        		Mean: 4.91 		Best: 11.25 		N:2
+
+########## REPORT GEN: 27 ##########
+SPECIES: 
+Carlson        		Mean: 4.15 		Best: 47.75 		N:6
+Brown          		Mean: 3.57 		Best: 46.25 		N:5
+Dean           		Mean: 2.79 		Best: 46.0 		N:8
+Canipe         		Mean: 4.79 		Best: 45.75 		N:5
+Molino         		Mean: 4.06 		Best: 45.01 		N:5
+Escamilla      		Mean: 2.37 		Best: 45.0 		N:7
+Werkhoven      		Mean: 6.62 		Best: 44.72 		N:4
+Marzinske      		Mean: 13.62 		Best: 43.41 		N:2
+Brunson        		Mean: 11.14 		Best: 34.15 		N:2
+Ferguson       		Mean: 1.96 		Best: 32.16 		N:7
+Joecks         		Mean: 5.3  		Best: 31.8 		N:4
+Rawe           		Mean: 2.82 		Best: 12.0 		N:4
+Kershaw        		Mean: 2.59 		Best: 11.25 		N:4
+
+########## REPORT GEN: 28 ##########
+SPECIES: 
+Werkhoven      		Mean: 6.24 		Best: 47.78 		N:4
+Molino         		Mean: 2.78 		Best: 45.75 		N:7
+Canipe         		Mean: 7.07 		Best: 43.5 		N:4
+Ferguson       		Mean: 6.51 		Best: 43.5 		N:4
+Carlson        		Mean: 5.67 		Best: 40.75 		N:5
+Marzinske      		Mean: 2.04 		Best: 40.0 		N:7
+Joecks         		Mean: 18.08 		Best: 39.25 		N:2
+Brown          		Mean: 3.11 		Best: 38.17 		N:6
+Rawe           		Mean: 2.11 		Best: 37.75 		N:8
+Escamilla      		Mean: 2.91 		Best: 31.27 		N:5
+Dean           		Mean: 3.55 		Best: 23.0 		N:4
+Brunson        		Mean: 2.66 		Best: 11.75 		N:4
+Kershaw        		Mean: 2.03 		Best: 11.5 		N:5
+
+########## REPORT GEN: 29 ##########
+SPECIES: 
+Molino         		Mean: 2.72 		Best: 47.5 		N:8
+Carlson        		Mean: 2.82 		Best: 45.5 		N:9
+Rawe           		Mean: 3.49 		Best: 44.98 		N:5
+Joecks         		Mean: 2.63 		Best: 44.0 		N:6
+Kershaw        		Mean: 6.46 		Best: 44.0 		N:4
+Werkhoven      		Mean: 7.15 		Best: 38.25 		N:4
+Ferguson       		Mean: 2.57 		Best: 37.36 		N:7
+Escamilla      		Mean: 6.19 		Best: 35.3 		N:3
+Canipe         		Mean: 5.79 		Best: 30.86 		N:3
+Marzinske      		Mean: 1.66 		Best: 19.75 		N:7
+Brown          		Mean: 3.77 		Best: 11.75 		N:3
+Dean           		Mean: 3.56 		Best: 11.5 		N:3
+Brunson        		Mean: 2.1  		Best: 11.0 		N:5
+
+########## REPORT GEN: 30 ##########
+SPECIES: 
+Kershaw        		Mean: 2.73 		Best: 48.13 		N:8
+Marzinske      		Mean: 6.93 		Best: 46.93 		N:4
+Rawe           		Mean: 2.18 		Best: 46.93 		N:11
+Escamilla      		Mean: 3.23 		Best: 43.24 		N:6
+Ferguson       		Mean: 5.07 		Best: 39.0 		N:5
+Molino         		Mean: 6.57 		Best: 36.51 		N:3
+Joecks         		Mean: 3.08 		Best: 34.74 		N:6
+Canipe         		Mean: 2.65 		Best: 12.0 		N:4
+Brown          		Mean: 1.15 		Best: 11.5 		N:9
+Brunson        		Mean: 1.76 		Best: 11.5 		N:6
+Carlson        		Mean: 2.55 		Best: 11.0 		N:4
+Dean           		Mean: 1.26 		Best: 10.5 		N:8
+
+########## REPORT GEN: 31 ##########
+SPECIES: 
+Dean           		Mean: 2.96 		Best: 53.25 		N:8
+Brown          		Mean: 3.51 		Best: 45.0 		N:5
+Ferguson       		Mean: 7.29 		Best: 44.33 		N:3
+Canipe         		Mean: 4.75 		Best: 44.0 		N:4
+Escamilla      		Mean: 2.18 		Best: 43.0 		N:7
+Carlson        		Mean: 2.57 		Best: 41.5 		N:6
+Molino         		Mean: 2.25 		Best: 40.5 		N:8
+Joecks         		Mean: 2.95 		Best: 39.25 		N:7
+Marzinske      		Mean: 1.26 		Best: 34.68 		N:10
+Kershaw        		Mean: 2.94 		Best: 33.93 		N:6
+Werkhoven      		Mean: 3.83 		Best: 12.25 		N:3
+Brunson        		Mean: 3.8  		Best: 12.25 		N:3
+
+########## REPORT GEN: 32 ##########
+SPECIES: 
+Brown          		Mean: 5.22 		Best: 51.25 		N:4
+Rawe           		Mean: 1.95 		Best: 45.25 		N:11
+Marzinske      		Mean: 10.47 		Best: 43.75 		N:3
+Joecks         		Mean: 3.09 		Best: 41.38 		N:7
+Canipe         		Mean: 4.56 		Best: 41.23 		N:5
+Dean           		Mean: 2.03 		Best: 40.5 		N:7
+Carlson        		Mean: 4.57 		Best: 39.75 		N:4
+Brunson        		Mean: 3.83 		Best: 34.98 		N:5
+Molino         		Mean: 2.11 		Best: 12.25 		N:5
+Ferguson       		Mean: 3.57 		Best: 11.5 		N:3
+Kershaw        		Mean: 5.34 		Best: 11.5 		N:2
+Werkhoven      		Mean: 0.86 		Best: 11.5 		N:12
+
+########## REPORT GEN: 33 ##########
+SPECIES: 
+Joecks         		Mean: 4.4  		Best: 47.8 		N:6
+Kershaw        		Mean: 1.81 		Best: 42.02 		N:10
+Brown          		Mean: 4.69 		Best: 41.25 		N:4
+Ferguson       		Mean: 2.73 		Best: 40.5 		N:6
+Rawe           		Mean: 2.67 		Best: 40.0 		N:6
+Werkhoven      		Mean: 1.59 		Best: 38.75 		N:11
+Brunson        		Mean: 3.24 		Best: 38.01 		N:5
+Molino         		Mean: 5.57 		Best: 34.4 		N:4
+Canipe         		Mean: 2.66 		Best: 12.0 		N:4
+Marzinske      		Mean: 1.8  		Best: 11.25 		N:6
+Dean           		Mean: 3.71 		Best: 11.25 		N:3
+Carlson        		Mean: 1.16 		Best: 11.25 		N:9
+
+########## REPORT GEN: 34 ##########
+SPECIES: 
+Dean           		Mean: 5.05 		Best: 51.07 		N:4
+Kershaw        		Mean: 2.8  		Best: 46.0 		N:7
+Canipe         		Mean: 3.24 		Best: 42.75 		N:6
+Rawe           		Mean: 2.14 		Best: 41.97 		N:10
+Brown          		Mean: 3.31 		Best: 41.89 		N:5
+Molino         		Mean: 4.48 		Best: 41.78 		N:5
+Carlson        		Mean: 1.6  		Best: 40.25 		N:9
+Ferguson       		Mean: 1.26 		Best: 31.1 		N:10
+Joecks         		Mean: 1.14 		Best: 16.0 		N:10
+Marzinske      		Mean: 1.73 		Best: 11.25 		N:6
+Brunson        		Mean: 2.14 		Best: 11.0 		N:5
+Werkhoven      		Mean: 2.05 		Best: 10.75 		N:5
+
+########## REPORT GEN: 35 ##########
+SPECIES: 
+Brunson        		Mean: 3.67 		Best: 45.0 		N:5
+Molino         		Mean: 2.66 		Best: 43.0 		N:6
+Joecks         		Mean: 1.62 		Best: 42.25 		N:9
+Carlson        		Mean: 1.64 		Best: 40.28 		N:12
+Werkhoven      		Mean: 2.07 		Best: 39.64 		N:7
+Canipe         		Mean: 4.2  		Best: 36.81 		N:5
+Dean           		Mean: 1.64 		Best: 34.31 		N:8
+Ferguson       		Mean: 1.18 		Best: 11.5 		N:9
+Kershaw        		Mean: 1.51 		Best: 11.25 		N:7
+Brown          		Mean: 1.3  		Best: 11.25 		N:8
+Marzinske      		Mean: 3.64 		Best: 11.0 		N:3
+Rawe           		Mean: 1.73 		Best: 10.75 		N:6
+
+########## REPORT GEN: 36 ##########
+SPECIES: 
+Brown          		Mean: 1.89 		Best: 43.0 		N:8
+Dean           		Mean: 4.67 		Best: 41.5 		N:4
+Kershaw        		Mean: 2.23 		Best: 41.0 		N:8
+Carlson        		Mean: 4.11 		Best: 40.25 		N:5
+Werkhoven      		Mean: 3.32 		Best: 40.25 		N:5
+Marzinske      		Mean: 3.14 		Best: 37.59 		N:5
+Brunson        		Mean: 4.26 		Best: 36.99 		N:4
+Molino         		Mean: 1.3  		Best: 36.75 		N:10
+Ferguson       		Mean: 1.84 		Best: 11.75 		N:6
+Joecks         		Mean: 1.31 		Best: 11.5 		N:8
+Rawe           		Mean: 0.98 		Best: 11.5 		N:11
+Canipe         		Mean: 2.08 		Best: 11.25 		N:5
+
+########## REPORT GEN: 37 ##########
+SPECIES: 
+Dean           		Mean: 1.96 		Best: 49.5 		N:10
+Canipe         		Mean: 1.58 		Best: 44.42 		N:9
+Joecks         		Mean: 1.7  		Best: 43.5 		N:10
+Brunson        		Mean: 3.17 		Best: 41.34 		N:6
+Carlson        		Mean: 3.27 		Best: 38.93 		N:5
+Rawe           		Mean: 3.18 		Best: 38.41 		N:5
+Kershaw        		Mean: 2.44 		Best: 31.9 		N:6
+Marzinske      		Mean: 1.05 		Best: 31.4 		N:12
+Molino         		Mean: 1.78 		Best: 11.75 		N:6
+Brown          		Mean: 1.07 		Best: 11.5 		N:10
+Ferguson       		Mean: 2.09 		Best: 11.25 		N:5
+Werkhoven      		Mean: 5.15 		Best: 10.5 		N:2
+
+########## REPORT GEN: 38 ##########
+SPECIES: 
+Marzinske      		Mean: 1.44 		Best: 47.25 		N:13
+Dean           		Mean: 1.68 		Best: 45.42 		N:10
+Molino         		Mean: 2.23 		Best: 45.14 		N:7
+Brunson        		Mean: 2.34 		Best: 35.12 		N:8
+Canipe         		Mean: 6.05 		Best: 32.06 		N:3
+Joecks         		Mean: 2.15 		Best: 11.75 		N:5
+Werkhoven      		Mean: 1.49 		Best: 11.75 		N:7
+Carlson        		Mean: 1.56 		Best: 11.5 		N:7
+Ferguson       		Mean: 1.73 		Best: 11.5 		N:6
+Rawe           		Mean: 1.5  		Best: 11.25 		N:7
+Kershaw        		Mean: 1.47 		Best: 11.25 		N:7
+Brown          		Mean: 2.05 		Best: 10.5 		N:5
+
+########## REPORT GEN: 39 ##########
+SPECIES: 
+Marzinske      		Mean: 5.09 		Best: 49.75 		N:5
+Brunson        		Mean: 3.4  		Best: 47.5 		N:6
+Dean           		Mean: 2.5  		Best: 41.0 		N:6
+Molino         		Mean: 2.48 		Best: 37.79 		N:6
+Carlson        		Mean: 1.56 		Best: 36.52 		N:10
+Werkhoven      		Mean: 1.24 		Best: 30.46 		N:10
+Canipe         		Mean: 2.69 		Best: 11.75 		N:4
+Rawe           		Mean: 1.79 		Best: 11.25 		N:6
+Kershaw        		Mean: 1.81 		Best: 11.25 		N:6
+Brown          		Mean: 1.5  		Best: 11.25 		N:7
+Joecks         		Mean: 2.58 		Best: 11.0 		N:4
+Ferguson       		Mean: 1.47 		Best: 11.0 		N:7
+
+########## REPORT GEN: 40 ##########
+SPECIES: 
+Joecks         		Mean: 2.23 		Best: 45.25 		N:7
+Brunson        		Mean: 1.57 		Best: 41.26 		N:9
+Kershaw        		Mean: 1.98 		Best: 37.64 		N:7
+Ferguson       		Mean: 1.54 		Best: 35.52 		N:10
+Rawe           		Mean: 1.84 		Best: 31.51 		N:7
+Dean           		Mean: 2.49 		Best: 30.97 		N:6
+Marzinske      		Mean: 1.51 		Best: 12.0 		N:7
+Carlson        		Mean: 0.8  		Best: 11.5 		N:13
+Canipe         		Mean: 5.59 		Best: 11.5 		N:2
+Brown          		Mean: 1.5  		Best: 11.5 		N:7
+Werkhoven      		Mean: 1.48 		Best: 11.0 		N:7
+Molino         		Mean: 2.08 		Best: 10.5 		N:5
+
+########## REPORT GEN: 41 ##########
+SPECIES: 
+Marzinske      		Mean: 1.96 		Best: 47.25 		N:9
+Joecks         		Mean: 2.1  		Best: 39.5 		N:7
+Dean           		Mean: 2.5  		Best: 39.25 		N:6
+Werkhoven      		Mean: 6.73 		Best: 38.75 		N:3
+Kershaw        		Mean: 3.23 		Best: 38.24 		N:5
+Ferguson       		Mean: 1.95 		Best: 31.67 		N:7
+Molino         		Mean: 2.93 		Best: 31.5 		N:5
+Carlson        		Mean: 0.83 		Best: 30.93 		N:14
+Brown          		Mean: 2.25 		Best: 30.08 		N:6
+Rawe           		Mean: 2.18 		Best: 11.75 		N:5
+Canipe         		Mean: 0.87 		Best: 11.5 		N:12
+Brunson        		Mean: 3.32 		Best: 10.75 		N:3
+
+########## REPORT GEN: 42 ##########
+SPECIES: 
+Dean           		Mean: 2.81 		Best: 48.75 		N:6
+Molino         		Mean: 1.23 		Best: 46.75 		N:11
+Brunson        		Mean: 2.31 		Best: 46.0 		N:8
+Kershaw        		Mean: 3.5  		Best: 44.25 		N:5
+Joecks         		Mean: 1.84 		Best: 40.25 		N:8
+Marzinske      		Mean: 2.47 		Best: 38.23 		N:7
+Rawe           		Mean: 2.0  		Best: 33.82 		N:7
+Werkhoven      		Mean: 1.01 		Best: 11.5 		N:10
+Carlson        		Mean: 2.11 		Best: 11.5 		N:5
+Ferguson       		Mean: 2.07 		Best: 11.0 		N:5
+Brown          		Mean: 1.7  		Best: 10.75 		N:6
+Canipe         		Mean: 1.74 		Best: 10.75 		N:6
+
+########## REPORT GEN: 43 ##########
+SPECIES: 
+Kershaw        		Mean: 1.62 		Best: 46.5 		N:9
+Ferguson       		Mean: 2.74 		Best: 46.0 		N:6
+Brown          		Mean: 1.96 		Best: 43.94 		N:9
+Joecks         		Mean: 2.13 		Best: 40.69 		N:7
+Canipe         		Mean: 1.2  		Best: 39.25 		N:11
+Werkhoven      		Mean: 1.33 		Best: 39.0 		N:10
+Rawe           		Mean: 3.99 		Best: 34.88 		N:5
+Carlson        		Mean: 2.18 		Best: 12.25 		N:5
+Dean           		Mean: 1.54 		Best: 11.75 		N:7
+Marzinske      		Mean: 1.15 		Best: 11.5 		N:9
+Molino         		Mean: 2.1  		Best: 11.0 		N:5
+Brunson        		Mean: 1.01 		Best: 10.75 		N:10
+
+########## REPORT GEN: 44 ##########
+SPECIES: 
+Brown          		Mean: 1.58 		Best: 49.75 		N:11
+Rawe           		Mean: 1.85 		Best: 45.75 		N:8
+Canipe         		Mean: 1.81 		Best: 43.25 		N:8
+Werkhoven      		Mean: 6.97 		Best: 42.0 		N:3
+Carlson        		Mean: 1.92 		Best: 40.5 		N:9
+Dean           		Mean: 3.18 		Best: 38.71 		N:5
+Joecks         		Mean: 1.14 		Best: 32.85 		N:11
+Ferguson       		Mean: 1.46 		Best: 31.13 		N:9
+Kershaw        		Mean: 2.75 		Best: 28.72 		N:5
+Brunson        		Mean: 1.19 		Best: 12.25 		N:9
+Molino         		Mean: 1.52 		Best: 11.0 		N:7
+Marzinske      		Mean: 2.5  		Best: 10.5 		N:4
+
+########## REPORT GEN: 45 ##########
+SPECIES: 
+Dean           		Mean: 4.05 		Best: 43.99 		N:6
+Brown          		Mean: 3.97 		Best: 43.75 		N:6
+Rawe           		Mean: 1.2  		Best: 39.58 		N:11
+Molino         		Mean: 3.08 		Best: 34.98 		N:5
+Kershaw        		Mean: 4.13 		Best: 34.0 		N:4
+Marzinske      		Mean: 2.96 		Best: 32.53 		N:5
+Carlson        		Mean: 1.98 		Best: 31.44 		N:7
+Joecks         		Mean: 2.05 		Best: 31.4 		N:7
+Ferguson       		Mean: 0.95 		Best: 11.5 		N:11
+Brunson        		Mean: 2.57 		Best: 11.25 		N:4
+Werkhoven      		Mean: 2.65 		Best: 11.0 		N:4
+Canipe         		Mean: 1.94 		Best: 10.25 		N:5
+
+########## REPORT GEN: 46 ##########
+SPECIES: 
+Molino         		Mean: 1.43 		Best: 48.75 		N:10
+Marzinske      		Mean: 1.79 		Best: 47.5 		N:11
+Brunson        		Mean: 1.2  		Best: 40.0 		N:11
+Dean           		Mean: 4.49 		Best: 39.75 		N:4
+Kershaw        		Mean: 2.06 		Best: 37.56 		N:7
+Joecks         		Mean: 2.87 		Best: 35.55 		N:6
+Brown          		Mean: 2.19 		Best: 25.0 		N:6
+Canipe         		Mean: 1.32 		Best: 11.75 		N:8
+Ferguson       		Mean: 1.81 		Best: 11.5 		N:6
+Werkhoven      		Mean: 0.94 		Best: 11.5 		N:11
+Rawe           		Mean: 1.54 		Best: 11.25 		N:7
+Carlson        		Mean: 1.5  		Best: 11.25 		N:7
+
+########## REPORT GEN: 47 ##########
+SPECIES: 
+Kershaw        		Mean: 3.59 		Best: 46.13 		N:5
+Joecks         		Mean: 1.73 		Best: 39.75 		N:10
+Marzinske      		Mean: 2.05 		Best: 38.41 		N:7
+Brunson        		Mean: 1.96 		Best: 34.43 		N:7
+Dean           		Mean: 1.43 		Best: 34.04 		N:9
+Werkhoven      		Mean: 2.2  		Best: 31.62 		N:7
+Ferguson       		Mean: 2.8  		Best: 27.5 		N:5
+Carlson        		Mean: 1.5  		Best: 24.05 		N:8
+Molino         		Mean: 1.56 		Best: 12.0 		N:7
+Rawe           		Mean: 2.84 		Best: 12.0 		N:4
+Brown          		Mean: 1.29 		Best: 11.75 		N:8
+Canipe         		Mean: 1.46 		Best: 10.5 		N:7
+
+########## REPORT GEN: 48 ##########
+SPECIES: 
+Ferguson       		Mean: 5.23 		Best: 52.0 		N:4
+Molino         		Mean: 1.85 		Best: 43.0 		N:8
+Canipe         		Mean: 2.23 		Best: 42.4 		N:7
+Werkhoven      		Mean: 1.47 		Best: 40.49 		N:11
+Brown          		Mean: 1.72 		Best: 38.99 		N:8
+Carlson        		Mean: 1.47 		Best: 38.69 		N:9
+Joecks         		Mean: 2.07 		Best: 38.5 		N:7
+Kershaw        		Mean: 1.09 		Best: 27.25 		N:11
+Brunson        		Mean: 5.35 		Best: 25.0 		N:3
+Marzinske      		Mean: 1.14 		Best: 11.75 		N:9
+Rawe           		Mean: 2.54 		Best: 11.25 		N:4
+Dean           		Mean: 1.68 		Best: 11.0 		N:6
+
+########## REPORT GEN: 49 ##########
+SPECIES: 
+Dean           		Mean: 2.03 		Best: 47.25 		N:9
+Marzinske      		Mean: 4.59 		Best: 42.75 		N:4
+Brown          		Mean: 2.64 		Best: 42.19 		N:6
+Brunson        		Mean: 1.37 		Best: 35.5 		N:11
+Carlson        		Mean: 2.35 		Best: 32.35 		N:7
+Molino         		Mean: 4.86 		Best: 23.25 		N:3
+Rawe           		Mean: 4.69 		Best: 20.75 		N:3
+Ferguson       		Mean: 1.1  		Best: 18.75 		N:10
+Joecks         		Mean: 1.18 		Best: 11.25 		N:9
+Canipe         		Mean: 2.16 		Best: 11.0 		N:5
+Werkhoven      		Mean: 3.41 		Best: 11.0 		N:3
+Kershaw        		Mean: 3.29 		Best: 10.75 		N:3
+
+########## REPORT GEN: 50 ##########
+SPECIES: 
+Brown          		Mean: 2.0  		Best: 47.75 		N:9
+Joecks         		Mean: 2.58 		Best: 47.75 		N:8
+Rawe           		Mean: 3.07 		Best: 35.43 		N:5
+Werkhoven      		Mean: 11.34 		Best: 33.74 		N:2
+Brunson        		Mean: 3.03 		Best: 33.56 		N:6
+Dean           		Mean: 1.83 		Best: 26.25 		N:7
+Carlson        		Mean: 1.33 		Best: 25.5 		N:9
+Ferguson       		Mean: 1.63 		Best: 22.0 		N:8
+Marzinske      		Mean: 2.75 		Best: 12.0 		N:4
+Molino         		Mean: 1.72 		Best: 11.25 		N:6
+Canipe         		Mean: 2.76 		Best: 11.25 		N:4
+Kershaw        		Mean: 2.64 		Best: 11.25 		N:4
+
+########## REPORT GEN: 51 ##########
+SPECIES: 
+Kershaw        		Mean: 4.73 		Best: 43.58 		N:5
+Marzinske      		Mean: 2.05 		Best: 39.0 		N:9
+Carlson        		Mean: 3.22 		Best: 38.5 		N:5
+Werkhoven      		Mean: 1.71 		Best: 38.06 		N:8
+Canipe         		Mean: 2.46 		Best: 37.36 		N:6
+Joecks         		Mean: 10.83 		Best: 32.14 		N:2
+Ferguson       		Mean: 1.74 		Best: 22.25 		N:7
+Molino         		Mean: 4.63 		Best: 21.25 		N:3
+Brown          		Mean: 1.53 		Best: 11.5 		N:7
+Dean           		Mean: 1.32 		Best: 11.25 		N:8
+Rawe           		Mean: 1.73 		Best: 10.75 		N:6
+Brunson        		Mean: 3.37 		Best: 10.25 		N:3
+

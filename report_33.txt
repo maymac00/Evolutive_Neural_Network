@@ -1,0 +1,886 @@
+########## REPORT GEN: 2 ##########
+SPECIES: 
+Vandercook     		Mean: 0.72 		Best: 45.8 		N:22
+Wenrich        		Mean: 0.92 		Best: 37.03 		N:17
+Rose           		Mean: 2.39 		Best: 35.79 		N:7
+Goodson        		Mean: 9.67 		Best: 26.45 		N:2
+Weisenfluh     		Mean: 2.55 		Best: 23.4 		N:5
+Wimbush        		Mean: 3.64 		Best: 11.25 		N:3
+Hickman        		Mean: 5.36 		Best: 10.75 		N:2
+Marte          		Mean: 2.45 		Best: 10.5 		N:4
+English        		Mean: 2.38 		Best: 10.0 		N:4
+Roof           		Mean: 4.5  		Best: 9.25 		N:2
+
+########## REPORT GEN: 3 ##########
+SPECIES: 
+Vandercook     		Mean: 1.31 		Best: 40.47 		N:12
+English        		Mean: 1.71 		Best: 33.05 		N:9
+Weisenfluh     		Mean: 2.63 		Best: 30.27 		N:6
+Wenrich        		Mean: 2.18 		Best: 21.69 		N:6
+Alu            		Mean: 3.85 		Best: 13.08 		N:3
+Hickman        		Mean: 2.69 		Best: 11.5 		N:4
+Rose           		Mean: 1.79 		Best: 11.02 		N:6
+Wimbush        		Mean: 2.11 		Best: 10.75 		N:5
+Marte          		Mean: 1.93 		Best: 10.75 		N:5
+Goodson        		Mean: 5.1  		Best: 10.25 		N:2
+Roof           		Mean: 2.32 		Best: 9.5 		N:4
+
+########## REPORT GEN: 4 ##########
+SPECIES: 
+English        		Mean: 13.8 		Best: 42.5 		N:2
+Wimbush        		Mean: 1.46 		Best: 39.6 		N:11
+Alfonso        		Mean: 3.08 		Best: 34.8 		N:5
+Alu            		Mean: 1.67 		Best: 34.01 		N:8
+Goodson        		Mean: 4.25 		Best: 15.76 		N:3
+Hickman        		Mean: 1.52 		Best: 12.0 		N:7
+Vandercook     		Mean: 1.7  		Best: 11.5 		N:6
+Wenrich        		Mean: 3.51 		Best: 11.0 		N:3
+Weisenfluh     		Mean: 2.01 		Best: 10.75 		N:5
+Rose           		Mean: 1.94 		Best: 10.25 		N:5
+Roof           		Mean: 1.85 		Best: 9.5 		N:5
+
+########## REPORT GEN: 5 ##########
+SPECIES: 
+Alfonso        		Mean: 9.54 		Best: 40.94 		N:3
+Hickman        		Mean: 2.64 		Best: 38.62 		N:6
+Goodson        		Mean: 2.43 		Best: 35.54 		N:7
+English        		Mean: 10.74 		Best: 31.95 		N:2
+Weisenfluh     		Mean: 1.87 		Best: 14.06 		N:6
+Alu            		Mean: 2.22 		Best: 14.02 		N:5
+Vandercook     		Mean: 2.82 		Best: 12.95 		N:4
+Wenrich        		Mean: 2.59 		Best: 11.75 		N:4
+Rose           		Mean: 2.65 		Best: 11.73 		N:4
+Wimbush        		Mean: 2.61 		Best: 10.75 		N:4
+Roof           		Mean: 2.34 		Best: 9.75 		N:4
+
+########## REPORT GEN: 6 ##########
+SPECIES: 
+Weisenfluh     		Mean: 4.42 		Best: 41.75 		N:5
+Wenrich        		Mean: 3.32 		Best: 41.75 		N:5
+English        		Mean: 12.75 		Best: 40.5 		N:2
+Alfonso        		Mean: 2.68 		Best: 38.75 		N:7
+Rose           		Mean: 2.98 		Best: 37.0 		N:8
+Marte          		Mean: 3.93 		Best: 32.96 		N:4
+Alu            		Mean: 6.09 		Best: 29.69 		N:3
+Goodson        		Mean: 2.15 		Best: 12.08 		N:5
+Hickman        		Mean: 3.39 		Best: 11.25 		N:3
+Wimbush        		Mean: 3.42 		Best: 10.75 		N:3
+Roof           		Mean: 3.18 		Best: 10.0 		N:3
+Vandercook     		Mean: 4.65 		Best: 9.25 		N:2
+
+########## REPORT GEN: 7 ##########
+SPECIES: 
+Wenrich        		Mean: 2.83 		Best: 46.5 		N:6
+Roof           		Mean: 6.42 		Best: 45.0 		N:4
+Alu            		Mean: 6.25 		Best: 43.5 		N:4
+Rose           		Mean: 3.73 		Best: 40.75 		N:7
+Hickman        		Mean: 3.14 		Best: 40.5 		N:7
+Weisenfluh     		Mean: 5.23 		Best: 38.99 		N:5
+Vandercook     		Mean: 2.1  		Best: 37.4 		N:8
+Wimbush        		Mean: 1.48 		Best: 12.5 		N:7
+Marte          		Mean: 2.7  		Best: 12.0 		N:4
+Goodson        		Mean: 1.1  		Best: 11.5 		N:9
+English        		Mean: 3.47 		Best: 11.25 		N:3
+Alfonso        		Mean: 3.24 		Best: 9.75 		N:3
+
+########## REPORT GEN: 8 ##########
+SPECIES: 
+Goodson        		Mean: 3.49 		Best: 45.75 		N:6
+Alfonso        		Mean: 4.36 		Best: 45.75 		N:5
+Vandercook     		Mean: 1.83 		Best: 43.0 		N:13
+Weisenfluh     		Mean: 3.49 		Best: 42.83 		N:6
+Wimbush        		Mean: 2.01 		Best: 40.07 		N:7
+Alu            		Mean: 1.82 		Best: 38.5 		N:8
+Roof           		Mean: 5.48 		Best: 34.48 		N:4
+Rose           		Mean: 1.62 		Best: 32.25 		N:8
+Hickman        		Mean: 1.75 		Best: 11.75 		N:6
+Wenrich        		Mean: 1.99 		Best: 11.5 		N:5
+Marte          		Mean: 1.41 		Best: 10.25 		N:7
+English        		Mean: 4.83 		Best: 9.75 		N:2
+
+########## REPORT GEN: 9 ##########
+SPECIES: 
+Weisenfluh     		Mean: 3.3  		Best: 49.25 		N:7
+Alfonso        		Mean: 1.19 		Best: 45.46 		N:11
+Vandercook     		Mean: 3.51 		Best: 42.35 		N:6
+Marte          		Mean: 2.59 		Best: 42.25 		N:7
+Rose           		Mean: 2.22 		Best: 42.05 		N:11
+Roof           		Mean: 1.51 		Best: 37.29 		N:10
+English        		Mean: 3.01 		Best: 35.25 		N:6
+Alu            		Mean: 2.38 		Best: 18.3 		N:5
+Goodson        		Mean: 2.58 		Best: 10.75 		N:4
+Hickman        		Mean: 5.13 		Best: 10.25 		N:2
+Wimbush        		Mean: 2.3  		Best: 9.75 		N:4
+Wenrich        		Mean: 1.91 		Best: 9.5 		N:5
+
+########## REPORT GEN: 10 ##########
+SPECIES: 
+Alu            		Mean: 1.54 		Best: 46.56 		N:9
+Hickman        		Mean: 1.03 		Best: 45.5 		N:16
+Vandercook     		Mean: 1.38 		Best: 44.0 		N:10
+Goodson        		Mean: 4.59 		Best: 42.25 		N:5
+Alfonso        		Mean: 2.48 		Best: 42.0 		N:8
+Weisenfluh     		Mean: 1.86 		Best: 39.25 		N:10
+Roof           		Mean: 2.0  		Best: 37.25 		N:7
+Wenrich        		Mean: 2.42 		Best: 36.8 		N:6
+Wimbush        		Mean: 2.36 		Best: 33.54 		N:8
+English        		Mean: 2.43 		Best: 9.75 		N:4
+Marte          		Mean: 4.56 		Best: 9.25 		N:2
+Rose           		Mean: 3.1  		Best: 9.25 		N:3
+
+########## REPORT GEN: 11 ##########
+SPECIES: 
+Wimbush        		Mean: 2.7  		Best: 50.5 		N:6
+Marte          		Mean: 2.8  		Best: 46.19 		N:6
+Rose           		Mean: 2.51 		Best: 43.25 		N:9
+Weisenfluh     		Mean: 2.62 		Best: 43.22 		N:6
+Alfonso        		Mean: 1.89 		Best: 42.25 		N:9
+Alu            		Mean: 3.21 		Best: 41.75 		N:5
+English        		Mean: 1.68 		Best: 40.5 		N:9
+Goodson        		Mean: 1.26 		Best: 37.0 		N:10
+Wenrich        		Mean: 2.36 		Best: 35.25 		N:6
+Hickman        		Mean: 1.87 		Best: 34.21 		N:7
+Vandercook     		Mean: 3.16 		Best: 9.75 		N:3
+Roof           		Mean: 1.93 		Best: 9.75 		N:5
+
+########## REPORT GEN: 12 ##########
+SPECIES: 
+Vandercook     		Mean: 2.53 		Best: 50.0 		N:9
+English        		Mean: 2.19 		Best: 47.5 		N:8
+Weisenfluh     		Mean: 0.98 		Best: 44.71 		N:16
+Goodson        		Mean: 1.73 		Best: 43.19 		N:8
+Hickman        		Mean: 1.79 		Best: 42.5 		N:8
+Wenrich        		Mean: 4.19 		Best: 40.05 		N:5
+Alfonso        		Mean: 3.78 		Best: 40.0 		N:5
+Marte          		Mean: 2.03 		Best: 39.75 		N:7
+Roof           		Mean: 1.64 		Best: 35.75 		N:8
+Alu            		Mean: 1.64 		Best: 11.5 		N:6
+Rose           		Mean: 1.36 		Best: 10.0 		N:7
+Wimbush        		Mean: 4.89 		Best: 9.75 		N:2
+
+########## REPORT GEN: 13 ##########
+SPECIES: 
+Goodson        		Mean: 4.54 		Best: 47.75 		N:5
+Roof           		Mean: 7.26 		Best: 45.75 		N:3
+Marte          		Mean: 2.09 		Best: 44.49 		N:7
+Alfonso        		Mean: 0.81 		Best: 44.0 		N:22
+Hickman        		Mean: 2.01 		Best: 41.0 		N:7
+Wimbush        		Mean: 2.39 		Best: 39.75 		N:7
+English        		Mean: 18.48 		Best: 38.75 		N:2
+Vandercook     		Mean: 2.31 		Best: 36.5 		N:6
+Wenrich        		Mean: 2.81 		Best: 35.52 		N:7
+Rose           		Mean: 1.58 		Best: 34.8 		N:8
+Weisenfluh     		Mean: 3.2  		Best: 9.75 		N:3
+Alu            		Mean: 3.19 		Best: 9.75 		N:3
+
+########## REPORT GEN: 14 ##########
+SPECIES: 
+Marte          		Mean: 4.68 		Best: 77.62 		N:5
+English        		Mean: 3.54 		Best: 45.2 		N:6
+Alfonso        		Mean: 5.0  		Best: 43.0 		N:6
+Goodson        		Mean: 2.58 		Best: 41.92 		N:8
+Roof           		Mean: 4.33 		Best: 40.96 		N:5
+Alu            		Mean: 5.52 		Best: 40.55 		N:5
+Hickman        		Mean: 4.34 		Best: 40.25 		N:4
+Wimbush        		Mean: 5.36 		Best: 39.33 		N:5
+Vandercook     		Mean: 2.5  		Best: 37.37 		N:7
+Wenrich        		Mean: 8.53 		Best: 35.92 		N:3
+Rose           		Mean: 1.2  		Best: 34.02 		N:10
+Weisenfluh     		Mean: 3.12 		Best: 9.75 		N:3
+
+########## REPORT GEN: 15 ##########
+SPECIES: 
+Hickman        		Mean: 7.05 		Best: 81.22 		N:5
+English        		Mean: 3.16 		Best: 49.5 		N:8
+Wimbush        		Mean: 3.75 		Best: 44.75 		N:6
+Marte          		Mean: 2.06 		Best: 44.52 		N:8
+Rose           		Mean: 2.59 		Best: 44.0 		N:8
+Weisenfluh     		Mean: 3.28 		Best: 42.5 		N:5
+Goodson        		Mean: 1.7  		Best: 41.0 		N:8
+Alfonso        		Mean: 1.44 		Best: 39.81 		N:15
+Vandercook     		Mean: 12.33 		Best: 39.0 		N:2
+Wenrich        		Mean: 1.72 		Best: 38.79 		N:9
+Alu            		Mean: 3.82 		Best: 32.72 		N:4
+Roof           		Mean: 1.51 		Best: 30.98 		N:8
+
+########## REPORT GEN: 16 ##########
+SPECIES: 
+Rose           		Mean: 3.36 		Best: 65.05 		N:8
+Vandercook     		Mean: 2.47 		Best: 58.06 		N:10
+Goodson        		Mean: 4.07 		Best: 48.75 		N:7
+Wenrich        		Mean: 2.56 		Best: 48.13 		N:8
+Hickman        		Mean: 2.28 		Best: 47.5 		N:9
+Alfonso        		Mean: 4.21 		Best: 44.5 		N:5
+English        		Mean: 3.06 		Best: 40.25 		N:6
+Weisenfluh     		Mean: 3.14 		Best: 40.25 		N:5
+Roof           		Mean: 2.85 		Best: 36.41 		N:7
+Marte          		Mean: 5.6  		Best: 31.65 		N:3
+Wimbush        		Mean: 3.27 		Best: 23.15 		N:4
+
+########## REPORT GEN: 17 ##########
+SPECIES: 
+Hickman        		Mean: 3.01 		Best: 92.17 		N:8
+Vandercook     		Mean: 3.63 		Best: 54.4 		N:6
+Alu            		Mean: 2.21 		Best: 50.67 		N:7
+Wenrich        		Mean: 7.88 		Best: 45.0 		N:4
+Rose           		Mean: 1.79 		Best: 42.75 		N:8
+Roof           		Mean: 4.36 		Best: 41.38 		N:4
+Marte          		Mean: 1.36 		Best: 40.01 		N:11
+Alfonso        		Mean: 4.12 		Best: 39.01 		N:5
+Wimbush        		Mean: 1.85 		Best: 33.89 		N:7
+Goodson        		Mean: 5.96 		Best: 33.27 		N:3
+Weisenfluh     		Mean: 3.18 		Best: 31.02 		N:5
+English        		Mean: 3.15 		Best: 9.75 		N:3
+
+########## REPORT GEN: 18 ##########
+SPECIES: 
+Vandercook     		Mean: 2.53 		Best: 75.94 		N:10
+Hickman        		Mean: 2.8  		Best: 75.16 		N:8
+Weisenfluh     		Mean: 2.84 		Best: 50.75 		N:6
+English        		Mean: 3.11 		Best: 39.75 		N:6
+Roof           		Mean: 5.66 		Best: 37.5 		N:4
+Rose           		Mean: 2.48 		Best: 37.25 		N:7
+Marte          		Mean: 1.23 		Best: 36.25 		N:10
+Goodson        		Mean: 2.84 		Best: 32.67 		N:5
+Wimbush        		Mean: 1.55 		Best: 31.53 		N:8
+Wenrich        		Mean: 1.92 		Best: 10.0 		N:5
+Alfonso        		Mean: 1.39 		Best: 10.0 		N:7
+
+########## REPORT GEN: 19 ##########
+SPECIES: 
+Marte          		Mean: 5.81 		Best: 70.64 		N:5
+Rose           		Mean: 2.63 		Best: 60.77 		N:8
+Wenrich        		Mean: 1.83 		Best: 43.0 		N:9
+Weisenfluh     		Mean: 3.36 		Best: 41.5 		N:6
+Hickman        		Mean: 7.93 		Best: 35.6 		N:3
+Alfonso        		Mean: 1.87 		Best: 33.75 		N:7
+Wimbush        		Mean: 3.01 		Best: 27.36 		N:5
+English        		Mean: 1.93 		Best: 10.25 		N:5
+Vandercook     		Mean: 1.07 		Best: 10.0 		N:9
+Roof           		Mean: 2.35 		Best: 9.75 		N:4
+Goodson        		Mean: 1.18 		Best: 9.75 		N:8
+
+########## REPORT GEN: 20 ##########
+SPECIES: 
+Goodson        		Mean: 3.9  		Best: 70.64 		N:7
+Wenrich        		Mean: 1.96 		Best: 68.86 		N:9
+Alfonso        		Mean: 2.15 		Best: 43.75 		N:9
+Rose           		Mean: 2.47 		Best: 41.12 		N:7
+Roof           		Mean: 2.38 		Best: 38.5 		N:6
+Hickman        		Mean: 1.39 		Best: 36.75 		N:9
+Vandercook     		Mean: 1.28 		Best: 34.54 		N:12
+Weisenfluh     		Mean: 3.88 		Best: 33.31 		N:4
+English        		Mean: 1.89 		Best: 10.0 		N:5
+Wimbush        		Mean: 2.32 		Best: 9.5 		N:4
+
+########## REPORT GEN: 21 ##########
+SPECIES: 
+Marte          		Mean: 6.42 		Best: 73.0 		N:4
+English        		Mean: 2.46 		Best: 56.27 		N:8
+Hickman        		Mean: 3.41 		Best: 46.75 		N:5
+Roof           		Mean: 2.36 		Best: 44.0 		N:7
+Weisenfluh     		Mean: 3.56 		Best: 43.74 		N:6
+Rose           		Mean: 3.27 		Best: 42.08 		N:5
+Alfonso        		Mean: 6.95 		Best: 31.33 		N:3
+Goodson        		Mean: 2.39 		Best: 9.75 		N:4
+Wenrich        		Mean: 3.2  		Best: 9.75 		N:3
+
+########## REPORT GEN: 22 ##########
+SPECIES: 
+Weisenfluh     		Mean: 17.16 		Best: 105.29 		N:3
+Wimbush        		Mean: 6.57 		Best: 75.12 		N:4
+Marte          		Mean: 6.12 		Best: 68.59 		N:4
+Rose           		Mean: 5.32 		Best: 61.2 		N:5
+Roof           		Mean: 11.18 		Best: 57.08 		N:3
+Wenrich        		Mean: 4.6  		Best: 48.33 		N:6
+Vandercook     		Mean: 6.42 		Best: 37.42 		N:3
+Hickman        		Mean: 5.62 		Best: 32.0 		N:3
+English        		Mean: 1.61 		Best: 10.25 		N:6
+Alfonso        		Mean: 2.33 		Best: 10.0 		N:4
+Goodson        		Mean: 3.16 		Best: 9.75 		N:3
+
+########## REPORT GEN: 23 ##########
+SPECIES: 
+Vandercook     		Mean: 7.16 		Best: 85.22 		N:4
+Hickman        		Mean: 3.23 		Best: 71.38 		N:9
+Weisenfluh     		Mean: 2.42 		Best: 61.66 		N:10
+Alfonso        		Mean: 3.94 		Best: 60.08 		N:5
+Rose           		Mean: 3.53 		Best: 49.25 		N:5
+Goodson        		Mean: 10.27 		Best: 42.25 		N:3
+Marte          		Mean: 3.09 		Best: 39.63 		N:6
+Wenrich        		Mean: 2.17 		Best: 29.5 		N:7
+Wimbush        		Mean: 1.59 		Best: 10.75 		N:6
+English        		Mean: 1.6  		Best: 10.0 		N:6
+Roof           		Mean: 4.79 		Best: 9.75 		N:2
+
+########## REPORT GEN: 24 ##########
+SPECIES: 
+Weisenfluh     		Mean: 4.89 		Best: 84.57 		N:6
+Alfonso        		Mean: 3.49 		Best: 76.59 		N:6
+Hickman        		Mean: 2.55 		Best: 72.75 		N:11
+Marte          		Mean: 6.27 		Best: 71.79 		N:4
+Wenrich        		Mean: 11.01 		Best: 50.0 		N:3
+English        		Mean: 6.52 		Best: 45.0 		N:4
+Rose           		Mean: 2.36 		Best: 35.43 		N:7
+Goodson        		Mean: 2.34 		Best: 34.0 		N:6
+Vandercook     		Mean: 10.34 		Best: 31.68 		N:2
+Wimbush        		Mean: 1.23 		Best: 10.75 		N:8
+Roof           		Mean: 1.36 		Best: 10.0 		N:7
+
+########## REPORT GEN: 25 ##########
+SPECIES: 
+Marte          		Mean: 7.67 		Best: 150.98 		N:5
+Roof           		Mean: 14.64 		Best: 135.76 		N:4
+Wenrich        		Mean: 2.38 		Best: 68.34 		N:11
+Alfonso        		Mean: 4.15 		Best: 67.96 		N:6
+Weisenfluh     		Mean: 2.86 		Best: 55.25 		N:6
+Hickman        		Mean: 3.55 		Best: 43.48 		N:6
+Goodson        		Mean: 2.46 		Best: 41.54 		N:6
+Rose           		Mean: 6.1  		Best: 40.08 		N:4
+English        		Mean: 2.78 		Best: 31.51 		N:5
+Vandercook     		Mean: 2.43 		Best: 22.53 		N:5
+Wimbush        		Mean: 2.56 		Best: 10.75 		N:4
+
+########## REPORT GEN: 26 ##########
+SPECIES: 
+Rose           		Mean: 3.59 		Best: 110.86 		N:9
+Alfonso        		Mean: 4.31 		Best: 108.47 		N:8
+Hickman        		Mean: 5.38 		Best: 92.95 		N:5
+Wenrich        		Mean: 2.9  		Best: 68.87 		N:9
+Roof           		Mean: 5.71 		Best: 60.67 		N:4
+Goodson        		Mean: 2.1  		Best: 51.5 		N:9
+English        		Mean: 2.68 		Best: 51.27 		N:8
+Wimbush        		Mean: 6.92 		Best: 44.1 		N:3
+Marte          		Mean: 3.18 		Best: 40.01 		N:5
+Weisenfluh     		Mean: 1.93 		Best: 10.25 		N:5
+Vandercook     		Mean: 4.85 		Best: 9.75 		N:2
+
+########## REPORT GEN: 27 ##########
+SPECIES: 
+Rose           		Mean: 4.12 		Best: 99.83 		N:6
+English        		Mean: 4.12 		Best: 99.12 		N:6
+Marte          		Mean: 3.63 		Best: 88.49 		N:8
+Goodson        		Mean: 1.39 		Best: 61.9 		N:12
+Roof           		Mean: 4.0  		Best: 60.84 		N:5
+Alfonso        		Mean: 4.11 		Best: 60.0 		N:6
+Wenrich        		Mean: 1.56 		Best: 56.03 		N:11
+Vandercook     		Mean: 2.04 		Best: 43.06 		N:7
+Hickman        		Mean: 3.1  		Best: 39.93 		N:5
+Wimbush        		Mean: 1.61 		Best: 10.0 		N:6
+Weisenfluh     		Mean: 4.63 		Best: 9.5 		N:2
+
+########## REPORT GEN: 28 ##########
+SPECIES: 
+Goodson        		Mean: 2.61 		Best: 129.22 		N:12
+Alfonso        		Mean: 2.17 		Best: 100.04 		N:9
+Wenrich        		Mean: 5.47 		Best: 98.47 		N:5
+Weisenfluh     		Mean: 2.07 		Best: 91.31 		N:9
+Rose           		Mean: 2.25 		Best: 66.65 		N:9
+Roof           		Mean: 0.97 		Best: 37.06 		N:14
+Hickman        		Mean: 0.94 		Best: 10.25 		N:10
+English        		Mean: 1.56 		Best: 9.75 		N:6
+Vandercook     		Mean: 1.88 		Best: 9.75 		N:5
+Wimbush        		Mean: 1.87 		Best: 9.75 		N:5
+Marte          		Mean: 2.35 		Best: 9.5 		N:4
+
+########## REPORT GEN: 29 ##########
+SPECIES: 
+Roof           		Mean: 3.86 		Best: 130.54 		N:7
+Wenrich        		Mean: 2.39 		Best: 116.73 		N:9
+Vandercook     		Mean: 5.77 		Best: 106.64 		N:5
+Goodson        		Mean: 4.27 		Best: 66.65 		N:5
+Alfonso        		Mean: 2.23 		Best: 51.89 		N:7
+Rose           		Mean: 1.11 		Best: 41.5 		N:11
+Wimbush        		Mean: 0.67 		Best: 10.0 		N:14
+Weisenfluh     		Mean: 1.06 		Best: 9.75 		N:9
+Hickman        		Mean: 1.15 		Best: 9.75 		N:8
+Marte          		Mean: 2.37 		Best: 9.75 		N:4
+English        		Mean: 1.55 		Best: 9.5 		N:6
+
+########## REPORT GEN: 30 ##########
+SPECIES: 
+Marte          		Mean: 4.9  		Best: 148.41 		N:7
+Weisenfluh     		Mean: 13.9 		Best: 106.21 		N:3
+Vandercook     		Mean: 4.85 		Best: 76.96 		N:6
+Goodson        		Mean: 3.51 		Best: 66.0 		N:7
+Alfonso        		Mean: 1.43 		Best: 39.75 		N:9
+Hickman        		Mean: 0.87 		Best: 10.25 		N:11
+English        		Mean: 1.07 		Best: 10.0 		N:9
+Roof           		Mean: 0.78 		Best: 9.75 		N:12
+Wenrich        		Mean: 1.16 		Best: 9.75 		N:8
+Rose           		Mean: 1.36 		Best: 9.75 		N:7
+Wimbush        		Mean: 1.55 		Best: 9.75 		N:6
+
+########## REPORT GEN: 31 ##########
+SPECIES: 
+Goodson        		Mean: 5.38 		Best: 204.96 		N:7
+Roof           		Mean: 4.73 		Best: 113.01 		N:7
+Vandercook     		Mean: 3.33 		Best: 71.16 		N:6
+Wenrich        		Mean: 3.6  		Best: 65.77 		N:7
+Hickman        		Mean: 4.26 		Best: 39.75 		N:4
+Marte          		Mean: 3.14 		Best: 39.5 		N:5
+Weisenfluh     		Mean: 1.6  		Best: 10.25 		N:6
+Alfonso        		Mean: 0.86 		Best: 10.0 		N:11
+Rose           		Mean: 1.55 		Best: 10.0 		N:6
+English        		Mean: 1.88 		Best: 9.75 		N:5
+Wimbush        		Mean: 1.56 		Best: 9.5 		N:6
+
+########## REPORT GEN: 32 ##########
+SPECIES: 
+Hickman        		Mean: 3.43 		Best: 151.0 		N:8
+Goodson        		Mean: 4.1  		Best: 149.88 		N:8
+Alfonso        		Mean: 1.62 		Best: 74.01 		N:10
+Vandercook     		Mean: 1.87 		Best: 52.1 		N:8
+Roof           		Mean: 1.5  		Best: 44.25 		N:11
+Wimbush        		Mean: 1.64 		Best: 37.81 		N:8
+English        		Mean: 2.3  		Best: 34.5 		N:6
+Wenrich        		Mean: 0.87 		Best: 10.0 		N:11
+Marte          		Mean: 1.92 		Best: 10.0 		N:5
+Weisenfluh     		Mean: 1.91 		Best: 9.75 		N:5
+Rose           		Mean: 1.05 		Best: 9.75 		N:9
+
+########## REPORT GEN: 33 ##########
+SPECIES: 
+Marte          		Mean: 3.01 		Best: 124.61 		N:8
+Alfonso        		Mean: 2.64 		Best: 101.49 		N:8
+Vandercook     		Mean: 2.61 		Best: 75.47 		N:11
+Roof           		Mean: 1.79 		Best: 72.65 		N:10
+Weisenfluh     		Mean: 1.96 		Best: 58.79 		N:8
+English        		Mean: 1.94 		Best: 56.5 		N:8
+Rose           		Mean: 1.75 		Best: 44.91 		N:8
+Wenrich        		Mean: 1.39 		Best: 35.34 		N:9
+Goodson        		Mean: 0.94 		Best: 10.25 		N:10
+Wimbush        		Mean: 1.07 		Best: 10.25 		N:9
+Hickman        		Mean: 1.37 		Best: 10.0 		N:7
+
+########## REPORT GEN: 34 ##########
+SPECIES: 
+Goodson        		Mean: 5.46 		Best: 179.1 		N:7
+Vandercook     		Mean: 4.4  		Best: 157.5 		N:8
+Weisenfluh     		Mean: 1.17 		Best: 130.62 		N:15
+Marte          		Mean: 2.98 		Best: 123.61 		N:8
+English        		Mean: 2.92 		Best: 120.1 		N:8
+Hickman        		Mean: 1.25 		Best: 60.16 		N:12
+Wenrich        		Mean: 4.29 		Best: 40.25 		N:4
+Alfonso        		Mean: 2.13 		Best: 31.45 		N:7
+Wimbush        		Mean: 0.81 		Best: 10.75 		N:12
+Rose           		Mean: 1.2  		Best: 10.0 		N:8
+Roof           		Mean: 1.9  		Best: 9.75 		N:5
+
+########## REPORT GEN: 35 ##########
+SPECIES: 
+Weisenfluh     		Mean: 1.94 		Best: 140.34 		N:11
+Goodson        		Mean: 3.13 		Best: 115.13 		N:8
+Rose           		Mean: 3.4  		Best: 108.96 		N:7
+Wimbush        		Mean: 4.57 		Best: 108.47 		N:7
+English        		Mean: 3.2  		Best: 87.46 		N:8
+Marte          		Mean: 2.3  		Best: 55.09 		N:7
+Vandercook     		Mean: 1.84 		Best: 51.39 		N:9
+Roof           		Mean: 2.6  		Best: 43.67 		N:7
+Alfonso        		Mean: 0.98 		Best: 37.33 		N:12
+Hickman        		Mean: 1.37 		Best: 10.0 		N:7
+Wenrich        		Mean: 0.95 		Best: 10.0 		N:10
+
+########## REPORT GEN: 36 ##########
+SPECIES: 
+Rose           		Mean: 4.46 		Best: 200.27 		N:10
+Marte          		Mean: 4.17 		Best: 154.75 		N:9
+Vandercook     		Mean: 3.15 		Best: 142.97 		N:9
+Wimbush        		Mean: 1.89 		Best: 133.27 		N:11
+Alfonso        		Mean: 2.22 		Best: 73.83 		N:8
+Roof           		Mean: 2.55 		Best: 68.36 		N:7
+Hickman        		Mean: 1.94 		Best: 57.92 		N:8
+Weisenfluh     		Mean: 2.18 		Best: 57.75 		N:8
+Goodson        		Mean: 1.54 		Best: 49.6 		N:9
+English        		Mean: 0.95 		Best: 10.25 		N:10
+Wenrich        		Mean: 1.37 		Best: 10.0 		N:7
+
+########## REPORT GEN: 37 ##########
+SPECIES: 
+Wenrich        		Mean: 5.61 		Best: 154.91 		N:7
+Goodson        		Mean: 1.78 		Best: 148.03 		N:13
+Alfonso        		Mean: 2.1  		Best: 124.77 		N:10
+Weisenfluh     		Mean: 3.55 		Best: 122.94 		N:8
+Rose           		Mean: 2.05 		Best: 121.96 		N:12
+English        		Mean: 5.47 		Best: 116.39 		N:6
+Marte          		Mean: 3.09 		Best: 89.94 		N:8
+Wimbush        		Mean: 1.17 		Best: 21.61 		N:9
+Roof           		Mean: 1.05 		Best: 10.0 		N:9
+Vandercook     		Mean: 0.77 		Best: 9.75 		N:12
+Hickman        		Mean: 4.85 		Best: 9.75 		N:2
+
+########## REPORT GEN: 38 ##########
+SPECIES: 
+Roof           		Mean: 5.23 		Best: 152.73 		N:7
+English        		Mean: 3.98 		Best: 144.32 		N:8
+Goodson        		Mean: 3.04 		Best: 132.0 		N:11
+Vandercook     		Mean: 5.02 		Best: 130.9 		N:6
+Rose           		Mean: 4.89 		Best: 130.53 		N:7
+Wenrich        		Mean: 3.16 		Best: 98.94 		N:7
+Weisenfluh     		Mean: 1.14 		Best: 51.75 		N:13
+Wimbush        		Mean: 0.94 		Best: 10.25 		N:10
+Marte          		Mean: 1.61 		Best: 10.0 		N:6
+Alfonso        		Mean: 1.89 		Best: 9.5 		N:5
+Hickman        		Mean: 2.3  		Best: 9.25 		N:4
+
+########## REPORT GEN: 39 ##########
+SPECIES: 
+Roof           		Mean: 2.67 		Best: 151.26 		N:15
+Wimbush        		Mean: 2.3  		Best: 144.7 		N:10
+Goodson        		Mean: 3.02 		Best: 125.56 		N:8
+Rose           		Mean: 3.15 		Best: 123.08 		N:9
+Alfonso        		Mean: 4.54 		Best: 115.81 		N:6
+Vandercook     		Mean: 3.45 		Best: 76.48 		N:6
+Hickman        		Mean: 0.85 		Best: 75.24 		N:16
+Marte          		Mean: 0.94 		Best: 11.46 		N:10
+English        		Mean: 1.18 		Best: 10.0 		N:8
+Wenrich        		Mean: 3.19 		Best: 9.75 		N:3
+Weisenfluh     		Mean: 1.87 		Best: 9.5 		N:5
+
+########## REPORT GEN: 40 ##########
+SPECIES: 
+Hickman        		Mean: 7.55 		Best: 163.57 		N:6
+Wenrich        		Mean: 3.62 		Best: 162.79 		N:8
+Wimbush        		Mean: 4.43 		Best: 158.98 		N:7
+Rose           		Mean: 3.88 		Best: 121.06 		N:10
+Goodson        		Mean: 1.32 		Best: 107.82 		N:13
+Alfonso        		Mean: 1.52 		Best: 107.7 		N:12
+Roof           		Mean: 4.8  		Best: 48.16 		N:4
+Vandercook     		Mean: 0.98 		Best: 12.88 		N:10
+English        		Mean: 1.22 		Best: 10.25 		N:8
+Weisenfluh     		Mean: 1.05 		Best: 10.25 		N:9
+Marte          		Mean: 1.56 		Best: 9.75 		N:6
+
+########## REPORT GEN: 41 ##########
+SPECIES: 
+English        		Mean: 2.16 		Best: 162.73 		N:11
+Roof           		Mean: 2.58 		Best: 131.37 		N:9
+Rose           		Mean: 4.85 		Best: 127.33 		N:6
+Goodson        		Mean: 2.98 		Best: 123.77 		N:8
+Hickman        		Mean: 7.25 		Best: 120.43 		N:6
+Alfonso        		Mean: 4.29 		Best: 64.56 		N:6
+Wenrich        		Mean: 1.36 		Best: 51.32 		N:10
+Weisenfluh     		Mean: 3.55 		Best: 49.8 		N:5
+Marte          		Mean: 1.96 		Best: 22.5 		N:6
+Vandercook     		Mean: 0.96 		Best: 10.0 		N:10
+Wimbush        		Mean: 0.94 		Best: 9.75 		N:10
+
+########## REPORT GEN: 42 ##########
+SPECIES: 
+English        		Mean: 10.12 		Best: 165.22 		N:5
+Wenrich        		Mean: 2.96 		Best: 127.75 		N:9
+Goodson        		Mean: 2.41 		Best: 118.48 		N:9
+Roof           		Mean: 4.18 		Best: 103.69 		N:9
+Marte          		Mean: 1.31 		Best: 45.21 		N:10
+Vandercook     		Mean: 1.38 		Best: 10.5 		N:7
+Alfonso        		Mean: 1.19 		Best: 10.0 		N:8
+Weisenfluh     		Mean: 1.38 		Best: 10.0 		N:7
+Rose           		Mean: 1.17 		Best: 9.75 		N:8
+Hickman        		Mean: 0.92 		Best: 9.5 		N:10
+Wimbush        		Mean: 1.54 		Best: 9.5 		N:6
+
+########## REPORT GEN: 43 ##########
+SPECIES: 
+Roof           		Mean: 4.67 		Best: 136.84 		N:10
+English        		Mean: 1.53 		Best: 115.48 		N:12
+Wimbush        		Mean: 2.32 		Best: 110.62 		N:9
+Weisenfluh     		Mean: 2.71 		Best: 107.26 		N:9
+Marte          		Mean: 13.59 		Best: 102.3 		N:3
+Alfonso        		Mean: 4.11 		Best: 99.39 		N:6
+Wenrich        		Mean: 1.89 		Best: 10.0 		N:5
+Goodson        		Mean: 1.88 		Best: 9.75 		N:5
+Rose           		Mean: 1.31 		Best: 9.75 		N:7
+Hickman        		Mean: 3.12 		Best: 9.75 		N:3
+Vandercook     		Mean: 2.32 		Best: 9.5 		N:4
+
+########## REPORT GEN: 44 ##########
+SPECIES: 
+Wimbush        		Mean: 6.75 		Best: 171.75 		N:7
+Vandercook     		Mean: 5.39 		Best: 160.91 		N:8
+Alfonso        		Mean: 4.77 		Best: 122.27 		N:6
+English        		Mean: 5.93 		Best: 110.01 		N:5
+Marte          		Mean: 3.17 		Best: 97.93 		N:7
+Roof           		Mean: 1.47 		Best: 14.73 		N:7
+Wenrich        		Mean: 1.67 		Best: 10.75 		N:6
+Weisenfluh     		Mean: 2.34 		Best: 10.0 		N:4
+Rose           		Mean: 3.19 		Best: 10.0 		N:3
+Hickman        		Mean: 1.18 		Best: 10.0 		N:8
+Goodson        		Mean: 1.89 		Best: 9.75 		N:5
+
+########## REPORT GEN: 45 ##########
+SPECIES: 
+Hickman        		Mean: 3.58 		Best: 161.04 		N:8
+Wenrich        		Mean: 11.65 		Best: 156.72 		N:4
+Weisenfluh     		Mean: 5.25 		Best: 128.67 		N:9
+Wimbush        		Mean: 1.72 		Best: 111.76 		N:11
+Rose           		Mean: 1.68 		Best: 25.75 		N:7
+Goodson        		Mean: 1.68 		Best: 25.66 		N:7
+Vandercook     		Mean: 0.96 		Best: 22.59 		N:11
+Alfonso        		Mean: 1.57 		Best: 10.0 		N:6
+Roof           		Mean: 1.56 		Best: 10.0 		N:6
+Marte          		Mean: 0.96 		Best: 9.75 		N:10
+English        		Mean: 1.34 		Best: 9.5 		N:7
+
+########## REPORT GEN: 46 ##########
+SPECIES: 
+Weisenfluh     		Mean: 14.39 		Best: 320.43 		N:5
+Goodson        		Mean: 1.51 		Best: 139.36 		N:13
+Hickman        		Mean: 1.71 		Best: 129.2 		N:12
+Rose           		Mean: 3.57 		Best: 117.7 		N:7
+Alfonso        		Mean: 2.85 		Best: 115.17 		N:8
+Wenrich        		Mean: 6.83 		Best: 110.59 		N:5
+Marte          		Mean: 3.06 		Best: 93.97 		N:7
+English        		Mean: 4.38 		Best: 41.61 		N:4
+Roof           		Mean: 5.5  		Best: 31.0 		N:3
+Vandercook     		Mean: 2.39 		Best: 21.22 		N:5
+Wimbush        		Mean: 3.07 		Best: 9.5 		N:3
+
+########## REPORT GEN: 47 ##########
+SPECIES: 
+Vandercook     		Mean: 3.02 		Best: 312.08 		N:12
+Wimbush        		Mean: 2.23 		Best: 179.02 		N:14
+Goodson        		Mean: 23.12 		Best: 150.24 		N:3
+Marte          		Mean: 5.91 		Best: 134.26 		N:6
+Wenrich        		Mean: 6.14 		Best: 114.28 		N:5
+Weisenfluh     		Mean: 4.37 		Best: 69.04 		N:5
+English        		Mean: 2.5  		Best: 41.54 		N:6
+Hickman        		Mean: 2.46 		Best: 40.46 		N:6
+Alfonso        		Mean: 1.41 		Best: 25.32 		N:8
+Roof           		Mean: 1.61 		Best: 10.0 		N:6
+Rose           		Mean: 3.17 		Best: 9.75 		N:3
+
+########## REPORT GEN: 48 ##########
+SPECIES: 
+Vandercook     		Mean: 9.46 		Best: 309.02 		N:7
+Rose           		Mean: 20.4 		Best: 196.55 		N:4
+Wimbush        		Mean: 4.4  		Best: 158.12 		N:7
+Hickman        		Mean: 8.45 		Best: 147.31 		N:5
+Alfonso        		Mean: 7.67 		Best: 104.8 		N:5
+English        		Mean: 1.95 		Best: 80.03 		N:10
+Wenrich        		Mean: 1.9  		Best: 40.56 		N:8
+Marte          		Mean: 1.93 		Best: 38.21 		N:7
+Roof           		Mean: 1.2  		Best: 10.75 		N:8
+Goodson        		Mean: 2.36 		Best: 10.25 		N:4
+
+########## REPORT GEN: 49 ##########
+SPECIES: 
+Marte          		Mean: 22.85 		Best: 493.25 		N:6
+English        		Mean: 12.75 		Best: 172.58 		N:5
+Alfonso        		Mean: 10.41 		Best: 134.95 		N:4
+Vandercook     		Mean: 6.98 		Best: 121.06 		N:6
+Wimbush        		Mean: 2.02 		Best: 41.09 		N:7
+Hickman        		Mean: 2.08 		Best: 38.75 		N:8
+Roof           		Mean: 1.58 		Best: 10.0 		N:6
+Goodson        		Mean: 4.83 		Best: 9.82 		N:2
+Wenrich        		Mean: 1.58 		Best: 9.75 		N:6
+Weisenfluh     		Mean: 1.87 		Best: 9.75 		N:5
+Rose           		Mean: 1.52 		Best: 9.5 		N:6
+
+########## REPORT GEN: 50 ##########
+SPECIES: 
+Vandercook     		Mean: 15.65 		Best: 386.34 		N:6
+Marte          		Mean: 21.59 		Best: 346.01 		N:5
+Wimbush        		Mean: 12.04 		Best: 327.64 		N:6
+Weisenfluh     		Mean: 6.0  		Best: 283.86 		N:8
+Wenrich        		Mean: 4.92 		Best: 161.5 		N:7
+Roof           		Mean: 6.5  		Best: 130.02 		N:7
+Rose           		Mean: 5.88 		Best: 127.2 		N:6
+Goodson        		Mean: 7.99 		Best: 59.16 		N:4
+English        		Mean: 8.08 		Best: 51.58 		N:3
+Hickman        		Mean: 2.15 		Best: 29.65 		N:6
+Alfonso        		Mean: 1.97 		Best: 11.95 		N:5
+
+########## REPORT GEN: 51 ##########
+SPECIES: 
+Roof           		Mean: 12.69 		Best: 498.25 		N:8
+Goodson        		Mean: 4.67 		Best: 317.48 		N:10
+English        		Mean: 14.07 		Best: 308.82 		N:5
+Rose           		Mean: 5.02 		Best: 255.07 		N:9
+Wimbush        		Mean: 10.65 		Best: 245.09 		N:6
+Vandercook     		Mean: 4.21 		Best: 149.0 		N:7
+Hickman        		Mean: 6.29 		Best: 124.76 		N:6
+Weisenfluh     		Mean: 2.63 		Best: 121.33 		N:13
+Marte          		Mean: 15.1 		Best: 117.32 		N:4
+Wenrich        		Mean: 2.34 		Best: 10.0 		N:4
+Alfonso        		Mean: 1.87 		Best: 9.75 		N:5
+
+########## REPORT GEN: 52 ##########
+SPECIES: 
+Weisenfluh     		Mean: 5.0  		Best: 411.5 		N:10
+Wimbush        		Mean: 2.78 		Best: 325.46 		N:13
+Roof           		Mean: 23.42 		Best: 323.81 		N:7
+Goodson        		Mean: 10.2 		Best: 296.79 		N:8
+Marte          		Mean: 2.78 		Best: 106.03 		N:8
+Alfonso        		Mean: 2.57 		Best: 92.94 		N:8
+Hickman        		Mean: 7.76 		Best: 65.24 		N:4
+Vandercook     		Mean: 3.0  		Best: 33.77 		N:5
+English        		Mean: 1.63 		Best: 11.25 		N:6
+Rose           		Mean: 1.19 		Best: 9.75 		N:8
+
+########## REPORT GEN: 53 ##########
+SPECIES: 
+English        		Mean: 49.92 		Best: 432.65 		N:4
+Goodson        		Mean: 27.1 		Best: 347.81 		N:5
+Hickman        		Mean: 12.5 		Best: 332.01 		N:7
+Wenrich        		Mean: 18.19 		Best: 282.38 		N:5
+Weisenfluh     		Mean: 4.23 		Best: 118.44 		N:7
+Wimbush        		Mean: 2.21 		Best: 104.23 		N:9
+Vandercook     		Mean: 4.95 		Best: 103.29 		N:7
+Alfonso        		Mean: 1.75 		Best: 85.27 		N:10
+Marte          		Mean: 9.05 		Best: 78.44 		N:4
+Roof           		Mean: 2.63 		Best: 69.88 		N:9
+Rose           		Mean: 3.94 		Best: 60.35 		N:5
+
+########## REPORT GEN: 54 ##########
+SPECIES: 
+Wenrich        		Mean: 29.06 		Best: 498.5 		N:7
+Weisenfluh     		Mean: 15.27 		Best: 366.75 		N:7
+English        		Mean: 6.56 		Best: 349.93 		N:8
+Rose           		Mean: 6.7  		Best: 225.88 		N:8
+Marte          		Mean: 9.86 		Best: 183.78 		N:6
+Roof           		Mean: 13.43 		Best: 171.35 		N:5
+Vandercook     		Mean: 6.67 		Best: 128.46 		N:5
+Goodson        		Mean: 9.07 		Best: 114.96 		N:4
+Alfonso        		Mean: 5.83 		Best: 104.94 		N:5
+Wimbush        		Mean: 10.3 		Best: 73.32 		N:3
+Hickman        		Mean: 1.97 		Best: 38.14 		N:7
+
+########## REPORT GEN: 55 ##########
+SPECIES: 
+Rose           		Mean: 22.0 		Best: 496.25 		N:7
+English        		Mean: 8.3  		Best: 346.03 		N:7
+Goodson        		Mean: 16.44 		Best: 340.4 		N:8
+Roof           		Mean: 37.78 		Best: 325.02 		N:5
+Wenrich        		Mean: 10.56 		Best: 298.38 		N:9
+Weisenfluh     		Mean: 5.52 		Best: 282.79 		N:8
+Alfonso        		Mean: 3.75 		Best: 143.98 		N:9
+Hickman        		Mean: 1.7  		Best: 111.5 		N:11
+Wimbush        		Mean: 3.0  		Best: 107.32 		N:8
+Vandercook     		Mean: 1.57 		Best: 9.75 		N:6
+Marte          		Mean: 3.08 		Best: 9.25 		N:3
+
+########## REPORT GEN: 56 ##########
+SPECIES: 
+Weisenfluh     		Mean: 31.2 		Best: 331.13 		N:4
+Vandercook     		Mean: 5.05 		Best: 312.59 		N:9
+Wenrich        		Mean: 6.4  		Best: 310.08 		N:9
+Alfonso        		Mean: 4.55 		Best: 309.32 		N:12
+Roof           		Mean: 9.75 		Best: 300.6 		N:6
+Hickman        		Mean: 13.26 		Best: 291.55 		N:6
+Goodson        		Mean: 74.95 		Best: 289.69 		N:2
+Rose           		Mean: 3.76 		Best: 288.33 		N:10
+Marte          		Mean: 6.94 		Best: 270.54 		N:8
+Wimbush        		Mean: 7.21 		Best: 141.23 		N:5
+English        		Mean: 8.63 		Best: 137.77 		N:5
+
+########## REPORT GEN: 57 ##########
+SPECIES: 
+Weisenfluh     		Mean: 15.65 		Best: 358.62 		N:7
+Marte          		Mean: 18.44 		Best: 341.18 		N:6
+Goodson        		Mean: 32.02 		Best: 329.54 		N:4
+Vandercook     		Mean: 9.85 		Best: 291.42 		N:8
+Rose           		Mean: 21.49 		Best: 286.78 		N:6
+Roof           		Mean: 62.94 		Best: 241.67 		N:2
+Hickman        		Mean: 6.71 		Best: 124.1 		N:6
+Wenrich        		Mean: 2.93 		Best: 56.81 		N:6
+Alfonso        		Mean: 2.36 		Best: 9.75 		N:4
+English        		Mean: 1.89 		Best: 9.75 		N:5
+Wimbush        		Mean: 4.52 		Best: 9.0 		N:2
+
+########## REPORT GEN: 58 ##########
+SPECIES: 
+Goodson        		Mean: 27.39 		Best: 407.25 		N:4
+Vandercook     		Mean: 44.84 		Best: 391.04 		N:4
+Weisenfluh     		Mean: 19.06 		Best: 345.13 		N:6
+Wenrich        		Mean: 18.29 		Best: 328.27 		N:6
+Marte          		Mean: 17.63 		Best: 311.18 		N:6
+English        		Mean: 13.15 		Best: 294.9 		N:8
+Wimbush        		Mean: 9.56 		Best: 293.39 		N:6
+Rose           		Mean: 16.79 		Best: 238.98 		N:4
+Roof           		Mean: 61.73 		Best: 236.49 		N:2
+Alfonso        		Mean: 6.25 		Best: 234.84 		N:9
+Hickman        		Mean: 2.29 		Best: 9.5 		N:4
+
+########## REPORT GEN: 59 ##########
+SPECIES: 
+Alfonso        		Mean: 14.67 		Best: 486.25 		N:10
+Goodson        		Mean: 13.15 		Best: 425.08 		N:6
+Vandercook     		Mean: 25.77 		Best: 329.74 		N:5
+Weisenfluh     		Mean: 8.07 		Best: 319.33 		N:9
+Marte          		Mean: 13.86 		Best: 314.89 		N:7
+Rose           		Mean: 22.95 		Best: 312.2 		N:5
+English        		Mean: 11.28 		Best: 293.62 		N:6
+Roof           		Mean: 22.06 		Best: 272.79 		N:4
+Wimbush        		Mean: 4.37 		Best: 109.16 		N:6
+Wenrich        		Mean: 2.34 		Best: 9.75 		N:4
+Hickman        		Mean: 2.32 		Best: 9.75 		N:4
+
+########## REPORT GEN: 60 ##########
+SPECIES: 
+Marte          		Mean: 11.45 		Best: 356.42 		N:11
+Rose           		Mean: 19.23 		Best: 348.83 		N:6
+Weisenfluh     		Mean: 10.03 		Best: 340.14 		N:12
+Goodson        		Mean: 10.66 		Best: 325.04 		N:8
+Roof           		Mean: 15.4 		Best: 323.74 		N:8
+English        		Mean: 14.35 		Best: 276.62 		N:5
+Alfonso        		Mean: 5.67 		Best: 119.92 		N:7
+Hickman        		Mean: 2.68 		Best: 49.3 		N:6
+Wenrich        		Mean: 3.45 		Best: 47.64 		N:5
+Wimbush        		Mean: 2.53 		Best: 11.75 		N:4
+Vandercook     		Mean: 1.34 		Best: 9.75 		N:7
+
+########## REPORT GEN: 61 ##########
+SPECIES: 
+Vandercook     		Mean: 4.96 		Best: 352.04 		N:13
+Marte          		Mean: 12.5 		Best: 334.1 		N:6
+Rose           		Mean: 7.14 		Best: 320.09 		N:11
+Hickman        		Mean: 6.35 		Best: 311.82 		N:13
+Roof           		Mean: 6.12 		Best: 286.15 		N:8
+English        		Mean: 5.17 		Best: 274.37 		N:9
+Weisenfluh     		Mean: 6.76 		Best: 270.93 		N:7
+Wenrich        		Mean: 31.16 		Best: 114.39 		N:2
+Goodson        		Mean: 3.08 		Best: 61.46 		N:6
+Wimbush        		Mean: 1.61 		Best: 10.0 		N:6
+Alfonso        		Mean: 2.36 		Best: 9.5 		N:4
+
+########## REPORT GEN: 62 ##########
+SPECIES: 
+Hickman        		Mean: 6.44 		Best: 368.85 		N:11
+Vandercook     		Mean: 14.92 		Best: 352.63 		N:6
+Alfonso        		Mean: 4.96 		Best: 322.21 		N:9
+English        		Mean: 13.59 		Best: 319.31 		N:7
+Rose           		Mean: 7.02 		Best: 136.6 		N:5
+Marte          		Mean: 3.55 		Best: 80.31 		N:6
+Weisenfluh     		Mean: 5.61 		Best: 61.35 		N:4
+Wenrich        		Mean: 3.27 		Best: 10.0 		N:3
+Wimbush        		Mean: 1.16 		Best: 10.0 		N:8
+Roof           		Mean: 2.35 		Best: 9.75 		N:4
+
+########## REPORT GEN: 63 ##########
+SPECIES: 
+Vandercook     		Mean: 9.12 		Best: 336.73 		N:7
+Wimbush        		Mean: 27.07 		Best: 310.79 		N:5
+Wenrich        		Mean: 9.79 		Best: 291.64 		N:8
+Weisenfluh     		Mean: 21.71 		Best: 273.92 		N:4
+English        		Mean: 6.75 		Best: 271.01 		N:7
+Marte          		Mean: 1.37 		Best: 12.25 		N:7
+Goodson        		Mean: 0.94 		Best: 10.25 		N:10
+Rose           		Mean: 1.06 		Best: 10.0 		N:9
+Roof           		Mean: 1.58 		Best: 10.0 		N:6
+Alfonso        		Mean: 1.52 		Best: 9.75 		N:6
+Hickman        		Mean: 2.33 		Best: 9.5 		N:4
+
+########## REPORT GEN: 64 ##########
+SPECIES: 
+Wimbush        		Mean: 21.62 		Best: 500.0 		N:5
+Goodson        		Mean: 7.07 		Best: 492.75 		N:9
+Rose           		Mean: 9.62 		Best: 412.9 		N:7
+Vandercook     		Mean: 11.16 		Best: 351.61 		N:6
+Alfonso        		Mean: 7.6  		Best: 313.06 		N:7
+Marte          		Mean: 2.25 		Best: 76.78 		N:8
+English        		Mean: 3.13 		Best: 53.36 		N:7
+Weisenfluh     		Mean: 1.56 		Best: 10.0 		N:6
+Wenrich        		Mean: 3.21 		Best: 9.75 		N:3
+Roof           		Mean: 3.1  		Best: 9.75 		N:3
+Hickman        		Mean: 1.52 		Best: 9.5 		N:6
+

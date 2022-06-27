@@ -1,0 +1,566 @@
+########## REPORT GEN: 2 ##########
+SPECIES: 
+Fellin         		Mean: 7.93 		Best: 48.5 		N:3
+Mathews        		Mean: 2.99 		Best: 43.5 		N:6
+Sullivan       		Mean: 1.12 		Best: 27.49 		N:11
+Devotie        		Mean: 8.99 		Best: 26.79 		N:2
+Rollins        		Mean: 0.52 		Best: 18.87 		N:21
+Odle           		Mean: 0.82 		Best: 11.75 		N:13
+Bryant         		Mean: 2.78 		Best: 11.75 		N:4
+Dilks          		Mean: 3.62 		Best: 11.5 		N:3
+Greene         		Mean: 5.45 		Best: 11.0 		N:2
+Curry          		Mean: 4.96 		Best: 10.5 		N:2
+Gandee         		Mean: 4.75 		Best: 9.5 		N:2
+
+########## REPORT GEN: 3 ##########
+SPECIES: 
+Devotie        		Mean: 4.34 		Best: 47.75 		N:6
+Bryant         		Mean: 12.27 		Best: 37.31 		N:2
+Darley         		Mean: 2.47 		Best: 34.15 		N:6
+Suen           		Mean: 16.59 		Best: 32.5 		N:2
+Valen          		Mean: 2.25 		Best: 31.08 		N:7
+Sullivan       		Mean: 1.31 		Best: 11.5 		N:8
+Fellin         		Mean: 1.82 		Best: 11.25 		N:6
+Davenport      		Mean: 2.16 		Best: 11.25 		N:5
+Dilks          		Mean: 2.68 		Best: 11.0 		N:4
+Greene         		Mean: 2.58 		Best: 10.5 		N:4
+Gandee         		Mean: 2.48 		Best: 10.25 		N:4
+Mathews        		Mean: 5.01 		Best: 9.75 		N:2
+Curry          		Mean: 2.39 		Best: 9.75 		N:4
+
+########## REPORT GEN: 4 ##########
+SPECIES: 
+Mathews        		Mean: 4.52 		Best: 47.25 		N:6
+Suen           		Mean: 2.69 		Best: 46.75 		N:8
+Dilks          		Mean: 4.19 		Best: 43.75 		N:5
+Darley         		Mean: 3.18 		Best: 37.26 		N:5
+Davenport      		Mean: 6.65 		Best: 36.57 		N:3
+Sullivan       		Mean: 2.31 		Best: 31.16 		N:7
+Valen          		Mean: 3.04 		Best: 16.53 		N:4
+Devotie        		Mean: 5.46 		Best: 11.0 		N:2
+Greene         		Mean: 2.5  		Best: 10.5 		N:4
+Curry          		Mean: 2.44 		Best: 10.25 		N:4
+Gandee         		Mean: 3.25 		Best: 10.0 		N:3
+
+########## REPORT GEN: 5 ##########
+SPECIES: 
+Sullivan       		Mean: 1.91 		Best: 57.68 		N:11
+Mathews        		Mean: 2.82 		Best: 48.25 		N:7
+Darley         		Mean: 7.07 		Best: 46.0 		N:4
+Davenport      		Mean: 2.61 		Best: 39.29 		N:6
+Bryant         		Mean: 4.25 		Best: 37.06 		N:5
+Dilks          		Mean: 2.66 		Best: 32.18 		N:6
+Devotie        		Mean: 1.26 		Best: 29.13 		N:10
+Suen           		Mean: 2.67 		Best: 25.95 		N:5
+Valen          		Mean: 5.38 		Best: 11.5 		N:2
+Curry          		Mean: 2.33 		Best: 10.25 		N:4
+
+########## REPORT GEN: 6 ##########
+SPECIES: 
+Valen          		Mean: 8.0  		Best: 49.42 		N:3
+Curry          		Mean: 6.61 		Best: 47.25 		N:4
+Suen           		Mean: 3.79 		Best: 41.75 		N:6
+Devotie        		Mean: 3.47 		Best: 41.6 		N:6
+Dilks          		Mean: 2.24 		Best: 41.28 		N:8
+Bryant         		Mean: 4.74 		Best: 34.0 		N:4
+Darley         		Mean: 4.03 		Best: 31.51 		N:4
+Sullivan       		Mean: 2.79 		Best: 28.5 		N:5
+Davenport      		Mean: 2.21 		Best: 20.48 		N:6
+Mathews        		Mean: 3.69 		Best: 11.75 		N:3
+Greene         		Mean: 5.64 		Best: 11.5 		N:2
+Gandee         		Mean: 3.29 		Best: 10.75 		N:3
+
+########## REPORT GEN: 7 ##########
+SPECIES: 
+Darley         		Mean: 6.51 		Best: 58.11 		N:5
+Mathews        		Mean: 1.95 		Best: 46.0 		N:10
+Suen           		Mean: 6.51 		Best: 45.45 		N:4
+Devotie        		Mean: 1.94 		Best: 44.34 		N:10
+Sullivan       		Mean: 2.68 		Best: 40.87 		N:8
+Valen          		Mean: 1.75 		Best: 40.25 		N:8
+Curry          		Mean: 3.14 		Best: 36.71 		N:5
+Gandee         		Mean: 2.0  		Best: 34.91 		N:7
+Greene         		Mean: 2.4  		Best: 32.3 		N:7
+Davenport      		Mean: 2.88 		Best: 16.0 		N:4
+Dilks          		Mean: 3.46 		Best: 11.0 		N:3
+
+########## REPORT GEN: 8 ##########
+SPECIES: 
+Darley         		Mean: 3.23 		Best: 48.0 		N:10
+Devotie        		Mean: 1.95 		Best: 45.25 		N:9
+Curry          		Mean: 2.59 		Best: 43.0 		N:7
+Davenport      		Mean: 2.45 		Best: 43.0 		N:9
+Sullivan       		Mean: 2.59 		Best: 42.75 		N:6
+Dilks          		Mean: 12.13 		Best: 42.07 		N:3
+Bryant         		Mean: 3.52 		Best: 39.92 		N:5
+Gandee         		Mean: 3.32 		Best: 38.9 		N:5
+Suen           		Mean: 3.29 		Best: 35.96 		N:7
+Greene         		Mean: 2.59 		Best: 10.75 		N:4
+Valen          		Mean: 5.2  		Best: 10.5 		N:2
+
+########## REPORT GEN: 9 ##########
+SPECIES: 
+Greene         		Mean: 14.06 		Best: 47.0 		N:3
+Riley          		Mean: 7.17 		Best: 43.75 		N:3
+Gandee         		Mean: 3.24 		Best: 39.55 		N:5
+Suen           		Mean: 5.81 		Best: 38.86 		N:5
+Valen          		Mean: 5.94 		Best: 38.46 		N:5
+Devotie        		Mean: 2.57 		Best: 36.52 		N:7
+Darley         		Mean: 2.59 		Best: 34.03 		N:7
+Bryant         		Mean: 5.71 		Best: 31.55 		N:3
+Sullivan       		Mean: 4.1  		Best: 30.96 		N:4
+Mathews        		Mean: 2.91 		Best: 29.11 		N:5
+Curry          		Mean: 2.8  		Best: 28.71 		N:5
+Davenport      		Mean: 3.27 		Best: 11.0 		N:3
+
+########## REPORT GEN: 10 ##########
+SPECIES: 
+Sullivan       		Mean: 3.26 		Best: 46.0 		N:9
+Suen           		Mean: 5.1  		Best: 43.5 		N:6
+Davenport      		Mean: 4.52 		Best: 42.49 		N:4
+Gandee         		Mean: 5.16 		Best: 36.14 		N:5
+Curry          		Mean: 4.33 		Best: 34.75 		N:5
+Dilks          		Mean: 2.42 		Best: 33.81 		N:7
+Devotie        		Mean: 3.29 		Best: 33.71 		N:6
+Darley         		Mean: 15.43 		Best: 33.1 		N:2
+Bryant         		Mean: 5.72 		Best: 31.96 		N:3
+Greene         		Mean: 3.73 		Best: 29.0 		N:4
+Valen          		Mean: 10.14 		Best: 28.89 		N:2
+Riley          		Mean: 3.63 		Best: 27.76 		N:4
+Mathews        		Mean: 2.26 		Best: 27.25 		N:6
+
+########## REPORT GEN: 11 ##########
+SPECIES: 
+Devotie        		Mean: 5.82 		Best: 52.5 		N:6
+Riley          		Mean: 10.11 		Best: 48.0 		N:3
+Darley         		Mean: 6.09 		Best: 47.53 		N:5
+Bryant         		Mean: 3.28 		Best: 42.82 		N:5
+Dilks          		Mean: 2.81 		Best: 41.0 		N:8
+Sullivan       		Mean: 9.73 		Best: 40.09 		N:3
+Greene         		Mean: 3.34 		Best: 39.67 		N:5
+Davenport      		Mean: 4.41 		Best: 38.82 		N:6
+Suen           		Mean: 2.72 		Best: 38.5 		N:7
+Valen          		Mean: 12.01 		Best: 37.55 		N:2
+Gandee         		Mean: 1.92 		Best: 30.25 		N:7
+Mathews        		Mean: 5.52 		Best: 26.38 		N:3
+Curry          		Mean: 3.58 		Best: 26.25 		N:4
+
+########## REPORT GEN: 12 ##########
+SPECIES: 
+Mathews        		Mean: 3.07 		Best: 48.46 		N:9
+Valen          		Mean: 4.04 		Best: 46.25 		N:6
+Sullivan       		Mean: 2.04 		Best: 44.5 		N:10
+Suen           		Mean: 6.98 		Best: 41.84 		N:3
+Darley         		Mean: 4.91 		Best: 41.0 		N:5
+Riley          		Mean: 1.48 		Best: 40.42 		N:9
+Gandee         		Mean: 2.73 		Best: 39.68 		N:8
+Davenport      		Mean: 12.7 		Best: 39.38 		N:2
+Curry          		Mean: 5.7  		Best: 37.8 		N:4
+Dilks          		Mean: 4.95 		Best: 35.68 		N:5
+Devotie        		Mean: 3.03 		Best: 35.41 		N:6
+Greene         		Mean: 5.18 		Best: 10.75 		N:2
+
+########## REPORT GEN: 13 ##########
+SPECIES: 
+Suen           		Mean: 2.38 		Best: 51.0 		N:10
+Greene         		Mean: 10.32 		Best: 46.75 		N:3
+Gandee         		Mean: 3.61 		Best: 44.75 		N:6
+Davenport      		Mean: 2.1  		Best: 41.5 		N:9
+Curry          		Mean: 1.89 		Best: 41.0 		N:9
+Valen          		Mean: 5.96 		Best: 37.35 		N:4
+Darley         		Mean: 3.57 		Best: 36.64 		N:6
+Sullivan       		Mean: 4.23 		Best: 36.29 		N:6
+Dilks          		Mean: 4.34 		Best: 34.85 		N:5
+Mathews        		Mean: 5.39 		Best: 11.25 		N:2
+Devotie        		Mean: 1.46 		Best: 11.0 		N:7
+
+########## REPORT GEN: 14 ##########
+SPECIES: 
+Greene         		Mean: 13.79 		Best: 47.25 		N:3
+Davenport      		Mean: 4.13 		Best: 45.75 		N:7
+Suen           		Mean: 4.68 		Best: 45.65 		N:4
+Darley         		Mean: 3.96 		Best: 40.19 		N:6
+Gandee         		Mean: 6.67 		Best: 38.5 		N:3
+Devotie        		Mean: 2.62 		Best: 37.98 		N:7
+Dilks          		Mean: 5.31 		Best: 37.25 		N:5
+Curry          		Mean: 2.24 		Best: 33.74 		N:7
+Valen          		Mean: 2.53 		Best: 31.63 		N:6
+Riley          		Mean: 10.52 		Best: 31.56 		N:2
+Sullivan       		Mean: 3.87 		Best: 11.75 		N:3
+
+########## REPORT GEN: 15 ##########
+SPECIES: 
+Mathews        		Mean: 9.92 		Best: 48.0 		N:4
+Greene         		Mean: 2.24 		Best: 46.81 		N:8
+Curry          		Mean: 5.43 		Best: 46.31 		N:5
+Riley          		Mean: 3.14 		Best: 45.67 		N:8
+Davenport      		Mean: 2.7  		Best: 45.22 		N:6
+Valen          		Mean: 2.97 		Best: 42.05 		N:7
+Suen           		Mean: 9.27 		Best: 41.25 		N:3
+Dilks          		Mean: 3.04 		Best: 32.54 		N:5
+Gandee         		Mean: 7.96 		Best: 31.72 		N:3
+Darley         		Mean: 2.61 		Best: 10.5 		N:4
+
+########## REPORT GEN: 16 ##########
+SPECIES: 
+Riley          		Mean: 14.44 		Best: 51.25 		N:3
+Davenport      		Mean: 5.13 		Best: 45.87 		N:5
+Darley         		Mean: 20.25 		Best: 44.64 		N:2
+Devotie        		Mean: 6.5  		Best: 44.25 		N:4
+Sullivan       		Mean: 6.01 		Best: 43.39 		N:4
+Dilks          		Mean: 9.6  		Best: 41.82 		N:4
+Suen           		Mean: 7.58 		Best: 41.0 		N:5
+Valen          		Mean: 3.12 		Best: 39.48 		N:7
+Greene         		Mean: 5.66 		Best: 35.78 		N:4
+Curry          		Mean: 2.9  		Best: 33.84 		N:5
+Mathews        		Mean: 5.24 		Best: 11.0 		N:2
+Gandee         		Mean: 3.28 		Best: 10.0 		N:3
+
+########## REPORT GEN: 17 ##########
+SPECIES: 
+Davenport      		Mean: 6.09 		Best: 54.14 		N:5
+Greene         		Mean: 5.51 		Best: 52.92 		N:6
+Sullivan       		Mean: 7.3  		Best: 48.5 		N:5
+Suen           		Mean: 3.48 		Best: 44.68 		N:8
+Valen          		Mean: 3.83 		Best: 44.5 		N:7
+Dilks          		Mean: 9.46 		Best: 42.75 		N:3
+Gandee         		Mean: 9.52 		Best: 40.06 		N:3
+Curry          		Mean: 3.71 		Best: 39.5 		N:6
+Mathews        		Mean: 2.38 		Best: 38.5 		N:8
+Darley         		Mean: 3.1  		Best: 36.5 		N:6
+Riley          		Mean: 3.67 		Best: 28.14 		N:4
+Devotie        		Mean: 4.38 		Best: 9.0 		N:2
+
+########## REPORT GEN: 18 ##########
+SPECIES: 
+Mathews        		Mean: 2.43 		Best: 84.0 		N:11
+Darley         		Mean: 5.6  		Best: 49.25 		N:5
+Dilks          		Mean: 2.85 		Best: 46.0 		N:9
+Gandee         		Mean: 2.73 		Best: 45.73 		N:7
+Curry          		Mean: 4.58 		Best: 43.75 		N:5
+Valen          		Mean: 2.26 		Best: 42.25 		N:9
+Riley          		Mean: 5.66 		Best: 40.71 		N:5
+Sullivan       		Mean: 2.49 		Best: 32.09 		N:6
+Suen           		Mean: 5.2  		Best: 31.13 		N:4
+Devotie        		Mean: 4.6  		Best: 31.02 		N:5
+Greene         		Mean: 1.42 		Best: 11.0 		N:7
+
+########## REPORT GEN: 19 ##########
+SPECIES: 
+Gandee         		Mean: 4.71 		Best: 56.64 		N:5
+Suen           		Mean: 4.96 		Best: 55.54 		N:6
+Valen          		Mean: 2.02 		Best: 45.55 		N:11
+Devotie        		Mean: 4.25 		Best: 41.25 		N:5
+Greene         		Mean: 2.76 		Best: 40.49 		N:8
+Dilks          		Mean: 2.44 		Best: 38.0 		N:6
+Sullivan       		Mean: 2.36 		Best: 36.88 		N:7
+Darley         		Mean: 3.81 		Best: 36.66 		N:6
+Mathews        		Mean: 6.77 		Best: 36.05 		N:4
+Curry          		Mean: 2.58 		Best: 23.42 		N:5
+Riley          		Mean: 3.31 		Best: 10.75 		N:3
+Davenport      		Mean: 1.05 		Best: 10.25 		N:9
+
+########## REPORT GEN: 20 ##########
+SPECIES: 
+Sullivan       		Mean: 7.74 		Best: 47.26 		N:3
+Riley          		Mean: 4.48 		Best: 46.37 		N:6
+Mathews        		Mean: 3.73 		Best: 46.15 		N:8
+Davenport      		Mean: 1.37 		Best: 45.88 		N:13
+Suen           		Mean: 2.47 		Best: 42.75 		N:7
+Dilks          		Mean: 4.06 		Best: 42.5 		N:6
+Devotie        		Mean: 1.83 		Best: 41.51 		N:10
+Greene         		Mean: 4.29 		Best: 38.75 		N:4
+Valen          		Mean: 1.94 		Best: 35.5 		N:8
+Darley         		Mean: 1.41 		Best: 33.48 		N:9
+Gandee         		Mean: 2.3  		Best: 31.31 		N:6
+Curry          		Mean: 1.45 		Best: 11.5 		N:7
+
+########## REPORT GEN: 21 ##########
+SPECIES: 
+Mathews        		Mean: 3.53 		Best: 66.48 		N:7
+Gandee         		Mean: 1.72 		Best: 52.48 		N:13
+Valen          		Mean: 2.84 		Best: 46.75 		N:8
+Devotie        		Mean: 6.3  		Best: 45.5 		N:4
+Riley          		Mean: 4.79 		Best: 45.27 		N:4
+Greene         		Mean: 6.12 		Best: 44.39 		N:4
+Suen           		Mean: 1.81 		Best: 41.23 		N:10
+Curry          		Mean: 3.13 		Best: 36.02 		N:7
+Dilks          		Mean: 1.21 		Best: 32.84 		N:10
+Davenport      		Mean: 2.7  		Best: 11.75 		N:4
+Sullivan       		Mean: 1.34 		Best: 10.25 		N:7
+Darley         		Mean: 2.95 		Best: 9.0 		N:3
+
+########## REPORT GEN: 22 ##########
+SPECIES: 
+Sullivan       		Mean: 3.45 		Best: 70.52 		N:8
+Gandee         		Mean: 2.03 		Best: 49.5 		N:9
+Mathews        		Mean: 2.19 		Best: 48.2 		N:7
+Valen          		Mean: 1.65 		Best: 45.81 		N:11
+Davenport      		Mean: 2.62 		Best: 44.5 		N:6
+Suen           		Mean: 3.35 		Best: 43.24 		N:5
+Curry          		Mean: 4.66 		Best: 42.5 		N:6
+Darley         		Mean: 4.26 		Best: 40.65 		N:5
+Devotie        		Mean: 2.87 		Best: 37.0 		N:7
+Dilks          		Mean: 2.4  		Best: 36.2 		N:6
+Riley          		Mean: 1.19 		Best: 9.75 		N:8
+Greene         		Mean: 4.76 		Best: 9.75 		N:2
+
+########## REPORT GEN: 23 ##########
+SPECIES: 
+Mathews        		Mean: 1.78 		Best: 53.75 		N:11
+Valen          		Mean: 1.88 		Best: 51.91 		N:10
+Gandee         		Mean: 3.15 		Best: 47.47 		N:8
+Suen           		Mean: 2.55 		Best: 39.57 		N:7
+Sullivan       		Mean: 2.79 		Best: 33.8 		N:6
+Davenport      		Mean: 1.61 		Best: 33.25 		N:9
+Curry          		Mean: 2.31 		Best: 32.69 		N:7
+Devotie        		Mean: 1.57 		Best: 32.08 		N:8
+Darley         		Mean: 3.41 		Best: 29.28 		N:5
+Greene         		Mean: 1.65 		Best: 11.75 		N:6
+Riley          		Mean: 1.17 		Best: 9.75 		N:8
+
+########## REPORT GEN: 24 ##########
+SPECIES: 
+Gandee         		Mean: 5.7  		Best: 52.5 		N:6
+Devotie        		Mean: 2.33 		Best: 49.75 		N:8
+Curry          		Mean: 1.29 		Best: 48.25 		N:13
+Darley         		Mean: 1.98 		Best: 40.04 		N:7
+Mathews        		Mean: 4.04 		Best: 36.94 		N:4
+Davenport      		Mean: 5.76 		Best: 35.08 		N:4
+Riley          		Mean: 3.21 		Best: 20.5 		N:4
+Greene         		Mean: 1.19 		Best: 10.75 		N:8
+Valen          		Mean: 2.54 		Best: 10.5 		N:4
+Sullivan       		Mean: 3.19 		Best: 10.0 		N:3
+Suen           		Mean: 2.31 		Best: 9.75 		N:4
+Dilks          		Mean: 3.12 		Best: 9.5 		N:3
+
+########## REPORT GEN: 25 ##########
+SPECIES: 
+Davenport      		Mean: 2.26 		Best: 53.7 		N:8
+Curry          		Mean: 7.92 		Best: 52.5 		N:3
+Devotie        		Mean: 2.89 		Best: 46.05 		N:8
+Suen           		Mean: 2.03 		Best: 40.9 		N:7
+Sullivan       		Mean: 1.4  		Best: 39.96 		N:12
+Riley          		Mean: 2.38 		Best: 37.83 		N:6
+Dilks          		Mean: 3.08 		Best: 37.75 		N:5
+Mathews        		Mean: 3.08 		Best: 37.38 		N:5
+Valen          		Mean: 1.42 		Best: 37.33 		N:10
+Darley         		Mean: 4.94 		Best: 32.43 		N:4
+Greene         		Mean: 1.84 		Best: 19.5 		N:6
+Gandee         		Mean: 1.37 		Best: 10.25 		N:7
+
+########## REPORT GEN: 26 ##########
+SPECIES: 
+Suen           		Mean: 2.68 		Best: 111.97 		N:9
+Davenport      		Mean: 1.33 		Best: 43.3 		N:12
+Devotie        		Mean: 2.06 		Best: 41.85 		N:9
+Sullivan       		Mean: 1.67 		Best: 41.74 		N:8
+Mathews        		Mean: 2.03 		Best: 40.33 		N:7
+Curry          		Mean: 1.54 		Best: 33.51 		N:9
+Dilks          		Mean: 5.56 		Best: 30.51 		N:3
+Riley          		Mean: 5.29 		Best: 11.75 		N:2
+Valen          		Mean: 2.38 		Best: 10.0 		N:4
+Greene         		Mean: 3.25 		Best: 10.0 		N:3
+Darley         		Mean: 1.34 		Best: 9.75 		N:7
+
+########## REPORT GEN: 27 ##########
+SPECIES: 
+Suen           		Mean: 6.35 		Best: 73.02 		N:4
+Valen          		Mean: 9.0  		Best: 43.5 		N:3
+Curry          		Mean: 2.45 		Best: 41.21 		N:6
+Davenport      		Mean: 2.1  		Best: 41.2 		N:8
+Darley         		Mean: 2.88 		Best: 30.35 		N:5
+Devotie        		Mean: 1.7  		Best: 27.58 		N:7
+Dilks          		Mean: 5.17 		Best: 11.25 		N:2
+Mathews        		Mean: 1.63 		Best: 10.5 		N:6
+Sullivan       		Mean: 1.93 		Best: 10.0 		N:5
+Riley          		Mean: 1.94 		Best: 10.0 		N:5
+Greene         		Mean: 3.22 		Best: 9.75 		N:3
+Gandee         		Mean: 3.04 		Best: 9.5 		N:3
+
+########## REPORT GEN: 28 ##########
+SPECIES: 
+Suen           		Mean: 9.58 		Best: 66.29 		N:3
+Sullivan       		Mean: 2.55 		Best: 44.5 		N:6
+Dilks          		Mean: 1.71 		Best: 43.0 		N:8
+Riley          		Mean: 4.3  		Best: 39.86 		N:4
+Davenport      		Mean: 2.47 		Best: 37.25 		N:7
+Mathews        		Mean: 3.83 		Best: 32.0 		N:4
+Curry          		Mean: 1.97 		Best: 11.25 		N:5
+Devotie        		Mean: 1.59 		Best: 10.25 		N:6
+Darley         		Mean: 1.91 		Best: 10.0 		N:5
+Greene         		Mean: 1.54 		Best: 10.0 		N:6
+Gandee         		Mean: 2.33 		Best: 9.75 		N:4
+Valen          		Mean: 3.08 		Best: 9.25 		N:3
+
+########## REPORT GEN: 29 ##########
+SPECIES: 
+Davenport      		Mean: 3.96 		Best: 58.49 		N:5
+Curry          		Mean: 3.47 		Best: 47.25 		N:5
+Darley         		Mean: 3.38 		Best: 45.25 		N:5
+Suen           		Mean: 1.27 		Best: 40.0 		N:10
+Riley          		Mean: 6.58 		Best: 39.32 		N:3
+Valen          		Mean: 1.94 		Best: 36.55 		N:7
+Devotie        		Mean: 2.91 		Best: 35.84 		N:5
+Dilks          		Mean: 1.54 		Best: 32.21 		N:8
+Gandee         		Mean: 1.89 		Best: 10.0 		N:5
+Mathews        		Mean: 2.38 		Best: 9.75 		N:4
+Sullivan       		Mean: 1.55 		Best: 9.5 		N:6
+Greene         		Mean: 1.83 		Best: 9.5 		N:5
+
+########## REPORT GEN: 30 ##########
+SPECIES: 
+Suen           		Mean: 2.25 		Best: 76.4 		N:8
+Darley         		Mean: 1.26 		Best: 56.5 		N:11
+Gandee         		Mean: 2.3  		Best: 46.33 		N:8
+Curry          		Mean: 1.84 		Best: 43.0 		N:10
+Devotie        		Mean: 3.17 		Best: 41.02 		N:5
+Riley          		Mean: 1.85 		Best: 33.79 		N:7
+Sullivan       		Mean: 1.54 		Best: 32.0 		N:8
+Dilks          		Mean: 3.13 		Best: 10.0 		N:3
+Mathews        		Mean: 1.38 		Best: 9.75 		N:7
+Davenport      		Mean: 1.55 		Best: 9.5 		N:6
+Valen          		Mean: 3.01 		Best: 9.5 		N:3
+Greene         		Mean: 2.35 		Best: 9.5 		N:4
+
+########## REPORT GEN: 31 ##########
+SPECIES: 
+Suen           		Mean: 3.05 		Best: 90.22 		N:7
+Curry          		Mean: 2.01 		Best: 60.69 		N:8
+Sullivan       		Mean: 1.5  		Best: 45.25 		N:9
+Mathews        		Mean: 1.28 		Best: 41.92 		N:10
+Valen          		Mean: 1.44 		Best: 32.83 		N:10
+Greene         		Mean: 1.8  		Best: 32.78 		N:7
+Davenport      		Mean: 0.9  		Best: 25.7 		N:12
+Darley         		Mean: 1.9  		Best: 10.0 		N:5
+Riley          		Mean: 2.41 		Best: 10.0 		N:4
+Devotie        		Mean: 2.32 		Best: 9.5 		N:4
+Dilks          		Mean: 3.07 		Best: 9.5 		N:3
+Gandee         		Mean: 4.32 		Best: 8.75 		N:2
+
+########## REPORT GEN: 32 ##########
+SPECIES: 
+Darley         		Mean: 4.36 		Best: 182.4 		N:8
+Riley          		Mean: 6.0  		Best: 66.96 		N:4
+Devotie        		Mean: 1.67 		Best: 56.13 		N:9
+Curry          		Mean: 1.73 		Best: 44.25 		N:8
+Mathews        		Mean: 3.34 		Best: 43.25 		N:6
+Greene         		Mean: 3.29 		Best: 42.75 		N:5
+Suen           		Mean: 1.32 		Best: 10.25 		N:7
+Dilks          		Mean: 1.19 		Best: 10.25 		N:8
+Sullivan       		Mean: 1.05 		Best: 9.75 		N:9
+Valen          		Mean: 1.85 		Best: 9.75 		N:5
+Davenport      		Mean: 1.53 		Best: 9.5 		N:6
+Gandee         		Mean: 3.1  		Best: 9.25 		N:3
+
+########## REPORT GEN: 33 ##########
+SPECIES: 
+Sullivan       		Mean: 5.82 		Best: 179.85 		N:7
+Dilks          		Mean: 2.94 		Best: 76.62 		N:8
+Mathews        		Mean: 1.52 		Best: 48.0 		N:9
+Riley          		Mean: 1.15 		Best: 44.5 		N:11
+Suen           		Mean: 2.52 		Best: 43.5 		N:6
+Greene         		Mean: 1.15 		Best: 43.07 		N:11
+Curry          		Mean: 2.48 		Best: 10.25 		N:4
+Gandee         		Mean: 1.6  		Best: 10.0 		N:6
+Darley         		Mean: 1.16 		Best: 9.75 		N:8
+Devotie        		Mean: 4.64 		Best: 9.5 		N:2
+Davenport      		Mean: 2.29 		Best: 9.5 		N:4
+Valen          		Mean: 1.85 		Best: 9.25 		N:5
+
+########## REPORT GEN: 34 ##########
+SPECIES: 
+Gandee         		Mean: 7.0  		Best: 201.02 		N:6
+Sullivan       		Mean: 1.82 		Best: 111.43 		N:13
+Riley          		Mean: 2.1  		Best: 58.14 		N:9
+Curry          		Mean: 16.22 		Best: 55.41 		N:2
+Dilks          		Mean: 2.76 		Best: 48.39 		N:7
+Valen          		Mean: 1.06 		Best: 33.52 		N:11
+Mathews        		Mean: 3.23 		Best: 10.0 		N:3
+Greene         		Mean: 1.56 		Best: 10.0 		N:6
+Darley         		Mean: 1.05 		Best: 10.0 		N:9
+Devotie        		Mean: 1.21 		Best: 9.75 		N:8
+Davenport      		Mean: 1.56 		Best: 9.75 		N:6
+Suen           		Mean: 4.72 		Best: 9.5 		N:2
+
+########## REPORT GEN: 35 ##########
+SPECIES: 
+Darley         		Mean: 15.3 		Best: 214.57 		N:4
+Valen          		Mean: 2.76 		Best: 78.85 		N:7
+Mathews        		Mean: 9.58 		Best: 66.69 		N:3
+Riley          		Mean: 5.71 		Best: 58.83 		N:5
+Suen           		Mean: 2.77 		Best: 32.39 		N:6
+Greene         		Mean: 2.63 		Best: 27.56 		N:5
+Sullivan       		Mean: 1.92 		Best: 10.0 		N:5
+Curry          		Mean: 1.89 		Best: 9.75 		N:5
+Devotie        		Mean: 1.34 		Best: 9.75 		N:7
+Davenport      		Mean: 1.06 		Best: 9.75 		N:9
+Gandee         		Mean: 2.33 		Best: 9.5 		N:4
+Dilks          		Mean: 4.51 		Best: 9.0 		N:2
+
+########## REPORT GEN: 36 ##########
+SPECIES: 
+Darley         		Mean: 8.22 		Best: 235.1 		N:8
+Davenport      		Mean: 16.57 		Best: 199.8 		N:5
+Greene         		Mean: 2.88 		Best: 138.03 		N:9
+Valen          		Mean: 4.0  		Best: 116.01 		N:7
+Gandee         		Mean: 2.88 		Best: 83.22 		N:7
+Riley          		Mean: 3.54 		Best: 79.0 		N:6
+Devotie        		Mean: 3.77 		Best: 57.36 		N:5
+Sullivan       		Mean: 1.85 		Best: 10.0 		N:5
+Suen           		Mean: 1.16 		Best: 9.5 		N:8
+
+########## REPORT GEN: 37 ##########
+SPECIES: 
+Valen          		Mean: 75.63 		Best: 290.28 		N:2
+Curry          		Mean: 35.39 		Best: 253.93 		N:4
+Dilks          		Mean: 14.17 		Best: 108.15 		N:3
+Greene         		Mean: 4.45 		Best: 72.12 		N:5
+Suen           		Mean: 5.97 		Best: 67.39 		N:4
+Riley          		Mean: 3.79 		Best: 56.93 		N:5
+Devotie        		Mean: 5.19 		Best: 54.41 		N:4
+Sullivan       		Mean: 3.14 		Best: 10.0 		N:3
+Gandee         		Mean: 3.13 		Best: 9.75 		N:3
+Darley         		Mean: 4.63 		Best: 9.5 		N:2
+
+########## REPORT GEN: 38 ##########
+SPECIES: 
+Gandee         		Mean: 11.33 		Best: 243.84 		N:5
+Riley          		Mean: 53.57 		Best: 202.37 		N:2
+Suen           		Mean: 8.7  		Best: 178.22 		N:5
+Davenport      		Mean: 25.69 		Best: 160.2 		N:3
+Devotie        		Mean: 22.47 		Best: 132.8 		N:3
+Dilks          		Mean: 10.08 		Best: 70.93 		N:3
+Sullivan       		Mean: 4.14 		Best: 64.66 		N:5
+Valen          		Mean: 18.15 		Best: 62.88 		N:2
+Greene         		Mean: 5.1  		Best: 51.58 		N:4
+Darley         		Mean: 4.52 		Best: 9.25 		N:2
+
+########## REPORT GEN: 39 ##########
+SPECIES: 
+Darley         		Mean: 11.97 		Best: 259.73 		N:5
+Gandee         		Mean: 32.11 		Best: 238.13 		N:3
+Dilks          		Mean: 9.64 		Best: 231.75 		N:6
+Davenport      		Mean: 21.81 		Best: 193.78 		N:4
+Riley          		Mean: 8.08 		Best: 161.78 		N:5
+Curry          		Mean: 23.13 		Best: 145.1 		N:3
+Sullivan       		Mean: 10.75 		Best: 77.46 		N:3
+Devotie        		Mean: 7.92 		Best: 52.57 		N:3
+Suen           		Mean: 2.65 		Best: 47.36 		N:6
+Valen          		Mean: 4.9  		Best: 9.75 		N:2
+Greene         		Mean: 2.36 		Best: 9.75 		N:4
+
+########## REPORT GEN: 40 ##########
+SPECIES: 
+Davenport      		Mean: 68.54 		Best: 263.2 		N:2
+Valen          		Mean: 18.8 		Best: 260.9 		N:5
+Sullivan       		Mean: 6.64 		Best: 255.72 		N:10
+Dilks          		Mean: 11.35 		Best: 232.2 		N:6
+Gandee         		Mean: 9.7  		Best: 202.38 		N:5
+Devotie        		Mean: 15.29 		Best: 195.34 		N:5
+Curry          		Mean: 4.88 		Best: 189.12 		N:9
+Darley         		Mean: 5.9  		Best: 134.89 		N:7
+Riley          		Mean: 8.41 		Best: 115.43 		N:6
+Suen           		Mean: 8.63 		Best: 58.5 		N:3
+Greene         		Mean: 4.67 		Best: 45.63 		N:4
+

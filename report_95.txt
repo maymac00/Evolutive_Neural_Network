@@ -1,0 +1,2905 @@
+########## REPORT GEN: 2 ##########
+SPECIES: 
+Oldham         		Mean: 27.31 		Best: 909.66 		N:35
+Ferrell        		Mean: 23.91 		Best: 909.63 		N:40
+Berry          		Mean: 23.32 		Best: 909.82 		N:41
+
+########## REPORT GEN: 3 ##########
+SPECIES: 
+Oldham         		Mean: 34.02 		Best: 911.7 		N:28
+Lee            		Mean: 134.85 		Best: 909.01 		N:7
+Kotterna       		Mean: 52.71 		Best: 908.94 		N:18
+Burke          		Mean: 86.04 		Best: 907.43 		N:11
+Collazo        		Mean: 36.58 		Best: 910.34 		N:26
+Ferrell        		Mean: 38.15 		Best: 910.68 		N:25
+Nance          		Mean: 156.82 		Best: 908.37 		N:6
+Berry          		Mean: 28.04 		Best: 910.42 		N:34
+Tuggle         		Mean: 49.85 		Best: 908.48 		N:19
+Morris         		Mean: 235.91 		Best: 905.57 		N:4
+Andrews        		Mean: 52.2 		Best: 909.5 		N:18
+
+########## REPORT GEN: 4 ##########
+SPECIES: 
+Berry          		Mean: 94.38 		Best: 911.15 		N:10
+Lee            		Mean: 103.92 		Best: 911.07 		N:9
+Tuggle         		Mean: 85.42 		Best: 910.67 		N:11
+Ferrell        		Mean: 187.98 		Best: 909.69 		N:5
+Oldham         		Mean: 156.7 		Best: 909.64 		N:6
+Nance          		Mean: 78.6 		Best: 909.64 		N:12
+Wegner         		Mean: 311.15 		Best: 909.27 		N:3
+Burke          		Mean: 86.34 		Best: 909.22 		N:11
+Kotterna       		Mean: 85.32 		Best: 909.08 		N:11
+Jones          		Mean: 186.42 		Best: 909.91 		N:5
+Andrews        		Mean: 72.79 		Best: 908.21 		N:13
+Koehn          		Mean: 465.33 		Best: 907.97 		N:2
+Collazo        		Mean: 52.55 		Best: 909.1 		N:18
+Morris         		Mean: 78.36 		Best: 905.64 		N:12
+Aguilar        		Mean: 66.16 		Best: 909.89 		N:14
+
+########## REPORT GEN: 5 ##########
+SPECIES: 
+Wegner         		Mean: 93.97 		Best: 910.61 		N:10
+Koehn          		Mean: 93.69 		Best: 910.57 		N:10
+Kotterna       		Mean: 85.2 		Best: 910.36 		N:11
+Burke          		Mean: 308.97 		Best: 908.33 		N:3
+Andrews        		Mean: 154.77 		Best: 908.09 		N:6
+Collazo        		Mean: 78.38 		Best: 909.91 		N:12
+Morris         		Mean: 117.07 		Best: 910.64 		N:8
+Oldham         		Mean: 85.28 		Best: 908.39 		N:11
+Lee            		Mean: 78.56 		Best: 908.73 		N:12
+Nance          		Mean: 186.76 		Best: 906.27 		N:5
+Berry          		Mean: 155.28 		Best: 909.47 		N:6
+Jones          		Mean: 187.36 		Best: 906.47 		N:5
+Aguilar        		Mean: 154.43 		Best: 908.57 		N:6
+Tuggle         		Mean: 103.96 		Best: 908.6 		N:9
+Ferrell        		Mean: 232.78 		Best: 906.2 		N:4
+
+########## REPORT GEN: 6 ##########
+SPECIES: 
+Nance          		Mean: 103.69 		Best: 911.95 		N:9
+Oldham         		Mean: 116.41 		Best: 910.9 		N:8
+Wegner         		Mean: 117.11 		Best: 915.9 		N:8
+Jones          		Mean: 187.17 		Best: 908.85 		N:5
+Lee            		Mean: 103.58 		Best: 908.81 		N:9
+Berry          		Mean: 116.84 		Best: 908.33 		N:8
+Ferrell        		Mean: 155.15 		Best: 908.31 		N:6
+Andrews        		Mean: 103.91 		Best: 907.57 		N:9
+Aguilar        		Mean: 186.06 		Best: 908.03 		N:5
+Harris         		Mean: 307.57 		Best: 906.28 		N:3
+Burke          		Mean: 155.21 		Best: 905.69 		N:6
+Tuggle         		Mean: 93.1 		Best: 906.2 		N:10
+Koehn          		Mean: 154.18 		Best: 904.98 		N:6
+Collazo        		Mean: 116.33 		Best: 904.47 		N:8
+Kotterna       		Mean: 131.89 		Best: 901.83 		N:7
+Morris         		Mean: 155.06 		Best: 902.89 		N:6
+
+########## REPORT GEN: 7 ##########
+SPECIES: 
+Burke          		Mean: 71.43 		Best: 913.69 		N:13
+Jones          		Mean: 93.11 		Best: 910.27 		N:10
+Oldham         		Mean: 84.32 		Best: 910.23 		N:11
+Aguilar        		Mean: 103.44 		Best: 909.86 		N:9
+Wegner         		Mean: 103.36 		Best: 909.3 		N:9
+Tuggle         		Mean: 77.43 		Best: 909.13 		N:12
+Morris         		Mean: 54.52 		Best: 908.94 		N:17
+Berry          		Mean: 71.63 		Best: 909.09 		N:13
+Andrews        		Mean: 132.92 		Best: 909.7 		N:7
+Lee            		Mean: 92.87 		Best: 907.64 		N:10
+Koehn          		Mean: 131.85 		Best: 907.52 		N:7
+Collazo        		Mean: 154.73 		Best: 906.91 		N:6
+Kotterna       		Mean: 131.99 		Best: 906.59 		N:7
+Nance          		Mean: 93.13 		Best: 905.97 		N:10
+Harris         		Mean: 102.77 		Best: 904.79 		N:9
+Ferrell        		Mean: 102.94 		Best: 906.47 		N:9
+
+########## REPORT GEN: 8 ##########
+SPECIES: 
+Andrews        		Mean: 66.14 		Best: 911.18 		N:14
+Ferrell        		Mean: 77.36 		Best: 909.79 		N:12
+Collazo        		Mean: 83.98 		Best: 909.51 		N:11
+Morris         		Mean: 132.35 		Best: 909.39 		N:7
+Koehn          		Mean: 66.1 		Best: 910.56 		N:14
+Harris         		Mean: 84.13 		Best: 908.54 		N:11
+Burke          		Mean: 230.38 		Best: 908.43 		N:4
+Berry          		Mean: 51.25 		Best: 908.02 		N:18
+Tuggle         		Mean: 84.09 		Best: 908.53 		N:11
+Wegner         		Mean: 102.73 		Best: 907.6 		N:9
+Lee            		Mean: 48.73 		Best: 908.45 		N:19
+Jones          		Mean: 131.83 		Best: 906.85 		N:7
+Aguilar        		Mean: 70.95 		Best: 907.58 		N:13
+Oldham         		Mean: 92.29 		Best: 903.73 		N:10
+Nance          		Mean: 83.86 		Best: 904.85 		N:11
+Kotterna       		Mean: 131.39 		Best: 903.51 		N:7
+
+########## REPORT GEN: 9 ##########
+SPECIES: 
+Koehn          		Mean: 84.19 		Best: 910.72 		N:11
+Jones          		Mean: 131.71 		Best: 909.05 		N:7
+Lee            		Mean: 83.86 		Best: 908.6 		N:11
+Aguilar        		Mean: 65.77 		Best: 907.96 		N:14
+Oldham         		Mean: 57.82 		Best: 911.26 		N:16
+Morris         		Mean: 91.86 		Best: 907.9 		N:10
+Andrews        		Mean: 65.49 		Best: 907.7 		N:14
+Nance          		Mean: 102.54 		Best: 907.12 		N:9
+Tuggle         		Mean: 130.79 		Best: 906.38 		N:7
+Berry          		Mean: 102.31 		Best: 905.05 		N:9
+Collazo        		Mean: 65.74 		Best: 904.79 		N:14
+Harris         		Mean: 114.82 		Best: 904.13 		N:8
+Kotterna       		Mean: 83.36 		Best: 906.05 		N:11
+Wegner         		Mean: 130.74 		Best: 903.6 		N:7
+Ferrell        		Mean: 76.69 		Best: 901.54 		N:12
+Burke          		Mean: 114.62 		Best: 901.94 		N:8
+
+########## REPORT GEN: 10 ##########
+SPECIES: 
+Aguilar        		Mean: 114.68 		Best: 919.7 		N:8
+Burke          		Mean: 65.58 		Best: 911.26 		N:14
+Oldham         		Mean: 101.69 		Best: 909.88 		N:9
+Ferrell        		Mean: 57.42 		Best: 908.23 		N:16
+Nance          		Mean: 83.55 		Best: 908.2 		N:11
+Wegner         		Mean: 65.67 		Best: 907.17 		N:14
+Koehn          		Mean: 57.42 		Best: 906.41 		N:16
+Berry          		Mean: 54.06 		Best: 905.77 		N:17
+Lee            		Mean: 83.13 		Best: 904.69 		N:11
+Andrews        		Mean: 70.58 		Best: 905.83 		N:13
+Tuggle         		Mean: 65.37 		Best: 904.28 		N:14
+Kotterna       		Mean: 130.9 		Best: 904.12 		N:7
+Collazo        		Mean: 130.46 		Best: 904.38 		N:7
+Jones          		Mean: 70.58 		Best: 904.61 		N:13
+Harris         		Mean: 114.26 		Best: 901.06 		N:8
+Morris         		Mean: 113.82 		Best: 898.22 		N:8
+
+########## REPORT GEN: 11 ##########
+SPECIES: 
+Harris         		Mean: 83.37 		Best: 921.24 		N:11
+Aguilar        		Mean: 76.57 		Best: 919.36 		N:12
+Andrews        		Mean: 65.59 		Best: 909.26 		N:14
+Morris         		Mean: 57.21 		Best: 909.19 		N:16
+Berry          		Mean: 91.81 		Best: 908.89 		N:10
+Oldham         		Mean: 82.99 		Best: 908.32 		N:11
+Lee            		Mean: 83.1 		Best: 908.05 		N:11
+Kotterna       		Mean: 53.97 		Best: 908.56 		N:17
+Koehn          		Mean: 65.3 		Best: 904.01 		N:14
+Nance          		Mean: 114.16 		Best: 901.06 		N:8
+Jones          		Mean: 45.74 		Best: 903.07 		N:20
+Collazo        		Mean: 151.57 		Best: 899.98 		N:6
+Burke          		Mean: 101.12 		Best: 901.93 		N:9
+Tuggle         		Mean: 101.1 		Best: 899.94 		N:9
+Wegner         		Mean: 100.85 		Best: 897.92 		N:9
+Ferrell        		Mean: 113.39 		Best: 900.61 		N:8
+
+########## REPORT GEN: 12 ##########
+SPECIES: 
+Harris         		Mean: 60.91 		Best: 922.75 		N:15
+Kotterna       		Mean: 65.08 		Best: 917.72 		N:14
+Lee            		Mean: 91.57 		Best: 911.19 		N:10
+Nance          		Mean: 91.54 		Best: 909.38 		N:10
+Morris         		Mean: 56.98 		Best: 908.56 		N:16
+Andrews        		Mean: 53.87 		Best: 908.28 		N:17
+Jones          		Mean: 182.14 		Best: 907.95 		N:5
+Burke          		Mean: 113.85 		Best: 905.64 		N:8
+Wegner         		Mean: 60.78 		Best: 905.32 		N:15
+Ferrell        		Mean: 70.26 		Best: 905.03 		N:13
+Tuggle         		Mean: 70.27 		Best: 903.68 		N:13
+Koehn          		Mean: 83.15 		Best: 903.34 		N:11
+Oldham         		Mean: 75.72 		Best: 902.66 		N:12
+Berry          		Mean: 82.87 		Best: 901.64 		N:11
+Collazo        		Mean: 70.42 		Best: 907.66 		N:13
+Aguilar        		Mean: 181.45 		Best: 901.87 		N:5
+
+########## REPORT GEN: 13 ##########
+SPECIES: 
+Berry          		Mean: 76.18 		Best: 924.28 		N:12
+Kotterna       		Mean: 65.27 		Best: 922.55 		N:14
+Jones          		Mean: 70.32 		Best: 921.12 		N:13
+Collazo        		Mean: 83.25 		Best: 920.42 		N:11
+Oldham         		Mean: 82.72 		Best: 909.47 		N:11
+Tuggle         		Mean: 69.95 		Best: 908.53 		N:13
+Burke          		Mean: 60.92 		Best: 907.55 		N:15
+Lee            		Mean: 60.76 		Best: 906.77 		N:15
+Andrews        		Mean: 114.23 		Best: 906.52 		N:8
+Aguilar        		Mean: 114.07 		Best: 905.74 		N:8
+Harris         		Mean: 75.95 		Best: 905.1 		N:12
+Nance          		Mean: 130.59 		Best: 904.26 		N:7
+Morris         		Mean: 182.03 		Best: 903.84 		N:5
+Wegner         		Mean: 227.93 		Best: 901.02 		N:4
+Ferrell        		Mean: 91.03 		Best: 900.21 		N:10
+Koehn          		Mean: 450.38 		Best: 899.22 		N:2
+
+########## REPORT GEN: 14 ##########
+SPECIES: 
+Harris         		Mean: 82.87 		Best: 923.9 		N:11
+Burke          		Mean: 130.65 		Best: 922.08 		N:7
+Wegner         		Mean: 53.58 		Best: 920.87 		N:17
+Andrews        		Mean: 102.07 		Best: 920.68 		N:9
+Aguilar        		Mean: 90.81 		Best: 920.06 		N:10
+Kotterna       		Mean: 113.68 		Best: 908.31 		N:8
+Berry          		Mean: 114.13 		Best: 906.73 		N:8
+Morris         		Mean: 152.75 		Best: 906.28 		N:6
+Ferrell        		Mean: 181.59 		Best: 905.71 		N:5
+Lee            		Mean: 90.87 		Best: 905.61 		N:10
+Tuggle         		Mean: 113.95 		Best: 905.42 		N:8
+Jones          		Mean: 90.88 		Best: 904.55 		N:10
+Koehn          		Mean: 151.63 		Best: 903.28 		N:6
+Nance          		Mean: 130.01 		Best: 899.35 		N:7
+Oldham         		Mean: 129.49 		Best: 895.92 		N:7
+Collazo        		Mean: 451.88 		Best: 895.13 		N:2
+
+########## REPORT GEN: 15 ##########
+SPECIES: 
+Ferrell        		Mean: 114.28 		Best: 923.29 		N:8
+Aguilar        		Mean: 183.01 		Best: 923.13 		N:5
+Nance          		Mean: 70.2 		Best: 922.91 		N:13
+Burke          		Mean: 75.99 		Best: 921.6 		N:12
+Koehn          		Mean: 114.12 		Best: 919.13 		N:8
+Harris         		Mean: 228.96 		Best: 918.97 		N:4
+Wegner         		Mean: 301.93 		Best: 911.95 		N:3
+Jones          		Mean: 130.46 		Best: 909.06 		N:7
+Oldham         		Mean: 82.65 		Best: 908.65 		N:11
+Lee            		Mean: 228.16 		Best: 907.66 		N:4
+Berry          		Mean: 65.09 		Best: 907.66 		N:14
+Morris         		Mean: 100.96 		Best: 907.18 		N:9
+Collazo        		Mean: 47.91 		Best: 907.31 		N:19
+Kotterna       		Mean: 100.92 		Best: 902.01 		N:9
+Tuggle         		Mean: 82.63 		Best: 900.83 		N:11
+Andrews        		Mean: 75.52 		Best: 899.92 		N:12
+
+########## REPORT GEN: 16 ##########
+SPECIES: 
+Koehn          		Mean: 306.53 		Best: 923.2 		N:3
+Ferrell        		Mean: 151.47 		Best: 921.87 		N:6
+Tuggle         		Mean: 305.35 		Best: 921.66 		N:3
+Berry          		Mean: 82.65 		Best: 920.56 		N:11
+Kotterna       		Mean: 50.52 		Best: 919.89 		N:18
+Burke          		Mean: 70.01 		Best: 911.26 		N:13
+Lee            		Mean: 50.53 		Best: 910.55 		N:18
+Collazo        		Mean: 100.9 		Best: 908.82 		N:9
+Wegner         		Mean: 69.95 		Best: 908.4 		N:13
+Oldham         		Mean: 227.6 		Best: 907.56 		N:4
+Jones          		Mean: 130.5 		Best: 912.22 		N:7
+Morris         		Mean: 151.23 		Best: 906.51 		N:6
+Harris         		Mean: 182.12 		Best: 909.96 		N:5
+Nance          		Mean: 151.7 		Best: 904.69 		N:6
+Aguilar        		Mean: 90.51 		Best: 897.87 		N:10
+Andrews        		Mean: 113.2 		Best: 896.73 		N:8
+
+########## REPORT GEN: 17 ##########
+SPECIES: 
+Harris         		Mean: 101.98 		Best: 925.88 		N:9
+Lee            		Mean: 82.44 		Best: 924.58 		N:11
+Nance          		Mean: 91.28 		Best: 922.38 		N:10
+Aguilar        		Mean: 82.42 		Best: 920.77 		N:11
+Andrews        		Mean: 101.18 		Best: 911.79 		N:9
+Ferrell        		Mean: 100.85 		Best: 910.56 		N:9
+Tuggle         		Mean: 91.08 		Best: 910.36 		N:10
+Kotterna       		Mean: 129.45 		Best: 909.93 		N:7
+Berry          		Mean: 227.08 		Best: 909.02 		N:4
+Jones          		Mean: 113.66 		Best: 908.56 		N:8
+Collazo        		Mean: 100.64 		Best: 907.8 		N:9
+Burke          		Mean: 101.1 		Best: 907.56 		N:9
+Oldham         		Mean: 65.01 		Best: 907.28 		N:14
+Wegner         		Mean: 113.24 		Best: 906.37 		N:8
+Koehn          		Mean: 82.51 		Best: 909.56 		N:11
+Morris         		Mean: 449.15 		Best: 893.68 		N:2
+
+########## REPORT GEN: 18 ##########
+SPECIES: 
+Oldham         		Mean: 114.02 		Best: 925.97 		N:8
+Tuggle         		Mean: 130.36 		Best: 923.1 		N:7
+Morris         		Mean: 101.26 		Best: 921.97 		N:9
+Berry          		Mean: 60.62 		Best: 921.36 		N:15
+Andrews        		Mean: 130.38 		Best: 920.42 		N:7
+Lee            		Mean: 101.42 		Best: 919.06 		N:9
+Koehn          		Mean: 150.7 		Best: 909.25 		N:6
+Kotterna       		Mean: 90.11 		Best: 908.95 		N:10
+Ferrell        		Mean: 90.68 		Best: 908.29 		N:10
+Nance          		Mean: 129.53 		Best: 907.4 		N:7
+Aguilar        		Mean: 100.48 		Best: 906.64 		N:9
+Jones          		Mean: 100.59 		Best: 904.92 		N:9
+Wegner         		Mean: 112.92 		Best: 904.76 		N:8
+Collazo        		Mean: 113.21 		Best: 904.24 		N:8
+Harris         		Mean: 82.11 		Best: 898.43 		N:11
+Burke          		Mean: 150.31 		Best: 896.98 		N:6
+
+########## REPORT GEN: 19 ##########
+SPECIES: 
+Wegner         		Mean: 64.89 		Best: 930.96 		N:14
+Burke          		Mean: 113.65 		Best: 930.13 		N:8
+Berry          		Mean: 101.43 		Best: 925.59 		N:9
+Nance          		Mean: 100.8 		Best: 925.08 		N:9
+Andrews        		Mean: 65.0 		Best: 925.03 		N:14
+Koehn          		Mean: 64.82 		Best: 923.06 		N:14
+Ferrell        		Mean: 101.03 		Best: 913.09 		N:9
+Collazo        		Mean: 69.91 		Best: 910.52 		N:13
+Aguilar        		Mean: 227.7 		Best: 908.22 		N:4
+Jones          		Mean: 64.95 		Best: 911.36 		N:14
+Harris         		Mean: 82.19 		Best: 907.02 		N:11
+Kotterna       		Mean: 53.21 		Best: 908.85 		N:17
+Lee            		Mean: 75.17 		Best: 907.4 		N:12
+Oldham         		Mean: 60.11 		Best: 905.53 		N:15
+Tuggle         		Mean: 81.93 		Best: 901.77 		N:11
+Morris         		Mean: 112.77 		Best: 899.16 		N:8
+
+########## REPORT GEN: 20 ##########
+SPECIES: 
+Koehn          		Mean: 82.86 		Best: 932.29 		N:11
+Tuggle         		Mean: 90.57 		Best: 929.03 		N:10
+Collazo        		Mean: 69.93 		Best: 924.71 		N:13
+Morris         		Mean: 82.37 		Best: 924.36 		N:11
+Lee            		Mean: 75.24 		Best: 924.29 		N:12
+Kotterna       		Mean: 60.45 		Best: 921.46 		N:15
+Harris         		Mean: 90.27 		Best: 921.14 		N:10
+Ferrell        		Mean: 129.97 		Best: 920.23 		N:7
+Andrews        		Mean: 113.18 		Best: 913.39 		N:8
+Jones          		Mean: 75.4 		Best: 911.97 		N:12
+Nance          		Mean: 81.97 		Best: 909.73 		N:11
+Aguilar        		Mean: 75.46 		Best: 906.91 		N:12
+Oldham         		Mean: 63.57 		Best: 904.11 		N:14
+Berry          		Mean: 75.27 		Best: 904.59 		N:12
+Wegner         		Mean: 128.98 		Best: 900.47 		N:7
+Burke          		Mean: 99.4 		Best: 893.79 		N:9
+
+########## REPORT GEN: 21 ##########
+SPECIES: 
+Koehn          		Mean: 64.46 		Best: 928.78 		N:14
+Ferrell        		Mean: 64.7 		Best: 927.71 		N:14
+Aguilar        		Mean: 60.23 		Best: 927.18 		N:15
+Kotterna       		Mean: 82.14 		Best: 927.03 		N:11
+Nance          		Mean: 56.62 		Best: 925.4 		N:16
+Collazo        		Mean: 90.67 		Best: 924.61 		N:10
+Morris         		Mean: 60.26 		Best: 923.16 		N:15
+Wegner         		Mean: 64.42 		Best: 920.97 		N:14
+Lee            		Mean: 100.75 		Best: 919.96 		N:9
+Tuggle         		Mean: 128.88 		Best: 910.75 		N:7
+Harris         		Mean: 82.03 		Best: 907.89 		N:11
+Jones          		Mean: 69.56 		Best: 903.98 		N:13
+Burke          		Mean: 149.22 		Best: 900.7 		N:6
+Andrews        		Mean: 81.44 		Best: 899.16 		N:11
+Berry          		Mean: 112.8 		Best: 897.54 		N:8
+Oldham         		Mean: 112.77 		Best: 895.9 		N:8
+
+########## REPORT GEN: 22 ##########
+SPECIES: 
+Tuggle         		Mean: 69.74 		Best: 931.13 		N:13
+Andrews        		Mean: 89.97 		Best: 927.89 		N:10
+Koehn          		Mean: 53.09 		Best: 927.88 		N:17
+Aguilar        		Mean: 82.36 		Best: 924.41 		N:11
+Berry          		Mean: 82.37 		Best: 922.41 		N:11
+Nance          		Mean: 50.22 		Best: 922.0 		N:18
+Wegner         		Mean: 50.09 		Best: 920.2 		N:18
+Jones          		Mean: 180.71 		Best: 919.97 		N:5
+Morris         		Mean: 59.83 		Best: 918.48 		N:15
+Ferrell        		Mean: 225.77 		Best: 916.22 		N:4
+Harris         		Mean: 81.97 		Best: 908.74 		N:11
+Lee            		Mean: 75.39 		Best: 909.22 		N:12
+Oldham         		Mean: 149.91 		Best: 904.33 		N:6
+Kotterna       		Mean: 112.24 		Best: 900.85 		N:8
+Collazo        		Mean: 69.0 		Best: 897.99 		N:13
+Burke          		Mean: 128.47 		Best: 895.02 		N:7
+
+########## REPORT GEN: 23 ##########
+SPECIES: 
+Kotterna       		Mean: 75.56 		Best: 931.77 		N:12
+Lee            		Mean: 100.93 		Best: 928.2 		N:9
+Berry          		Mean: 129.21 		Best: 927.74 		N:7
+Nance          		Mean: 82.51 		Best: 927.35 		N:11
+Tuggle         		Mean: 100.21 		Best: 920.71 		N:9
+Aguilar        		Mean: 69.57 		Best: 909.39 		N:13
+Collazo        		Mean: 99.89 		Best: 909.01 		N:9
+Oldham         		Mean: 81.81 		Best: 907.84 		N:11
+Wegner         		Mean: 112.05 		Best: 906.18 		N:8
+Ferrell        		Mean: 74.7 		Best: 905.46 		N:12
+Andrews        		Mean: 89.93 		Best: 902.61 		N:10
+Koehn          		Mean: 74.67 		Best: 902.04 		N:12
+Morris         		Mean: 128.51 		Best: 896.31 		N:7
+Jones          		Mean: 81.7 		Best: 897.06 		N:11
+Burke          		Mean: 149.55 		Best: 894.26 		N:6
+Harris         		Mean: 89.34 		Best: 891.9 		N:10
+
+########## REPORT GEN: 24 ##########
+SPECIES: 
+Burke          		Mean: 100.77 		Best: 932.49 		N:9
+Harris         		Mean: 112.58 		Best: 930.15 		N:8
+Tuggle         		Mean: 100.02 		Best: 929.3 		N:9
+Jones          		Mean: 56.41 		Best: 926.95 		N:16
+Morris         		Mean: 69.53 		Best: 926.25 		N:13
+Oldham         		Mean: 90.76 		Best: 919.17 		N:10
+Wegner         		Mean: 56.11 		Best: 908.67 		N:16
+Lee            		Mean: 59.7 		Best: 908.82 		N:15
+Ferrell        		Mean: 69.02 		Best: 908.0 		N:13
+Nance          		Mean: 112.86 		Best: 907.11 		N:8
+Berry          		Mean: 90.06 		Best: 906.71 		N:10
+Aguilar        		Mean: 100.08 		Best: 905.09 		N:9
+Koehn          		Mean: 99.3 		Best: 903.95 		N:9
+Andrews        		Mean: 64.14 		Best: 902.38 		N:14
+Collazo        		Mean: 63.99 		Best: 895.73 		N:14
+Kotterna       		Mean: 128.76 		Best: 897.89 		N:7
+
+########## REPORT GEN: 25 ##########
+SPECIES: 
+Morris         		Mean: 56.91 		Best: 932.73 		N:16
+Nance          		Mean: 90.45 		Best: 931.05 		N:10
+Wegner         		Mean: 50.05 		Best: 929.47 		N:18
+Jones          		Mean: 69.43 		Best: 920.72 		N:13
+Oldham         		Mean: 53.05 		Best: 915.15 		N:17
+Tuggle         		Mean: 149.27 		Best: 910.55 		N:6
+Harris         		Mean: 81.8 		Best: 910.35 		N:11
+Aguilar        		Mean: 99.49 		Best: 908.02 		N:9
+Collazo        		Mean: 74.77 		Best: 906.56 		N:12
+Ferrell        		Mean: 63.62 		Best: 905.87 		N:14
+Koehn          		Mean: 74.53 		Best: 905.83 		N:12
+Burke          		Mean: 81.87 		Best: 904.06 		N:11
+Andrews        		Mean: 111.87 		Best: 903.46 		N:8
+Lee            		Mean: 59.99 		Best: 904.44 		N:15
+Kotterna       		Mean: 128.57 		Best: 898.93 		N:7
+Berry          		Mean: 81.26 		Best: 895.2 		N:11
+
+########## REPORT GEN: 26 ##########
+SPECIES: 
+Berry          		Mean: 100.29 		Best: 930.89 		N:9
+Nance          		Mean: 81.57 		Best: 930.38 		N:11
+Oldham         		Mean: 60.01 		Best: 928.94 		N:15
+Tuggle         		Mean: 69.22 		Best: 928.7 		N:13
+Ferrell        		Mean: 150.26 		Best: 921.14 		N:6
+Koehn          		Mean: 60.01 		Best: 915.06 		N:15
+Burke          		Mean: 74.89 		Best: 907.69 		N:12
+Lee            		Mean: 69.28 		Best: 905.06 		N:13
+Morris         		Mean: 64.17 		Best: 908.38 		N:14
+Wegner         		Mean: 89.76 		Best: 904.42 		N:10
+Kotterna       		Mean: 81.68 		Best: 903.68 		N:11
+Jones          		Mean: 99.36 		Best: 903.3 		N:9
+Collazo        		Mean: 112.64 		Best: 904.05 		N:8
+Harris         		Mean: 68.98 		Best: 900.4 		N:13
+Andrews        		Mean: 63.94 		Best: 900.7 		N:14
+Aguilar        		Mean: 127.42 		Best: 889.74 		N:7
+
+########## REPORT GEN: 27 ##########
+SPECIES: 
+Kotterna       		Mean: 129.1 		Best: 934.39 		N:7
+Oldham         		Mean: 64.15 		Best: 930.38 		N:14
+Tuggle         		Mean: 151.39 		Best: 930.04 		N:6
+Collazo        		Mean: 56.15 		Best: 929.87 		N:16
+Aguilar        		Mean: 90.22 		Best: 927.18 		N:10
+Harris         		Mean: 100.01 		Best: 917.84 		N:9
+Wegner         		Mean: 89.92 		Best: 914.17 		N:10
+Burke          		Mean: 52.66 		Best: 909.79 		N:17
+Andrews        		Mean: 59.83 		Best: 909.07 		N:15
+Morris         		Mean: 149.87 		Best: 906.37 		N:6
+Nance          		Mean: 64.0 		Best: 908.62 		N:14
+Koehn          		Mean: 69.04 		Best: 903.54 		N:13
+Berry          		Mean: 68.79 		Best: 897.33 		N:13
+Ferrell        		Mean: 52.54 		Best: 893.66 		N:17
+Lee            		Mean: 148.96 		Best: 892.98 		N:6
+Jones          		Mean: 148.4 		Best: 889.6 		N:6
+
+########## REPORT GEN: 28 ##########
+SPECIES: 
+Kotterna       		Mean: 74.73 		Best: 934.64 		N:12
+Lee            		Mean: 82.02 		Best: 930.99 		N:11
+Berry          		Mean: 60.19 		Best: 930.45 		N:15
+Koehn          		Mean: 75.07 		Best: 929.24 		N:12
+Collazo        		Mean: 99.84 		Best: 925.63 		N:9
+Jones          		Mean: 81.91 		Best: 920.81 		N:11
+Andrews        		Mean: 74.86 		Best: 919.96 		N:12
+Wegner         		Mean: 63.91 		Best: 914.91 		N:14
+Harris         		Mean: 89.77 		Best: 907.71 		N:10
+Tuggle         		Mean: 81.4 		Best: 905.26 		N:11
+Nance          		Mean: 81.26 		Best: 901.31 		N:11
+Aguilar        		Mean: 149.22 		Best: 898.21 		N:6
+Ferrell        		Mean: 99.02 		Best: 897.57 		N:9
+Burke          		Mean: 128.0 		Best: 896.91 		N:7
+Oldham         		Mean: 99.52 		Best: 896.11 		N:9
+Morris         		Mean: 148.49 		Best: 891.25 		N:6
+
+########## REPORT GEN: 29 ##########
+SPECIES: 
+Berry          		Mean: 64.39 		Best: 932.8 		N:14
+Tuggle         		Mean: 64.26 		Best: 932.74 		N:14
+Koehn          		Mean: 59.91 		Best: 930.81 		N:15
+Collazo        		Mean: 112.35 		Best: 928.78 		N:8
+Wegner         		Mean: 129.06 		Best: 925.43 		N:7
+Jones          		Mean: 99.33 		Best: 914.96 		N:9
+Aguilar        		Mean: 99.2 		Best: 909.89 		N:9
+Morris         		Mean: 89.74 		Best: 907.22 		N:10
+Nance          		Mean: 81.57 		Best: 907.04 		N:11
+Ferrell        		Mean: 74.59 		Best: 905.33 		N:12
+Lee            		Mean: 81.48 		Best: 901.08 		N:11
+Burke          		Mean: 64.01 		Best: 900.05 		N:14
+Harris         		Mean: 74.65 		Best: 898.65 		N:12
+Kotterna       		Mean: 99.31 		Best: 897.17 		N:9
+Andrews        		Mean: 81.02 		Best: 893.23 		N:11
+Oldham         		Mean: 89.24 		Best: 892.81 		N:10
+
+########## REPORT GEN: 30 ##########
+SPECIES: 
+Berry          		Mean: 56.04 		Best: 936.88 		N:16
+Kotterna       		Mean: 52.91 		Best: 935.71 		N:17
+Burke          		Mean: 47.55 		Best: 932.75 		N:19
+Oldham         		Mean: 89.72 		Best: 930.14 		N:10
+Koehn          		Mean: 59.72 		Best: 928.83 		N:15
+Morris         		Mean: 100.08 		Best: 926.52 		N:9
+Collazo        		Mean: 178.92 		Best: 910.69 		N:5
+Nance          		Mean: 74.89 		Best: 907.9 		N:12
+Wegner         		Mean: 112.05 		Best: 901.66 		N:8
+Jones          		Mean: 99.25 		Best: 900.59 		N:9
+Ferrell        		Mean: 52.61 		Best: 898.95 		N:17
+Lee            		Mean: 68.77 		Best: 898.72 		N:13
+Andrews        		Mean: 111.93 		Best: 895.68 		N:8
+Aguilar        		Mean: 81.17 		Best: 894.09 		N:11
+Tuggle         		Mean: 81.03 		Best: 891.75 		N:11
+Harris         		Mean: 127.33 		Best: 891.42 		N:7
+
+########## REPORT GEN: 31 ##########
+SPECIES: 
+Tuggle         		Mean: 180.82 		Best: 932.82 		N:5
+Wegner         		Mean: 81.77 		Best: 931.94 		N:11
+Harris         		Mean: 59.93 		Best: 930.68 		N:15
+Jones          		Mean: 53.08 		Best: 930.42 		N:17
+Lee            		Mean: 90.0 		Best: 929.17 		N:10
+Berry          		Mean: 55.95 		Best: 927.24 		N:16
+Burke          		Mean: 81.52 		Best: 912.7 		N:11
+Nance          		Mean: 74.54 		Best: 909.67 		N:12
+Ferrell        		Mean: 149.67 		Best: 903.22 		N:6
+Koehn          		Mean: 63.91 		Best: 902.41 		N:14
+Aguilar        		Mean: 127.58 		Best: 901.16 		N:7
+Oldham         		Mean: 89.23 		Best: 899.22 		N:10
+Collazo        		Mean: 89.19 		Best: 896.63 		N:10
+Andrews        		Mean: 99.06 		Best: 895.32 		N:9
+Kotterna       		Mean: 74.26 		Best: 891.87 		N:12
+Morris         		Mean: 68.75 		Best: 895.93 		N:13
+
+########## REPORT GEN: 32 ##########
+SPECIES: 
+Oldham         		Mean: 69.14 		Best: 935.96 		N:13
+Aguilar        		Mean: 81.86 		Best: 932.05 		N:11
+Tuggle         		Mean: 81.65 		Best: 931.86 		N:11
+Collazo        		Mean: 45.05 		Best: 930.95 		N:20
+Morris         		Mean: 74.75 		Best: 928.83 		N:12
+Andrews        		Mean: 68.93 		Best: 910.83 		N:13
+Ferrell        		Mean: 74.64 		Best: 908.33 		N:12
+Nance          		Mean: 127.66 		Best: 906.73 		N:7
+Kotterna       		Mean: 127.79 		Best: 905.42 		N:7
+Burke          		Mean: 63.88 		Best: 902.19 		N:14
+Jones          		Mean: 99.21 		Best: 900.33 		N:9
+Koehn          		Mean: 127.89 		Best: 899.42 		N:7
+Wegner         		Mean: 68.73 		Best: 895.37 		N:13
+Lee            		Mean: 178.37 		Best: 894.61 		N:5
+Berry          		Mean: 99.22 		Best: 894.57 		N:9
+Harris         		Mean: 178.39 		Best: 893.86 		N:5
+
+########## REPORT GEN: 33 ##########
+SPECIES: 
+Jones          		Mean: 149.99 		Best: 932.15 		N:6
+Kotterna       		Mean: 89.71 		Best: 931.54 		N:10
+Lee            		Mean: 52.76 		Best: 929.53 		N:17
+Tuggle         		Mean: 74.57 		Best: 928.05 		N:12
+Oldham         		Mean: 89.11 		Best: 912.82 		N:10
+Aguilar        		Mean: 69.11 		Best: 908.54 		N:13
+Harris         		Mean: 89.27 		Best: 908.36 		N:10
+Morris         		Mean: 74.62 		Best: 907.34 		N:12
+Andrews        		Mean: 64.01 		Best: 903.63 		N:14
+Wegner         		Mean: 223.5 		Best: 900.25 		N:4
+Collazo        		Mean: 81.4 		Best: 901.27 		N:11
+Berry          		Mean: 89.33 		Best: 899.35 		N:10
+Koehn          		Mean: 99.56 		Best: 897.84 		N:9
+Ferrell        		Mean: 127.34 		Best: 896.23 		N:7
+Burke          		Mean: 63.83 		Best: 896.15 		N:14
+Nance          		Mean: 127.41 		Best: 894.76 		N:7
+
+########## REPORT GEN: 34 ##########
+SPECIES: 
+Oldham         		Mean: 99.75 		Best: 934.4 		N:9
+Collazo        		Mean: 64.25 		Best: 932.72 		N:14
+Berry          		Mean: 64.0 		Best: 931.0 		N:14
+Kotterna       		Mean: 89.65 		Best: 930.17 		N:10
+Koehn          		Mean: 179.99 		Best: 922.11 		N:5
+Tuggle         		Mean: 99.79 		Best: 921.67 		N:9
+Andrews        		Mean: 52.71 		Best: 909.31 		N:17
+Harris         		Mean: 111.98 		Best: 908.92 		N:8
+Burke          		Mean: 112.28 		Best: 906.79 		N:8
+Ferrell        		Mean: 99.57 		Best: 906.43 		N:9
+Nance          		Mean: 63.75 		Best: 902.94 		N:14
+Wegner         		Mean: 89.63 		Best: 902.91 		N:10
+Aguilar        		Mean: 74.54 		Best: 898.39 		N:12
+Morris         		Mean: 68.21 		Best: 896.63 		N:13
+Lee            		Mean: 177.92 		Best: 890.6 		N:5
+Jones          		Mean: 127.26 		Best: 890.59 		N:7
+
+########## REPORT GEN: 35 ##########
+SPECIES: 
+Kotterna       		Mean: 74.7 		Best: 932.59 		N:12
+Aguilar        		Mean: 64.45 		Best: 931.7 		N:14
+Collazo        		Mean: 81.42 		Best: 928.05 		N:11
+Wegner         		Mean: 69.25 		Best: 924.26 		N:13
+Koehn          		Mean: 81.85 		Best: 922.8 		N:11
+Jones          		Mean: 100.11 		Best: 921.04 		N:9
+Nance          		Mean: 81.29 		Best: 909.21 		N:11
+Oldham         		Mean: 74.72 		Best: 908.48 		N:12
+Lee            		Mean: 81.53 		Best: 908.46 		N:11
+Andrews        		Mean: 90.0 		Best: 908.17 		N:10
+Burke          		Mean: 89.75 		Best: 909.75 		N:10
+Ferrell        		Mean: 127.68 		Best: 901.86 		N:7
+Tuggle         		Mean: 74.54 		Best: 900.25 		N:12
+Berry          		Mean: 68.62 		Best: 898.49 		N:13
+Harris         		Mean: 178.41 		Best: 892.55 		N:5
+Morris         		Mean: 111.47 		Best: 892.39 		N:8
+
+########## REPORT GEN: 36 ##########
+SPECIES: 
+Burke          		Mean: 90.27 		Best: 931.37 		N:10
+Ferrell        		Mean: 112.21 		Best: 929.49 		N:8
+Aguilar        		Mean: 99.82 		Best: 927.35 		N:9
+Nance          		Mean: 150.51 		Best: 924.83 		N:6
+Lee            		Mean: 64.23 		Best: 915.11 		N:14
+Koehn          		Mean: 89.91 		Best: 907.72 		N:10
+Jones          		Mean: 64.0 		Best: 907.43 		N:14
+Collazo        		Mean: 223.91 		Best: 906.62 		N:4
+Tuggle         		Mean: 74.51 		Best: 906.37 		N:12
+Morris         		Mean: 74.62 		Best: 905.56 		N:12
+Wegner         		Mean: 47.05 		Best: 904.63 		N:19
+Berry          		Mean: 179.15 		Best: 904.0 		N:5
+Andrews        		Mean: 89.34 		Best: 901.15 		N:10
+Harris         		Mean: 52.53 		Best: 899.9 		N:17
+Oldham         		Mean: 89.09 		Best: 898.71 		N:10
+Kotterna       		Mean: 55.82 		Best: 898.14 		N:16
+
+########## REPORT GEN: 37 ##########
+SPECIES: 
+Jones          		Mean: 99.73 		Best: 931.41 		N:9
+Harris         		Mean: 226.87 		Best: 931.1 		N:4
+Kotterna       		Mean: 128.46 		Best: 928.35 		N:7
+Oldham         		Mean: 82.52 		Best: 927.46 		N:11
+Andrews        		Mean: 64.18 		Best: 918.72 		N:14
+Nance          		Mean: 47.17 		Best: 911.32 		N:19
+Tuggle         		Mean: 81.26 		Best: 909.52 		N:11
+Morris         		Mean: 112.31 		Best: 907.78 		N:8
+Aguilar        		Mean: 149.39 		Best: 906.11 		N:6
+Collazo        		Mean: 59.56 		Best: 905.28 		N:15
+Koehn          		Mean: 81.39 		Best: 902.04 		N:11
+Burke          		Mean: 148.76 		Best: 901.32 		N:6
+Berry          		Mean: 68.77 		Best: 900.76 		N:13
+Ferrell        		Mean: 178.16 		Best: 896.08 		N:5
+Lee            		Mean: 127.28 		Best: 895.69 		N:7
+Wegner         		Mean: 68.32 		Best: 891.13 		N:13
+
+########## REPORT GEN: 38 ##########
+SPECIES: 
+Ferrell        		Mean: 74.89 		Best: 934.2 		N:12
+Lee            		Mean: 81.92 		Best: 930.03 		N:11
+Harris         		Mean: 112.99 		Best: 929.7 		N:8
+Collazo        		Mean: 69.05 		Best: 928.59 		N:13
+Tuggle         		Mean: 89.52 		Best: 927.55 		N:10
+Aguilar        		Mean: 59.71 		Best: 926.25 		N:15
+Berry          		Mean: 81.4 		Best: 919.52 		N:11
+Koehn          		Mean: 112.03 		Best: 909.34 		N:8
+Jones          		Mean: 99.74 		Best: 908.67 		N:9
+Morris         		Mean: 112.01 		Best: 908.09 		N:8
+Kotterna       		Mean: 111.63 		Best: 904.35 		N:8
+Wegner         		Mean: 74.79 		Best: 903.17 		N:12
+Nance          		Mean: 111.59 		Best: 902.87 		N:8
+Burke          		Mean: 81.07 		Best: 898.7 		N:11
+Oldham         		Mean: 148.87 		Best: 897.31 		N:6
+Andrews        		Mean: 111.28 		Best: 893.14 		N:8
+
+########## REPORT GEN: 39 ##########
+SPECIES: 
+Morris         		Mean: 56.05 		Best: 933.04 		N:16
+Lee            		Mean: 64.16 		Best: 932.1 		N:14
+Andrews        		Mean: 68.9 		Best: 930.11 		N:13
+Harris         		Mean: 81.39 		Best: 929.83 		N:11
+Tuggle         		Mean: 128.09 		Best: 925.23 		N:7
+Oldham         		Mean: 89.97 		Best: 924.25 		N:10
+Aguilar        		Mean: 64.26 		Best: 924.14 		N:14
+Burke          		Mean: 81.27 		Best: 917.28 		N:11
+Koehn          		Mean: 49.64 		Best: 910.14 		N:18
+Wegner         		Mean: 75.08 		Best: 909.59 		N:12
+Nance          		Mean: 59.55 		Best: 906.52 		N:15
+Kotterna       		Mean: 148.88 		Best: 900.3 		N:6
+Ferrell        		Mean: 74.62 		Best: 900.15 		N:12
+Collazo        		Mean: 148.3 		Best: 898.53 		N:6
+Berry          		Mean: 74.3 		Best: 898.23 		N:12
+Jones          		Mean: 126.75 		Best: 888.0 		N:7
+
+########## REPORT GEN: 40 ##########
+SPECIES: 
+Andrews        		Mean: 64.3 		Best: 933.77 		N:14
+Jones          		Mean: 181.82 		Best: 932.87 		N:5
+Lee            		Mean: 59.98 		Best: 929.86 		N:15
+Collazo        		Mean: 99.62 		Best: 928.78 		N:9
+Ferrell        		Mean: 59.64 		Best: 928.03 		N:15
+Burke          		Mean: 90.09 		Best: 926.9 		N:10
+Morris         		Mean: 74.64 		Best: 926.13 		N:12
+Harris         		Mean: 89.39 		Best: 925.28 		N:10
+Kotterna       		Mean: 63.9 		Best: 908.28 		N:14
+Aguilar        		Mean: 74.28 		Best: 902.01 		N:12
+Oldham         		Mean: 111.35 		Best: 899.2 		N:8
+Koehn          		Mean: 63.76 		Best: 898.05 		N:14
+Wegner         		Mean: 68.45 		Best: 896.17 		N:13
+Berry          		Mean: 98.81 		Best: 893.51 		N:9
+Tuggle         		Mean: 445.89 		Best: 893.18 		N:2
+Nance          		Mean: 127.03 		Best: 892.94 		N:7
+
+########## REPORT GEN: 41 ##########
+SPECIES: 
+Tuggle         		Mean: 63.95 		Best: 935.84 		N:14
+Harris         		Mean: 56.17 		Best: 931.88 		N:16
+Nance          		Mean: 99.62 		Best: 931.66 		N:9
+Aguilar        		Mean: 112.77 		Best: 929.94 		N:8
+Lee            		Mean: 129.41 		Best: 929.08 		N:7
+Wegner         		Mean: 100.75 		Best: 927.14 		N:9
+Koehn          		Mean: 112.82 		Best: 925.81 		N:8
+Morris         		Mean: 81.47 		Best: 923.34 		N:11
+Collazo        		Mean: 63.89 		Best: 923.27 		N:14
+Jones          		Mean: 89.93 		Best: 922.7 		N:10
+Oldham         		Mean: 81.22 		Best: 901.8 		N:11
+Berry          		Mean: 445.81 		Best: 893.5 		N:2
+Kotterna       		Mean: 446.21 		Best: 893.28 		N:2
+Ferrell        		Mean: 126.95 		Best: 891.02 		N:7
+Andrews        		Mean: 126.79 		Best: 890.69 		N:7
+Burke          		Mean: 177.28 		Best: 888.39 		N:5
+
+########## REPORT GEN: 42 ##########
+SPECIES: 
+Kotterna       		Mean: 81.77 		Best: 932.88 		N:11
+Burke          		Mean: 151.22 		Best: 932.77 		N:6
+Nance          		Mean: 89.57 		Best: 930.77 		N:10
+Andrews        		Mean: 112.39 		Best: 929.99 		N:8
+Berry          		Mean: 89.94 		Best: 929.3 		N:10
+Koehn          		Mean: 74.57 		Best: 926.75 		N:12
+Lee            		Mean: 181.37 		Best: 926.24 		N:5
+Harris         		Mean: 74.71 		Best: 926.0 		N:12
+Ferrell        		Mean: 149.17 		Best: 906.14 		N:6
+Oldham         		Mean: 89.41 		Best: 900.55 		N:10
+Jones          		Mean: 111.49 		Best: 899.69 		N:8
+Aguilar        		Mean: 297.74 		Best: 898.26 		N:3
+Collazo        		Mean: 148.37 		Best: 895.2 		N:6
+Tuggle         		Mean: 98.98 		Best: 892.78 		N:9
+Morris         		Mean: 127.14 		Best: 891.8 		N:7
+Wegner         		Mean: 296.97 		Best: 890.36 		N:3
+
+########## REPORT GEN: 43 ##########
+SPECIES: 
+Berry          		Mean: 64.5 		Best: 936.92 		N:14
+Collazo        		Mean: 149.62 		Best: 931.33 		N:6
+Tuggle         		Mean: 56.05 		Best: 929.75 		N:16
+Ferrell        		Mean: 112.07 		Best: 926.32 		N:8
+Wegner         		Mean: 147.33 		Best: 926.03 		N:6
+Nance          		Mean: 74.88 		Best: 923.43 		N:12
+Kotterna       		Mean: 99.42 		Best: 922.91 		N:9
+Morris         		Mean: 178.53 		Best: 909.09 		N:5
+Lee            		Mean: 111.96 		Best: 908.02 		N:8
+Oldham         		Mean: 99.84 		Best: 907.11 		N:9
+Jones          		Mean: 148.78 		Best: 904.28 		N:6
+Harris         		Mean: 89.53 		Best: 904.23 		N:10
+Koehn          		Mean: 89.51 		Best: 899.96 		N:10
+Burke          		Mean: 178.45 		Best: 898.06 		N:5
+Andrews        		Mean: 111.46 		Best: 896.54 		N:8
+Aguilar        		Mean: 98.58 		Best: 885.72 		N:9
+
+########## REPORT GEN: 44 ##########
+SPECIES: 
+Harris         		Mean: 89.89 		Best: 931.53 		N:10
+Wegner         		Mean: 52.91 		Best: 929.83 		N:17
+Ferrell        		Mean: 74.47 		Best: 927.4 		N:12
+Kotterna       		Mean: 81.15 		Best: 925.89 		N:11
+Jones          		Mean: 127.84 		Best: 925.79 		N:7
+Andrews        		Mean: 112.02 		Best: 924.72 		N:8
+Tuggle         		Mean: 68.82 		Best: 924.31 		N:13
+Morris         		Mean: 99.72 		Best: 922.63 		N:9
+Burke          		Mean: 89.09 		Best: 908.63 		N:10
+Nance          		Mean: 74.53 		Best: 907.76 		N:12
+Oldham         		Mean: 74.68 		Best: 907.14 		N:12
+Aguilar        		Mean: 99.27 		Best: 903.44 		N:9
+Koehn          		Mean: 127.24 		Best: 899.58 		N:7
+Berry          		Mean: 59.47 		Best: 899.05 		N:15
+Collazo        		Mean: 127.35 		Best: 895.02 		N:7
+Lee            		Mean: 178.36 		Best: 891.33 		N:5
+
+########## REPORT GEN: 45 ##########
+SPECIES: 
+Koehn          		Mean: 89.48 		Best: 931.01 		N:10
+Burke          		Mean: 74.63 		Best: 930.93 		N:12
+Nance          		Mean: 63.73 		Best: 928.7 		N:14
+Kotterna       		Mean: 74.56 		Best: 926.83 		N:12
+Jones          		Mean: 64.07 		Best: 926.11 		N:14
+Aguilar        		Mean: 89.53 		Best: 925.88 		N:10
+Collazo        		Mean: 59.47 		Best: 924.7 		N:15
+Lee            		Mean: 179.94 		Best: 923.04 		N:5
+Tuggle         		Mean: 81.1 		Best: 910.55 		N:11
+Oldham         		Mean: 99.32 		Best: 909.02 		N:9
+Andrews        		Mean: 63.84 		Best: 908.08 		N:14
+Berry          		Mean: 81.41 		Best: 908.05 		N:11
+Morris         		Mean: 89.51 		Best: 908.93 		N:10
+Ferrell        		Mean: 74.3 		Best: 899.49 		N:12
+Harris         		Mean: 80.98 		Best: 893.92 		N:11
+Wegner         		Mean: 446.44 		Best: 891.44 		N:2
+
+########## REPORT GEN: 46 ##########
+SPECIES: 
+Ferrell        		Mean: 74.74 		Best: 933.4 		N:12
+Kotterna       		Mean: 112.16 		Best: 932.41 		N:8
+Tuggle         		Mean: 112.02 		Best: 930.22 		N:8
+Berry          		Mean: 128.35 		Best: 929.17 		N:7
+Koehn          		Mean: 81.83 		Best: 927.6 		N:11
+Oldham         		Mean: 128.61 		Best: 927.26 		N:7
+Wegner         		Mean: 63.78 		Best: 925.22 		N:14
+Lee            		Mean: 99.77 		Best: 909.61 		N:9
+Andrews        		Mean: 99.65 		Best: 909.42 		N:9
+Morris         		Mean: 81.21 		Best: 907.53 		N:11
+Burke          		Mean: 224.85 		Best: 903.46 		N:4
+Jones          		Mean: 297.43 		Best: 902.57 		N:3
+Nance          		Mean: 127.56 		Best: 901.53 		N:7
+Harris         		Mean: 178.01 		Best: 893.23 		N:5
+Collazo        		Mean: 81.0 		Best: 892.87 		N:11
+Aguilar        		Mean: 110.92 		Best: 888.51 		N:8
+
+########## REPORT GEN: 47 ##########
+SPECIES: 
+Aguilar        		Mean: 55.82 		Best: 934.56 		N:16
+Oldham         		Mean: 99.81 		Best: 933.84 		N:9
+Wegner         		Mean: 113.15 		Best: 932.94 		N:8
+Jones          		Mean: 112.79 		Best: 928.35 		N:8
+Berry          		Mean: 68.7 		Best: 926.19 		N:13
+Morris         		Mean: 179.06 		Best: 923.47 		N:5
+Ferrell        		Mean: 74.58 		Best: 922.06 		N:12
+Burke          		Mean: 150.37 		Best: 910.97 		N:6
+Kotterna       		Mean: 81.23 		Best: 907.64 		N:11
+Lee            		Mean: 127.85 		Best: 903.55 		N:7
+Tuggle         		Mean: 99.17 		Best: 902.69 		N:9
+Nance          		Mean: 99.35 		Best: 901.54 		N:9
+Collazo        		Mean: 99.04 		Best: 900.15 		N:9
+Andrews        		Mean: 148.68 		Best: 899.66 		N:6
+Koehn          		Mean: 98.75 		Best: 892.56 		N:9
+Harris         		Mean: 74.07 		Best: 890.77 		N:12
+
+########## REPORT GEN: 48 ##########
+SPECIES: 
+Koehn          		Mean: 74.57 		Best: 933.92 		N:12
+Wegner         		Mean: 49.91 		Best: 933.74 		N:18
+Nance          		Mean: 89.18 		Best: 928.45 		N:10
+Kotterna       		Mean: 52.79 		Best: 928.26 		N:17
+Tuggle         		Mean: 149.49 		Best: 926.65 		N:6
+Ferrell        		Mean: 111.84 		Best: 925.91 		N:8
+Andrews        		Mean: 99.3 		Best: 924.42 		N:9
+Jones          		Mean: 74.44 		Best: 920.4 		N:12
+Morris         		Mean: 74.44 		Best: 912.13 		N:12
+Collazo        		Mean: 89.44 		Best: 908.87 		N:10
+Lee            		Mean: 149.43 		Best: 908.18 		N:6
+Berry          		Mean: 55.85 		Best: 906.08 		N:16
+Aguilar        		Mean: 63.61 		Best: 903.08 		N:14
+Oldham         		Mean: 178.18 		Best: 899.64 		N:5
+Burke          		Mean: 126.86 		Best: 891.05 		N:7
+Harris         		Mean: 111.1 		Best: 889.07 		N:8
+
+########## REPORT GEN: 49 ##########
+SPECIES: 
+Oldham         		Mean: 74.95 		Best: 934.82 		N:12
+Wegner         		Mean: 81.39 		Best: 934.41 		N:11
+Jones          		Mean: 64.14 		Best: 931.09 		N:14
+Nance          		Mean: 74.89 		Best: 929.97 		N:12
+Andrews        		Mean: 59.64 		Best: 926.53 		N:15
+Koehn          		Mean: 68.85 		Best: 924.66 		N:13
+Burke          		Mean: 127.86 		Best: 909.19 		N:7
+Lee            		Mean: 74.48 		Best: 908.5 		N:12
+Morris         		Mean: 63.83 		Best: 908.43 		N:14
+Collazo        		Mean: 148.85 		Best: 906.59 		N:6
+Ferrell        		Mean: 89.13 		Best: 905.19 		N:10
+Tuggle         		Mean: 81.03 		Best: 904.0 		N:11
+Berry          		Mean: 98.81 		Best: 901.53 		N:9
+Kotterna       		Mean: 88.94 		Best: 892.79 		N:10
+Harris         		Mean: 148.03 		Best: 890.22 		N:6
+Aguilar        		Mean: 111.05 		Best: 890.02 		N:8
+
+########## REPORT GEN: 50 ##########
+SPECIES: 
+Collazo        		Mean: 74.59 		Best: 936.46 		N:12
+Nance          		Mean: 74.83 		Best: 933.67 		N:12
+Wegner         		Mean: 99.59 		Best: 932.21 		N:9
+Morris         		Mean: 63.85 		Best: 926.94 		N:14
+Ferrell        		Mean: 52.55 		Best: 924.57 		N:17
+Oldham         		Mean: 74.26 		Best: 913.53 		N:12
+Lee            		Mean: 81.32 		Best: 910.46 		N:11
+Kotterna       		Mean: 99.91 		Best: 908.67 		N:9
+Tuggle         		Mean: 68.89 		Best: 908.67 		N:13
+Burke          		Mean: 88.73 		Best: 908.02 		N:10
+Jones          		Mean: 88.85 		Best: 895.52 		N:10
+Harris         		Mean: 81.01 		Best: 895.28 		N:11
+Aguilar        		Mean: 68.47 		Best: 894.03 		N:13
+Berry          		Mean: 126.97 		Best: 892.29 		N:7
+Andrews        		Mean: 98.63 		Best: 890.01 		N:9
+Koehn          		Mean: 126.85 		Best: 888.09 		N:7
+
+########## REPORT GEN: 51 ##########
+SPECIES: 
+Harris         		Mean: 59.64 		Best: 939.39 		N:15
+Ferrell        		Mean: 69.01 		Best: 936.4 		N:13
+Tuggle         		Mean: 75.0 		Best: 935.46 		N:12
+Nance          		Mean: 89.33 		Best: 926.83 		N:10
+Morris         		Mean: 99.25 		Best: 925.24 		N:9
+Lee            		Mean: 59.41 		Best: 909.52 		N:15
+Oldham         		Mean: 59.52 		Best: 909.43 		N:15
+Berry          		Mean: 68.89 		Best: 911.16 		N:13
+Burke          		Mean: 49.49 		Best: 907.07 		N:18
+Collazo        		Mean: 59.34 		Best: 902.73 		N:15
+Jones          		Mean: 74.42 		Best: 899.43 		N:12
+Andrews        		Mean: 80.89 		Best: 897.0 		N:11
+Kotterna       		Mean: 88.76 		Best: 890.36 		N:10
+Aguilar        		Mean: 148.24 		Best: 889.62 		N:6
+Koehn          		Mean: 177.35 		Best: 888.43 		N:5
+Wegner         		Mean: 222.05 		Best: 887.24 		N:4
+
+########## REPORT GEN: 52 ##########
+SPECIES: 
+Berry          		Mean: 52.58 		Best: 939.78 		N:17
+Jones          		Mean: 81.2 		Best: 934.07 		N:11
+Wegner         		Mean: 81.7 		Best: 933.85 		N:11
+Burke          		Mean: 88.7 		Best: 927.69 		N:10
+Harris         		Mean: 99.6 		Best: 927.3 		N:9
+Lee            		Mean: 111.61 		Best: 912.46 		N:8
+Ferrell        		Mean: 81.0 		Best: 907.4 		N:11
+Koehn          		Mean: 178.87 		Best: 906.24 		N:5
+Collazo        		Mean: 81.02 		Best: 898.44 		N:11
+Nance          		Mean: 148.66 		Best: 895.5 		N:6
+Morris         		Mean: 98.74 		Best: 894.93 		N:9
+Tuggle         		Mean: 68.34 		Best: 894.49 		N:13
+Kotterna       		Mean: 127.32 		Best: 894.36 		N:7
+Aguilar        		Mean: 80.77 		Best: 891.45 		N:11
+Andrews        		Mean: 110.93 		Best: 890.78 		N:8
+Oldham         		Mean: 111.12 		Best: 890.29 		N:8
+
+########## REPORT GEN: 53 ##########
+SPECIES: 
+Aguilar        		Mean: 52.71 		Best: 938.06 		N:17
+Oldham         		Mean: 52.63 		Best: 934.4 		N:17
+Lee            		Mean: 99.32 		Best: 934.1 		N:9
+Nance          		Mean: 81.04 		Best: 927.61 		N:11
+Koehn          		Mean: 38.84 		Best: 909.23 		N:23
+Berry          		Mean: 80.51 		Best: 908.53 		N:11
+Wegner         		Mean: 149.01 		Best: 901.72 		N:6
+Jones          		Mean: 111.16 		Best: 900.81 		N:8
+Tuggle         		Mean: 98.96 		Best: 897.64 		N:9
+Kotterna       		Mean: 80.77 		Best: 894.89 		N:11
+Collazo        		Mean: 148.52 		Best: 894.3 		N:6
+Morris         		Mean: 80.3 		Best: 893.95 		N:11
+Harris         		Mean: 80.88 		Best: 893.23 		N:11
+Andrews        		Mean: 68.29 		Best: 891.95 		N:13
+Burke          		Mean: 127.22 		Best: 891.88 		N:7
+Ferrell        		Mean: 147.84 		Best: 887.14 		N:6
+
+########## REPORT GEN: 54 ##########
+SPECIES: 
+Koehn          		Mean: 74.73 		Best: 935.86 		N:12
+Ferrell        		Mean: 99.77 		Best: 935.8 		N:9
+Morris         		Mean: 59.56 		Best: 927.69 		N:15
+Aguilar        		Mean: 46.89 		Best: 927.31 		N:19
+Tuggle         		Mean: 59.4 		Best: 910.74 		N:15
+Nance          		Mean: 148.93 		Best: 908.29 		N:6
+Collazo        		Mean: 81.27 		Best: 907.4 		N:11
+Oldham         		Mean: 63.65 		Best: 906.27 		N:14
+Jones          		Mean: 99.16 		Best: 905.38 		N:9
+Kotterna       		Mean: 81.08 		Best: 901.77 		N:11
+Lee            		Mean: 80.93 		Best: 901.53 		N:11
+Harris         		Mean: 80.83 		Best: 900.15 		N:11
+Andrews        		Mean: 148.61 		Best: 900.44 		N:6
+Burke          		Mean: 98.71 		Best: 891.68 		N:9
+Berry          		Mean: 63.48 		Best: 889.95 		N:14
+Wegner         		Mean: 221.91 		Best: 888.77 		N:4
+
+########## REPORT GEN: 55 ##########
+SPECIES: 
+Burke          		Mean: 74.49 		Best: 940.29 		N:12
+Ferrell        		Mean: 180.45 		Best: 936.04 		N:5
+Oldham         		Mean: 99.77 		Best: 932.76 		N:9
+Berry          		Mean: 111.61 		Best: 927.03 		N:8
+Lee            		Mean: 52.67 		Best: 926.91 		N:17
+Jones          		Mean: 148.79 		Best: 922.88 		N:6
+Tuggle         		Mean: 99.81 		Best: 915.35 		N:9
+Nance          		Mean: 111.67 		Best: 911.2 		N:8
+Koehn          		Mean: 99.22 		Best: 909.3 		N:9
+Andrews        		Mean: 63.69 		Best: 902.88 		N:14
+Morris         		Mean: 55.62 		Best: 901.34 		N:16
+Kotterna       		Mean: 98.74 		Best: 900.8 		N:9
+Aguilar        		Mean: 99.03 		Best: 899.76 		N:9
+Collazo        		Mean: 87.05 		Best: 893.2 		N:10
+Wegner         		Mean: 74.13 		Best: 893.07 		N:12
+Harris         		Mean: 145.2 		Best: 889.32 		N:6
+
+########## REPORT GEN: 56 ##########
+SPECIES: 
+Nance          		Mean: 64.08 		Best: 936.28 		N:14
+Berry          		Mean: 74.42 		Best: 934.75 		N:12
+Wegner         		Mean: 52.66 		Best: 934.72 		N:17
+Morris         		Mean: 59.8 		Best: 933.08 		N:15
+Lee            		Mean: 111.53 		Best: 926.9 		N:8
+Jones          		Mean: 81.56 		Best: 925.03 		N:11
+Harris         		Mean: 68.68 		Best: 919.45 		N:13
+Oldham         		Mean: 80.12 		Best: 909.35 		N:11
+Burke          		Mean: 89.1 		Best: 908.3 		N:10
+Ferrell        		Mean: 89.05 		Best: 900.72 		N:10
+Tuggle         		Mean: 81.04 		Best: 899.26 		N:11
+Andrews        		Mean: 98.91 		Best: 897.68 		N:9
+Aguilar        		Mean: 98.52 		Best: 890.39 		N:9
+Koehn          		Mean: 110.84 		Best: 889.26 		N:8
+Kotterna       		Mean: 175.64 		Best: 889.18 		N:5
+Collazo        		Mean: 110.71 		Best: 886.01 		N:8
+
+########## REPORT GEN: 57 ##########
+SPECIES: 
+Ferrell        		Mean: 112.0 		Best: 942.61 		N:8
+Kotterna       		Mean: 56.04 		Best: 932.77 		N:16
+Collazo        		Mean: 63.75 		Best: 931.73 		N:14
+Burke          		Mean: 74.43 		Best: 928.88 		N:12
+Jones          		Mean: 99.26 		Best: 925.41 		N:9
+Aguilar        		Mean: 89.34 		Best: 925.22 		N:10
+Harris         		Mean: 52.59 		Best: 923.83 		N:17
+Berry          		Mean: 68.73 		Best: 920.13 		N:13
+Lee            		Mean: 63.34 		Best: 918.96 		N:14
+Oldham         		Mean: 73.74 		Best: 910.25 		N:12
+Koehn          		Mean: 74.1 		Best: 906.63 		N:12
+Andrews        		Mean: 127.33 		Best: 903.49 		N:7
+Tuggle         		Mean: 68.46 		Best: 900.02 		N:13
+Nance          		Mean: 98.74 		Best: 890.08 		N:9
+Wegner         		Mean: 126.93 		Best: 889.61 		N:7
+Morris         		Mean: 110.91 		Best: 887.87 		N:8
+
+########## REPORT GEN: 58 ##########
+SPECIES: 
+Tuggle         		Mean: 99.28 		Best: 937.01 		N:9
+Harris         		Mean: 63.79 		Best: 933.48 		N:14
+Morris         		Mean: 68.93 		Best: 929.99 		N:13
+Aguilar        		Mean: 74.44 		Best: 928.51 		N:12
+Berry          		Mean: 55.69 		Best: 927.66 		N:16
+Ferrell        		Mean: 49.58 		Best: 926.41 		N:18
+Collazo        		Mean: 89.14 		Best: 926.31 		N:10
+Burke          		Mean: 52.43 		Best: 926.09 		N:17
+Oldham         		Mean: 58.92 		Best: 920.2 		N:15
+Andrews        		Mean: 63.61 		Best: 917.66 		N:14
+Nance          		Mean: 128.17 		Best: 912.38 		N:7
+Jones          		Mean: 449.96 		Best: 909.5 		N:2
+Kotterna       		Mean: 127.77 		Best: 909.03 		N:7
+Lee            		Mean: 99.18 		Best: 907.48 		N:9
+Wegner         		Mean: 63.63 		Best: 906.39 		N:14
+Koehn          		Mean: 111.37 		Best: 901.13 		N:8
+
+########## REPORT GEN: 59 ##########
+SPECIES: 
+Collazo        		Mean: 90.1 		Best: 943.76 		N:10
+Wegner         		Mean: 111.85 		Best: 935.17 		N:8
+Jones          		Mean: 89.74 		Best: 934.76 		N:10
+Aguilar        		Mean: 59.76 		Best: 934.13 		N:15
+Tuggle         		Mean: 81.61 		Best: 928.0 		N:11
+Oldham         		Mean: 81.5 		Best: 923.29 		N:11
+Ferrell        		Mean: 81.32 		Best: 921.68 		N:11
+Kotterna       		Mean: 81.05 		Best: 910.27 		N:11
+Koehn          		Mean: 111.41 		Best: 909.19 		N:8
+Burke          		Mean: 99.39 		Best: 909.09 		N:9
+Harris         		Mean: 99.06 		Best: 901.43 		N:9
+Lee            		Mean: 127.36 		Best: 900.5 		N:7
+Morris         		Mean: 111.3 		Best: 898.71 		N:8
+Berry          		Mean: 88.76 		Best: 894.32 		N:10
+Andrews        		Mean: 295.95 		Best: 888.63 		N:3
+Nance          		Mean: 177.0 		Best: 886.73 		N:5
+
+########## REPORT GEN: 60 ##########
+SPECIES: 
+Burke          		Mean: 68.93 		Best: 946.77 		N:13
+Ferrell        		Mean: 89.7 		Best: 943.79 		N:10
+Morris         		Mean: 128.65 		Best: 937.48 		N:7
+Koehn          		Mean: 99.92 		Best: 937.23 		N:9
+Nance          		Mean: 112.13 		Best: 934.76 		N:8
+Wegner         		Mean: 150.58 		Best: 933.85 		N:6
+Collazo        		Mean: 149.02 		Best: 925.01 		N:6
+Oldham         		Mean: 63.94 		Best: 922.04 		N:14
+Andrews        		Mean: 74.23 		Best: 919.1 		N:12
+Kotterna       		Mean: 63.65 		Best: 908.51 		N:14
+Jones          		Mean: 111.34 		Best: 908.25 		N:8
+Berry          		Mean: 89.02 		Best: 907.95 		N:10
+Tuggle         		Mean: 80.96 		Best: 901.16 		N:11
+Aguilar        		Mean: 98.74 		Best: 900.63 		N:9
+Harris         		Mean: 74.23 		Best: 899.33 		N:12
+Lee            		Mean: 74.14 		Best: 899.13 		N:12
+
+########## REPORT GEN: 61 ##########
+SPECIES: 
+Oldham         		Mean: 128.02 		Best: 938.01 		N:7
+Burke          		Mean: 81.33 		Best: 937.87 		N:11
+Wegner         		Mean: 81.26 		Best: 937.43 		N:11
+Ferrell        		Mean: 74.85 		Best: 935.92 		N:12
+Aguilar        		Mean: 81.33 		Best: 931.87 		N:11
+Tuggle         		Mean: 99.6 		Best: 928.79 		N:9
+Andrews        		Mean: 81.07 		Best: 927.95 		N:11
+Berry          		Mean: 68.89 		Best: 927.58 		N:13
+Lee            		Mean: 44.44 		Best: 915.53 		N:20
+Harris         		Mean: 68.57 		Best: 913.41 		N:13
+Koehn          		Mean: 111.79 		Best: 908.69 		N:8
+Kotterna       		Mean: 74.2 		Best: 908.62 		N:12
+Morris         		Mean: 127.51 		Best: 906.86 		N:7
+Collazo        		Mean: 63.56 		Best: 899.4 		N:14
+Jones          		Mean: 98.63 		Best: 893.05 		N:9
+Nance          		Mean: 126.97 		Best: 890.14 		N:7
+
+########## REPORT GEN: 62 ##########
+SPECIES: 
+Morris         		Mean: 55.89 		Best: 942.55 		N:16
+Burke          		Mean: 55.87 		Best: 936.39 		N:16
+Harris         		Mean: 63.9 		Best: 933.52 		N:14
+Andrews        		Mean: 100.37 		Best: 933.26 		N:9
+Lee            		Mean: 74.68 		Best: 932.55 		N:12
+Nance          		Mean: 59.44 		Best: 926.91 		N:15
+Ferrell        		Mean: 89.13 		Best: 926.9 		N:10
+Aguilar        		Mean: 81.13 		Best: 920.4 		N:11
+Oldham         		Mean: 127.56 		Best: 919.96 		N:7
+Tuggle         		Mean: 148.72 		Best: 911.71 		N:6
+Collazo        		Mean: 89.2 		Best: 909.04 		N:10
+Jones          		Mean: 59.53 		Best: 908.24 		N:15
+Berry          		Mean: 127.39 		Best: 908.02 		N:7
+Wegner         		Mean: 63.6 		Best: 905.99 		N:14
+Koehn          		Mean: 111.56 		Best: 904.64 		N:8
+Kotterna       		Mean: 59.37 		Best: 900.16 		N:15
+
+########## REPORT GEN: 63 ##########
+SPECIES: 
+Aguilar        		Mean: 81.64 		Best: 943.71 		N:11
+Oldham         		Mean: 74.81 		Best: 937.17 		N:12
+Lee            		Mean: 127.95 		Best: 932.92 		N:7
+Berry          		Mean: 59.67 		Best: 929.27 		N:15
+Burke          		Mean: 128.36 		Best: 927.97 		N:7
+Tuggle         		Mean: 112.0 		Best: 924.62 		N:8
+Andrews        		Mean: 89.36 		Best: 922.86 		N:10
+Wegner         		Mean: 47.19 		Best: 922.68 		N:19
+Morris         		Mean: 89.3 		Best: 922.62 		N:10
+Nance          		Mean: 178.66 		Best: 911.71 		N:5
+Koehn          		Mean: 81.5 		Best: 909.99 		N:11
+Harris         		Mean: 179.41 		Best: 909.63 		N:5
+Ferrell        		Mean: 81.0 		Best: 908.4 		N:11
+Jones          		Mean: 74.29 		Best: 907.45 		N:12
+Kotterna       		Mean: 40.43 		Best: 906.02 		N:22
+Collazo        		Mean: 89.0 		Best: 899.85 		N:10
+
+########## REPORT GEN: 64 ##########
+SPECIES: 
+Harris         		Mean: 52.57 		Best: 943.27 		N:17
+Ferrell        		Mean: 59.67 		Best: 935.41 		N:15
+Koehn          		Mean: 64.52 		Best: 934.69 		N:14
+Jones          		Mean: 99.9 		Best: 934.47 		N:9
+Morris         		Mean: 89.54 		Best: 931.68 		N:10
+Berry          		Mean: 181.98 		Best: 928.34 		N:5
+Nance          		Mean: 64.04 		Best: 926.0 		N:14
+Burke          		Mean: 81.37 		Best: 925.12 		N:11
+Wegner         		Mean: 59.61 		Best: 921.52 		N:15
+Tuggle         		Mean: 99.21 		Best: 908.81 		N:9
+Oldham         		Mean: 68.5 		Best: 908.26 		N:13
+Aguilar        		Mean: 81.22 		Best: 905.85 		N:11
+Kotterna       		Mean: 148.58 		Best: 901.3 		N:6
+Andrews        		Mean: 98.94 		Best: 899.8 		N:9
+Collazo        		Mean: 178.45 		Best: 898.23 		N:5
+Lee            		Mean: 127.17 		Best: 891.81 		N:7
+
+########## REPORT GEN: 65 ##########
+SPECIES: 
+Nance          		Mean: 90.14 		Best: 935.34 		N:10
+Andrews        		Mean: 81.2 		Best: 935.34 		N:11
+Morris         		Mean: 99.96 		Best: 935.24 		N:9
+Burke          		Mean: 63.8 		Best: 934.93 		N:14
+Tuggle         		Mean: 81.47 		Best: 932.09 		N:11
+Oldham         		Mean: 63.98 		Best: 929.44 		N:14
+Kotterna       		Mean: 149.7 		Best: 927.81 		N:6
+Harris         		Mean: 68.75 		Best: 927.28 		N:13
+Aguilar        		Mean: 127.83 		Best: 925.26 		N:7
+Lee            		Mean: 224.39 		Best: 909.48 		N:4
+Koehn          		Mean: 63.75 		Best: 907.42 		N:14
+Berry          		Mean: 80.98 		Best: 905.55 		N:11
+Jones          		Mean: 111.81 		Best: 903.1 		N:8
+Ferrell        		Mean: 98.9 		Best: 901.13 		N:9
+Wegner         		Mean: 89.08 		Best: 896.91 		N:10
+Collazo        		Mean: 111.14 		Best: 890.04 		N:8
+
+########## REPORT GEN: 66 ##########
+SPECIES: 
+Kotterna       		Mean: 99.84 		Best: 947.05 		N:9
+Nance          		Mean: 59.54 		Best: 934.63 		N:15
+Ferrell        		Mean: 90.05 		Best: 934.43 		N:10
+Wegner         		Mean: 63.85 		Best: 933.24 		N:14
+Koehn          		Mean: 69.01 		Best: 932.56 		N:13
+Aguilar        		Mean: 74.32 		Best: 928.55 		N:12
+Burke          		Mean: 68.56 		Best: 927.94 		N:13
+Lee            		Mean: 80.71 		Best: 927.85 		N:11
+Oldham         		Mean: 89.34 		Best: 926.11 		N:10
+Andrews        		Mean: 224.87 		Best: 908.49 		N:4
+Morris         		Mean: 89.05 		Best: 908.23 		N:10
+Collazo        		Mean: 99.21 		Best: 907.9 		N:9
+Jones          		Mean: 74.51 		Best: 906.58 		N:12
+Tuggle         		Mean: 149.52 		Best: 902.28 		N:6
+Berry          		Mean: 98.88 		Best: 901.75 		N:9
+Harris         		Mean: 110.85 		Best: 889.37 		N:8
+
+########## REPORT GEN: 67 ##########
+SPECIES: 
+Oldham         		Mean: 100.59 		Best: 947.76 		N:9
+Collazo        		Mean: 99.42 		Best: 935.93 		N:9
+Ferrell        		Mean: 89.74 		Best: 933.21 		N:10
+Harris         		Mean: 74.59 		Best: 931.87 		N:12
+Jones          		Mean: 89.83 		Best: 930.35 		N:10
+Tuggle         		Mean: 128.65 		Best: 929.93 		N:7
+Koehn          		Mean: 74.64 		Best: 927.36 		N:12
+Burke          		Mean: 81.07 		Best: 926.82 		N:11
+Wegner         		Mean: 99.23 		Best: 910.14 		N:9
+Morris         		Mean: 99.1 		Best: 908.66 		N:9
+Lee            		Mean: 81.12 		Best: 906.86 		N:11
+Aguilar        		Mean: 68.44 		Best: 901.25 		N:13
+Kotterna       		Mean: 88.89 		Best: 899.65 		N:10
+Andrews        		Mean: 111.06 		Best: 898.67 		N:8
+Berry          		Mean: 111.01 		Best: 892.63 		N:8
+Nance          		Mean: 63.46 		Best: 890.27 		N:14
+
+########## REPORT GEN: 68 ##########
+SPECIES: 
+Morris         		Mean: 46.98 		Best: 945.3 		N:19
+Burke          		Mean: 49.87 		Best: 942.66 		N:18
+Jones          		Mean: 81.19 		Best: 940.96 		N:11
+Oldham         		Mean: 64.25 		Best: 938.46 		N:14
+Nance          		Mean: 56.0 		Best: 936.76 		N:16
+Wegner         		Mean: 128.09 		Best: 930.87 		N:7
+Tuggle         		Mean: 89.34 		Best: 930.66 		N:10
+Lee            		Mean: 89.34 		Best: 930.34 		N:10
+Harris         		Mean: 74.47 		Best: 927.05 		N:12
+Berry          		Mean: 99.09 		Best: 923.82 		N:9
+Aguilar        		Mean: 63.62 		Best: 907.88 		N:14
+Andrews        		Mean: 74.15 		Best: 904.8 		N:12
+Collazo        		Mean: 111.13 		Best: 900.7 		N:8
+Kotterna       		Mean: 127.12 		Best: 898.96 		N:7
+Ferrell        		Mean: 74.13 		Best: 898.81 		N:12
+Koehn          		Mean: 73.98 		Best: 890.66 		N:12
+
+########## REPORT GEN: 69 ##########
+SPECIES: 
+Oldham         		Mean: 52.82 		Best: 945.82 		N:17
+Ferrell        		Mean: 81.61 		Best: 944.73 		N:11
+Harris         		Mean: 90.19 		Best: 943.91 		N:10
+Kotterna       		Mean: 181.36 		Best: 932.9 		N:5
+Collazo        		Mean: 52.45 		Best: 932.5 		N:17
+Burke          		Mean: 81.6 		Best: 929.36 		N:11
+Jones          		Mean: 55.63 		Best: 924.66 		N:16
+Morris         		Mean: 74.45 		Best: 906.88 		N:12
+Aguilar        		Mean: 99.1 		Best: 903.37 		N:9
+Lee            		Mean: 68.56 		Best: 901.99 		N:13
+Nance          		Mean: 89.07 		Best: 899.89 		N:10
+Berry          		Mean: 81.09 		Best: 899.89 		N:11
+Andrews        		Mean: 59.2 		Best: 895.14 		N:15
+Koehn          		Mean: 111.13 		Best: 890.43 		N:8
+Wegner         		Mean: 127.03 		Best: 890.03 		N:7
+Tuggle         		Mean: 68.32 		Best: 888.58 		N:13
+
+########## REPORT GEN: 70 ##########
+SPECIES: 
+Morris         		Mean: 100.33 		Best: 942.81 		N:9
+Koehn          		Mean: 89.95 		Best: 942.15 		N:10
+Burke          		Mean: 180.06 		Best: 939.52 		N:5
+Aguilar        		Mean: 63.78 		Best: 931.53 		N:14
+Collazo        		Mean: 99.15 		Best: 930.27 		N:9
+Nance          		Mean: 99.89 		Best: 928.01 		N:9
+Harris         		Mean: 81.35 		Best: 922.76 		N:11
+Tuggle         		Mean: 59.59 		Best: 921.32 		N:15
+Ferrell        		Mean: 55.8 		Best: 917.45 		N:16
+Oldham         		Mean: 49.54 		Best: 907.04 		N:18
+Lee            		Mean: 81.51 		Best: 904.64 		N:11
+Kotterna       		Mean: 74.25 		Best: 900.1 		N:12
+Andrews        		Mean: 74.08 		Best: 898.22 		N:12
+Berry          		Mean: 148.22 		Best: 897.5 		N:6
+Jones          		Mean: 126.92 		Best: 889.89 		N:7
+Wegner         		Mean: 98.71 		Best: 889.19 		N:9
+
+########## REPORT GEN: 71 ##########
+SPECIES: 
+Berry          		Mean: 47.2 		Best: 944.07 		N:19
+Wegner         		Mean: 100.42 		Best: 937.96 		N:9
+Collazo        		Mean: 89.54 		Best: 935.26 		N:10
+Jones          		Mean: 59.58 		Best: 927.95 		N:15
+Morris         		Mean: 149.08 		Best: 927.89 		N:6
+Koehn          		Mean: 112.36 		Best: 924.54 		N:8
+Lee            		Mean: 89.81 		Best: 923.15 		N:10
+Andrews        		Mean: 81.48 		Best: 916.47 		N:11
+Harris         		Mean: 59.58 		Best: 915.37 		N:15
+Ferrell        		Mean: 81.12 		Best: 911.32 		N:11
+Burke          		Mean: 68.81 		Best: 909.03 		N:13
+Nance          		Mean: 81.0 		Best: 903.1 		N:11
+Aguilar        		Mean: 126.92 		Best: 899.36 		N:7
+Oldham         		Mean: 68.5 		Best: 899.25 		N:13
+Tuggle         		Mean: 177.72 		Best: 894.04 		N:5
+Kotterna       		Mean: 98.8 		Best: 892.64 		N:9
+
+########## REPORT GEN: 72 ##########
+SPECIES: 
+Koehn          		Mean: 74.52 		Best: 943.86 		N:12
+Aguilar        		Mean: 90.35 		Best: 941.1 		N:10
+Ferrell        		Mean: 59.86 		Best: 930.53 		N:15
+Burke          		Mean: 49.7 		Best: 927.65 		N:18
+Morris         		Mean: 68.76 		Best: 922.96 		N:13
+Lee            		Mean: 150.3 		Best: 922.36 		N:6
+Jones          		Mean: 89.35 		Best: 921.6 		N:10
+Tuggle         		Mean: 68.89 		Best: 917.87 		N:13
+Berry          		Mean: 81.14 		Best: 914.16 		N:11
+Wegner         		Mean: 98.95 		Best: 910.2 		N:9
+Harris         		Mean: 68.76 		Best: 907.31 		N:13
+Kotterna       		Mean: 81.18 		Best: 906.21 		N:11
+Nance          		Mean: 111.57 		Best: 905.42 		N:8
+Oldham         		Mean: 74.26 		Best: 901.46 		N:12
+Collazo        		Mean: 147.9 		Best: 887.1 		N:6
+Andrews        		Mean: 176.96 		Best: 883.94 		N:5
+
+########## REPORT GEN: 73 ##########
+SPECIES: 
+Koehn          		Mean: 100.22 		Best: 946.74 		N:9
+Kotterna       		Mean: 100.23 		Best: 940.92 		N:9
+Ferrell        		Mean: 64.06 		Best: 936.48 		N:14
+Lee            		Mean: 69.11 		Best: 931.18 		N:13
+Tuggle         		Mean: 111.71 		Best: 929.39 		N:8
+Harris         		Mean: 81.41 		Best: 924.4 		N:11
+Collazo        		Mean: 90.02 		Best: 918.36 		N:10
+Nance          		Mean: 99.99 		Best: 913.63 		N:9
+Andrews        		Mean: 99.51 		Best: 909.15 		N:9
+Burke          		Mean: 74.3 		Best: 908.44 		N:12
+Berry          		Mean: 74.34 		Best: 906.6 		N:12
+Aguilar        		Mean: 89.15 		Best: 906.49 		N:10
+Jones          		Mean: 81.39 		Best: 903.22 		N:11
+Morris         		Mean: 74.27 		Best: 901.64 		N:12
+Wegner         		Mean: 73.73 		Best: 899.62 		N:12
+Oldham         		Mean: 178.01 		Best: 891.96 		N:5
+
+########## REPORT GEN: 74 ##########
+SPECIES: 
+Jones          		Mean: 89.39 		Best: 942.93 		N:10
+Burke          		Mean: 69.01 		Best: 931.23 		N:13
+Oldham         		Mean: 52.57 		Best: 928.85 		N:17
+Collazo        		Mean: 63.94 		Best: 928.79 		N:14
+Lee            		Mean: 180.01 		Best: 926.83 		N:5
+Morris         		Mean: 49.66 		Best: 925.98 		N:18
+Harris         		Mean: 89.68 		Best: 921.12 		N:10
+Berry          		Mean: 81.42 		Best: 920.4 		N:11
+Wegner         		Mean: 59.74 		Best: 920.3 		N:15
+Koehn          		Mean: 81.05 		Best: 910.32 		N:11
+Andrews        		Mean: 99.22 		Best: 909.08 		N:9
+Aguilar        		Mean: 63.65 		Best: 908.91 		N:14
+Kotterna       		Mean: 99.14 		Best: 906.89 		N:9
+Ferrell        		Mean: 127.7 		Best: 902.95 		N:7
+Nance          		Mean: 99.24 		Best: 901.71 		N:9
+Tuggle         		Mean: 111.02 		Best: 890.4 		N:8
+
+########## REPORT GEN: 75 ##########
+SPECIES: 
+Koehn          		Mean: 112.05 		Best: 942.89 		N:8
+Aguilar        		Mean: 63.85 		Best: 941.4 		N:14
+Collazo        		Mean: 150.08 		Best: 932.37 		N:6
+Oldham         		Mean: 59.98 		Best: 932.26 		N:15
+Tuggle         		Mean: 63.98 		Best: 931.08 		N:14
+Berry          		Mean: 56.01 		Best: 927.43 		N:16
+Wegner         		Mean: 81.25 		Best: 925.66 		N:11
+Lee            		Mean: 74.53 		Best: 915.63 		N:12
+Nance          		Mean: 80.99 		Best: 913.28 		N:11
+Andrews        		Mean: 127.9 		Best: 909.09 		N:7
+Burke          		Mean: 99.23 		Best: 907.82 		N:9
+Morris         		Mean: 63.76 		Best: 903.81 		N:14
+Kotterna       		Mean: 89.17 		Best: 902.25 		N:10
+Harris         		Mean: 74.46 		Best: 902.04 		N:12
+Ferrell        		Mean: 99.17 		Best: 901.16 		N:9
+Jones          		Mean: 99.02 		Best: 899.93 		N:9
+
+########## REPORT GEN: 76 ##########
+SPECIES: 
+Wegner         		Mean: 69.11 		Best: 948.3 		N:13
+Harris         		Mean: 81.57 		Best: 948.09 		N:11
+Oldham         		Mean: 81.46 		Best: 931.12 		N:11
+Collazo        		Mean: 52.62 		Best: 929.68 		N:17
+Berry          		Mean: 64.16 		Best: 928.01 		N:14
+Koehn          		Mean: 55.6 		Best: 924.84 		N:16
+Andrews        		Mean: 89.39 		Best: 919.82 		N:10
+Lee            		Mean: 63.75 		Best: 915.83 		N:14
+Burke          		Mean: 148.84 		Best: 914.98 		N:6
+Kotterna       		Mean: 89.15 		Best: 908.16 		N:10
+Ferrell        		Mean: 81.09 		Best: 906.97 		N:11
+Nance          		Mean: 80.98 		Best: 901.05 		N:11
+Morris         		Mean: 99.07 		Best: 898.07 		N:9
+Aguilar        		Mean: 148.33 		Best: 895.88 		N:6
+Jones          		Mean: 74.14 		Best: 895.84 		N:12
+Tuggle         		Mean: 88.92 		Best: 894.43 		N:10
+
+########## REPORT GEN: 77 ##########
+SPECIES: 
+Lee            		Mean: 81.31 		Best: 940.92 		N:11
+Wegner         		Mean: 111.9 		Best: 935.37 		N:8
+Collazo        		Mean: 63.92 		Best: 933.92 		N:14
+Tuggle         		Mean: 81.59 		Best: 930.22 		N:11
+Andrews        		Mean: 75.13 		Best: 929.97 		N:12
+Berry          		Mean: 128.48 		Best: 929.01 		N:7
+Aguilar        		Mean: 68.77 		Best: 923.14 		N:13
+Jones          		Mean: 74.58 		Best: 915.51 		N:12
+Ferrell        		Mean: 59.47 		Best: 907.68 		N:15
+Koehn          		Mean: 59.39 		Best: 902.2 		N:15
+Burke          		Mean: 98.99 		Best: 901.13 		N:9
+Nance          		Mean: 127.38 		Best: 900.9 		N:7
+Harris         		Mean: 111.31 		Best: 899.76 		N:8
+Oldham         		Mean: 127.04 		Best: 895.42 		N:7
+Morris         		Mean: 63.52 		Best: 891.98 		N:14
+Kotterna       		Mean: 80.74 		Best: 891.97 		N:11
+
+########## REPORT GEN: 78 ##########
+SPECIES: 
+Collazo        		Mean: 55.99 		Best: 938.7 		N:16
+Morris         		Mean: 74.55 		Best: 936.18 		N:12
+Nance          		Mean: 89.56 		Best: 932.81 		N:10
+Berry          		Mean: 68.95 		Best: 932.81 		N:13
+Wegner         		Mean: 181.87 		Best: 932.08 		N:5
+Lee            		Mean: 63.79 		Best: 930.8 		N:14
+Tuggle         		Mean: 74.52 		Best: 926.11 		N:12
+Harris         		Mean: 99.47 		Best: 924.39 		N:9
+Burke          		Mean: 68.72 		Best: 921.41 		N:13
+Jones          		Mean: 56.02 		Best: 920.52 		N:16
+Koehn          		Mean: 74.43 		Best: 918.69 		N:12
+Kotterna       		Mean: 111.66 		Best: 913.82 		N:8
+Ferrell        		Mean: 59.42 		Best: 903.43 		N:15
+Andrews        		Mean: 127.48 		Best: 902.99 		N:7
+Oldham         		Mean: 98.87 		Best: 897.81 		N:9
+Aguilar        		Mean: 88.73 		Best: 887.24 		N:10
+
+########## REPORT GEN: 79 ##########
+SPECIES: 
+Andrews        		Mean: 59.6 		Best: 940.04 		N:15
+Morris         		Mean: 64.36 		Best: 937.6 		N:14
+Wegner         		Mean: 111.86 		Best: 934.99 		N:8
+Ferrell        		Mean: 112.38 		Best: 933.21 		N:8
+Oldham         		Mean: 74.36 		Best: 932.69 		N:12
+Collazo        		Mean: 74.61 		Best: 929.66 		N:12
+Berry          		Mean: 112.32 		Best: 928.13 		N:8
+Jones          		Mean: 89.69 		Best: 927.73 		N:10
+Aguilar        		Mean: 111.95 		Best: 926.8 		N:8
+Kotterna       		Mean: 90.21 		Best: 924.69 		N:10
+Nance          		Mean: 81.22 		Best: 923.34 		N:11
+Harris         		Mean: 128.41 		Best: 922.39 		N:7
+Lee            		Mean: 59.54 		Best: 911.4 		N:15
+Koehn          		Mean: 80.91 		Best: 909.96 		N:11
+Tuggle         		Mean: 62.71 		Best: 906.94 		N:14
+Burke          		Mean: 88.95 		Best: 899.55 		N:10
+
+########## REPORT GEN: 80 ##########
+SPECIES: 
+Tuggle         		Mean: 89.66 		Best: 945.11 		N:10
+Kotterna       		Mean: 56.33 		Best: 943.93 		N:16
+Aguilar        		Mean: 68.84 		Best: 935.4 		N:13
+Harris         		Mean: 64.26 		Best: 933.84 		N:14
+Wegner         		Mean: 47.21 		Best: 930.54 		N:19
+Jones          		Mean: 88.88 		Best: 930.53 		N:10
+Burke          		Mean: 89.58 		Best: 930.3 		N:10
+Koehn          		Mean: 81.14 		Best: 927.59 		N:11
+Morris         		Mean: 81.3 		Best: 925.81 		N:11
+Berry          		Mean: 63.93 		Best: 921.02 		N:14
+Andrews        		Mean: 55.81 		Best: 920.86 		N:16
+Ferrell        		Mean: 81.15 		Best: 918.06 		N:11
+Lee            		Mean: 111.91 		Best: 908.48 		N:8
+Oldham         		Mean: 148.81 		Best: 899.94 		N:6
+Nance          		Mean: 52.41 		Best: 898.88 		N:17
+Collazo        		Mean: 444.55 		Best: 887.41 		N:2
+
+########## REPORT GEN: 81 ##########
+SPECIES: 
+Andrews        		Mean: 100.01 		Best: 942.67 		N:9
+Burke          		Mean: 89.57 		Best: 942.0 		N:10
+Tuggle         		Mean: 64.16 		Best: 934.2 		N:14
+Ferrell        		Mean: 89.85 		Best: 933.72 		N:10
+Aguilar        		Mean: 112.9 		Best: 933.52 		N:8
+Berry          		Mean: 128.89 		Best: 931.94 		N:7
+Jones          		Mean: 174.76 		Best: 927.66 		N:5
+Koehn          		Mean: 179.22 		Best: 927.27 		N:5
+Oldham         		Mean: 80.9 		Best: 922.71 		N:11
+Collazo        		Mean: 89.43 		Best: 921.16 		N:10
+Lee            		Mean: 81.29 		Best: 919.43 		N:11
+Wegner         		Mean: 89.6 		Best: 916.06 		N:10
+Nance          		Mean: 127.66 		Best: 908.14 		N:7
+Harris         		Mean: 67.88 		Best: 904.91 		N:13
+Kotterna       		Mean: 111.36 		Best: 899.99 		N:8
+Morris         		Mean: 147.84 		Best: 890.77 		N:6
+
+########## REPORT GEN: 82 ##########
+SPECIES: 
+Oldham         		Mean: 112.62 		Best: 946.31 		N:8
+Harris         		Mean: 69.02 		Best: 943.94 		N:13
+Koehn          		Mean: 112.91 		Best: 943.06 		N:8
+Berry          		Mean: 75.1 		Best: 936.54 		N:12
+Ferrell        		Mean: 63.8 		Best: 932.14 		N:14
+Tuggle         		Mean: 81.56 		Best: 929.93 		N:11
+Morris         		Mean: 68.84 		Best: 925.02 		N:13
+Collazo        		Mean: 111.77 		Best: 924.34 		N:8
+Lee            		Mean: 55.89 		Best: 923.36 		N:16
+Wegner         		Mean: 111.57 		Best: 919.56 		N:8
+Jones          		Mean: 99.31 		Best: 919.41 		N:9
+Nance          		Mean: 89.6 		Best: 909.66 		N:10
+Kotterna       		Mean: 111.61 		Best: 908.26 		N:8
+Burke          		Mean: 63.66 		Best: 900.4 		N:14
+Aguilar        		Mean: 127.02 		Best: 900.3 		N:7
+Andrews        		Mean: 98.7 		Best: 891.57 		N:9
+
+########## REPORT GEN: 83 ##########
+SPECIES: 
+Berry          		Mean: 64.01 		Best: 946.23 		N:14
+Nance          		Mean: 63.71 		Best: 940.7 		N:14
+Aguilar        		Mean: 100.2 		Best: 933.5 		N:9
+Collazo        		Mean: 69.09 		Best: 930.98 		N:13
+Harris         		Mean: 68.96 		Best: 930.61 		N:13
+Andrews        		Mean: 59.62 		Best: 925.32 		N:15
+Lee            		Mean: 74.51 		Best: 920.44 		N:12
+Jones          		Mean: 68.44 		Best: 915.42 		N:13
+Morris         		Mean: 81.25 		Best: 909.48 		N:11
+Ferrell        		Mean: 63.5 		Best: 908.09 		N:14
+Kotterna       		Mean: 81.04 		Best: 907.71 		N:11
+Wegner         		Mean: 63.73 		Best: 906.53 		N:14
+Oldham         		Mean: 68.55 		Best: 904.89 		N:13
+Burke          		Mean: 148.56 		Best: 901.35 		N:6
+Koehn          		Mean: 98.61 		Best: 890.06 		N:9
+Tuggle         		Mean: 98.7 		Best: 888.69 		N:9
+
+########## REPORT GEN: 84 ##########
+SPECIES: 
+Andrews        		Mean: 112.11 		Best: 944.46 		N:8
+Kotterna       		Mean: 112.07 		Best: 936.61 		N:8
+Ferrell        		Mean: 74.36 		Best: 932.31 		N:12
+Jones          		Mean: 68.84 		Best: 930.95 		N:13
+Aguilar        		Mean: 63.97 		Best: 923.17 		N:14
+Berry          		Mean: 63.96 		Best: 922.73 		N:14
+Collazo        		Mean: 99.37 		Best: 921.42 		N:9
+Nance          		Mean: 52.39 		Best: 919.71 		N:17
+Tuggle         		Mean: 68.62 		Best: 908.1 		N:13
+Wegner         		Mean: 149.39 		Best: 904.78 		N:6
+Burke          		Mean: 63.55 		Best: 901.47 		N:14
+Harris         		Mean: 127.11 		Best: 901.32 		N:7
+Morris         		Mean: 88.94 		Best: 896.58 		N:10
+Koehn          		Mean: 49.38 		Best: 896.28 		N:18
+Lee            		Mean: 111.04 		Best: 896.25 		N:8
+Oldham         		Mean: 98.58 		Best: 887.13 		N:9
+
+########## REPORT GEN: 85 ##########
+SPECIES: 
+Oldham         		Mean: 74.53 		Best: 946.4 		N:12
+Burke          		Mean: 59.63 		Best: 935.36 		N:15
+Ferrell        		Mean: 63.86 		Best: 932.5 		N:14
+Andrews        		Mean: 81.22 		Best: 928.79 		N:11
+Berry          		Mean: 112.63 		Best: 926.24 		N:8
+Aguilar        		Mean: 63.55 		Best: 921.98 		N:14
+Lee            		Mean: 111.84 		Best: 920.56 		N:8
+Wegner         		Mean: 99.5 		Best: 920.3 		N:9
+Morris         		Mean: 89.52 		Best: 916.81 		N:10
+Kotterna       		Mean: 59.28 		Best: 908.64 		N:15
+Harris         		Mean: 89.05 		Best: 907.54 		N:10
+Tuggle         		Mean: 63.59 		Best: 903.21 		N:14
+Koehn          		Mean: 148.68 		Best: 902.13 		N:6
+Nance          		Mean: 63.42 		Best: 901.74 		N:14
+Collazo        		Mean: 74.15 		Best: 899.54 		N:12
+Jones          		Mean: 80.67 		Best: 891.04 		N:11
+
+########## REPORT GEN: 86 ##########
+SPECIES: 
+Oldham         		Mean: 81.77 		Best: 946.72 		N:11
+Collazo        		Mean: 89.37 		Best: 934.48 		N:10
+Berry          		Mean: 55.93 		Best: 930.09 		N:16
+Burke          		Mean: 59.48 		Best: 929.58 		N:15
+Jones          		Mean: 37.1 		Best: 924.19 		N:24
+Lee            		Mean: 127.41 		Best: 914.48 		N:7
+Koehn          		Mean: 68.75 		Best: 913.76 		N:13
+Andrews        		Mean: 99.32 		Best: 911.98 		N:9
+Morris         		Mean: 89.39 		Best: 910.76 		N:10
+Wegner         		Mean: 81.01 		Best: 910.64 		N:11
+Aguilar        		Mean: 68.46 		Best: 905.06 		N:13
+Nance          		Mean: 127.5 		Best: 903.46 		N:7
+Ferrell        		Mean: 111.4 		Best: 896.0 		N:8
+Tuggle         		Mean: 88.91 		Best: 894.47 		N:10
+Harris         		Mean: 147.86 		Best: 892.83 		N:6
+Kotterna       		Mean: 73.89 		Best: 888.6 		N:12
+
+########## REPORT GEN: 87 ##########
+SPECIES: 
+Wegner         		Mean: 63.79 		Best: 939.38 		N:14
+Ferrell        		Mean: 59.75 		Best: 933.32 		N:15
+Andrews        		Mean: 89.46 		Best: 930.66 		N:10
+Berry          		Mean: 111.55 		Best: 927.76 		N:8
+Harris         		Mean: 89.47 		Best: 923.48 		N:10
+Tuggle         		Mean: 49.76 		Best: 922.72 		N:18
+Jones          		Mean: 89.37 		Best: 920.43 		N:10
+Burke          		Mean: 55.82 		Best: 918.35 		N:16
+Lee            		Mean: 81.07 		Best: 914.93 		N:11
+Nance          		Mean: 98.67 		Best: 904.68 		N:9
+Kotterna       		Mean: 89.5 		Best: 904.22 		N:10
+Aguilar        		Mean: 127.37 		Best: 902.0 		N:7
+Morris         		Mean: 74.09 		Best: 901.69 		N:12
+Oldham         		Mean: 74.15 		Best: 899.69 		N:12
+Collazo        		Mean: 62.5 		Best: 899.59 		N:14
+Koehn          		Mean: 126.91 		Best: 890.96 		N:7
+
+########## REPORT GEN: 88 ##########
+SPECIES: 
+Lee            		Mean: 68.59 		Best: 941.31 		N:13
+Kotterna       		Mean: 63.89 		Best: 937.39 		N:14
+Collazo        		Mean: 64.12 		Best: 933.92 		N:14
+Andrews        		Mean: 55.8 		Best: 931.66 		N:16
+Morris         		Mean: 128.49 		Best: 924.0 		N:7
+Koehn          		Mean: 81.26 		Best: 923.61 		N:11
+Tuggle         		Mean: 63.98 		Best: 922.26 		N:14
+Aguilar        		Mean: 89.37 		Best: 917.97 		N:10
+Burke          		Mean: 81.2 		Best: 911.09 		N:11
+Berry          		Mean: 74.47 		Best: 909.69 		N:12
+Ferrell        		Mean: 74.15 		Best: 897.55 		N:12
+Nance          		Mean: 68.39 		Best: 895.67 		N:13
+Jones          		Mean: 68.29 		Best: 890.85 		N:13
+Wegner         		Mean: 80.61 		Best: 889.25 		N:11
+Harris         		Mean: 110.96 		Best: 888.29 		N:8
+Oldham         		Mean: 110.7 		Best: 886.91 		N:8
+
+########## REPORT GEN: 89 ##########
+SPECIES: 
+Andrews        		Mean: 111.94 		Best: 947.27 		N:8
+Tuggle         		Mean: 74.89 		Best: 934.64 		N:12
+Harris         		Mean: 74.83 		Best: 932.61 		N:12
+Wegner         		Mean: 89.7 		Best: 931.83 		N:10
+Aguilar        		Mean: 112.06 		Best: 922.4 		N:8
+Koehn          		Mean: 56.03 		Best: 922.0 		N:16
+Burke          		Mean: 74.1 		Best: 918.76 		N:12
+Morris         		Mean: 52.54 		Best: 913.02 		N:17
+Berry          		Mean: 81.31 		Best: 908.93 		N:11
+Nance          		Mean: 111.44 		Best: 903.66 		N:8
+Ferrell        		Mean: 81.22 		Best: 902.7 		N:11
+Jones          		Mean: 68.24 		Best: 892.31 		N:13
+Oldham         		Mean: 68.29 		Best: 890.59 		N:13
+Collazo        		Mean: 80.76 		Best: 890.53 		N:11
+Kotterna       		Mean: 80.65 		Best: 890.31 		N:11
+Lee            		Mean: 98.57 		Best: 888.23 		N:9
+
+########## REPORT GEN: 90 ##########
+SPECIES: 
+Nance          		Mean: 74.83 		Best: 944.95 		N:12
+Kotterna       		Mean: 82.07 		Best: 940.43 		N:11
+Wegner         		Mean: 52.65 		Best: 933.2 		N:17
+Andrews        		Mean: 55.74 		Best: 930.87 		N:16
+Tuggle         		Mean: 63.95 		Best: 916.46 		N:14
+Morris         		Mean: 68.81 		Best: 913.62 		N:13
+Koehn          		Mean: 68.49 		Best: 909.77 		N:13
+Burke          		Mean: 111.91 		Best: 908.97 		N:8
+Ferrell        		Mean: 177.99 		Best: 907.04 		N:5
+Oldham         		Mean: 52.26 		Best: 904.48 		N:17
+Lee            		Mean: 74.18 		Best: 904.22 		N:12
+Aguilar        		Mean: 54.96 		Best: 902.1 		N:16
+Berry          		Mean: 74.43 		Best: 901.01 		N:12
+Jones          		Mean: 111.27 		Best: 899.86 		N:8
+Harris         		Mean: 88.32 		Best: 899.81 		N:10
+Collazo        		Mean: 98.59 		Best: 888.84 		N:9
+
+########## REPORT GEN: 91 ##########
+SPECIES: 
+Kotterna       		Mean: 81.47 		Best: 943.58 		N:11
+Berry          		Mean: 59.57 		Best: 942.57 		N:15
+Collazo        		Mean: 112.32 		Best: 936.33 		N:8
+Wegner         		Mean: 52.51 		Best: 929.5 		N:17
+Ferrell        		Mean: 59.55 		Best: 912.13 		N:15
+Tuggle         		Mean: 99.08 		Best: 911.03 		N:9
+Jones          		Mean: 68.83 		Best: 910.74 		N:13
+Burke          		Mean: 68.66 		Best: 908.98 		N:13
+Harris         		Mean: 81.08 		Best: 904.55 		N:11
+Lee            		Mean: 89.0 		Best: 901.79 		N:10
+Nance          		Mean: 80.87 		Best: 901.48 		N:11
+Oldham         		Mean: 127.1 		Best: 898.89 		N:7
+Aguilar        		Mean: 80.84 		Best: 895.93 		N:11
+Koehn          		Mean: 68.24 		Best: 892.38 		N:13
+Andrews        		Mean: 126.98 		Best: 890.97 		N:7
+Morris         		Mean: 177.35 		Best: 889.4 		N:5
+
+########## REPORT GEN: 92 ##########
+SPECIES: 
+Ferrell        		Mean: 90.03 		Best: 948.95 		N:10
+Oldham         		Mean: 82.4 		Best: 944.44 		N:11
+Collazo        		Mean: 59.43 		Best: 919.19 		N:15
+Wegner         		Mean: 112.03 		Best: 913.48 		N:8
+Nance          		Mean: 74.73 		Best: 911.07 		N:12
+Aguilar        		Mean: 80.84 		Best: 908.4 		N:11
+Berry          		Mean: 59.38 		Best: 906.84 		N:15
+Tuggle         		Mean: 127.01 		Best: 906.65 		N:7
+Jones          		Mean: 111.39 		Best: 905.05 		N:8
+Koehn          		Mean: 68.32 		Best: 902.21 		N:13
+Morris         		Mean: 88.96 		Best: 901.78 		N:10
+Lee            		Mean: 98.9 		Best: 900.46 		N:9
+Harris         		Mean: 111.15 		Best: 895.13 		N:8
+Burke          		Mean: 80.86 		Best: 892.79 		N:11
+Andrews        		Mean: 68.25 		Best: 892.55 		N:13
+Kotterna       		Mean: 73.97 		Best: 890.45 		N:12
+
+########## REPORT GEN: 93 ##########
+SPECIES: 
+Ferrell        		Mean: 74.24 		Best: 943.55 		N:12
+Nance          		Mean: 112.29 		Best: 942.51 		N:8
+Tuggle         		Mean: 74.34 		Best: 923.37 		N:12
+Wegner         		Mean: 63.72 		Best: 920.22 		N:14
+Jones          		Mean: 81.12 		Best: 914.86 		N:11
+Oldham         		Mean: 98.9 		Best: 910.78 		N:9
+Harris         		Mean: 55.91 		Best: 910.09 		N:16
+Koehn          		Mean: 58.54 		Best: 907.66 		N:15
+Burke          		Mean: 80.92 		Best: 907.56 		N:11
+Aguilar        		Mean: 89.29 		Best: 907.44 		N:10
+Kotterna       		Mean: 127.01 		Best: 902.68 		N:7
+Andrews        		Mean: 88.93 		Best: 901.48 		N:10
+Berry          		Mean: 49.43 		Best: 900.97 		N:18
+Lee            		Mean: 111.27 		Best: 899.17 		N:8
+Morris         		Mean: 55.46 		Best: 893.75 		N:16
+Collazo        		Mean: 88.13 		Best: 890.14 		N:10
+
+########## REPORT GEN: 94 ##########
+SPECIES: 
+Tuggle         		Mean: 89.9 		Best: 948.03 		N:10
+Aguilar        		Mean: 47.01 		Best: 940.94 		N:19
+Collazo        		Mean: 111.63 		Best: 915.2 		N:8
+Kotterna       		Mean: 74.47 		Best: 914.59 		N:12
+Morris         		Mean: 74.57 		Best: 912.87 		N:12
+Nance          		Mean: 89.04 		Best: 910.74 		N:10
+Jones          		Mean: 99.14 		Best: 910.14 		N:9
+Koehn          		Mean: 52.4 		Best: 908.55 		N:17
+Andrews        		Mean: 178.53 		Best: 908.47 		N:5
+Lee            		Mean: 55.68 		Best: 907.39 		N:16
+Harris         		Mean: 74.28 		Best: 905.9 		N:12
+Ferrell        		Mean: 63.58 		Best: 904.7 		N:14
+Berry          		Mean: 68.42 		Best: 903.4 		N:13
+Burke          		Mean: 87.99 		Best: 902.18 		N:10
+Wegner         		Mean: 59.31 		Best: 897.41 		N:15
+Oldham         		Mean: 142.41 		Best: 892.76 		N:6
+
+########## REPORT GEN: 95 ##########
+SPECIES: 
+Ferrell        		Mean: 68.75 		Best: 946.46 		N:13
+Berry          		Mean: 81.82 		Best: 944.07 		N:11
+Jones          		Mean: 81.15 		Best: 923.28 		N:11
+Nance          		Mean: 59.42 		Best: 916.18 		N:15
+Koehn          		Mean: 81.06 		Best: 913.52 		N:11
+Burke          		Mean: 81.02 		Best: 911.12 		N:11
+Wegner         		Mean: 81.36 		Best: 909.77 		N:11
+Morris         		Mean: 81.28 		Best: 908.93 		N:11
+Andrews        		Mean: 74.45 		Best: 908.91 		N:12
+Collazo        		Mean: 177.06 		Best: 908.13 		N:5
+Kotterna       		Mean: 81.11 		Best: 907.92 		N:11
+Lee            		Mean: 74.24 		Best: 903.02 		N:12
+Tuggle         		Mean: 89.06 		Best: 901.74 		N:10
+Harris         		Mean: 89.05 		Best: 900.63 		N:10
+Oldham         		Mean: 88.71 		Best: 892.82 		N:10
+Aguilar        		Mean: 125.54 		Best: 885.84 		N:7
+
+########## REPORT GEN: 96 ##########
+SPECIES: 
+Wegner         		Mean: 149.24 		Best: 942.67 		N:6
+Berry          		Mean: 74.72 		Best: 939.91 		N:12
+Nance          		Mean: 149.37 		Best: 928.51 		N:6
+Burke          		Mean: 63.89 		Best: 920.96 		N:14
+Oldham         		Mean: 128.99 		Best: 918.99 		N:7
+Aguilar        		Mean: 111.37 		Best: 914.75 		N:8
+Harris         		Mean: 99.99 		Best: 912.78 		N:9
+Collazo        		Mean: 68.81 		Best: 910.44 		N:13
+Tuggle         		Mean: 56.08 		Best: 908.24 		N:16
+Morris         		Mean: 73.96 		Best: 908.18 		N:12
+Koehn          		Mean: 59.48 		Best: 907.1 		N:15
+Andrews        		Mean: 127.48 		Best: 906.88 		N:7
+Kotterna       		Mean: 74.12 		Best: 904.74 		N:12
+Ferrell        		Mean: 80.92 		Best: 904.0 		N:11
+Jones          		Mean: 59.18 		Best: 902.01 		N:15
+Lee            		Mean: 80.6 		Best: 886.8 		N:11
+
+########## REPORT GEN: 97 ##########
+SPECIES: 
+Andrews        		Mean: 56.19 		Best: 945.59 		N:16
+Jones          		Mean: 81.64 		Best: 944.39 		N:11
+Berry          		Mean: 75.05 		Best: 943.01 		N:12
+Kotterna       		Mean: 81.33 		Best: 941.23 		N:11
+Morris         		Mean: 112.14 		Best: 927.73 		N:8
+Burke          		Mean: 52.46 		Best: 915.86 		N:17
+Ferrell        		Mean: 81.31 		Best: 910.3 		N:11
+Collazo        		Mean: 73.85 		Best: 909.14 		N:12
+Harris         		Mean: 63.71 		Best: 909.12 		N:14
+Koehn          		Mean: 111.2 		Best: 908.08 		N:8
+Aguilar        		Mean: 111.46 		Best: 907.5 		N:8
+Tuggle         		Mean: 74.08 		Best: 905.29 		N:12
+Oldham         		Mean: 98.43 		Best: 904.41 		N:9
+Wegner         		Mean: 127.61 		Best: 903.7 		N:7
+Lee            		Mean: 126.92 		Best: 893.51 		N:7
+Nance          		Mean: 88.65 		Best: 889.65 		N:10
+
+########## REPORT GEN: 98 ##########
+SPECIES: 
+Aguilar        		Mean: 100.13 		Best: 942.36 		N:9
+Andrews        		Mean: 37.33 		Best: 939.31 		N:24
+Koehn          		Mean: 99.5 		Best: 937.14 		N:9
+Collazo        		Mean: 99.02 		Best: 924.72 		N:9
+Berry          		Mean: 89.4 		Best: 913.19 		N:10
+Tuggle         		Mean: 81.1 		Best: 913.07 		N:11
+Oldham         		Mean: 98.43 		Best: 911.86 		N:9
+Jones          		Mean: 80.96 		Best: 909.75 		N:11
+Lee            		Mean: 89.85 		Best: 909.28 		N:10
+Morris         		Mean: 74.25 		Best: 908.67 		N:12
+Nance          		Mean: 68.51 		Best: 905.25 		N:13
+Wegner         		Mean: 89.05 		Best: 903.75 		N:10
+Burke          		Mean: 58.45 		Best: 904.05 		N:15
+Harris         		Mean: 63.59 		Best: 901.59 		N:14
+Kotterna       		Mean: 80.92 		Best: 900.62 		N:11
+Ferrell        		Mean: 110.95 		Best: 890.79 		N:8
+
+########## REPORT GEN: 99 ##########
+SPECIES: 
+Lee            		Mean: 59.71 		Best: 943.06 		N:15
+Burke          		Mean: 74.35 		Best: 942.82 		N:12
+Morris         		Mean: 64.17 		Best: 942.22 		N:14
+Ferrell        		Mean: 59.39 		Best: 937.16 		N:15
+Harris         		Mean: 55.0 		Best: 921.56 		N:16
+Jones          		Mean: 74.4 		Best: 919.78 		N:12
+Tuggle         		Mean: 68.84 		Best: 917.85 		N:13
+Berry          		Mean: 127.91 		Best: 912.26 		N:7
+Collazo        		Mean: 111.82 		Best: 910.77 		N:8
+Andrews        		Mean: 52.47 		Best: 909.97 		N:17
+Nance          		Mean: 74.22 		Best: 909.95 		N:12
+Kotterna       		Mean: 98.17 		Best: 906.95 		N:9
+Aguilar        		Mean: 63.77 		Best: 903.39 		N:14
+Wegner         		Mean: 74.52 		Best: 902.96 		N:12
+Koehn          		Mean: 63.39 		Best: 900.16 		N:14
+Oldham         		Mean: 98.46 		Best: 888.48 		N:9
+
+########## REPORT GEN: 100 ##########
+SPECIES: 
+Morris         		Mean: 64.05 		Best: 946.87 		N:14
+Harris         		Mean: 150.32 		Best: 941.75 		N:6
+Collazo        		Mean: 68.76 		Best: 941.02 		N:13
+Burke          		Mean: 74.21 		Best: 938.05 		N:12
+Nance          		Mean: 81.71 		Best: 927.29 		N:11
+Berry          		Mean: 55.72 		Best: 920.27 		N:16
+Lee            		Mean: 89.83 		Best: 918.03 		N:10
+Wegner         		Mean: 74.29 		Best: 913.81 		N:12
+Tuggle         		Mean: 63.84 		Best: 911.52 		N:14
+Oldham         		Mean: 172.71 		Best: 909.1 		N:5
+Koehn          		Mean: 74.3 		Best: 908.82 		N:12
+Aguilar        		Mean: 99.03 		Best: 907.85 		N:9
+Jones          		Mean: 68.74 		Best: 905.19 		N:13
+Kotterna       		Mean: 68.49 		Best: 902.75 		N:13
+Andrews        		Mean: 63.5 		Best: 900.92 		N:14
+Ferrell        		Mean: 68.17 		Best: 898.6 		N:13
+
+########## REPORT GEN: 101 ##########
+SPECIES: 
+Kotterna       		Mean: 89.33 		Best: 945.08 		N:10
+Jones          		Mean: 74.46 		Best: 943.72 		N:12
+Burke          		Mean: 73.98 		Best: 941.83 		N:12
+Morris         		Mean: 89.9 		Best: 938.61 		N:10
+Koehn          		Mean: 89.78 		Best: 935.83 		N:10
+Ferrell        		Mean: 68.66 		Best: 927.52 		N:13
+Berry          		Mean: 74.27 		Best: 919.07 		N:12
+Wegner         		Mean: 225.42 		Best: 915.0 		N:4
+Oldham         		Mean: 74.34 		Best: 909.51 		N:12
+Tuggle         		Mean: 55.62 		Best: 909.95 		N:16
+Aguilar        		Mean: 148.57 		Best: 908.27 		N:6
+Lee            		Mean: 74.34 		Best: 906.41 		N:12
+Andrews        		Mean: 74.25 		Best: 906.18 		N:12
+Nance          		Mean: 89.35 		Best: 902.72 		N:10
+Collazo        		Mean: 80.7 		Best: 890.83 		N:11
+Harris         		Mean: 126.67 		Best: 890.37 		N:7
+
+########## REPORT GEN: 102 ##########
+SPECIES: 
+Tuggle         		Mean: 59.52 		Best: 946.85 		N:15
+Harris         		Mean: 127.93 		Best: 945.97 		N:7
+Lee            		Mean: 68.84 		Best: 944.85 		N:13
+Berry          		Mean: 63.88 		Best: 942.07 		N:14
+Kotterna       		Mean: 99.33 		Best: 940.7 		N:9
+Collazo        		Mean: 52.61 		Best: 925.99 		N:17
+Koehn          		Mean: 99.78 		Best: 919.0 		N:9
+Oldham         		Mean: 68.44 		Best: 916.37 		N:13
+Wegner         		Mean: 111.57 		Best: 914.68 		N:8
+Nance          		Mean: 73.76 		Best: 911.03 		N:12
+Aguilar        		Mean: 111.57 		Best: 908.48 		N:8
+Ferrell        		Mean: 177.98 		Best: 901.86 		N:5
+Burke          		Mean: 89.18 		Best: 901.07 		N:10
+Andrews        		Mean: 148.51 		Best: 899.31 		N:6
+Jones          		Mean: 222.24 		Best: 894.52 		N:4
+Morris         		Mean: 98.66 		Best: 893.58 		N:9
+
+########## REPORT GEN: 103 ##########
+SPECIES: 
+Wegner         		Mean: 81.15 		Best: 947.22 		N:11
+Burke          		Mean: 74.7 		Best: 943.19 		N:12
+Lee            		Mean: 81.93 		Best: 942.18 		N:11
+Jones          		Mean: 63.73 		Best: 941.68 		N:14
+Berry          		Mean: 80.96 		Best: 925.93 		N:11
+Tuggle         		Mean: 81.25 		Best: 921.98 		N:11
+Koehn          		Mean: 99.47 		Best: 921.47 		N:9
+Kotterna       		Mean: 46.98 		Best: 915.37 		N:19
+Oldham         		Mean: 148.49 		Best: 909.07 		N:6
+Aguilar        		Mean: 111.29 		Best: 907.67 		N:8
+Collazo        		Mean: 127.37 		Best: 902.92 		N:7
+Andrews        		Mean: 80.39 		Best: 901.11 		N:11
+Morris         		Mean: 88.9 		Best: 900.62 		N:10
+Nance          		Mean: 147.96 		Best: 893.58 		N:6
+Harris         		Mean: 126.93 		Best: 892.4 		N:7
+Ferrell        		Mean: 146.04 		Best: 886.64 		N:6
+
+########## REPORT GEN: 104 ##########
+SPECIES: 
+Berry          		Mean: 99.38 		Best: 948.79 		N:9
+Burke          		Mean: 99.68 		Best: 944.07 		N:9
+Ferrell        		Mean: 74.79 		Best: 939.25 		N:12
+Collazo        		Mean: 63.76 		Best: 925.15 		N:14
+Nance          		Mean: 74.44 		Best: 921.03 		N:12
+Jones          		Mean: 59.34 		Best: 912.41 		N:15
+Tuggle         		Mean: 62.93 		Best: 910.26 		N:14
+Aguilar        		Mean: 68.52 		Best: 909.38 		N:13
+Wegner         		Mean: 74.4 		Best: 908.28 		N:12
+Kotterna       		Mean: 89.09 		Best: 907.19 		N:10
+Morris         		Mean: 88.97 		Best: 901.02 		N:10
+Koehn          		Mean: 88.89 		Best: 900.8 		N:10
+Andrews        		Mean: 74.16 		Best: 895.85 		N:12
+Oldham         		Mean: 126.82 		Best: 894.94 		N:7
+Harris         		Mean: 126.81 		Best: 891.42 		N:7
+Lee            		Mean: 80.64 		Best: 890.74 		N:11
+
+########## REPORT GEN: 105 ##########
+SPECIES: 
+Harris         		Mean: 63.9 		Best: 948.51 		N:14
+Aguilar        		Mean: 56.02 		Best: 944.59 		N:16
+Burke          		Mean: 89.28 		Best: 942.5 		N:10
+Tuggle         		Mean: 80.36 		Best: 929.54 		N:11
+Ferrell        		Mean: 81.3 		Best: 926.67 		N:11
+Koehn          		Mean: 59.43 		Best: 923.43 		N:15
+Kotterna       		Mean: 68.45 		Best: 911.23 		N:13
+Morris         		Mean: 89.15 		Best: 909.48 		N:10
+Lee            		Mean: 68.61 		Best: 909.11 		N:13
+Nance          		Mean: 59.14 		Best: 908.2 		N:15
+Jones          		Mean: 148.77 		Best: 907.61 		N:6
+Berry          		Mean: 88.55 		Best: 903.62 		N:10
+Oldham         		Mean: 80.92 		Best: 902.66 		N:11
+Wegner         		Mean: 73.21 		Best: 900.69 		N:12
+Andrews        		Mean: 110.98 		Best: 893.02 		N:8
+Collazo        		Mean: 88.23 		Best: 889.46 		N:10
+
+########## REPORT GEN: 106 ##########
+SPECIES: 
+Ferrell        		Mean: 64.01 		Best: 945.33 		N:14
+Berry          		Mean: 59.54 		Best: 944.79 		N:15
+Kotterna       		Mean: 81.09 		Best: 944.75 		N:11
+Nance          		Mean: 68.82 		Best: 937.99 		N:13
+Lee            		Mean: 64.01 		Best: 929.23 		N:14
+Oldham         		Mean: 81.29 		Best: 926.34 		N:11
+Andrews        		Mean: 89.79 		Best: 923.4 		N:10
+Collazo        		Mean: 68.82 		Best: 918.35 		N:13
+Wegner         		Mean: 55.84 		Best: 910.71 		N:16
+Tuggle         		Mean: 127.78 		Best: 909.54 		N:7
+Harris         		Mean: 111.94 		Best: 909.18 		N:8
+Jones          		Mean: 74.18 		Best: 906.72 		N:12
+Koehn          		Mean: 111.0 		Best: 906.44 		N:8
+Morris         		Mean: 88.96 		Best: 906.41 		N:10
+Burke          		Mean: 99.04 		Best: 905.45 		N:9
+Aguilar        		Mean: 80.76 		Best: 893.7 		N:11
+
+########## REPORT GEN: 107 ##########
+SPECIES: 
+Tuggle         		Mean: 129.36 		Best: 943.58 		N:7
+Lee            		Mean: 49.55 		Best: 943.36 		N:18
+Koehn          		Mean: 68.8 		Best: 938.74 		N:13
+Andrews        		Mean: 74.4 		Best: 931.61 		N:12
+Wegner         		Mean: 59.51 		Best: 928.94 		N:15
+Jones          		Mean: 112.09 		Best: 928.37 		N:8
+Oldham         		Mean: 111.68 		Best: 921.58 		N:8
+Aguilar        		Mean: 68.72 		Best: 919.82 		N:13
+Morris         		Mean: 99.21 		Best: 915.34 		N:9
+Nance          		Mean: 111.51 		Best: 913.76 		N:8
+Harris         		Mean: 63.91 		Best: 912.76 		N:14
+Kotterna       		Mean: 55.49 		Best: 909.07 		N:16
+Burke          		Mean: 63.66 		Best: 908.63 		N:14
+Collazo        		Mean: 127.6 		Best: 907.84 		N:7
+Berry          		Mean: 63.58 		Best: 898.5 		N:14
+Ferrell        		Mean: 80.81 		Best: 896.4 		N:11
+
+########## REPORT GEN: 108 ##########
+SPECIES: 
+Berry          		Mean: 112.69 		Best: 945.65 		N:8
+Kotterna       		Mean: 99.7 		Best: 944.95 		N:9
+Koehn          		Mean: 49.79 		Best: 939.57 		N:18
+Tuggle         		Mean: 68.78 		Best: 937.21 		N:13
+Harris         		Mean: 64.01 		Best: 929.77 		N:14
+Aguilar        		Mean: 56.02 		Best: 927.88 		N:16
+Oldham         		Mean: 111.91 		Best: 925.64 		N:8
+Collazo        		Mean: 81.29 		Best: 920.31 		N:11
+Jones          		Mean: 59.36 		Best: 910.87 		N:15
+Lee            		Mean: 81.17 		Best: 909.76 		N:11
+Wegner         		Mean: 74.13 		Best: 909.59 		N:12
+Nance          		Mean: 74.25 		Best: 908.96 		N:12
+Ferrell        		Mean: 111.36 		Best: 906.96 		N:8
+Andrews        		Mean: 59.31 		Best: 906.35 		N:15
+Burke          		Mean: 148.14 		Best: 900.17 		N:6
+Morris         		Mean: 98.5 		Best: 890.61 		N:9
+
+########## REPORT GEN: 109 ##########
+SPECIES: 
+Andrews        		Mean: 64.08 		Best: 945.37 		N:14
+Wegner         		Mean: 47.01 		Best: 944.89 		N:19
+Lee            		Mean: 64.78 		Best: 943.66 		N:14
+Koehn          		Mean: 74.29 		Best: 932.71 		N:12
+Oldham         		Mean: 149.25 		Best: 929.18 		N:6
+Kotterna       		Mean: 59.71 		Best: 926.5 		N:15
+Burke          		Mean: 89.06 		Best: 918.48 		N:10
+Harris         		Mean: 63.59 		Best: 909.74 		N:14
+Jones          		Mean: 80.81 		Best: 908.44 		N:11
+Nance          		Mean: 98.74 		Best: 902.12 		N:9
+Morris         		Mean: 88.47 		Best: 901.41 		N:10
+Aguilar        		Mean: 148.24 		Best: 901.27 		N:6
+Berry          		Mean: 98.8 		Best: 899.9 		N:9
+Tuggle         		Mean: 98.85 		Best: 898.96 		N:9
+Collazo        		Mean: 73.98 		Best: 895.82 		N:12
+Ferrell        		Mean: 63.5 		Best: 895.12 		N:14
+
+########## REPORT GEN: 110 ##########
+SPECIES: 
+Wegner         		Mean: 81.39 		Best: 946.12 		N:11
+Andrews        		Mean: 81.31 		Best: 945.54 		N:11
+Lee            		Mean: 68.86 		Best: 945.38 		N:13
+Nance          		Mean: 99.66 		Best: 945.08 		N:9
+Kotterna       		Mean: 63.91 		Best: 944.56 		N:14
+Berry          		Mean: 74.72 		Best: 930.85 		N:12
+Ferrell        		Mean: 89.3 		Best: 929.02 		N:10
+Morris         		Mean: 127.78 		Best: 925.79 		N:7
+Aguilar        		Mean: 74.08 		Best: 911.6 		N:12
+Koehn          		Mean: 89.15 		Best: 911.1 		N:10
+Tuggle         		Mean: 52.27 		Best: 906.05 		N:17
+Jones          		Mean: 98.9 		Best: 903.23 		N:9
+Collazo        		Mean: 73.95 		Best: 902.7 		N:12
+Burke          		Mean: 98.18 		Best: 898.83 		N:9
+Harris         		Mean: 80.74 		Best: 894.64 		N:11
+Oldham         		Mean: 98.51 		Best: 888.46 		N:9
+
+########## REPORT GEN: 111 ##########
+SPECIES: 
+Kotterna       		Mean: 99.3 		Best: 946.02 		N:9
+Wegner         		Mean: 63.73 		Best: 945.6 		N:14
+Morris         		Mean: 90.23 		Best: 943.69 		N:10
+Jones          		Mean: 46.86 		Best: 943.08 		N:19
+Andrews        		Mean: 68.5 		Best: 940.26 		N:13
+Aguilar        		Mean: 63.6 		Best: 930.8 		N:14
+Collazo        		Mean: 55.76 		Best: 929.52 		N:16
+Harris         		Mean: 63.59 		Best: 922.7 		N:14
+Nance          		Mean: 126.92 		Best: 909.29 		N:7
+Lee            		Mean: 111.16 		Best: 907.61 		N:8
+Koehn          		Mean: 59.3 		Best: 905.43 		N:15
+Tuggle         		Mean: 127.08 		Best: 902.65 		N:7
+Ferrell        		Mean: 46.77 		Best: 902.15 		N:19
+Burke          		Mean: 148.39 		Best: 901.95 		N:6
+Oldham         		Mean: 148.74 		Best: 901.81 		N:6
+Berry          		Mean: 73.94 		Best: 893.41 		N:12
+
+########## REPORT GEN: 112 ##########
+SPECIES: 
+Koehn          		Mean: 81.75 		Best: 948.63 		N:11
+Jones          		Mean: 69.28 		Best: 942.49 		N:13
+Lee            		Mean: 49.9 		Best: 940.45 		N:18
+Wegner         		Mean: 111.92 		Best: 931.08 		N:8
+Ferrell        		Mean: 89.33 		Best: 927.39 		N:10
+Berry          		Mean: 89.1 		Best: 922.32 		N:10
+Burke          		Mean: 111.94 		Best: 920.73 		N:8
+Harris         		Mean: 63.56 		Best: 908.47 		N:14
+Tuggle         		Mean: 59.21 		Best: 905.03 		N:15
+Aguilar        		Mean: 111.6 		Best: 903.51 		N:8
+Kotterna       		Mean: 98.93 		Best: 903.06 		N:9
+Nance          		Mean: 89.04 		Best: 902.31 		N:10
+Andrews        		Mean: 127.53 		Best: 901.25 		N:7
+Collazo        		Mean: 68.36 		Best: 901.24 		N:13
+Oldham         		Mean: 80.85 		Best: 900.8 		N:11
+Morris         		Mean: 110.96 		Best: 899.94 		N:8
+
+########## REPORT GEN: 113 ##########
+SPECIES: 
+Oldham         		Mean: 99.44 		Best: 948.31 		N:9
+Morris         		Mean: 69.1 		Best: 943.83 		N:13
+Harris         		Mean: 112.1 		Best: 942.56 		N:8
+Tuggle         		Mean: 74.62 		Best: 930.3 		N:12
+Kotterna       		Mean: 150.25 		Best: 930.25 		N:6
+Collazo        		Mean: 89.93 		Best: 923.37 		N:10
+Nance          		Mean: 111.74 		Best: 918.94 		N:8
+Jones          		Mean: 46.95 		Best: 908.7 		N:19
+Berry          		Mean: 111.4 		Best: 906.44 		N:8
+Wegner         		Mean: 55.53 		Best: 906.27 		N:16
+Ferrell        		Mean: 80.98 		Best: 905.23 		N:11
+Andrews        		Mean: 99.2 		Best: 905.01 		N:9
+Lee            		Mean: 63.67 		Best: 904.94 		N:14
+Aguilar        		Mean: 38.64 		Best: 902.5 		N:23
+Burke          		Mean: 88.97 		Best: 901.96 		N:10
+Koehn          		Mean: 73.78 		Best: 887.53 		N:12
+
+########## REPORT GEN: 114 ##########
+SPECIES: 
+Andrews        		Mean: 64.21 		Best: 950.07 		N:14
+Berry          		Mean: 49.66 		Best: 945.26 		N:18
+Koehn          		Mean: 74.92 		Best: 941.36 		N:12
+Aguilar        		Mean: 68.9 		Best: 923.4 		N:13
+Kotterna       		Mean: 68.91 		Best: 922.66 		N:13
+Harris         		Mean: 42.71 		Best: 919.24 		N:21
+Lee            		Mean: 63.83 		Best: 914.18 		N:14
+Tuggle         		Mean: 81.42 		Best: 911.34 		N:11
+Oldham         		Mean: 99.41 		Best: 909.51 		N:9
+Wegner         		Mean: 79.66 		Best: 906.49 		N:11
+Collazo        		Mean: 111.76 		Best: 903.73 		N:8
+Ferrell        		Mean: 98.74 		Best: 902.74 		N:9
+Jones          		Mean: 88.91 		Best: 902.37 		N:10
+Burke          		Mean: 68.26 		Best: 899.88 		N:13
+Nance          		Mean: 98.93 		Best: 899.6 		N:9
+Morris         		Mean: 127.18 		Best: 899.44 		N:7
+
+########## REPORT GEN: 115 ##########
+SPECIES: 
+Ferrell        		Mean: 81.4 		Best: 948.36 		N:11
+Andrews        		Mean: 81.41 		Best: 945.74 		N:11
+Harris         		Mean: 89.31 		Best: 942.97 		N:10
+Kotterna       		Mean: 63.69 		Best: 931.93 		N:14
+Wegner         		Mean: 69.09 		Best: 923.99 		N:13
+Aguilar        		Mean: 59.86 		Best: 918.67 		N:15
+Burke          		Mean: 56.07 		Best: 917.07 		N:16
+Nance          		Mean: 81.24 		Best: 916.69 		N:11
+Jones          		Mean: 89.91 		Best: 916.09 		N:10
+Morris         		Mean: 89.41 		Best: 915.18 		N:10
+Lee            		Mean: 74.87 		Best: 912.12 		N:12
+Oldham         		Mean: 179.36 		Best: 908.69 		N:5
+Tuggle         		Mean: 44.22 		Best: 905.23 		N:20
+Koehn          		Mean: 89.12 		Best: 904.52 		N:10
+Collazo        		Mean: 49.36 		Best: 903.03 		N:18
+Berry          		Mean: 219.23 		Best: 900.65 		N:4
+
+########## REPORT GEN: 116 ##########
+SPECIES: 
+Koehn          		Mean: 128.88 		Best: 945.71 		N:7
+Wegner         		Mean: 74.92 		Best: 944.44 		N:12
+Andrews        		Mean: 69.33 		Best: 934.64 		N:13
+Harris         		Mean: 56.44 		Best: 922.46 		N:16
+Kotterna       		Mean: 68.82 		Best: 918.53 		N:13
+Ferrell        		Mean: 89.81 		Best: 913.5 		N:10
+Tuggle         		Mean: 74.54 		Best: 913.31 		N:12
+Nance          		Mean: 80.86 		Best: 910.44 		N:11
+Berry          		Mean: 74.8 		Best: 910.17 		N:12
+Jones          		Mean: 89.03 		Best: 909.11 		N:10
+Collazo        		Mean: 109.31 		Best: 906.68 		N:8
+Oldham         		Mean: 126.72 		Best: 904.3 		N:7
+Morris         		Mean: 74.24 		Best: 900.95 		N:12
+Burke          		Mean: 127.39 		Best: 900.65 		N:7
+Aguilar        		Mean: 148.41 		Best: 900.26 		N:6
+Lee            		Mean: 177.93 		Best: 899.9 		N:5
+
+########## REPORT GEN: 117 ##########
+SPECIES: 
+Ferrell        		Mean: 52.89 		Best: 948.58 		N:17
+Oldham         		Mean: 90.21 		Best: 944.51 		N:10
+Morris         		Mean: 69.36 		Best: 929.97 		N:13
+Berry          		Mean: 99.54 		Best: 928.9 		N:9
+Jones          		Mean: 68.29 		Best: 918.59 		N:13
+Andrews        		Mean: 172.51 		Best: 913.4 		N:5
+Koehn          		Mean: 63.78 		Best: 912.1 		N:14
+Collazo        		Mean: 74.61 		Best: 911.79 		N:12
+Lee            		Mean: 111.96 		Best: 908.24 		N:8
+Wegner         		Mean: 99.47 		Best: 905.36 		N:9
+Burke          		Mean: 99.51 		Best: 904.18 		N:9
+Tuggle         		Mean: 110.95 		Best: 903.8 		N:8
+Harris         		Mean: 111.6 		Best: 902.35 		N:8
+Kotterna       		Mean: 74.37 		Best: 902.28 		N:12
+Aguilar        		Mean: 67.46 		Best: 900.16 		N:13
+Nance          		Mean: 96.14 		Best: 888.31 		N:9
+
+########## REPORT GEN: 118 ##########
+SPECIES: 
+Andrews        		Mean: 63.86 		Best: 946.14 		N:14
+Jones          		Mean: 55.85 		Best: 942.7 		N:16
+Nance          		Mean: 150.38 		Best: 938.37 		N:6
+Ferrell        		Mean: 69.05 		Best: 929.99 		N:13
+Wegner         		Mean: 59.49 		Best: 921.19 		N:15
+Berry          		Mean: 67.91 		Best: 914.73 		N:13
+Burke          		Mean: 81.48 		Best: 910.18 		N:11
+Collazo        		Mean: 63.59 		Best: 908.79 		N:14
+Oldham         		Mean: 98.9 		Best: 908.16 		N:9
+Koehn          		Mean: 74.37 		Best: 907.67 		N:12
+Tuggle         		Mean: 59.48 		Best: 905.31 		N:15
+Morris         		Mean: 74.16 		Best: 903.31 		N:12
+Lee            		Mean: 68.31 		Best: 902.68 		N:13
+Kotterna       		Mean: 99.07 		Best: 902.58 		N:9
+Harris         		Mean: 177.88 		Best: 900.92 		N:5
+Aguilar        		Mean: 178.01 		Best: 899.61 		N:5
+
+########## REPORT GEN: 119 ##########
+SPECIES: 
+Andrews        		Mean: 67.75 		Best: 947.89 		N:13
+Harris         		Mean: 68.8 		Best: 944.35 		N:13
+Lee            		Mean: 113.15 		Best: 937.79 		N:8
+Ferrell        		Mean: 69.24 		Best: 937.35 		N:13
+Aguilar        		Mean: 98.99 		Best: 920.24 		N:9
+Morris         		Mean: 112.48 		Best: 917.72 		N:8
+Burke          		Mean: 99.54 		Best: 916.33 		N:9
+Berry          		Mean: 63.89 		Best: 912.92 		N:14
+Nance          		Mean: 81.39 		Best: 911.48 		N:11
+Koehn          		Mean: 111.76 		Best: 909.22 		N:8
+Oldham         		Mean: 81.48 		Best: 908.29 		N:11
+Wegner         		Mean: 111.71 		Best: 906.64 		N:8
+Collazo        		Mean: 59.34 		Best: 904.31 		N:15
+Tuggle         		Mean: 178.96 		Best: 900.62 		N:5
+Kotterna       		Mean: 148.17 		Best: 899.32 		N:6
+Jones          		Mean: 178.04 		Best: 898.84 		N:5
+
+########## REPORT GEN: 120 ##########
+SPECIES: 
+Aguilar        		Mean: 82.2 		Best: 947.78 		N:11
+Burke          		Mean: 75.37 		Best: 944.9 		N:12
+Harris         		Mean: 69.12 		Best: 941.71 		N:13
+Jones          		Mean: 89.55 		Best: 936.61 		N:10
+Nance          		Mean: 81.54 		Best: 932.66 		N:11
+Collazo        		Mean: 81.11 		Best: 930.33 		N:11
+Oldham         		Mean: 68.67 		Best: 924.79 		N:13
+Lee            		Mean: 98.86 		Best: 920.33 		N:9
+Berry          		Mean: 99.32 		Best: 918.35 		N:9
+Kotterna       		Mean: 111.97 		Best: 915.74 		N:8
+Morris         		Mean: 59.41 		Best: 912.4 		N:15
+Wegner         		Mean: 111.68 		Best: 907.59 		N:8
+Ferrell        		Mean: 148.57 		Best: 906.74 		N:6
+Andrews        		Mean: 81.08 		Best: 905.95 		N:11
+Koehn          		Mean: 98.73 		Best: 900.6 		N:9
+Tuggle         		Mean: 97.91 		Best: 899.85 		N:9
+
+########## REPORT GEN: 121 ##########
+SPECIES: 
+Berry          		Mean: 69.03 		Best: 946.57 		N:13
+Ferrell        		Mean: 50.0 		Best: 945.28 		N:18
+Kotterna       		Mean: 59.81 		Best: 942.56 		N:15
+Collazo        		Mean: 59.56 		Best: 942.4 		N:15
+Tuggle         		Mean: 49.42 		Best: 941.16 		N:18
+Nance          		Mean: 150.39 		Best: 939.5 		N:6
+Harris         		Mean: 63.45 		Best: 925.25 		N:14
+Wegner         		Mean: 89.46 		Best: 922.26 		N:10
+Morris         		Mean: 149.58 		Best: 922.03 		N:6
+Lee            		Mean: 127.92 		Best: 921.77 		N:7
+Oldham         		Mean: 99.9 		Best: 919.33 		N:9
+Andrews        		Mean: 74.72 		Best: 912.08 		N:12
+Jones          		Mean: 49.66 		Best: 911.49 		N:18
+Aguilar        		Mean: 111.85 		Best: 908.95 		N:8
+Burke          		Mean: 81.0 		Best: 908.09 		N:11
+Koehn          		Mean: 148.94 		Best: 904.72 		N:6
+
+########## REPORT GEN: 122 ##########
+SPECIES: 
+Wegner         		Mean: 81.37 		Best: 946.45 		N:11
+Burke          		Mean: 90.55 		Best: 945.25 		N:10
+Jones          		Mean: 56.05 		Best: 943.28 		N:16
+Harris         		Mean: 112.53 		Best: 936.37 		N:8
+Aguilar        		Mean: 68.49 		Best: 923.18 		N:13
+Lee            		Mean: 59.98 		Best: 921.69 		N:15
+Berry          		Mean: 112.23 		Best: 921.63 		N:8
+Tuggle         		Mean: 112.32 		Best: 921.58 		N:8
+Collazo        		Mean: 111.67 		Best: 913.0 		N:8
+Ferrell        		Mean: 99.3 		Best: 910.74 		N:9
+Nance          		Mean: 74.51 		Best: 910.03 		N:12
+Oldham         		Mean: 59.52 		Best: 909.47 		N:15
+Koehn          		Mean: 149.55 		Best: 908.69 		N:6
+Andrews        		Mean: 81.21 		Best: 906.64 		N:11
+Morris         		Mean: 108.36 		Best: 900.72 		N:8
+Kotterna       		Mean: 68.48 		Best: 900.15 		N:13
+
+########## REPORT GEN: 123 ##########
+SPECIES: 
+Tuggle         		Mean: 81.49 		Best: 946.28 		N:11
+Collazo        		Mean: 112.44 		Best: 945.46 		N:8
+Harris         		Mean: 64.13 		Best: 939.72 		N:14
+Aguilar        		Mean: 55.86 		Best: 938.86 		N:16
+Burke          		Mean: 50.02 		Best: 937.6 		N:18
+Morris         		Mean: 74.44 		Best: 922.46 		N:12
+Koehn          		Mean: 74.61 		Best: 921.98 		N:12
+Jones          		Mean: 63.91 		Best: 921.68 		N:14
+Andrews        		Mean: 89.24 		Best: 918.59 		N:10
+Kotterna       		Mean: 68.66 		Best: 914.94 		N:13
+Wegner         		Mean: 69.31 		Best: 914.31 		N:13
+Nance          		Mean: 62.65 		Best: 911.62 		N:14
+Berry          		Mean: 179.43 		Best: 911.34 		N:5
+Lee            		Mean: 80.98 		Best: 905.54 		N:11
+Ferrell        		Mean: 148.08 		Best: 900.95 		N:6
+Oldham         		Mean: 111.19 		Best: 898.35 		N:8
+
+########## REPORT GEN: 124 ##########
+SPECIES: 
+Koehn          		Mean: 64.1 		Best: 944.15 		N:14
+Burke          		Mean: 112.04 		Best: 942.77 		N:8
+Lee            		Mean: 64.08 		Best: 939.02 		N:14
+Aguilar        		Mean: 99.79 		Best: 937.64 		N:9
+Kotterna       		Mean: 63.88 		Best: 936.15 		N:14
+Andrews        		Mean: 81.59 		Best: 925.45 		N:11
+Collazo        		Mean: 81.09 		Best: 923.57 		N:11
+Nance          		Mean: 225.55 		Best: 922.07 		N:4
+Berry          		Mean: 99.3 		Best: 921.88 		N:9
+Jones          		Mean: 99.53 		Best: 921.54 		N:9
+Morris         		Mean: 112.62 		Best: 921.03 		N:8
+Wegner         		Mean: 89.77 		Best: 919.59 		N:10
+Harris         		Mean: 89.39 		Best: 908.47 		N:10
+Ferrell        		Mean: 98.98 		Best: 907.65 		N:9
+Tuggle         		Mean: 68.37 		Best: 903.38 		N:13
+Oldham         		Mean: 52.2 		Best: 901.86 		N:17
+
+########## REPORT GEN: 125 ##########
+SPECIES: 
+Lee            		Mean: 99.64 		Best: 945.14 		N:9
+Tuggle         		Mean: 99.95 		Best: 944.01 		N:9
+Morris         		Mean: 52.85 		Best: 938.96 		N:17
+Collazo        		Mean: 129.63 		Best: 938.41 		N:7
+Oldham         		Mean: 68.68 		Best: 936.26 		N:13
+Koehn          		Mean: 68.69 		Best: 924.72 		N:13
+Aguilar        		Mean: 56.11 		Best: 924.72 		N:16
+Ferrell        		Mean: 111.53 		Best: 923.37 		N:8
+Kotterna       		Mean: 63.85 		Best: 922.25 		N:14
+Harris         		Mean: 111.85 		Best: 920.45 		N:8
+Burke          		Mean: 68.72 		Best: 919.98 		N:13
+Berry          		Mean: 81.18 		Best: 915.16 		N:11
+Wegner         		Mean: 111.54 		Best: 909.86 		N:8
+Jones          		Mean: 68.81 		Best: 905.38 		N:13
+Andrews        		Mean: 126.0 		Best: 901.24 		N:7
+Nance          		Mean: 174.85 		Best: 886.57 		N:5
+
+########## REPORT GEN: 126 ##########
+SPECIES: 
+Collazo        		Mean: 69.18 		Best: 949.07 		N:13
+Burke          		Mean: 100.66 		Best: 947.56 		N:9
+Tuggle         		Mean: 90.74 		Best: 946.76 		N:10
+Oldham         		Mean: 75.05 		Best: 940.81 		N:12
+Wegner         		Mean: 74.92 		Best: 931.1 		N:12
+Ferrell        		Mean: 69.47 		Best: 925.66 		N:13
+Koehn          		Mean: 80.54 		Best: 924.1 		N:11
+Nance          		Mean: 82.69 		Best: 923.92 		N:11
+Aguilar        		Mean: 68.59 		Best: 923.52 		N:13
+Harris         		Mean: 90.22 		Best: 923.46 		N:10
+Morris         		Mean: 81.44 		Best: 923.44 		N:11
+Berry          		Mean: 89.97 		Best: 921.82 		N:10
+Lee            		Mean: 89.82 		Best: 920.51 		N:10
+Andrews        		Mean: 150.07 		Best: 920.28 		N:6
+Kotterna       		Mean: 99.3 		Best: 916.35 		N:9
+Jones          		Mean: 55.34 		Best: 914.59 		N:16
+
+########## REPORT GEN: 127 ##########
+SPECIES: 
+Aguilar        		Mean: 89.6 		Best: 945.83 		N:10
+Oldham         		Mean: 90.55 		Best: 945.7 		N:10
+Andrews        		Mean: 130.03 		Best: 945.57 		N:7
+Harris         		Mean: 82.68 		Best: 945.44 		N:11
+Koehn          		Mean: 149.71 		Best: 934.34 		N:6
+Nance          		Mean: 60.3 		Best: 927.4 		N:15
+Morris         		Mean: 49.5 		Best: 925.15 		N:18
+Ferrell        		Mean: 89.93 		Best: 924.5 		N:10
+Jones          		Mean: 68.85 		Best: 923.96 		N:13
+Kotterna       		Mean: 55.98 		Best: 923.92 		N:16
+Wegner         		Mean: 69.12 		Best: 923.23 		N:13
+Collazo        		Mean: 59.51 		Best: 922.26 		N:15
+Berry          		Mean: 111.82 		Best: 921.24 		N:8
+Tuggle         		Mean: 81.98 		Best: 921.02 		N:11
+Burke          		Mean: 88.73 		Best: 918.15 		N:10
+Lee            		Mean: 80.95 		Best: 910.62 		N:11
+
+########## REPORT GEN: 128 ##########
+SPECIES: 
+Lee            		Mean: 82.43 		Best: 946.83 		N:11
+Koehn          		Mean: 56.11 		Best: 946.56 		N:16
+Tuggle         		Mean: 50.1 		Best: 942.24 		N:18
+Wegner         		Mean: 74.62 		Best: 932.01 		N:12
+Kotterna       		Mean: 113.43 		Best: 927.88 		N:8
+Jones          		Mean: 74.99 		Best: 926.8 		N:12
+Nance          		Mean: 68.82 		Best: 923.26 		N:13
+Burke          		Mean: 98.83 		Best: 922.53 		N:9
+Aguilar        		Mean: 150.18 		Best: 922.51 		N:6
+Harris         		Mean: 81.93 		Best: 921.85 		N:11
+Andrews        		Mean: 81.27 		Best: 919.62 		N:11
+Morris         		Mean: 55.91 		Best: 919.59 		N:16
+Collazo        		Mean: 126.38 		Best: 918.8 		N:7
+Berry          		Mean: 98.52 		Best: 916.04 		N:9
+Ferrell        		Mean: 59.31 		Best: 915.83 		N:15
+Oldham         		Mean: 111.33 		Best: 900.44 		N:8
+
+########## REPORT GEN: 129 ##########
+SPECIES: 
+Kotterna       		Mean: 69.38 		Best: 944.94 		N:13
+Andrews        		Mean: 81.75 		Best: 942.84 		N:11
+Wegner         		Mean: 56.64 		Best: 938.44 		N:16
+Ferrell        		Mean: 100.71 		Best: 931.06 		N:9
+Oldham         		Mean: 63.77 		Best: 930.28 		N:14
+Tuggle         		Mean: 82.64 		Best: 927.55 		N:11
+Morris         		Mean: 81.64 		Best: 926.91 		N:11
+Burke          		Mean: 177.02 		Best: 926.01 		N:5
+Collazo        		Mean: 52.77 		Best: 925.74 		N:17
+Nance          		Mean: 64.32 		Best: 925.39 		N:14
+Koehn          		Mean: 49.93 		Best: 925.11 		N:18
+Harris         		Mean: 69.12 		Best: 922.54 		N:13
+Lee            		Mean: 128.1 		Best: 922.34 		N:7
+Aguilar        		Mean: 98.85 		Best: 902.07 		N:9
+Jones          		Mean: 178.19 		Best: 899.94 		N:5
+Berry          		Mean: 111.06 		Best: 899.37 		N:8
+
+########## REPORT GEN: 130 ##########
+SPECIES: 
+Morris         		Mean: 90.72 		Best: 949.21 		N:10
+Berry          		Mean: 64.49 		Best: 943.36 		N:14
+Jones          		Mean: 56.39 		Best: 941.04 		N:16
+Ferrell        		Mean: 128.71 		Best: 927.46 		N:7
+Harris         		Mean: 111.76 		Best: 927.13 		N:8
+Burke          		Mean: 56.29 		Best: 927.01 		N:16
+Koehn          		Mean: 75.05 		Best: 925.83 		N:12
+Oldham         		Mean: 82.0 		Best: 925.69 		N:11
+Nance          		Mean: 82.45 		Best: 925.45 		N:11
+Wegner         		Mean: 69.13 		Best: 925.08 		N:13
+Tuggle         		Mean: 180.34 		Best: 922.93 		N:5
+Aguilar        		Mean: 112.65 		Best: 922.07 		N:8
+Lee            		Mean: 81.5 		Best: 920.17 		N:11
+Collazo        		Mean: 90.02 		Best: 919.72 		N:10
+Andrews        		Mean: 89.56 		Best: 916.41 		N:10
+Kotterna       		Mean: 149.65 		Best: 911.47 		N:6
+
+########## REPORT GEN: 131 ##########
+SPECIES: 
+Oldham         		Mean: 81.8 		Best: 944.58 		N:11
+Collazo        		Mean: 97.59 		Best: 941.71 		N:9
+Wegner         		Mean: 82.35 		Best: 938.25 		N:11
+Lee            		Mean: 64.54 		Best: 936.42 		N:14
+Tuggle         		Mean: 75.31 		Best: 930.54 		N:12
+Aguilar        		Mean: 130.35 		Best: 928.51 		N:7
+Jones          		Mean: 56.27 		Best: 926.64 		N:16
+Morris         		Mean: 75.59 		Best: 926.03 		N:12
+Harris         		Mean: 100.2 		Best: 924.53 		N:9
+Andrews        		Mean: 89.74 		Best: 923.93 		N:10
+Koehn          		Mean: 99.61 		Best: 923.32 		N:9
+Burke          		Mean: 64.34 		Best: 921.15 		N:14
+Nance          		Mean: 111.62 		Best: 920.32 		N:8
+Ferrell        		Mean: 128.32 		Best: 919.65 		N:7
+Kotterna       		Mean: 89.34 		Best: 919.1 		N:10
+Berry          		Mean: 88.93 		Best: 918.84 		N:10
+
+########## REPORT GEN: 132 ##########
+SPECIES: 
+Wegner         		Mean: 69.16 		Best: 944.15 		N:13
+Harris         		Mean: 100.37 		Best: 943.56 		N:9
+Lee            		Mean: 112.52 		Best: 943.0 		N:8
+Burke          		Mean: 68.35 		Best: 930.64 		N:13
+Aguilar        		Mean: 56.4 		Best: 926.32 		N:16
+Morris         		Mean: 90.45 		Best: 926.01 		N:10
+Collazo        		Mean: 89.59 		Best: 925.58 		N:10
+Nance          		Mean: 64.43 		Best: 925.42 		N:14
+Andrews        		Mean: 112.46 		Best: 925.23 		N:8
+Tuggle         		Mean: 90.44 		Best: 924.86 		N:10
+Jones          		Mean: 75.16 		Best: 924.6 		N:12
+Berry          		Mean: 69.03 		Best: 924.29 		N:13
+Oldham         		Mean: 69.3 		Best: 924.11 		N:13
+Koehn          		Mean: 69.51 		Best: 923.93 		N:13
+Kotterna       		Mean: 89.54 		Best: 921.36 		N:10
+Ferrell        		Mean: 74.51 		Best: 917.19 		N:12
+
+########## REPORT GEN: 133 ##########
+SPECIES: 
+Burke          		Mean: 47.44 		Best: 948.54 		N:19
+Berry          		Mean: 65.0 		Best: 947.02 		N:14
+Oldham         		Mean: 69.56 		Best: 944.0 		N:13
+Koehn          		Mean: 68.96 		Best: 930.16 		N:13
+Jones          		Mean: 49.95 		Best: 929.24 		N:18
+Harris         		Mean: 75.23 		Best: 926.74 		N:12
+Collazo        		Mean: 82.21 		Best: 925.32 		N:11
+Kotterna       		Mean: 64.28 		Best: 924.37 		N:14
+Ferrell        		Mean: 151.46 		Best: 924.34 		N:6
+Morris         		Mean: 73.69 		Best: 923.46 		N:12
+Wegner         		Mean: 89.52 		Best: 923.39 		N:10
+Lee            		Mean: 99.17 		Best: 922.45 		N:9
+Nance          		Mean: 79.94 		Best: 922.19 		N:11
+Aguilar        		Mean: 299.14 		Best: 922.02 		N:3
+Tuggle         		Mean: 74.49 		Best: 918.29 		N:12
+Andrews        		Mean: 81.26 		Best: 917.97 		N:11
+
+########## REPORT GEN: 134 ##########
+SPECIES: 
+Tuggle         		Mean: 75.16 		Best: 946.55 		N:12
+Oldham         		Mean: 50.12 		Best: 945.99 		N:18
+Harris         		Mean: 69.26 		Best: 944.16 		N:13
+Burke          		Mean: 128.62 		Best: 940.3 		N:7
+Jones          		Mean: 82.69 		Best: 931.66 		N:11
+Berry          		Mean: 112.99 		Best: 928.57 		N:8
+Lee            		Mean: 81.54 		Best: 926.91 		N:11
+Morris         		Mean: 82.24 		Best: 925.31 		N:11
+Andrews        		Mean: 89.73 		Best: 924.54 		N:10
+Ferrell        		Mean: 299.97 		Best: 924.14 		N:3
+Koehn          		Mean: 128.17 		Best: 922.96 		N:7
+Wegner         		Mean: 128.4 		Best: 919.84 		N:7
+Aguilar        		Mean: 99.17 		Best: 919.4 		N:9
+Kotterna       		Mean: 99.09 		Best: 917.94 		N:9
+Collazo        		Mean: 73.84 		Best: 916.1 		N:12
+Nance          		Mean: 98.94 		Best: 902.89 		N:9
+
+########## REPORT GEN: 135 ##########
+SPECIES: 
+Wegner         		Mean: 69.34 		Best: 942.07 		N:13
+Andrews        		Mean: 69.26 		Best: 939.6 		N:13
+Nance          		Mean: 90.2 		Best: 936.16 		N:10
+Berry          		Mean: 89.83 		Best: 928.56 		N:10
+Collazo        		Mean: 129.41 		Best: 928.51 		N:7
+Morris         		Mean: 89.91 		Best: 927.4 		N:10
+Kotterna       		Mean: 112.86 		Best: 927.39 		N:8
+Oldham         		Mean: 81.84 		Best: 926.29 		N:11
+Burke          		Mean: 112.3 		Best: 925.12 		N:8
+Lee            		Mean: 55.88 		Best: 923.94 		N:16
+Koehn          		Mean: 81.46 		Best: 923.05 		N:11
+Tuggle         		Mean: 68.74 		Best: 923.03 		N:13
+Aguilar        		Mean: 100.26 		Best: 921.55 		N:9
+Ferrell        		Mean: 112.63 		Best: 915.45 		N:8
+Jones          		Mean: 149.08 		Best: 915.09 		N:6
+Harris         		Mean: 80.57 		Best: 891.41 		N:11
+
+########## REPORT GEN: 136 ##########
+SPECIES: 
+Wegner         		Mean: 90.9 		Best: 946.08 		N:10
+Oldham         		Mean: 63.87 		Best: 942.23 		N:14
+Harris         		Mean: 149.5 		Best: 941.03 		N:6
+Morris         		Mean: 99.99 		Best: 940.59 		N:9
+Aguilar        		Mean: 56.54 		Best: 928.73 		N:16
+Koehn          		Mean: 75.09 		Best: 926.55 		N:12
+Collazo        		Mean: 99.29 		Best: 926.35 		N:9
+Tuggle         		Mean: 64.16 		Best: 926.34 		N:14
+Lee            		Mean: 99.6 		Best: 925.74 		N:9
+Nance          		Mean: 99.54 		Best: 924.8 		N:9
+Berry          		Mean: 59.99 		Best: 924.61 		N:15
+Kotterna       		Mean: 89.39 		Best: 923.66 		N:10
+Ferrell        		Mean: 68.8 		Best: 923.16 		N:13
+Burke          		Mean: 56.08 		Best: 922.03 		N:16
+Andrews        		Mean: 89.88 		Best: 921.9 		N:10
+Jones          		Mean: 68.72 		Best: 921.81 		N:13
+
+########## REPORT GEN: 137 ##########
+SPECIES: 
+Oldham         		Mean: 63.99 		Best: 944.78 		N:14
+Harris         		Mean: 63.79 		Best: 944.42 		N:14
+Ferrell        		Mean: 69.05 		Best: 937.16 		N:13
+Nance          		Mean: 126.79 		Best: 929.87 		N:7
+Koehn          		Mean: 68.87 		Best: 926.6 		N:13
+Wegner         		Mean: 99.98 		Best: 925.12 		N:9
+Andrews        		Mean: 69.21 		Best: 924.4 		N:13
+Morris         		Mean: 81.0 		Best: 924.31 		N:11
+Jones          		Mean: 56.17 		Best: 923.37 		N:16
+Kotterna       		Mean: 81.57 		Best: 921.51 		N:11
+Aguilar        		Mean: 128.13 		Best: 920.79 		N:7
+Burke          		Mean: 99.56 		Best: 920.22 		N:9
+Collazo        		Mean: 112.49 		Best: 918.07 		N:8
+Berry          		Mean: 52.47 		Best: 917.86 		N:17
+Lee            		Mean: 111.52 		Best: 917.56 		N:8
+Tuggle         		Mean: 74.0 		Best: 895.17 		N:12
+
+########## REPORT GEN: 138 ##########
+SPECIES: 
+Andrews        		Mean: 42.54 		Best: 952.94 		N:21
+Wegner         		Mean: 68.85 		Best: 944.47 		N:13
+Collazo        		Mean: 64.04 		Best: 934.79 		N:14
+Harris         		Mean: 74.65 		Best: 933.7 		N:12
+Jones          		Mean: 111.64 		Best: 928.31 		N:8
+Tuggle         		Mean: 225.44 		Best: 927.57 		N:4
+Nance          		Mean: 112.38 		Best: 927.26 		N:8
+Kotterna       		Mean: 100.15 		Best: 926.78 		N:9
+Koehn          		Mean: 74.55 		Best: 926.86 		N:12
+Berry          		Mean: 55.9 		Best: 925.92 		N:16
+Aguilar        		Mean: 111.81 		Best: 925.12 		N:8
+Burke          		Mean: 68.3 		Best: 924.67 		N:13
+Ferrell        		Mean: 63.84 		Best: 922.81 		N:14
+Oldham         		Mean: 89.95 		Best: 917.38 		N:10
+Morris         		Mean: 111.59 		Best: 916.8 		N:8
+Lee            		Mean: 59.64 		Best: 916.29 		N:15
+
+########## REPORT GEN: 139 ##########
+SPECIES: 
+Ferrell        		Mean: 81.61 		Best: 943.85 		N:11
+Koehn          		Mean: 52.24 		Best: 941.48 		N:17
+Jones          		Mean: 112.12 		Best: 934.7 		N:8
+Burke          		Mean: 99.4 		Best: 930.32 		N:9
+Collazo        		Mean: 81.44 		Best: 929.54 		N:11
+Harris         		Mean: 67.89 		Best: 928.12 		N:13
+Morris         		Mean: 74.71 		Best: 926.77 		N:12
+Nance          		Mean: 74.47 		Best: 924.54 		N:12
+Lee            		Mean: 99.1 		Best: 923.33 		N:9
+Kotterna       		Mean: 74.29 		Best: 921.38 		N:12
+Tuggle         		Mean: 113.15 		Best: 920.22 		N:8
+Berry          		Mean: 68.73 		Best: 919.46 		N:13
+Oldham         		Mean: 111.41 		Best: 919.15 		N:8
+Andrews        		Mean: 111.91 		Best: 918.57 		N:8
+Aguilar        		Mean: 80.94 		Best: 908.47 		N:11
+Wegner         		Mean: 80.25 		Best: 896.51 		N:11
+
+########## REPORT GEN: 140 ##########
+SPECIES: 
+Tuggle         		Mean: 56.22 		Best: 952.8 		N:16
+Berry          		Mean: 63.92 		Best: 946.97 		N:14
+Nance          		Mean: 74.5 		Best: 940.42 		N:12
+Wegner         		Mean: 47.44 		Best: 935.12 		N:19
+Lee            		Mean: 81.8 		Best: 930.09 		N:11
+Harris         		Mean: 74.53 		Best: 927.16 		N:12
+Koehn          		Mean: 81.81 		Best: 925.85 		N:11
+Kotterna       		Mean: 68.61 		Best: 924.52 		N:13
+Ferrell        		Mean: 51.95 		Best: 923.34 		N:17
+Oldham         		Mean: 80.94 		Best: 921.8 		N:11
+Morris         		Mean: 179.98 		Best: 917.08 		N:5
+Burke          		Mean: 127.29 		Best: 915.61 		N:7
+Collazo        		Mean: 89.6 		Best: 913.05 		N:10
+Andrews        		Mean: 81.13 		Best: 909.64 		N:11
+Aguilar        		Mean: 59.14 		Best: 900.26 		N:15
+Jones          		Mean: 98.5 		Best: 889.39 		N:9
+
+########## REPORT GEN: 141 ##########
+SPECIES: 
+Kotterna       		Mean: 63.84 		Best: 947.09 		N:14
+Lee            		Mean: 128.67 		Best: 935.75 		N:7
+Andrews        		Mean: 111.82 		Best: 932.68 		N:8
+Aguilar        		Mean: 74.35 		Best: 929.55 		N:12
+Burke          		Mean: 89.47 		Best: 928.88 		N:10
+Jones          		Mean: 68.72 		Best: 927.85 		N:13
+Koehn          		Mean: 127.8 		Best: 927.6 		N:7
+Nance          		Mean: 64.0 		Best: 925.15 		N:14
+Oldham         		Mean: 55.63 		Best: 925.14 		N:16
+Berry          		Mean: 81.15 		Best: 924.91 		N:11
+Collazo        		Mean: 89.71 		Best: 922.59 		N:10
+Morris         		Mean: 49.58 		Best: 917.4 		N:18
+Wegner         		Mean: 68.47 		Best: 916.65 		N:13
+Ferrell        		Mean: 89.35 		Best: 914.12 		N:10
+Tuggle         		Mean: 177.96 		Best: 899.65 		N:5
+Harris         		Mean: 177.43 		Best: 889.04 		N:5
+
+########## REPORT GEN: 142 ##########
+SPECIES: 
+Andrews        		Mean: 81.56 		Best: 945.38 		N:11
+Collazo        		Mean: 112.16 		Best: 933.92 		N:8
+Tuggle         		Mean: 81.46 		Best: 930.8 		N:11
+Harris         		Mean: 59.06 		Best: 928.57 		N:15
+Berry          		Mean: 112.52 		Best: 927.53 		N:8
+Jones          		Mean: 127.82 		Best: 925.19 		N:7
+Kotterna       		Mean: 46.81 		Best: 923.37 		N:19
+Burke          		Mean: 127.21 		Best: 920.86 		N:7
+Morris         		Mean: 67.08 		Best: 918.76 		N:13
+Lee            		Mean: 67.77 		Best: 916.22 		N:13
+Koehn          		Mean: 68.69 		Best: 916.02 		N:13
+Ferrell        		Mean: 126.85 		Best: 915.37 		N:7
+Wegner         		Mean: 111.2 		Best: 902.16 		N:8
+Nance          		Mean: 110.96 		Best: 899.81 		N:8
+Oldham         		Mean: 88.73 		Best: 899.72 		N:10
+Aguilar        		Mean: 127.01 		Best: 899.39 		N:7
+
+########## REPORT GEN: 143 ##########
+SPECIES: 
+Aguilar        		Mean: 47.19 		Best: 939.06 		N:19
+Lee            		Mean: 112.22 		Best: 935.19 		N:8
+Kotterna       		Mean: 44.7 		Best: 933.53 		N:20
+Burke          		Mean: 99.22 		Best: 929.13 		N:9
+Tuggle         		Mean: 81.43 		Best: 928.78 		N:11
+Koehn          		Mean: 74.75 		Best: 925.91 		N:12
+Morris         		Mean: 63.62 		Best: 925.44 		N:14
+Wegner         		Mean: 68.79 		Best: 919.06 		N:13
+Harris         		Mean: 52.28 		Best: 919.01 		N:17
+Berry          		Mean: 74.27 		Best: 912.77 		N:12
+Andrews        		Mean: 127.21 		Best: 909.63 		N:7
+Collazo        		Mean: 68.42 		Best: 903.84 		N:13
+Jones          		Mean: 111.33 		Best: 900.46 		N:8
+Ferrell        		Mean: 80.66 		Best: 890.77 		N:11
+Nance          		Mean: 177.3 		Best: 890.58 		N:5
+Oldham         		Mean: 177.35 		Best: 887.03 		N:5
+
+########## REPORT GEN: 144 ##########
+SPECIES: 
+Aguilar        		Mean: 112.22 		Best: 942.38 		N:8
+Berry          		Mean: 59.41 		Best: 936.46 		N:15
+Kotterna       		Mean: 80.94 		Best: 931.8 		N:11
+Collazo        		Mean: 90.09 		Best: 929.56 		N:10
+Morris         		Mean: 81.02 		Best: 925.7 		N:11
+Burke          		Mean: 99.34 		Best: 924.57 		N:9
+Oldham         		Mean: 81.03 		Best: 918.05 		N:11
+Ferrell        		Mean: 59.29 		Best: 917.25 		N:15
+Tuggle         		Mean: 89.22 		Best: 914.65 		N:10
+Jones          		Mean: 74.23 		Best: 908.04 		N:12
+Harris         		Mean: 55.66 		Best: 906.03 		N:16
+Lee            		Mean: 80.82 		Best: 902.67 		N:11
+Koehn          		Mean: 126.72 		Best: 893.85 		N:7
+Andrews        		Mean: 88.79 		Best: 892.79 		N:10
+Wegner         		Mean: 88.72 		Best: 889.65 		N:10
+Nance          		Mean: 147.52 		Best: 886.25 		N:6
+
+########## REPORT GEN: 145 ##########
+SPECIES: 
+Wegner         		Mean: 81.23 		Best: 931.04 		N:11
+Ferrell        		Mean: 68.81 		Best: 928.79 		N:13
+Andrews        		Mean: 99.8 		Best: 928.7 		N:9
+Jones          		Mean: 73.69 		Best: 928.21 		N:12
+Collazo        		Mean: 59.44 		Best: 925.58 		N:15
+Oldham         		Mean: 80.92 		Best: 920.07 		N:11
+Aguilar        		Mean: 68.41 		Best: 917.52 		N:13
+Berry          		Mean: 55.57 		Best: 911.85 		N:16
+Morris         		Mean: 127.06 		Best: 903.86 		N:7
+Nance          		Mean: 59.14 		Best: 902.03 		N:15
+Kotterna       		Mean: 59.18 		Best: 898.97 		N:15
+Burke          		Mean: 122.45 		Best: 893.95 		N:7
+Harris         		Mean: 148.14 		Best: 893.69 		N:6
+Tuggle         		Mean: 80.67 		Best: 892.38 		N:11
+Koehn          		Mean: 80.54 		Best: 890.69 		N:11
+Lee            		Mean: 98.48 		Best: 888.7 		N:9
+
+########## REPORT GEN: 146 ##########
+SPECIES: 
+Collazo        		Mean: 90.19 		Best: 953.51 		N:10
+Morris         		Mean: 68.56 		Best: 940.14 		N:13
+Jones          		Mean: 88.77 		Best: 928.99 		N:10
+Oldham         		Mean: 89.1 		Best: 928.04 		N:10
+Nance          		Mean: 81.22 		Best: 927.05 		N:11
+Burke          		Mean: 74.46 		Best: 926.52 		N:12
+Ferrell        		Mean: 99.72 		Best: 925.2 		N:9
+Lee            		Mean: 81.16 		Best: 924.7 		N:11
+Berry          		Mean: 149.06 		Best: 921.8 		N:6
+Harris         		Mean: 52.41 		Best: 921.1 		N:17
+Tuggle         		Mean: 99.01 		Best: 910.5 		N:9
+Aguilar        		Mean: 74.26 		Best: 905.01 		N:12
+Wegner         		Mean: 63.53 		Best: 904.5 		N:14
+Andrews        		Mean: 63.35 		Best: 902.55 		N:14
+Kotterna       		Mean: 222.33 		Best: 899.58 		N:4
+Koehn          		Mean: 73.96 		Best: 893.91 		N:12
+
+########## REPORT GEN: 147 ##########
+SPECIES: 
+Jones          		Mean: 99.86 		Best: 932.92 		N:9
+Aguilar        		Mean: 59.56 		Best: 931.29 		N:15
+Kotterna       		Mean: 111.65 		Best: 930.3 		N:8
+Nance          		Mean: 73.56 		Best: 929.73 		N:12
+Morris         		Mean: 59.55 		Best: 929.17 		N:15
+Tuggle         		Mean: 68.42 		Best: 926.85 		N:13
+Andrews        		Mean: 80.38 		Best: 925.72 		N:11
+Harris         		Mean: 224.42 		Best: 920.89 		N:4
+Wegner         		Mean: 74.35 		Best: 920.44 		N:12
+Burke          		Mean: 59.46 		Best: 911.57 		N:15
+Koehn          		Mean: 80.63 		Best: 909.51 		N:11
+Lee            		Mean: 111.21 		Best: 902.92 		N:8
+Berry          		Mean: 68.06 		Best: 900.35 		N:13
+Oldham         		Mean: 147.95 		Best: 898.95 		N:6
+Ferrell        		Mean: 110.87 		Best: 895.56 		N:8
+Collazo        		Mean: 126.72 		Best: 889.99 		N:7
+
+########## REPORT GEN: 148 ##########
+SPECIES: 
+Kotterna       		Mean: 68.77 		Best: 941.41 		N:13
+Morris         		Mean: 52.42 		Best: 933.44 		N:17
+Burke          		Mean: 68.5 		Best: 927.84 		N:13
+Andrews        		Mean: 180.03 		Best: 926.64 		N:5
+Lee            		Mean: 149.34 		Best: 926.43 		N:6
+Aguilar        		Mean: 98.93 		Best: 925.7 		N:9
+Wegner         		Mean: 452.62 		Best: 923.53 		N:2
+Harris         		Mean: 63.5 		Best: 918.06 		N:14
+Oldham         		Mean: 68.06 		Best: 901.85 		N:13
+Nance          		Mean: 63.46 		Best: 900.68 		N:14
+Berry          		Mean: 111.31 		Best: 899.24 		N:8
+Collazo        		Mean: 80.79 		Best: 899.1 		N:11
+Koehn          		Mean: 88.16 		Best: 898.63 		N:10
+Ferrell        		Mean: 147.68 		Best: 892.14 		N:6
+Jones          		Mean: 63.27 		Best: 891.64 		N:14
+Tuggle         		Mean: 110.85 		Best: 889.0 		N:8
+
+########## REPORT GEN: 149 ##########
+SPECIES: 
+Aguilar        		Mean: 68.59 		Best: 939.66 		N:13
+Morris         		Mean: 63.82 		Best: 939.51 		N:14
+Nance          		Mean: 129.6 		Best: 935.73 		N:7
+Lee            		Mean: 179.23 		Best: 932.49 		N:5
+Harris         		Mean: 63.92 		Best: 931.18 		N:14
+Tuggle         		Mean: 99.15 		Best: 924.21 		N:9
+Ferrell        		Mean: 179.91 		Best: 922.0 		N:5
+Oldham         		Mean: 80.72 		Best: 915.51 		N:11
+Collazo        		Mean: 98.7 		Best: 903.83 		N:9
+Wegner         		Mean: 88.92 		Best: 903.36 		N:10
+Kotterna       		Mean: 80.92 		Best: 900.88 		N:11
+Andrews        		Mean: 148.27 		Best: 899.98 		N:6
+Berry          		Mean: 147.83 		Best: 894.35 		N:6
+Burke          		Mean: 147.97 		Best: 890.28 		N:6
+Jones          		Mean: 88.65 		Best: 889.05 		N:10
+
+########## REPORT GEN: 150 ##########
+SPECIES: 
+Ferrell        		Mean: 112.59 		Best: 949.93 		N:8
+Tuggle         		Mean: 99.22 		Best: 949.74 		N:9
+Morris         		Mean: 111.76 		Best: 948.82 		N:8
+Oldham         		Mean: 179.18 		Best: 937.32 		N:5
+Wegner         		Mean: 89.74 		Best: 931.97 		N:10
+Berry          		Mean: 180.74 		Best: 930.39 		N:5
+Koehn          		Mean: 178.56 		Best: 922.58 		N:5
+Aguilar        		Mean: 74.05 		Best: 921.76 		N:12
+Burke          		Mean: 127.61 		Best: 919.56 		N:7
+Lee            		Mean: 127.16 		Best: 908.53 		N:7
+Jones          		Mean: 148.55 		Best: 907.99 		N:6
+Harris         		Mean: 73.42 		Best: 903.23 		N:12
+Andrews        		Mean: 111.0 		Best: 902.29 		N:8
+Kotterna       		Mean: 98.64 		Best: 900.97 		N:9
+Nance          		Mean: 147.59 		Best: 887.43 		N:6
+Collazo        		Mean: 126.53 		Best: 886.97 		N:7
+
+########## REPORT GEN: 151 ##########
+SPECIES: 
+Collazo        		Mean: 59.75 		Best: 952.39 		N:15
+Harris         		Mean: 81.48 		Best: 948.11 		N:11
+Andrews        		Mean: 99.82 		Best: 942.95 		N:9
+Koehn          		Mean: 74.65 		Best: 941.17 		N:12
+Morris         		Mean: 74.7 		Best: 935.93 		N:12
+Jones          		Mean: 99.21 		Best: 935.64 		N:9
+Ferrell        		Mean: 128.1 		Best: 931.77 		N:7
+Berry          		Mean: 59.66 		Best: 925.37 		N:15
+Kotterna       		Mean: 112.39 		Best: 924.91 		N:8
+Burke          		Mean: 88.88 		Best: 922.83 		N:10
+Tuggle         		Mean: 99.36 		Best: 920.08 		N:9
+Aguilar        		Mean: 178.37 		Best: 900.46 		N:5
+Nance          		Mean: 55.51 		Best: 895.85 		N:16
+Lee            		Mean: 126.8 		Best: 892.67 		N:7
+Oldham         		Mean: 98.52 		Best: 892.53 		N:9
+Wegner         		Mean: 88.53 		Best: 887.12 		N:10
+
+########## REPORT GEN: 152 ##########
+SPECIES: 
+Lee            		Mean: 81.63 		Best: 946.58 		N:11
+Nance          		Mean: 75.1 		Best: 945.61 		N:12
+Aguilar        		Mean: 38.74 		Best: 943.45 		N:23
+Tuggle         		Mean: 81.48 		Best: 942.52 		N:11
+Kotterna       		Mean: 74.23 		Best: 938.8 		N:12
+Morris         		Mean: 89.04 		Best: 937.28 		N:10
+Oldham         		Mean: 68.74 		Best: 936.62 		N:13
+Jones          		Mean: 80.83 		Best: 930.29 		N:11
+Burke          		Mean: 111.91 		Best: 929.9 		N:8
+Ferrell        		Mean: 73.94 		Best: 910.57 		N:12
+Andrews        		Mean: 110.07 		Best: 892.31 		N:8
+Berry          		Mean: 110.98 		Best: 891.7 		N:8
+Collazo        		Mean: 110.67 		Best: 889.3 		N:8
+Koehn          		Mean: 110.85 		Best: 888.58 		N:8
+Wegner         		Mean: 110.15 		Best: 888.4 		N:8
+Harris         		Mean: 73.84 		Best: 887.78 		N:12
+
+########## REPORT GEN: 153 ##########
+SPECIES: 
+Jones          		Mean: 81.83 		Best: 947.95 		N:11
+Ferrell        		Mean: 52.97 		Best: 946.25 		N:17
+Aguilar        		Mean: 99.19 		Best: 946.09 		N:9
+Kotterna       		Mean: 99.1 		Best: 938.06 		N:9
+Nance          		Mean: 81.38 		Best: 937.39 		N:11
+Collazo        		Mean: 81.38 		Best: 931.8 		N:11
+Burke          		Mean: 68.47 		Best: 918.84 		N:13
+Wegner         		Mean: 55.59 		Best: 916.66 		N:16
+Andrews        		Mean: 49.41 		Best: 910.9 		N:18
+Lee            		Mean: 68.25 		Best: 894.21 		N:13
+Oldham         		Mean: 88.8 		Best: 892.85 		N:10
+Harris         		Mean: 52.14 		Best: 891.67 		N:17
+Tuggle         		Mean: 67.78 		Best: 891.63 		N:13
+Koehn          		Mean: 68.1 		Best: 888.01 		N:13
+Morris         		Mean: 124.66 		Best: 887.91 		N:7
+Berry          		Mean: 126.63 		Best: 887.92 		N:7
+
+########## REPORT GEN: 154 ##########
+SPECIES: 
+Berry          		Mean: 149.2 		Best: 946.5 		N:6
+Nance          		Mean: 63.76 		Best: 941.29 		N:14
+Andrews        		Mean: 59.31 		Best: 938.57 		N:15
+Kotterna       		Mean: 49.52 		Best: 936.96 		N:18
+Tuggle         		Mean: 68.32 		Best: 935.07 		N:13
+Aguilar        		Mean: 127.63 		Best: 931.1 		N:7
+Jones          		Mean: 88.9 		Best: 924.52 		N:10
+Lee            		Mean: 89.1 		Best: 912.13 		N:10
+Burke          		Mean: 63.52 		Best: 907.37 		N:14
+Wegner         		Mean: 80.87 		Best: 904.95 		N:11
+Collazo        		Mean: 178.04 		Best: 904.05 		N:5
+Harris         		Mean: 80.63 		Best: 901.52 		N:11
+Ferrell        		Mean: 88.8 		Best: 899.77 		N:10
+Oldham         		Mean: 98.62 		Best: 895.38 		N:9
+Koehn          		Mean: 59.12 		Best: 891.74 		N:15
+Morris         		Mean: 67.79 		Best: 887.81 		N:13
+
+########## REPORT GEN: 155 ##########
+SPECIES: 
+Koehn          		Mean: 81.96 		Best: 949.03 		N:11
+Lee            		Mean: 127.79 		Best: 945.41 		N:7
+Nance          		Mean: 81.24 		Best: 939.6 		N:11
+Ferrell        		Mean: 81.49 		Best: 934.72 		N:11
+Oldham         		Mean: 127.55 		Best: 930.88 		N:7
+Kotterna       		Mean: 73.87 		Best: 929.74 		N:12
+Jones          		Mean: 111.33 		Best: 929.52 		N:8
+Morris         		Mean: 68.6 		Best: 911.02 		N:13
+Berry          		Mean: 98.89 		Best: 910.12 		N:9
+Collazo        		Mean: 80.99 		Best: 909.41 		N:11
+Wegner         		Mean: 63.6 		Best: 908.98 		N:14
+Tuggle         		Mean: 88.84 		Best: 907.86 		N:10
+Aguilar        		Mean: 80.68 		Best: 901.08 		N:11
+Burke          		Mean: 63.36 		Best: 899.15 		N:14
+Andrews        		Mean: 98.64 		Best: 896.23 		N:9
+Harris         		Mean: 98.49 		Best: 890.4 		N:9
+

@@ -1,0 +1,513 @@
+########## REPORT GEN: 2 ##########
+SPECIES: 
+Vega           		Mean: 228.92 		Best: 935.6 		N:4
+Sifre          		Mean: 58.17 		Best: 933.26 		N:17
+Barber         		Mean: 70.28 		Best: 932.61 		N:14
+Batista        		Mean: 63.26 		Best: 934.77 		N:16
+Mccoy          		Mean: 233.49 		Best: 935.09 		N:4
+Bauer          		Mean: 165.23 		Best: 929.95 		N:6
+Jock           		Mean: 322.15 		Best: 928.5 		N:3
+Covino         		Mean: 232.74 		Best: 925.35 		N:4
+Carroll        		Mean: 43.34 		Best: 933.54 		N:23
+Johnson        		Mean: 234.91 		Best: 928.14 		N:4
+Hendricks      		Mean: 464.32 		Best: 919.51 		N:2
+Duke           		Mean: 312.15 		Best: 917.46 		N:3
+
+########## REPORT GEN: 3 ##########
+SPECIES: 
+Bird           		Mean: 154.89 		Best: 932.49 		N:6
+Johnson        		Mean: 103.97 		Best: 927.62 		N:9
+Batista        		Mean: 198.68 		Best: 926.91 		N:5
+Jock           		Mean: 166.52 		Best: 935.22 		N:6
+Barber         		Mean: 164.02 		Best: 925.43 		N:6
+Vega           		Mean: 93.17 		Best: 929.72 		N:10
+Hendricks      		Mean: 187.87 		Best: 923.52 		N:5
+Covino         		Mean: 105.19 		Best: 930.88 		N:9
+Duke           		Mean: 458.69 		Best: 918.87 		N:2
+Sifre          		Mean: 307.92 		Best: 918.78 		N:3
+Carroll        		Mean: 76.37 		Best: 925.36 		N:13
+Bauer          		Mean: 53.94 		Best: 939.49 		N:19
+Mccoy          		Mean: 156.65 		Best: 926.47 		N:6
+
+########## REPORT GEN: 4 ##########
+SPECIES: 
+Mccoy          		Mean: 115.73 		Best: 929.7 		N:8
+Jock           		Mean: 140.92 		Best: 930.12 		N:7
+Hendricks      		Mean: 187.29 		Best: 924.75 		N:5
+Woodley        		Mean: 479.83 		Best: 924.49 		N:2
+Sifre          		Mean: 116.01 		Best: 923.91 		N:8
+Johnson        		Mean: 103.95 		Best: 932.15 		N:9
+Duke           		Mean: 191.08 		Best: 923.16 		N:5
+Hallman        		Mean: 136.49 		Best: 922.75 		N:7
+Kennedy        		Mean: 459.48 		Best: 922.45 		N:2
+Barber         		Mean: 98.17 		Best: 934.92 		N:10
+Vega           		Mean: 132.98 		Best: 924.07 		N:7
+Bauer          		Mean: 122.1 		Best: 934.87 		N:8
+Carroll        		Mean: 199.07 		Best: 931.16 		N:5
+Batista        		Mean: 97.05 		Best: 920.77 		N:10
+Covino         		Mean: 154.72 		Best: 927.02 		N:6
+
+########## REPORT GEN: 5 ##########
+SPECIES: 
+Bird           		Mean: 120.91 		Best: 936.31 		N:8
+Mccoy          		Mean: 95.88 		Best: 932.67 		N:10
+Hendricks      		Mean: 312.24 		Best: 932.09 		N:3
+Johnson        		Mean: 236.16 		Best: 931.69 		N:4
+Bauer          		Mean: 161.66 		Best: 930.67 		N:6
+Sifre          		Mean: 137.55 		Best: 930.13 		N:7
+Woodley        		Mean: 139.22 		Best: 930.04 		N:7
+Vega           		Mean: 187.29 		Best: 929.09 		N:5
+Duke           		Mean: 108.49 		Best: 929.28 		N:9
+Batista        		Mean: 139.63 		Best: 929.3 		N:7
+Hallman        		Mean: 161.82 		Best: 931.6 		N:6
+Barber         		Mean: 82.45 		Best: 923.35 		N:12
+Carroll        		Mean: 239.23 		Best: 919.29 		N:4
+Covino         		Mean: 319.03 		Best: 928.52 		N:3
+Kennedy        		Mean: 121.67 		Best: 924.35 		N:8
+
+########## REPORT GEN: 6 ##########
+SPECIES: 
+Mccoy          		Mean: 160.79 		Best: 934.08 		N:6
+Woodley        		Mean: 81.08 		Best: 932.98 		N:12
+Hendricks      		Mean: 135.85 		Best: 930.66 		N:7
+Batista        		Mean: 243.47 		Best: 931.92 		N:4
+Barber         		Mean: 107.87 		Best: 932.21 		N:9
+Duke           		Mean: 323.79 		Best: 927.49 		N:3
+Bird           		Mean: 162.7 		Best: 929.21 		N:6
+Kennedy        		Mean: 120.6 		Best: 932.11 		N:8
+Jock           		Mean: 191.91 		Best: 924.37 		N:5
+Heald          		Mean: 192.14 		Best: 924.27 		N:5
+Covino         		Mean: 190.56 		Best: 927.92 		N:5
+Sifre          		Mean: 80.68 		Best: 929.43 		N:12
+Carroll        		Mean: 160.83 		Best: 921.79 		N:6
+Bauer          		Mean: 191.1 		Best: 919.37 		N:5
+Johnson        		Mean: 190.48 		Best: 927.72 		N:5
+
+########## REPORT GEN: 7 ##########
+SPECIES: 
+Sifre          		Mean: 106.9 		Best: 935.15 		N:9
+Carroll        		Mean: 159.69 		Best: 934.11 		N:6
+Hallman        		Mean: 158.9 		Best: 933.16 		N:6
+Kennedy        		Mean: 191.9 		Best: 931.35 		N:5
+Jock           		Mean: 96.44 		Best: 930.98 		N:10
+Vega           		Mean: 467.33 		Best: 930.46 		N:2
+Duke           		Mean: 106.93 		Best: 932.58 		N:9
+Barber         		Mean: 190.43 		Best: 930.12 		N:5
+Hendricks      		Mean: 231.84 		Best: 929.78 		N:4
+Johnson        		Mean: 119.12 		Best: 931.84 		N:8
+Covino         		Mean: 468.55 		Best: 927.75 		N:2
+Heald          		Mean: 158.55 		Best: 928.96 		N:6
+Bauer          		Mean: 239.44 		Best: 926.26 		N:4
+Bird           		Mean: 239.68 		Best: 924.27 		N:4
+Woodley        		Mean: 96.49 		Best: 926.48 		N:10
+Mccoy          		Mean: 160.14 		Best: 922.06 		N:6
+Batista        		Mean: 239.13 		Best: 938.44 		N:4
+
+########## REPORT GEN: 8 ##########
+SPECIES: 
+Hallman        		Mean: 87.31 		Best: 936.33 		N:11
+Batista        		Mean: 107.23 		Best: 936.06 		N:9
+Mccoy          		Mean: 193.2 		Best: 935.67 		N:5
+Covino         		Mean: 234.8 		Best: 932.02 		N:4
+Bird           		Mean: 79.99 		Best: 934.83 		N:12
+Hendricks      		Mean: 87.11 		Best: 930.67 		N:11
+Bauer          		Mean: 159.54 		Best: 929.57 		N:6
+Jock           		Mean: 159.62 		Best: 934.1 		N:6
+Heald          		Mean: 186.85 		Best: 925.11 		N:5
+Kennedy        		Mean: 463.8 		Best: 924.43 		N:2
+Barber         		Mean: 159.04 		Best: 924.13 		N:6
+Duke           		Mean: 317.2 		Best: 923.19 		N:3
+Sifre          		Mean: 237.89 		Best: 922.05 		N:4
+Woodley        		Mean: 316.45 		Best: 921.55 		N:3
+Carroll        		Mean: 106.99 		Best: 934.74 		N:9
+Vega           		Mean: 305.8 		Best: 921.01 		N:3
+
+########## REPORT GEN: 9 ##########
+SPECIES: 
+Mccoy          		Mean: 137.27 		Best: 939.76 		N:7
+Hallman        		Mean: 95.59 		Best: 939.69 		N:10
+Sifre          		Mean: 190.32 		Best: 936.74 		N:5
+Heald          		Mean: 310.46 		Best: 933.51 		N:3
+Batista        		Mean: 137.14 		Best: 933.14 		N:7
+Kennedy        		Mean: 80.2 		Best: 932.39 		N:12
+Covino         		Mean: 137.61 		Best: 931.71 		N:7
+Bauer          		Mean: 471.49 		Best: 929.27 		N:2
+Barber         		Mean: 158.17 		Best: 929.08 		N:6
+Johnson        		Mean: 315.89 		Best: 928.94 		N:3
+Bird           		Mean: 187.36 		Best: 927.98 		N:5
+Jock           		Mean: 134.08 		Best: 926.97 		N:7
+Duke           		Mean: 79.77 		Best: 926.67 		N:12
+Vega           		Mean: 231.33 		Best: 925.41 		N:4
+Carroll        		Mean: 191.99 		Best: 926.52 		N:5
+Woodley        		Mean: 235.56 		Best: 924.29 		N:4
+
+########## REPORT GEN: 10 ##########
+SPECIES: 
+Carroll        		Mean: 135.0 		Best: 942.91 		N:7
+Vega           		Mean: 136.49 		Best: 936.27 		N:7
+Barber         		Mean: 105.94 		Best: 933.63 		N:9
+Kennedy        		Mean: 134.33 		Best: 933.43 		N:7
+Hallman        		Mean: 137.01 		Best: 932.71 		N:7
+Jock           		Mean: 159.46 		Best: 932.6 		N:6
+Sifre          		Mean: 137.43 		Best: 932.11 		N:7
+Hendricks      		Mean: 68.18 		Best: 931.12 		N:14
+Bauer          		Mean: 79.72 		Best: 928.15 		N:12
+Mccoy          		Mean: 235.85 		Best: 925.02 		N:4
+Johnson        		Mean: 234.15 		Best: 923.26 		N:4
+Bird           		Mean: 466.65 		Best: 922.68 		N:2
+Batista        		Mean: 470.9 		Best: 922.6 		N:2
+Duke           		Mean: 118.34 		Best: 924.43 		N:8
+Covino         		Mean: 311.42 		Best: 920.77 		N:3
+
+########## REPORT GEN: 11 ##########
+SPECIES: 
+Woodley        		Mean: 105.59 		Best: 939.21 		N:9
+Hendricks      		Mean: 95.09 		Best: 938.22 		N:10
+Sifre          		Mean: 191.36 		Best: 937.28 		N:5
+Johnson        		Mean: 317.22 		Best: 933.47 		N:3
+Duke           		Mean: 236.0 		Best: 933.28 		N:4
+Mccoy          		Mean: 158.44 		Best: 932.05 		N:6
+Covino         		Mean: 105.42 		Best: 931.7 		N:9
+Bird           		Mean: 158.06 		Best: 930.53 		N:6
+Jock           		Mean: 105.78 		Best: 930.29 		N:9
+Carroll        		Mean: 465.27 		Best: 929.36 		N:2
+Bauer          		Mean: 157.7 		Best: 927.13 		N:6
+Hallman        		Mean: 118.81 		Best: 936.23 		N:8
+Vega           		Mean: 135.95 		Best: 928.05 		N:7
+Batista        		Mean: 105.04 		Best: 926.4 		N:9
+Kennedy        		Mean: 467.62 		Best: 920.23 		N:2
+Barber         		Mean: 235.42 		Best: 921.67 		N:4
+
+########## REPORT GEN: 12 ##########
+SPECIES: 
+Bird           		Mean: 235.79 		Best: 941.58 		N:4
+Batista        		Mean: 136.13 		Best: 936.31 		N:7
+Hendricks      		Mean: 119.28 		Best: 932.8 		N:8
+Vega           		Mean: 237.77 		Best: 930.91 		N:4
+Woodley        		Mean: 119.08 		Best: 929.7 		N:8
+Sifre          		Mean: 118.72 		Best: 929.44 		N:8
+Covino         		Mean: 315.56 		Best: 928.88 		N:3
+Heald          		Mean: 188.51 		Best: 929.01 		N:5
+Kennedy        		Mean: 105.21 		Best: 927.66 		N:9
+Duke           		Mean: 233.41 		Best: 928.36 		N:4
+Bauer          		Mean: 235.73 		Best: 925.8 		N:4
+Barber         		Mean: 136.01 		Best: 925.5 		N:7
+Johnson        		Mean: 237.14 		Best: 925.2 		N:4
+Jock           		Mean: 313.02 		Best: 925.11 		N:3
+Carroll        		Mean: 234.24 		Best: 926.16 		N:4
+Mccoy          		Mean: 105.15 		Best: 921.57 		N:9
+Hallman        		Mean: 105.68 		Best: 930.38 		N:9
+
+########## REPORT GEN: 13 ##########
+SPECIES: 
+Batista        		Mean: 187.33 		Best: 936.01 		N:5
+Mccoy          		Mean: 106.25 		Best: 935.56 		N:9
+Barber         		Mean: 157.86 		Best: 933.65 		N:6
+Carroll        		Mean: 134.34 		Best: 933.47 		N:7
+Johnson        		Mean: 188.62 		Best: 932.85 		N:5
+Woodley        		Mean: 187.65 		Best: 932.53 		N:5
+Jock           		Mean: 134.22 		Best: 931.65 		N:7
+Sifre          		Mean: 86.82 		Best: 934.19 		N:11
+Hallman        		Mean: 236.5 		Best: 930.7 		N:4
+Bauer          		Mean: 105.51 		Best: 930.31 		N:9
+Heald          		Mean: 136.15 		Best: 928.59 		N:7
+Kennedy        		Mean: 157.09 		Best: 926.88 		N:6
+Covino         		Mean: 467.39 		Best: 923.63 		N:2
+Vega           		Mean: 134.74 		Best: 923.2 		N:7
+Hendricks      		Mean: 233.31 		Best: 922.87 		N:4
+Duke           		Mean: 188.16 		Best: 926.84 		N:5
+
+########## REPORT GEN: 14 ##########
+SPECIES: 
+Batista        		Mean: 117.55 		Best: 934.16 		N:8
+Heald          		Mean: 134.7 		Best: 933.5 		N:7
+Mccoy          		Mean: 135.25 		Best: 933.38 		N:7
+Bird           		Mean: 134.87 		Best: 932.86 		N:7
+Covino         		Mean: 237.6 		Best: 932.23 		N:4
+Carroll        		Mean: 156.13 		Best: 932.15 		N:6
+Vega           		Mean: 94.67 		Best: 931.69 		N:10
+Woodley        		Mean: 470.39 		Best: 931.11 		N:2
+Sifre          		Mean: 473.55 		Best: 930.34 		N:2
+Bauer          		Mean: 133.91 		Best: 927.86 		N:7
+Hendricks      		Mean: 134.25 		Best: 927.59 		N:7
+Hallman        		Mean: 157.47 		Best: 926.98 		N:6
+Kennedy        		Mean: 94.59 		Best: 932.75 		N:10
+Jock           		Mean: 471.52 		Best: 925.63 		N:2
+Barber         		Mean: 316.12 		Best: 929.35 		N:3
+Duke           		Mean: 104.61 		Best: 925.22 		N:9
+Johnson        		Mean: 309.61 		Best: 920.81 		N:3
+
+########## REPORT GEN: 15 ##########
+SPECIES: 
+Vega           		Mean: 187.35 		Best: 935.11 		N:5
+Woodley        		Mean: 157.47 		Best: 933.17 		N:6
+Hendricks      		Mean: 118.04 		Best: 933.14 		N:8
+Jock           		Mean: 134.94 		Best: 933.22 		N:7
+Duke           		Mean: 156.01 		Best: 931.73 		N:6
+Bauer          		Mean: 157.21 		Best: 930.54 		N:6
+Johnson        		Mean: 468.93 		Best: 930.16 		N:2
+Hallman        		Mean: 117.72 		Best: 928.52 		N:8
+Kennedy        		Mean: 94.23 		Best: 927.71 		N:10
+Covino         		Mean: 117.81 		Best: 926.77 		N:8
+Mccoy          		Mean: 234.38 		Best: 929.78 		N:4
+Bird           		Mean: 313.26 		Best: 925.43 		N:3
+Heald          		Mean: 156.92 		Best: 924.53 		N:6
+Barber         		Mean: 117.54 		Best: 925.44 		N:8
+Sifre          		Mean: 233.73 		Best: 927.22 		N:4
+Carroll        		Mean: 234.06 		Best: 919.15 		N:4
+Batista        		Mean: 187.4 		Best: 917.4 		N:5
+
+########## REPORT GEN: 16 ##########
+SPECIES: 
+Covino         		Mean: 72.43 		Best: 936.79 		N:13
+Hendricks      		Mean: 105.12 		Best: 935.59 		N:9
+Batista        		Mean: 133.76 		Best: 931.33 		N:7
+Bauer          		Mean: 314.59 		Best: 930.68 		N:3
+Carroll        		Mean: 234.58 		Best: 929.67 		N:4
+Kennedy        		Mean: 313.1 		Best: 928.42 		N:3
+Jock           		Mean: 104.39 		Best: 927.95 		N:9
+Barber         		Mean: 118.05 		Best: 927.54 		N:8
+Vega           		Mean: 155.8 		Best: 927.47 		N:6
+Duke           		Mean: 155.79 		Best: 932.69 		N:6
+Heald          		Mean: 462.49 		Best: 925.48 		N:2
+Sifre          		Mean: 231.83 		Best: 925.52 		N:4
+Bird           		Mean: 189.36 		Best: 932.91 		N:5
+Hallman        		Mean: 187.01 		Best: 923.57 		N:5
+Woodley        		Mean: 133.71 		Best: 921.54 		N:7
+Mccoy          		Mean: 187.45 		Best: 919.33 		N:5
+Johnson        		Mean: 232.79 		Best: 922.21 		N:4
+
+########## REPORT GEN: 17 ##########
+SPECIES: 
+Duke           		Mean: 157.99 		Best: 939.11 		N:6
+Kennedy        		Mean: 85.91 		Best: 938.63 		N:11
+Jock           		Mean: 157.79 		Best: 934.5 		N:6
+Mccoy          		Mean: 104.8 		Best: 934.74 		N:9
+Covino         		Mean: 94.09 		Best: 931.68 		N:10
+Bauer          		Mean: 156.83 		Best: 931.24 		N:6
+Heald          		Mean: 117.31 		Best: 930.17 		N:8
+Barber         		Mean: 468.17 		Best: 928.29 		N:2
+Vega           		Mean: 104.7 		Best: 928.23 		N:9
+Batista        		Mean: 134.76 		Best: 927.38 		N:7
+Bird           		Mean: 311.76 		Best: 923.4 		N:3
+Sifre          		Mean: 133.78 		Best: 923.24 		N:7
+Hendricks      		Mean: 117.14 		Best: 923.69 		N:8
+Woodley        		Mean: 311.19 		Best: 921.75 		N:3
+Johnson        		Mean: 311.26 		Best: 918.78 		N:3
+
+########## REPORT GEN: 18 ##########
+SPECIES: 
+Vega           		Mean: 188.35 		Best: 933.82 		N:5
+Mccoy          		Mean: 157.07 		Best: 932.88 		N:6
+Woodley        		Mean: 133.75 		Best: 932.38 		N:7
+Carroll        		Mean: 133.94 		Best: 932.07 		N:7
+Covino         		Mean: 104.64 		Best: 932.11 		N:9
+Bauer          		Mean: 117.52 		Best: 929.96 		N:8
+Johnson        		Mean: 157.05 		Best: 929.32 		N:6
+Barber         		Mean: 104.16 		Best: 929.07 		N:9
+Jock           		Mean: 187.25 		Best: 928.49 		N:5
+Duke           		Mean: 156.54 		Best: 927.36 		N:6
+Heald          		Mean: 156.41 		Best: 926.75 		N:6
+Hallman        		Mean: 310.69 		Best: 924.92 		N:3
+Kennedy        		Mean: 467.12 		Best: 924.88 		N:2
+Hendricks      		Mean: 187.4 		Best: 927.46 		N:5
+Sifre          		Mean: 103.51 		Best: 923.19 		N:9
+Batista        		Mean: 310.58 		Best: 922.85 		N:3
+Bird           		Mean: 233.99 		Best: 916.19 		N:4
+
+########## REPORT GEN: 19 ##########
+SPECIES: 
+Mccoy          		Mean: 94.16 		Best: 933.83 		N:10
+Bird           		Mean: 117.07 		Best: 931.03 		N:8
+Covino         		Mean: 117.32 		Best: 930.66 		N:8
+Jock           		Mean: 133.09 		Best: 929.91 		N:7
+Hendricks      		Mean: 187.74 		Best: 928.76 		N:5
+Vega           		Mean: 309.83 		Best: 926.53 		N:3
+Johnson        		Mean: 156.06 		Best: 926.1 		N:6
+Batista        		Mean: 93.97 		Best: 925.83 		N:10
+Barber         		Mean: 187.22 		Best: 924.26 		N:5
+Woodley        		Mean: 311.57 		Best: 924.01 		N:3
+Sifre          		Mean: 118.01 		Best: 933.09 		N:8
+Bauer          		Mean: 155.72 		Best: 923.47 		N:6
+Hallman        		Mean: 234.25 		Best: 922.88 		N:4
+Duke           		Mean: 187.11 		Best: 921.99 		N:5
+Kennedy        		Mean: 311.1 		Best: 920.9 		N:3
+Carroll        		Mean: 154.28 		Best: 922.24 		N:6
+Heald          		Mean: 309.77 		Best: 915.77 		N:3
+
+########## REPORT GEN: 20 ##########
+SPECIES: 
+Batista        		Mean: 188.28 		Best: 936.84 		N:5
+Heald          		Mean: 117.84 		Best: 933.65 		N:8
+Hendricks      		Mean: 85.39 		Best: 932.87 		N:11
+Woodley        		Mean: 155.99 		Best: 932.79 		N:6
+Covino         		Mean: 133.43 		Best: 930.94 		N:7
+Bauer          		Mean: 157.28 		Best: 929.6 		N:6
+Johnson        		Mean: 234.42 		Best: 929.37 		N:4
+Jock           		Mean: 118.0 		Best: 929.15 		N:8
+Vega           		Mean: 188.04 		Best: 928.92 		N:5
+Barber         		Mean: 134.21 		Best: 929.13 		N:7
+Sifre          		Mean: 232.72 		Best: 926.12 		N:4
+Bird           		Mean: 156.23 		Best: 924.62 		N:6
+Mccoy          		Mean: 155.45 		Best: 923.02 		N:6
+Hallman        		Mean: 187.95 		Best: 926.64 		N:5
+Carroll        		Mean: 185.13 		Best: 921.35 		N:5
+Kennedy        		Mean: 232.24 		Best: 917.74 		N:4
+Duke           		Mean: 232.48 		Best: 922.32 		N:4
+
+########## REPORT GEN: 21 ##########
+SPECIES: 
+Hendricks      		Mean: 156.86 		Best: 940.06 		N:6
+Heald          		Mean: 235.94 		Best: 936.09 		N:4
+Bauer          		Mean: 156.77 		Best: 935.15 		N:6
+Sifre          		Mean: 104.24 		Best: 932.89 		N:9
+Kennedy        		Mean: 133.67 		Best: 932.39 		N:7
+Carroll        		Mean: 312.48 		Best: 931.55 		N:3
+Barber         		Mean: 133.95 		Best: 929.88 		N:7
+Jock           		Mean: 134.52 		Best: 934.23 		N:7
+Mccoy          		Mean: 231.82 		Best: 929.6 		N:4
+Vega           		Mean: 187.09 		Best: 928.62 		N:5
+Bird           		Mean: 103.82 		Best: 926.61 		N:9
+Woodley        		Mean: 133.55 		Best: 928.12 		N:7
+Johnson        		Mean: 186.02 		Best: 925.15 		N:5
+Hallman        		Mean: 463.97 		Best: 923.66 		N:2
+Duke           		Mean: 133.18 		Best: 923.76 		N:7
+Covino         		Mean: 133.63 		Best: 923.68 		N:7
+Batista        		Mean: 185.98 		Best: 920.26 		N:5
+
+########## REPORT GEN: 22 ##########
+SPECIES: 
+Duke           		Mean: 188.18 		Best: 941.22 		N:5
+Vega           		Mean: 104.47 		Best: 936.59 		N:9
+Mccoy          		Mean: 187.35 		Best: 936.29 		N:5
+Bauer          		Mean: 156.88 		Best: 933.96 		N:6
+Covino         		Mean: 66.75 		Best: 932.8 		N:14
+Jock           		Mean: 235.35 		Best: 932.07 		N:4
+Hendricks      		Mean: 467.7 		Best: 931.81 		N:2
+Kennedy        		Mean: 103.61 		Best: 931.02 		N:9
+Johnson        		Mean: 155.98 		Best: 930.69 		N:6
+Hallman        		Mean: 188.06 		Best: 930.67 		N:5
+Barber         		Mean: 186.97 		Best: 929.69 		N:5
+Batista        		Mean: 116.44 		Best: 928.2 		N:8
+Woodley        		Mean: 310.97 		Best: 924.33 		N:3
+Bird           		Mean: 232.49 		Best: 924.3 		N:4
+Sifre          		Mean: 232.85 		Best: 923.91 		N:4
+Heald          		Mean: 186.77 		Best: 921.5 		N:5
+Carroll        		Mean: 155.9 		Best: 926.46 		N:6
+
+########## REPORT GEN: 23 ##########
+SPECIES: 
+Hallman        		Mean: 117.32 		Best: 933.1 		N:8
+Bauer          		Mean: 156.11 		Best: 932.49 		N:6
+Heald          		Mean: 117.07 		Best: 930.27 		N:8
+Sifre          		Mean: 187.09 		Best: 930.12 		N:5
+Jock           		Mean: 311.14 		Best: 930.03 		N:3
+Johnson        		Mean: 133.54 		Best: 929.7 		N:7
+Batista        		Mean: 104.18 		Best: 928.76 		N:9
+Woodley        		Mean: 85.14 		Best: 928.23 		N:11
+Barber         		Mean: 155.82 		Best: 927.8 		N:6
+Duke           		Mean: 232.94 		Best: 926.08 		N:4
+Carroll        		Mean: 186.44 		Best: 926.6 		N:5
+Covino         		Mean: 154.36 		Best: 924.21 		N:6
+Kennedy        		Mean: 116.73 		Best: 928.84 		N:8
+Mccoy          		Mean: 186.27 		Best: 922.4 		N:5
+Bird           		Mean: 466.02 		Best: 922.39 		N:2
+Hendricks      		Mean: 154.34 		Best: 916.65 		N:6
+
+########## REPORT GEN: 24 ##########
+SPECIES: 
+Sifre          		Mean: 155.4 		Best: 938.14 		N:6
+Hendricks      		Mean: 156.58 		Best: 937.75 		N:6
+Vega           		Mean: 117.58 		Best: 936.54 		N:8
+Johnson        		Mean: 117.23 		Best: 935.82 		N:8
+Hallman        		Mean: 134.09 		Best: 933.05 		N:7
+Woodley        		Mean: 104.05 		Best: 932.24 		N:9
+Bird           		Mean: 93.2 		Best: 929.85 		N:10
+Duke           		Mean: 187.13 		Best: 928.74 		N:5
+Bauer          		Mean: 155.39 		Best: 928.69 		N:6
+Jock           		Mean: 132.73 		Best: 928.53 		N:7
+Kennedy        		Mean: 233.28 		Best: 928.3 		N:4
+Heald          		Mean: 310.02 		Best: 927.32 		N:3
+Batista        		Mean: 232.95 		Best: 926.34 		N:4
+Mccoy          		Mean: 234.43 		Best: 925.33 		N:4
+Covino         		Mean: 184.84 		Best: 922.67 		N:5
+Barber         		Mean: 230.66 		Best: 917.16 		N:4
+Carroll        		Mean: 232.4 		Best: 917.32 		N:4
+
+########## REPORT GEN: 25 ##########
+SPECIES: 
+Jock           		Mean: 116.97 		Best: 935.15 		N:8
+Bauer          		Mean: 93.72 		Best: 934.46 		N:10
+Barber         		Mean: 134.06 		Best: 933.49 		N:7
+Heald          		Mean: 134.33 		Best: 936.04 		N:7
+Hallman        		Mean: 133.42 		Best: 932.54 		N:7
+Johnson        		Mean: 117.05 		Best: 932.38 		N:8
+Batista        		Mean: 117.17 		Best: 935.57 		N:8
+Hendricks      		Mean: 466.75 		Best: 930.97 		N:2
+Bird           		Mean: 116.07 		Best: 930.81 		N:8
+Sifre          		Mean: 234.67 		Best: 930.61 		N:4
+Mccoy          		Mean: 186.65 		Best: 930.6 		N:5
+Vega           		Mean: 155.6 		Best: 929.27 		N:6
+Carroll        		Mean: 103.51 		Best: 926.53 		N:9
+Woodley        		Mean: 465.96 		Best: 925.82 		N:2
+Duke           		Mean: 187.21 		Best: 925.14 		N:5
+Kennedy        		Mean: 310.33 		Best: 922.17 		N:3
+
+########## REPORT GEN: 26 ##########
+SPECIES: 
+Carroll        		Mean: 155.27 		Best: 939.37 		N:6
+Woodley        		Mean: 133.44 		Best: 934.92 		N:7
+Hendricks      		Mean: 93.55 		Best: 933.87 		N:10
+Vega           		Mean: 93.98 		Best: 933.54 		N:10
+Bauer          		Mean: 93.43 		Best: 934.63 		N:10
+Batista        		Mean: 156.17 		Best: 931.38 		N:6
+Kennedy        		Mean: 133.29 		Best: 930.01 		N:7
+Sifre          		Mean: 133.53 		Best: 927.54 		N:7
+Duke           		Mean: 154.64 		Best: 926.76 		N:6
+Mccoy          		Mean: 232.76 		Best: 926.53 		N:4
+Johnson        		Mean: 467.02 		Best: 925.8 		N:2
+Barber         		Mean: 233.52 		Best: 925.55 		N:4
+Heald          		Mean: 93.37 		Best: 925.01 		N:10
+Covino         		Mean: 232.15 		Best: 923.62 		N:4
+Hallman        		Mean: 231.96 		Best: 923.01 		N:4
+Jock           		Mean: 465.17 		Best: 921.44 		N:2
+
+########## REPORT GEN: 27 ##########
+SPECIES: 
+Bird           		Mean: 156.92 		Best: 936.79 		N:6
+Mccoy          		Mean: 66.64 		Best: 936.38 		N:14
+Woodley        		Mean: 188.67 		Best: 934.23 		N:5
+Covino         		Mean: 93.41 		Best: 932.34 		N:10
+Johnson        		Mean: 155.49 		Best: 931.24 		N:6
+Hallman        		Mean: 104.22 		Best: 930.81 		N:9
+Batista        		Mean: 103.84 		Best: 927.46 		N:9
+Sifre          		Mean: 461.1 		Best: 926.63 		N:2
+Carroll        		Mean: 187.14 		Best: 932.19 		N:5
+Bauer          		Mean: 187.57 		Best: 926.9 		N:5
+Heald          		Mean: 187.47 		Best: 926.54 		N:5
+Hendricks      		Mean: 232.74 		Best: 923.59 		N:4
+Barber         		Mean: 307.56 		Best: 922.45 		N:3
+Jock           		Mean: 132.77 		Best: 922.08 		N:7
+Duke           		Mean: 185.61 		Best: 923.98 		N:5
+Kennedy        		Mean: 229.85 		Best: 918.03 		N:4
+
+########## REPORT GEN: 28 ##########
+SPECIES: 
+Mccoy          		Mean: 313.14 		Best: 939.8 		N:3
+Heald          		Mean: 104.18 		Best: 934.15 		N:9
+Bauer          		Mean: 155.87 		Best: 934.31 		N:6
+Hendricks      		Mean: 116.98 		Best: 929.13 		N:8
+Carroll        		Mean: 133.81 		Best: 930.11 		N:7
+Bird           		Mean: 311.55 		Best: 928.91 		N:3
+Covino         		Mean: 155.38 		Best: 929.92 		N:6
+Woodley        		Mean: 232.95 		Best: 927.46 		N:4
+Barber         		Mean: 185.53 		Best: 927.28 		N:5
+Hallman        		Mean: 154.89 		Best: 927.18 		N:6
+Sifre          		Mean: 185.95 		Best: 927.03 		N:5
+Jock           		Mean: 103.7 		Best: 926.72 		N:9
+Batista        		Mean: 185.89 		Best: 925.92 		N:5
+Duke           		Mean: 186.05 		Best: 925.36 		N:5
+Kennedy        		Mean: 132.65 		Best: 928.1 		N:7
+Vega           		Mean: 132.1 		Best: 922.43 		N:7
+Johnson        		Mean: 184.77 		Best: 913.28 		N:5
+

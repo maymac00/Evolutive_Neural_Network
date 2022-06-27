@@ -1,0 +1,700 @@
+########## REPORT GEN: 2 ##########
+SPECIES: 
+Carlson        		Mean: 67.51 		Best: 942.62 		N:15
+Mccauley       		Mean: 165.45 		Best: 939.89 		N:6
+Earley         		Mean: 157.12 		Best: 934.1 		N:6
+Toney          		Mean: 471.61 		Best: 934.1 		N:2
+Olson          		Mean: 480.47 		Best: 933.84 		N:2
+Hammond        		Mean: 156.16 		Best: 933.51 		N:6
+Bond           		Mean: 62.96 		Best: 934.1 		N:16
+Merritt        		Mean: 112.04 		Best: 931.27 		N:9
+Cantwell       		Mean: 53.5 		Best: 934.1 		N:19
+Avila          		Mean: 94.46 		Best: 931.27 		N:10
+Parsley        		Mean: 465.64 		Best: 931.27 		N:2
+Dean           		Mean: 465.64 		Best: 931.27 		N:2
+Hyman          		Mean: 234.87 		Best: 931.27 		N:4
+
+########## REPORT GEN: 3 ##########
+SPECIES: 
+Carlson        		Mean: 99.46 		Best: 942.62 		N:10
+Hyman          		Mean: 188.12 		Best: 939.89 		N:5
+Merritt        		Mean: 142.92 		Best: 934.1 		N:7
+Parsley        		Mean: 139.07 		Best: 934.1 		N:7
+Bond           		Mean: 89.58 		Best: 934.1 		N:11
+Hammond        		Mean: 235.04 		Best: 933.51 		N:4
+Cantwell       		Mean: 166.4 		Best: 934.1 		N:6
+Batey          		Mean: 484.41 		Best: 933.51 		N:2
+Mccauley       		Mean: 162.48 		Best: 939.89 		N:6
+Earley         		Mean: 323.69 		Best: 934.1 		N:3
+Toney          		Mean: 243.49 		Best: 934.1 		N:4
+Olson          		Mean: 165.17 		Best: 938.94 		N:6
+Avila          		Mean: 157.62 		Best: 931.27 		N:6
+Dozier         		Mean: 188.12 		Best: 931.27 		N:5
+Dean           		Mean: 234.71 		Best: 931.27 		N:4
+Harris         		Mean: 318.06 		Best: 933.84 		N:3
+Paxton         		Mean: 195.37 		Best: 931.27 		N:5
+Fleming        		Mean: 483.64 		Best: 927.26 		N:2
+Cooper         		Mean: 480.49 		Best: 927.26 		N:2
+
+########## REPORT GEN: 4 ##########
+SPECIES: 
+Toney          		Mean: 244.21 		Best: 959.9 		N:4
+Cantwell       		Mean: 122.38 		Best: 942.62 		N:8
+Olson          		Mean: 164.54 		Best: 939.89 		N:6
+Otterson       		Mean: 482.12 		Best: 939.89 		N:2
+Mccauley       		Mean: 140.56 		Best: 939.89 		N:7
+Earley         		Mean: 481.26 		Best: 934.1 		N:2
+Necaise        		Mean: 319.88 		Best: 934.1 		N:3
+Hyman          		Mean: 478.58 		Best: 933.51 		N:2
+Parsley        		Mean: 139.43 		Best: 934.1 		N:7
+Hammond        		Mean: 187.74 		Best: 933.51 		N:5
+Carlson        		Mean: 162.23 		Best: 931.27 		N:6
+Merritt        		Mean: 162.29 		Best: 931.27 		N:6
+Bond           		Mean: 89.44 		Best: 934.1 		N:11
+Batey          		Mean: 162.98 		Best: 933.51 		N:6
+Avila          		Mean: 187.48 		Best: 931.27 		N:5
+Dean           		Mean: 483.26 		Best: 931.27 		N:2
+Harris         		Mean: 323.85 		Best: 933.51 		N:3
+Paxton         		Mean: 194.27 		Best: 931.27 		N:5
+Cypert         		Mean: 241.78 		Best: 931.27 		N:4
+Fleming        		Mean: 477.46 		Best: 931.27 		N:2
+Cooper         		Mean: 319.12 		Best: 931.27 		N:3
+
+########## REPORT GEN: 5 ##########
+SPECIES: 
+Olson          		Mean: 195.31 		Best: 943.77 		N:5
+Bond           		Mean: 194.4 		Best: 942.62 		N:5
+Earley         		Mean: 195.12 		Best: 940.72 		N:5
+Otterson       		Mean: 241.56 		Best: 939.89 		N:4
+Hyman          		Mean: 234.29 		Best: 939.89 		N:4
+Fleming        		Mean: 162.76 		Best: 939.89 		N:6
+Cypert         		Mean: 81.56 		Best: 939.26 		N:12
+Hammond        		Mean: 323.78 		Best: 934.48 		N:3
+Necaise        		Mean: 81.34 		Best: 935.58 		N:12
+Parsley        		Mean: 315.73 		Best: 934.1 		N:3
+Carlson        		Mean: 244.5 		Best: 934.38 		N:4
+Batey          		Mean: 241.51 		Best: 934.1 		N:4
+Busby          		Mean: 315.06 		Best: 934.1 		N:3
+Kamphoefner    		Mean: 474.32 		Best: 934.1 		N:2
+Cooper         		Mean: 320.42 		Best: 933.51 		N:3
+Cantwell       		Mean: 474.83 		Best: 931.27 		N:2
+Merritt        		Mean: 239.81 		Best: 931.27 		N:4
+Dean           		Mean: 239.94 		Best: 931.27 		N:4
+Harris         		Mean: 139.15 		Best: 934.1 		N:7
+Dozier         		Mean: 472.94 		Best: 931.27 		N:2
+Mccauley       		Mean: 319.19 		Best: 922.28 		N:3
+
+########## REPORT GEN: 6 ##########
+SPECIES: 
+Kamphoefner    		Mean: 161.24 		Best: 943.77 		N:6
+Mccauley       		Mean: 321.82 		Best: 942.62 		N:3
+Harris         		Mean: 120.61 		Best: 940.89 		N:8
+Dozier         		Mean: 243.34 		Best: 940.72 		N:4
+Merritt        		Mean: 137.58 		Best: 939.89 		N:7
+Bond           		Mean: 193.9 		Best: 935.58 		N:5
+Fleming        		Mean: 241.17 		Best: 935.58 		N:4
+Necaise        		Mean: 320.11 		Best: 934.1 		N:3
+Parsley        		Mean: 193.09 		Best: 939.89 		N:5
+Batey          		Mean: 137.34 		Best: 934.1 		N:7
+Cooper         		Mean: 474.09 		Best: 934.1 		N:2
+Cantwell       		Mean: 481.17 		Best: 934.1 		N:2
+Carlson        		Mean: 192.34 		Best: 933.51 		N:5
+Olson          		Mean: 237.39 		Best: 931.27 		N:4
+Earley         		Mean: 192.99 		Best: 934.1 		N:5
+Hyman          		Mean: 473.37 		Best: 931.27 		N:2
+Cypert         		Mean: 192.28 		Best: 933.23 		N:5
+Busby          		Mean: 192.23 		Best: 934.1 		N:5
+Dean           		Mean: 478.95 		Best: 931.27 		N:2
+Toney          		Mean: 191.75 		Best: 931.27 		N:5
+Paxton         		Mean: 319.32 		Best: 934.1 		N:3
+Otterson       		Mean: 190.01 		Best: 926.09 		N:5
+Hammond        		Mean: 470.51 		Best: 920.48 		N:2
+
+########## REPORT GEN: 7 ##########
+SPECIES: 
+Kamphoefner    		Mean: 320.28 		Best: 943.77 		N:3
+Fleming        		Mean: 138.02 		Best: 942.62 		N:7
+Paxton         		Mean: 138.74 		Best: 942.62 		N:7
+Otterson       		Mean: 239.54 		Best: 940.89 		N:4
+Dean           		Mean: 120.65 		Best: 940.72 		N:8
+Earley         		Mean: 193.38 		Best: 939.89 		N:5
+Hyman          		Mean: 474.51 		Best: 939.89 		N:2
+Mccauley       		Mean: 241.91 		Best: 935.58 		N:4
+Olson          		Mean: 320.1 		Best: 935.58 		N:3
+Parsley        		Mean: 237.33 		Best: 934.1 		N:4
+Batey          		Mean: 159.7 		Best: 935.58 		N:6
+Harris         		Mean: 159.63 		Best: 933.51 		N:6
+Dozier         		Mean: 318.89 		Best: 934.1 		N:3
+Necaise        		Mean: 192.34 		Best: 933.51 		N:5
+Hammond        		Mean: 191.09 		Best: 935.58 		N:5
+Avila          		Mean: 160.34 		Best: 933.51 		N:6
+Cooper         		Mean: 106.84 		Best: 934.1 		N:9
+Cantwell       		Mean: 469.37 		Best: 931.27 		N:2
+Carlson        		Mean: 476.15 		Best: 931.27 		N:2
+Toney          		Mean: 238.36 		Best: 931.27 		N:4
+Busby          		Mean: 475.44 		Best: 930.46 		N:2
+
+########## REPORT GEN: 8 ##########
+SPECIES: 
+Earley         		Mean: 190.48 		Best: 943.77 		N:5
+Parsley        		Mean: 316.87 		Best: 942.62 		N:3
+Dozier         		Mean: 160.01 		Best: 942.62 		N:6
+Busby          		Mean: 120.18 		Best: 940.72 		N:8
+Fleming        		Mean: 159.52 		Best: 939.89 		N:6
+Harris         		Mean: 160.23 		Best: 942.62 		N:6
+Cypert         		Mean: 239.2 		Best: 939.89 		N:4
+Paxton         		Mean: 159.69 		Best: 935.58 		N:6
+Otterson       		Mean: 316.93 		Best: 933.84 		N:3
+Bond           		Mean: 314.39 		Best: 933.84 		N:3
+Avila          		Mean: 137.49 		Best: 933.84 		N:7
+Kamphoefner    		Mean: 237.25 		Best: 933.51 		N:4
+Olson          		Mean: 317.65 		Best: 933.51 		N:3
+Hammond        		Mean: 238.36 		Best: 934.1 		N:4
+Toney          		Mean: 158.83 		Best: 933.51 		N:6
+Dean           		Mean: 314.61 		Best: 931.27 		N:3
+Cooper         		Mean: 191.22 		Best: 931.27 		N:5
+Cantwell       		Mean: 135.64 		Best: 931.27 		N:7
+Batey          		Mean: 471.24 		Best: 930.46 		N:2
+Carlson        		Mean: 315.29 		Best: 930.46 		N:3
+Hyman          		Mean: 312.26 		Best: 922.47 		N:3
+
+########## REPORT GEN: 9 ##########
+SPECIES: 
+Batey          		Mean: 473.57 		Best: 943.77 		N:2
+Avila          		Mean: 119.73 		Best: 942.62 		N:8
+Cooper         		Mean: 160.72 		Best: 942.62 		N:6
+Mccauley       		Mean: 119.85 		Best: 942.62 		N:8
+Parsley        		Mean: 190.79 		Best: 942.17 		N:5
+Fleming        		Mean: 191.26 		Best: 940.72 		N:5
+Kamphoefner    		Mean: 238.78 		Best: 939.89 		N:4
+Olson          		Mean: 238.13 		Best: 939.89 		N:4
+Bond           		Mean: 190.41 		Best: 935.58 		N:5
+Merritt        		Mean: 319.46 		Best: 935.58 		N:3
+Hyman          		Mean: 190.41 		Best: 934.73 		N:5
+Paxton         		Mean: 317.85 		Best: 934.1 		N:3
+Dean           		Mean: 159.34 		Best: 935.58 		N:6
+Cypert         		Mean: 189.27 		Best: 933.51 		N:5
+Necaise        		Mean: 237.83 		Best: 933.51 		N:4
+Earley         		Mean: 136.06 		Best: 933.84 		N:7
+Hammond        		Mean: 118.77 		Best: 935.58 		N:8
+Cantwell       		Mean: 317.42 		Best: 931.27 		N:3
+Harris         		Mean: 312.56 		Best: 930.46 		N:3
+Toney          		Mean: 470.64 		Best: 930.46 		N:2
+Dozier         		Mean: 470.4 		Best: 927.93 		N:2
+
+########## REPORT GEN: 10 ##########
+SPECIES: 
+Cantwell       		Mean: 190.1 		Best: 959.9 		N:5
+Otterson       		Mean: 118.94 		Best: 943.77 		N:8
+Fleming        		Mean: 237.3 		Best: 942.62 		N:4
+Earley         		Mean: 158.52 		Best: 942.62 		N:6
+Dozier         		Mean: 86.86 		Best: 942.62 		N:11
+Kamphoefner    		Mean: 240.7 		Best: 942.17 		N:4
+Merritt        		Mean: 136.74 		Best: 940.72 		N:7
+Cypert         		Mean: 190.75 		Best: 940.04 		N:5
+Batey          		Mean: 191.16 		Best: 939.89 		N:5
+Hyman          		Mean: 191.04 		Best: 939.89 		N:5
+Necaise        		Mean: 315.86 		Best: 939.89 		N:3
+Avila          		Mean: 236.4 		Best: 934.73 		N:4
+Carlson        		Mean: 156.81 		Best: 933.51 		N:6
+Dean           		Mean: 474.98 		Best: 933.51 		N:2
+Harris         		Mean: 189.49 		Best: 933.51 		N:5
+Olson          		Mean: 315.23 		Best: 933.23 		N:3
+Hammond        		Mean: 236.87 		Best: 930.46 		N:4
+Paxton         		Mean: 313.82 		Best: 927.93 		N:3
+Parsley        		Mean: 157.62 		Best: 927.26 		N:6
+Cooper         		Mean: 469.16 		Best: 922.28 		N:2
+
+########## REPORT GEN: 11 ##########
+SPECIES: 
+Otterson       		Mean: 158.22 		Best: 959.9 		N:6
+Hyman          		Mean: 316.02 		Best: 943.77 		N:3
+Kamphoefner    		Mean: 105.39 		Best: 942.62 		N:9
+Harris         		Mean: 237.26 		Best: 942.62 		N:4
+Cooper         		Mean: 86.74 		Best: 942.62 		N:11
+Earley         		Mean: 315.82 		Best: 940.04 		N:3
+Dozier         		Mean: 475.16 		Best: 940.04 		N:2
+Fleming        		Mean: 236.93 		Best: 939.89 		N:4
+Merritt        		Mean: 191.09 		Best: 939.89 		N:5
+Batey          		Mean: 158.29 		Best: 939.89 		N:6
+Necaise        		Mean: 189.56 		Best: 939.89 		N:5
+Toney          		Mean: 190.76 		Best: 939.89 		N:5
+Cantwell       		Mean: 119.11 		Best: 939.89 		N:8
+Hammond        		Mean: 135.8 		Best: 933.51 		N:7
+Bond           		Mean: 473.16 		Best: 931.27 		N:2
+Carlson        		Mean: 188.57 		Best: 931.27 		N:5
+Dean           		Mean: 311.17 		Best: 931.27 		N:3
+Mccauley       		Mean: 235.74 		Best: 930.46 		N:4
+Avila          		Mean: 235.54 		Best: 930.46 		N:4
+Olson          		Mean: 466.3 		Best: 920.48 		N:2
+
+########## REPORT GEN: 12 ##########
+SPECIES: 
+Cooper         		Mean: 135.57 		Best: 960.38 		N:7
+Kamphoefner    		Mean: 238.54 		Best: 960.28 		N:4
+Otterson       		Mean: 238.18 		Best: 959.9 		N:4
+Earley         		Mean: 237.36 		Best: 959.9 		N:4
+Harris         		Mean: 135.83 		Best: 951.71 		N:7
+Carlson        		Mean: 190.2 		Best: 943.77 		N:5
+Dozier         		Mean: 135.65 		Best: 942.62 		N:7
+Necaise        		Mean: 239.05 		Best: 942.62 		N:4
+Mccauley       		Mean: 474.77 		Best: 942.62 		N:2
+Merritt        		Mean: 238.8 		Best: 940.04 		N:4
+Parsley        		Mean: 190.23 		Best: 940.04 		N:5
+Hyman          		Mean: 158.8 		Best: 939.89 		N:6
+Hammond        		Mean: 188.06 		Best: 933.52 		N:5
+Batey          		Mean: 469.74 		Best: 933.51 		N:2
+Paxton         		Mean: 313.98 		Best: 933.51 		N:3
+Toney          		Mean: 134.61 		Best: 931.27 		N:7
+Avila          		Mean: 236.03 		Best: 931.27 		N:4
+Olson          		Mean: 187.79 		Best: 930.46 		N:5
+Fleming        		Mean: 156.42 		Best: 928.08 		N:6
+Bond           		Mean: 117.83 		Best: 927.93 		N:8
+
+########## REPORT GEN: 13 ##########
+SPECIES: 
+Parsley        		Mean: 94.6 		Best: 960.38 		N:10
+Cantwell       		Mean: 317.05 		Best: 960.38 		N:3
+Harris         		Mean: 316.43 		Best: 960.28 		N:3
+Paxton         		Mean: 137.01 		Best: 960.28 		N:7
+Cooper         		Mean: 136.25 		Best: 959.9 		N:7
+Earley         		Mean: 238.88 		Best: 959.9 		N:4
+Necaise        		Mean: 189.69 		Best: 959.9 		N:5
+Carlson        		Mean: 186.57 		Best: 942.62 		N:5
+Merritt        		Mean: 158.2 		Best: 942.62 		N:6
+Avila          		Mean: 238.27 		Best: 942.62 		N:4
+Toney          		Mean: 137.41 		Best: 943.77 		N:7
+Hammond        		Mean: 470.6 		Best: 940.04 		N:2
+Batey          		Mean: 189.05 		Best: 939.89 		N:5
+Olson          		Mean: 156.59 		Best: 939.89 		N:6
+Dozier         		Mean: 157.15 		Best: 934.59 		N:6
+Kamphoefner    		Mean: 467.62 		Best: 933.52 		N:2
+Otterson       		Mean: 233.73 		Best: 932.32 		N:4
+Bond           		Mean: 117.9 		Best: 931.27 		N:8
+Hyman          		Mean: 465.84 		Best: 927.26 		N:2
+Fleming        		Mean: 311.82 		Best: 919.23 		N:3
+
+########## REPORT GEN: 14 ##########
+SPECIES: 
+Harris         		Mean: 105.84 		Best: 960.38 		N:9
+Paxton         		Mean: 117.35 		Best: 960.38 		N:8
+Carlson        		Mean: 158.25 		Best: 960.38 		N:6
+Toney          		Mean: 318.04 		Best: 960.38 		N:3
+Mccauley       		Mean: 473.96 		Best: 960.38 		N:2
+Kamphoefner    		Mean: 236.24 		Best: 960.28 		N:4
+Bond           		Mean: 238.7 		Best: 960.28 		N:4
+Cooper         		Mean: 105.6 		Best: 959.9 		N:9
+Merritt        		Mean: 236.32 		Best: 959.9 		N:4
+Hammond        		Mean: 134.97 		Best: 959.9 		N:7
+Necaise        		Mean: 236.76 		Best: 945.7 		N:4
+Dozier         		Mean: 238.21 		Best: 942.94 		N:4
+Cantwell       		Mean: 237.18 		Best: 942.61 		N:4
+Avila          		Mean: 315.11 		Best: 940.04 		N:3
+Fleming        		Mean: 118.2 		Best: 935.58 		N:8
+Otterson       		Mean: 188.18 		Best: 933.51 		N:5
+Earley         		Mean: 314.27 		Best: 934.48 		N:3
+Parsley        		Mean: 234.58 		Best: 930.46 		N:4
+Batey          		Mean: 465.52 		Best: 930.46 		N:2
+Olson          		Mean: 232.97 		Best: 930.46 		N:4
+Hyman          		Mean: 312.91 		Best: 924.98 		N:3
+
+########## REPORT GEN: 15 ##########
+SPECIES: 
+Harris         		Mean: 190.51 		Best: 960.38 		N:5
+Paxton         		Mean: 118.22 		Best: 960.38 		N:8
+Hammond        		Mean: 158.08 		Best: 960.38 		N:6
+Batey          		Mean: 480.96 		Best: 960.38 		N:2
+Olson          		Mean: 237.01 		Best: 960.38 		N:4
+Mccauley       		Mean: 94.25 		Best: 960.28 		N:10
+Earley         		Mean: 191.15 		Best: 960.28 		N:5
+Dozier         		Mean: 316.01 		Best: 960.28 		N:3
+Kamphoefner    		Mean: 86.26 		Best: 959.9 		N:11
+Otterson       		Mean: 117.36 		Best: 955.49 		N:8
+Bond           		Mean: 237.48 		Best: 945.7 		N:4
+Parsley        		Mean: 119.01 		Best: 945.7 		N:8
+Fleming        		Mean: 188.55 		Best: 942.94 		N:5
+Carlson        		Mean: 467.5 		Best: 942.62 		N:2
+Toney          		Mean: 315.01 		Best: 942.62 		N:3
+Cantwell       		Mean: 188.5 		Best: 940.04 		N:5
+Merritt        		Mean: 306.29 		Best: 932.32 		N:3
+Hyman          		Mean: 308.09 		Best: 920.18 		N:3
+Avila          		Mean: 312.18 		Best: 918.48 		N:3
+
+########## REPORT GEN: 16 ##########
+SPECIES: 
+Olson          		Mean: 237.13 		Best: 960.38 		N:4
+Earley         		Mean: 86.13 		Best: 960.38 		N:11
+Otterson       		Mean: 157.89 		Best: 960.38 		N:6
+Fleming        		Mean: 158.71 		Best: 960.38 		N:6
+Avila          		Mean: 192.08 		Best: 960.38 		N:5
+Paxton         		Mean: 189.43 		Best: 960.28 		N:5
+Parsley        		Mean: 157.78 		Best: 960.28 		N:6
+Mccauley       		Mean: 235.62 		Best: 959.9 		N:4
+Cantwell       		Mean: 189.47 		Best: 960.38 		N:5
+Cooper         		Mean: 135.33 		Best: 959.9 		N:7
+Hammond        		Mean: 313.15 		Best: 936.05 		N:3
+Dozier         		Mean: 309.39 		Best: 935.58 		N:3
+Toney          		Mean: 310.4 		Best: 935.14 		N:3
+Batey          		Mean: 309.46 		Best: 933.16 		N:3
+Harris         		Mean: 154.61 		Best: 932.32 		N:6
+Necaise        		Mean: 464.01 		Best: 932.32 		N:2
+Carlson        		Mean: 235.72 		Best: 931.96 		N:4
+Merritt        		Mean: 155.5 		Best: 931.04 		N:6
+Hyman          		Mean: 185.84 		Best: 930.46 		N:5
+Bond           		Mean: 187.0 		Best: 927.26 		N:5
+
+########## REPORT GEN: 17 ##########
+SPECIES: 
+Kamphoefner    		Mean: 105.41 		Best: 960.38 		N:9
+Otterson       		Mean: 475.63 		Best: 960.38 		N:2
+Cantwell       		Mean: 134.13 		Best: 960.38 		N:7
+Harris         		Mean: 188.86 		Best: 960.38 		N:5
+Merritt        		Mean: 187.55 		Best: 960.38 		N:5
+Hyman          		Mean: 190.8 		Best: 960.38 		N:5
+Fleming        		Mean: 187.35 		Best: 960.28 		N:5
+Earley         		Mean: 187.24 		Best: 959.9 		N:5
+Mccauley       		Mean: 156.94 		Best: 959.9 		N:6
+Batey          		Mean: 157.51 		Best: 958.71 		N:6
+Carlson        		Mean: 235.81 		Best: 957.45 		N:4
+Necaise        		Mean: 93.91 		Best: 946.05 		N:10
+Avila          		Mean: 310.83 		Best: 936.05 		N:3
+Dozier         		Mean: 234.28 		Best: 936.05 		N:4
+Parsley        		Mean: 117.17 		Best: 935.58 		N:8
+Hammond        		Mean: 463.02 		Best: 935.58 		N:2
+Toney          		Mean: 467.96 		Best: 933.52 		N:2
+Bond           		Mean: 155.07 		Best: 933.52 		N:6
+Cooper         		Mean: 461.19 		Best: 931.96 		N:2
+Paxton         		Mean: 309.5 		Best: 916.73 		N:3
+
+########## REPORT GEN: 18 ##########
+SPECIES: 
+Otterson       		Mean: 118.98 		Best: 960.38 		N:8
+Merritt        		Mean: 134.25 		Best: 960.38 		N:7
+Batey          		Mean: 316.18 		Best: 960.38 		N:3
+Cooper         		Mean: 188.51 		Best: 960.38 		N:5
+Paxton         		Mean: 234.69 		Best: 960.38 		N:4
+Kamphoefner    		Mean: 117.81 		Best: 960.28 		N:8
+Hyman          		Mean: 189.52 		Best: 959.9 		N:5
+Toney          		Mean: 236.43 		Best: 959.9 		N:4
+Earley         		Mean: 158.78 		Best: 960.38 		N:6
+Necaise        		Mean: 479.24 		Best: 957.45 		N:2
+Carlson        		Mean: 84.52 		Best: 946.05 		N:11
+Cantwell       		Mean: 185.71 		Best: 936.05 		N:5
+Harris         		Mean: 233.97 		Best: 936.05 		N:4
+Hammond        		Mean: 308.51 		Best: 936.05 		N:3
+Fleming        		Mean: 155.98 		Best: 935.58 		N:6
+Mccauley       		Mean: 232.96 		Best: 935.14 		N:4
+Parsley        		Mean: 309.38 		Best: 931.96 		N:3
+Dozier         		Mean: 155.1 		Best: 931.03 		N:6
+Avila          		Mean: 466.02 		Best: 928.14 		N:2
+Bond           		Mean: 310.93 		Best: 927.26 		N:3
+
+########## REPORT GEN: 19 ##########
+SPECIES: 
+Batey          		Mean: 189.01 		Best: 960.38 		N:5
+Toney          		Mean: 314.56 		Best: 960.38 		N:3
+Dozier         		Mean: 95.03 		Best: 960.38 		N:10
+Olson          		Mean: 116.89 		Best: 960.38 		N:8
+Hyman          		Mean: 317.99 		Best: 959.9 		N:3
+Carlson        		Mean: 187.15 		Best: 958.71 		N:5
+Harris         		Mean: 471.54 		Best: 957.45 		N:2
+Hammond        		Mean: 133.27 		Best: 957.45 		N:7
+Cantwell       		Mean: 234.12 		Best: 942.62 		N:4
+Kamphoefner    		Mean: 311.71 		Best: 936.05 		N:3
+Earley         		Mean: 314.16 		Best: 936.05 		N:3
+Necaise        		Mean: 186.45 		Best: 936.05 		N:5
+Paxton         		Mean: 185.54 		Best: 931.96 		N:5
+Fleming        		Mean: 155.04 		Best: 931.96 		N:6
+Mccauley       		Mean: 157.67 		Best: 936.05 		N:6
+Merritt        		Mean: 232.32 		Best: 928.14 		N:4
+Cooper         		Mean: 233.8 		Best: 928.14 		N:4
+Otterson       		Mean: 155.15 		Best: 931.96 		N:6
+Parsley        		Mean: 133.16 		Best: 928.08 		N:7
+Bond           		Mean: 306.8 		Best: 920.18 		N:3
+
+########## REPORT GEN: 20 ##########
+SPECIES: 
+Parsley        		Mean: 317.0 		Best: 967.91 		N:3
+Olson          		Mean: 156.49 		Best: 960.38 		N:6
+Earley         		Mean: 159.0 		Best: 960.38 		N:6
+Necaise        		Mean: 157.7 		Best: 960.38 		N:6
+Cooper         		Mean: 134.12 		Best: 960.38 		N:7
+Kamphoefner    		Mean: 314.66 		Best: 959.9 		N:3
+Fleming        		Mean: 188.19 		Best: 958.71 		N:5
+Hyman          		Mean: 187.88 		Best: 957.45 		N:5
+Hammond        		Mean: 103.59 		Best: 957.45 		N:9
+Merritt        		Mean: 233.91 		Best: 957.45 		N:4
+Toney          		Mean: 134.0 		Best: 946.05 		N:7
+Otterson       		Mean: 313.85 		Best: 944.26 		N:3
+Mccauley       		Mean: 154.87 		Best: 936.05 		N:6
+Avila          		Mean: 233.65 		Best: 931.96 		N:4
+Bond           		Mean: 232.55 		Best: 931.03 		N:4
+Batey          		Mean: 307.03 		Best: 928.14 		N:3
+Harris         		Mean: 234.38 		Best: 928.14 		N:4
+Paxton         		Mean: 154.34 		Best: 927.26 		N:6
+Carlson        		Mean: 115.66 		Best: 926.47 		N:8
+Cantwell       		Mean: 453.85 		Best: 895.99 		N:2
+
+########## REPORT GEN: 21 ##########
+SPECIES: 
+Mccauley       		Mean: 192.29 		Best: 967.91 		N:5
+Olson          		Mean: 312.83 		Best: 960.38 		N:3
+Hammond        		Mean: 238.43 		Best: 960.38 		N:4
+Otterson       		Mean: 117.16 		Best: 960.38 		N:8
+Harris         		Mean: 235.56 		Best: 959.9 		N:4
+Fleming        		Mean: 117.41 		Best: 957.45 		N:8
+Merritt        		Mean: 189.7 		Best: 957.45 		N:5
+Bond           		Mean: 186.58 		Best: 957.45 		N:5
+Paxton         		Mean: 187.24 		Best: 946.14 		N:5
+Avila          		Mean: 93.37 		Best: 944.26 		N:10
+Earley         		Mean: 187.32 		Best: 936.21 		N:5
+Hyman          		Mean: 116.02 		Best: 936.05 		N:8
+Cooper         		Mean: 155.23 		Best: 934.4 		N:6
+Cantwell       		Mean: 183.84 		Best: 931.03 		N:5
+Parsley        		Mean: 185.97 		Best: 928.14 		N:5
+Necaise        		Mean: 230.62 		Best: 928.14 		N:4
+Toney          		Mean: 309.89 		Best: 928.14 		N:3
+Kamphoefner    		Mean: 306.47 		Best: 925.28 		N:3
+Batey          		Mean: 302.7 		Best: 914.97 		N:3
+
+########## REPORT GEN: 22 ##########
+SPECIES: 
+Hyman          		Mean: 156.48 		Best: 967.91 		N:6
+Hammond        		Mean: 134.7 		Best: 960.38 		N:7
+Otterson       		Mean: 235.44 		Best: 960.38 		N:4
+Paxton         		Mean: 158.39 		Best: 960.38 		N:6
+Kamphoefner    		Mean: 191.26 		Best: 960.38 		N:5
+Toney          		Mean: 93.8 		Best: 959.9 		N:10
+Cantwell       		Mean: 186.52 		Best: 957.45 		N:5
+Cooper         		Mean: 233.02 		Best: 946.14 		N:4
+Earley         		Mean: 231.42 		Best: 946.05 		N:4
+Parsley        		Mean: 187.64 		Best: 944.26 		N:5
+Olson          		Mean: 313.22 		Best: 936.21 		N:3
+Harris         		Mean: 153.82 		Best: 934.6 		N:6
+Mccauley       		Mean: 309.45 		Best: 931.03 		N:3
+Bond           		Mean: 233.55 		Best: 928.7 		N:4
+Avila          		Mean: 187.34 		Best: 928.7 		N:5
+Fleming        		Mean: 233.66 		Best: 928.14 		N:4
+Merritt        		Mean: 133.47 		Best: 928.14 		N:7
+Batey          		Mean: 154.26 		Best: 927.26 		N:6
+Necaise        		Mean: 232.11 		Best: 926.47 		N:4
+Carlson        		Mean: 462.62 		Best: 925.28 		N:2
+
+########## REPORT GEN: 23 ##########
+SPECIES: 
+Carlson        		Mean: 105.01 		Best: 967.91 		N:9
+Otterson       		Mean: 189.48 		Best: 960.38 		N:5
+Parsley        		Mean: 104.68 		Best: 960.38 		N:9
+Kamphoefner    		Mean: 188.31 		Best: 960.38 		N:5
+Avila          		Mean: 190.48 		Best: 960.38 		N:5
+Bond           		Mean: 116.5 		Best: 959.9 		N:8
+Hyman          		Mean: 188.35 		Best: 957.45 		N:5
+Cooper         		Mean: 156.15 		Best: 957.45 		N:6
+Earley         		Mean: 311.84 		Best: 946.14 		N:3
+Cantwell       		Mean: 133.59 		Best: 946.14 		N:7
+Toney          		Mean: 231.72 		Best: 944.26 		N:4
+Batey          		Mean: 133.26 		Best: 934.4 		N:7
+Harris         		Mean: 185.25 		Best: 931.03 		N:5
+Hammond        		Mean: 185.44 		Best: 928.7 		N:5
+Paxton         		Mean: 469.12 		Best: 928.7 		N:2
+Mccauley       		Mean: 231.6 		Best: 928.7 		N:4
+Olson          		Mean: 309.09 		Best: 927.26 		N:3
+Fleming        		Mean: 308.34 		Best: 920.89 		N:3
+Necaise        		Mean: 228.73 		Best: 920.77 		N:4
+
+########## REPORT GEN: 24 ##########
+SPECIES: 
+Batey          		Mean: 156.3 		Best: 967.91 		N:6
+Kamphoefner    		Mean: 238.69 		Best: 960.38 		N:4
+Necaise        		Mean: 312.03 		Best: 960.38 		N:3
+Hyman          		Mean: 235.19 		Best: 960.38 		N:4
+Earley         		Mean: 93.21 		Best: 960.38 		N:10
+Otterson       		Mean: 232.99 		Best: 957.45 		N:4
+Bond           		Mean: 189.16 		Best: 957.45 		N:5
+Hammond        		Mean: 234.7 		Best: 957.45 		N:4
+Avila          		Mean: 134.27 		Best: 944.26 		N:7
+Harris         		Mean: 132.62 		Best: 944.26 		N:7
+Parsley        		Mean: 93.38 		Best: 942.62 		N:10
+Cantwell       		Mean: 232.93 		Best: 934.11 		N:4
+Paxton         		Mean: 154.06 		Best: 928.7 		N:6
+Olson          		Mean: 131.85 		Best: 928.7 		N:7
+Merritt        		Mean: 311.11 		Best: 928.7 		N:3
+Carlson        		Mean: 459.92 		Best: 928.14 		N:2
+Mccauley       		Mean: 230.7 		Best: 928.14 		N:4
+Cooper         		Mean: 153.86 		Best: 927.26 		N:6
+Fleming        		Mean: 307.41 		Best: 920.42 		N:3
+
+########## REPORT GEN: 25 ##########
+SPECIES: 
+Bond           		Mean: 156.53 		Best: 967.91 		N:6
+Mccauley       		Mean: 233.06 		Best: 967.91 		N:4
+Hyman          		Mean: 104.67 		Best: 960.38 		N:9
+Parsley        		Mean: 133.3 		Best: 960.38 		N:7
+Olson          		Mean: 134.14 		Best: 960.38 		N:7
+Earley         		Mean: 104.67 		Best: 957.45 		N:9
+Paxton         		Mean: 154.41 		Best: 957.45 		N:6
+Batey          		Mean: 102.93 		Best: 946.14 		N:9
+Kamphoefner    		Mean: 231.7 		Best: 944.26 		N:4
+Necaise        		Mean: 157.65 		Best: 944.26 		N:6
+Avila          		Mean: 460.73 		Best: 928.7 		N:2
+Harris         		Mean: 186.06 		Best: 928.7 		N:5
+Otterson       		Mean: 310.32 		Best: 928.14 		N:3
+Merritt        		Mean: 184.41 		Best: 922.03 		N:5
+Cantwell       		Mean: 229.79 		Best: 916.84 		N:4
+Cooper         		Mean: 152.95 		Best: 915.5 		N:6
+Carlson        		Mean: 182.24 		Best: 905.25 		N:5
+
+########## REPORT GEN: 26 ##########
+SPECIES: 
+Harris         		Mean: 133.61 		Best: 967.91 		N:7
+Otterson       		Mean: 234.45 		Best: 967.91 		N:4
+Cooper         		Mean: 117.71 		Best: 967.91 		N:8
+Mccauley       		Mean: 134.6 		Best: 960.38 		N:7
+Kamphoefner    		Mean: 236.06 		Best: 960.38 		N:4
+Cantwell       		Mean: 231.4 		Best: 959.13 		N:4
+Bond           		Mean: 186.96 		Best: 957.45 		N:5
+Hyman          		Mean: 153.95 		Best: 957.45 		N:6
+Batey          		Mean: 235.32 		Best: 957.45 		N:4
+Avila          		Mean: 229.81 		Best: 957.45 		N:4
+Necaise        		Mean: 186.76 		Best: 944.26 		N:5
+Parsley        		Mean: 131.34 		Best: 928.14 		N:7
+Earley         		Mean: 116.12 		Best: 928.7 		N:8
+Olson          		Mean: 153.79 		Best: 927.26 		N:6
+Hammond        		Mean: 183.81 		Best: 925.46 		N:5
+Toney          		Mean: 303.65 		Best: 922.17 		N:3
+Merritt        		Mean: 306.18 		Best: 920.58 		N:3
+Carlson        		Mean: 458.77 		Best: 916.96 		N:2
+Fleming        		Mean: 182.84 		Best: 914.4 		N:5
+Paxton         		Mean: 304.65 		Best: 910.76 		N:3
+
+########## REPORT GEN: 27 ##########
+SPECIES: 
+Cantwell       		Mean: 189.2 		Best: 967.91 		N:5
+Fleming        		Mean: 133.08 		Best: 967.91 		N:7
+Kamphoefner    		Mean: 132.74 		Best: 960.38 		N:7
+Necaise        		Mean: 234.98 		Best: 960.38 		N:4
+Merritt        		Mean: 156.18 		Best: 959.13 		N:6
+Avila          		Mean: 155.72 		Best: 957.45 		N:6
+Olson          		Mean: 132.39 		Best: 957.45 		N:7
+Harris         		Mean: 312.05 		Best: 944.26 		N:3
+Batey          		Mean: 185.1 		Best: 934.6 		N:5
+Otterson       		Mean: 152.87 		Best: 928.14 		N:6
+Cooper         		Mean: 466.12 		Best: 928.14 		N:2
+Paxton         		Mean: 184.17 		Best: 928.14 		N:5
+Parsley        		Mean: 92.45 		Best: 928.08 		N:10
+Bond           		Mean: 305.04 		Best: 925.37 		N:3
+Mccauley       		Mean: 228.95 		Best: 925.04 		N:4
+Hyman          		Mean: 152.83 		Best: 920.48 		N:6
+Toney          		Mean: 183.08 		Best: 916.96 		N:5
+Carlson        		Mean: 130.0 		Best: 902.41 		N:7
+
+########## REPORT GEN: 28 ##########
+SPECIES: 
+Necaise        		Mean: 158.52 		Best: 967.91 		N:6
+Merritt        		Mean: 235.39 		Best: 967.91 		N:4
+Olson          		Mean: 188.25 		Best: 967.91 		N:5
+Batey          		Mean: 154.02 		Best: 967.91 		N:6
+Paxton         		Mean: 77.2 		Best: 967.91 		N:12
+Mccauley       		Mean: 187.6 		Best: 967.91 		N:5
+Carlson        		Mean: 232.62 		Best: 960.38 		N:4
+Cantwell       		Mean: 186.86 		Best: 960.38 		N:5
+Kamphoefner    		Mean: 131.77 		Best: 957.45 		N:7
+Hammond        		Mean: 313.58 		Best: 957.45 		N:3
+Otterson       		Mean: 155.25 		Best: 944.26 		N:6
+Toney          		Mean: 313.83 		Best: 944.26 		N:3
+Bond           		Mean: 182.04 		Best: 929.12 		N:5
+Harris         		Mean: 182.96 		Best: 928.14 		N:5
+Hyman          		Mean: 310.26 		Best: 928.14 		N:3
+Parsley        		Mean: 184.16 		Best: 925.37 		N:5
+Earley         		Mean: 152.65 		Best: 920.48 		N:6
+Cooper         		Mean: 183.1 		Best: 916.57 		N:5
+Avila          		Mean: 302.49 		Best: 902.41 		N:3
+Fleming        		Mean: 447.93 		Best: 895.85 		N:2
+
+########## REPORT GEN: 29 ##########
+SPECIES: 
+Merritt        		Mean: 155.46 		Best: 967.91 		N:6
+Olson          		Mean: 186.06 		Best: 967.91 		N:5
+Batey          		Mean: 154.44 		Best: 967.91 		N:6
+Carlson        		Mean: 154.42 		Best: 967.91 		N:6
+Hammond        		Mean: 234.01 		Best: 967.91 		N:4
+Cooper         		Mean: 155.46 		Best: 967.91 		N:6
+Hyman          		Mean: 467.62 		Best: 960.38 		N:2
+Parsley        		Mean: 133.27 		Best: 960.38 		N:7
+Otterson       		Mean: 115.96 		Best: 957.45 		N:8
+Fleming        		Mean: 154.56 		Best: 957.45 		N:6
+Earley         		Mean: 232.22 		Best: 944.26 		N:4
+Cantwell       		Mean: 155.0 		Best: 932.39 		N:6
+Mccauley       		Mean: 131.02 		Best: 928.14 		N:7
+Toney          		Mean: 130.61 		Best: 928.14 		N:7
+Bond           		Mean: 229.01 		Best: 928.14 		N:4
+Necaise        		Mean: 153.14 		Best: 927.76 		N:6
+Avila          		Mean: 455.32 		Best: 922.7 		N:2
+Harris         		Mean: 228.33 		Best: 914.7 		N:4
+Paxton         		Mean: 302.1 		Best: 902.29 		N:3
+
+########## REPORT GEN: 30 ##########
+SPECIES: 
+Olson          		Mean: 184.81 		Best: 967.91 		N:5
+Cooper         		Mean: 154.32 		Best: 967.91 		N:6
+Hyman          		Mean: 157.29 		Best: 967.91 		N:6
+Parsley        		Mean: 184.63 		Best: 967.91 		N:5
+Bond           		Mean: 188.83 		Best: 967.91 		N:5
+Harris         		Mean: 233.96 		Best: 967.91 		N:4
+Otterson       		Mean: 313.52 		Best: 960.38 		N:3
+Necaise        		Mean: 152.78 		Best: 960.38 		N:6
+Kamphoefner    		Mean: 134.24 		Best: 957.45 		N:7
+Mccauley       		Mean: 131.3 		Best: 944.26 		N:7
+Earley         		Mean: 184.92 		Best: 932.39 		N:5
+Cantwell       		Mean: 182.73 		Best: 929.12 		N:5
+Toney          		Mean: 229.86 		Best: 928.33 		N:4
+Hammond        		Mean: 183.05 		Best: 928.14 		N:5
+Batey          		Mean: 306.18 		Best: 925.37 		N:3
+Paxton         		Mean: 114.42 		Best: 925.37 		N:8
+Avila          		Mean: 301.89 		Best: 920.48 		N:3
+Carlson        		Mean: 152.31 		Best: 914.7 		N:6
+Fleming        		Mean: 225.06 		Best: 896.75 		N:4
+
+########## REPORT GEN: 31 ##########
+SPECIES: 
+Cooper         		Mean: 235.87 		Best: 967.91 		N:4
+Hyman          		Mean: 184.38 		Best: 967.91 		N:5
+Parsley        		Mean: 309.02 		Best: 967.91 		N:3
+Harris         		Mean: 115.8 		Best: 967.91 		N:8
+Paxton         		Mean: 232.14 		Best: 967.91 		N:4
+Avila          		Mean: 190.67 		Best: 967.91 		N:5
+Fleming        		Mean: 116.62 		Best: 967.91 		N:8
+Merritt        		Mean: 186.3 		Best: 960.38 		N:5
+Earley         		Mean: 308.21 		Best: 960.38 		N:3
+Otterson       		Mean: 77.7 		Best: 959.58 		N:12
+Olson          		Mean: 152.45 		Best: 957.45 		N:6
+Mccauley       		Mean: 115.67 		Best: 941.65 		N:8
+Bond           		Mean: 306.3 		Best: 928.14 		N:3
+Cantwell       		Mean: 184.27 		Best: 925.37 		N:5
+Batey          		Mean: 182.5 		Best: 925.37 		N:5
+Necaise        		Mean: 452.33 		Best: 902.04 		N:2
+Toney          		Mean: 181.4 		Best: 902.34 		N:5
+Carlson        		Mean: 452.77 		Best: 901.16 		N:2
+Hammond        		Mean: 447.42 		Best: 894.0 		N:2
+
+########## REPORT GEN: 32 ##########
+SPECIES: 
+Avila          		Mean: 135.3 		Best: 999.78 		N:7
+Parsley        		Mean: 103.67 		Best: 967.91 		N:9
+Fleming        		Mean: 234.78 		Best: 967.91 		N:4
+Otterson       		Mean: 93.55 		Best: 967.91 		N:10
+Mccauley       		Mean: 233.92 		Best: 967.91 		N:4
+Bond           		Mean: 469.22 		Best: 967.91 		N:2
+Cantwell       		Mean: 155.28 		Best: 967.91 		N:6
+Kamphoefner    		Mean: 115.72 		Best: 967.91 		N:8
+Hammond        		Mean: 132.09 		Best: 967.91 		N:7
+Olson          		Mean: 233.11 		Best: 960.38 		N:4
+Hyman          		Mean: 185.23 		Best: 941.65 		N:5
+Batey          		Mean: 308.22 		Best: 941.65 		N:3
+Necaise        		Mean: 306.96 		Best: 933.96 		N:3
+Cooper         		Mean: 113.65 		Best: 928.14 		N:8
+Earley         		Mean: 457.6 		Best: 928.14 		N:2
+Merritt        		Mean: 228.0 		Best: 911.19 		N:4
+Harris         		Mean: 227.08 		Best: 902.52 		N:4
+Carlson        		Mean: 452.33 		Best: 901.16 		N:2
+
