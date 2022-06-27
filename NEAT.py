@@ -1,20 +1,9 @@
 import numpy as np
 from numpy.random import rand
-
+import IndividualFactory
 import copy
 
-"""
-
-    This class contains the NEAT constants. For example, the distnace constants, the step for weight mutation, 
-    mutation rates, target species, etc.
-    
-    The class also contains some core funtions for the NEAT algorithm. Such as the crossover function, and all the
-    activation functions. It also hosts as a variable the current fitness function to be evaluated.
-"""
-
-
 class NEAT:
-    seed = -1
     adaptation = 0.3
     dropoff = 15
     blood_rate = 3
@@ -25,32 +14,23 @@ class NEAT:
     n_innovations = 0
     innovations = dict()
     max_len = 0
-    step = 1
-    def_step = step
-    species_pool_size = 12
+    step = 2.5
+    species_pool_size = 15
     reps = 1
     opt = "max"
 
-    game = "CartPole-v0"
-
-    distance_thld = 10.0
-    def_distance_thld = distance_thld
-    c1 = 2
-    c2 = 2
-    c3 = 1
+    distance_thld = 6.0
+    c1 = 1
+    c2 = 1
+    c3 = 0.3
 
     @staticmethod
-    def normalize01(data, min=None, max=None):
-        if min is not None:
+    def normalize(data, min=None, max=None):
+        if min != None:
             return (data - min) / (max - min)
         if data.max() - data.min() == 0:
             return np.ones_like(data)
         return (data - data.min()) / (data.max() - data.min())
-
-    # normalize data to [-1,1]
-    @staticmethod
-    def normalize_1_1(data, min=None, max=None):
-        return NEAT.normalize01(data, min=min, max=max) * 2 - 1
 
     @staticmethod
     def norm_variance(data, min, max):
@@ -119,7 +99,6 @@ class NEAT:
                 new_genome.append(copy.deepcopy(ind2.genome[gen]))
             else:
                 new_genome.append(copy.deepcopy(ind1.genome[gen]))
-        import IndividualFactory
         ind = IndividualFactory.IndividualFactory.buildIndividual(len(ind1.inp), len(ind1.out), new_genome)
         return ind
         pass
