@@ -1,298 +1,2398 @@
 ########## REPORT GEN: 2 ##########
 SPECIES: 
-Kelley         		Mean: 5.6  		Best: 11.5 		N:2
-Nelson         		Mean: 5.44 		Best: 11.5 		N:2
-Strong         		Mean: 5.27 		Best: 11.25 		N:2
-Feinberg       		Mean: 5.38 		Best: 11.25 		N:2
-Knackstedt     		Mean: 5.25 		Best: 10.75 		N:2
-Stewart        		Mean: 4.96 		Best: 10.75 		N:2
-Corey          		Mean: 5.15 		Best: 10.75 		N:2
-Ross           		Mean: 5.21 		Best: 10.75 		N:2
-Cormier        		Mean: 3.46 		Best: 10.5 		N:3
-Jolly          		Mean: 5.06 		Best: 10.5 		N:2
-Helton         		Mean: 5.2  		Best: 10.25 		N:2
-Wall           		Mean: 4.85 		Best: 9.75 		N:2
+Braden         		Mean: 112.86 		Best: 1281.45 		N:10
+Munnis         		Mean: 28.76 		Best: 1280.38 		N:32
+Morris         		Mean: 55.45 		Best: 1183.02 		N:17
+Stam           		Mean: 581.95 		Best: 1168.56 		N:2
+Delap          		Mean: 531.6 		Best: 1069.97 		N:2
+Peterson       		Mean: 56.67 		Best: 1067.18 		N:16
+Connell        		Mean: 92.35 		Best: 976.01 		N:9
+Hardy          		Mean: 468.71 		Best: 941.71 		N:2
+Stagliano      		Mean: 348.99 		Best: 702.85 		N:2
+Schmitz        		Mean: 299.75 		Best: 589.75 		N:2
+Bell           		Mean: 208.29 		Best: 416.18 		N:2
 
 ########## REPORT GEN: 3 ##########
 SPECIES: 
-Helton         		Mean: 5.4  		Best: 18.25 		N:3
-Harrower       		Mean: 5.61 		Best: 11.0 		N:2
-Stewart        		Mean: 5.14 		Best: 10.5 		N:2
+Lopez          		Mean: 441.57 		Best: 1281.89 		N:2
+Peterson       		Mean: 346.66 		Best: 1281.26 		N:3
+Stam           		Mean: 294.94 		Best: 1278.06 		N:4
+Munnis         		Mean: 175.48 		Best: 1196.98 		N:6
+Morris         		Mean: 88.9 		Best: 1159.06 		N:10
+Mccord         		Mean: 152.98 		Best: 1157.28 		N:6
+Braden         		Mean: 134.96 		Best: 1150.35 		N:7
+Conley         		Mean: 509.96 		Best: 1064.94 		N:2
+Delap          		Mean: 229.43 		Best: 1056.68 		N:4
+Libby          		Mean: 306.26 		Best: 1042.51 		N:3
+Hardy          		Mean: 234.69 		Best: 941.19 		N:4
+Stagliano      		Mean: 173.7 		Best: 701.04 		N:4
+Connell        		Mean: 348.13 		Best: 700.81 		N:2
+Schmitz        		Mean: 148.72 		Best: 591.43 		N:4
+Bell           		Mean: 104.66 		Best: 418.29 		N:4
 
 ########## REPORT GEN: 4 ##########
 SPECIES: 
-Nelson         		Mean: 6.57 		Best: 14.75 		N:2
-Ross           		Mean: 3.7  		Best: 11.0 		N:3
-Strong         		Mean: 5.12 		Best: 10.75 		N:2
-Kelley         		Mean: 3.53 		Best: 10.5 		N:3
-Knackstedt     		Mean: 3.51 		Best: 10.5 		N:3
-Harrower       		Mean: 5.18 		Best: 10.25 		N:2
-Corey          		Mean: 4.94 		Best: 10.0 		N:2
+Morris         		Mean: 199.33 		Best: 1281.37 		N:5
+Casey          		Mean: 129.4 		Best: 1273.77 		N:7
+Conley         		Mean: 579.36 		Best: 1268.16 		N:2
+Stam           		Mean: 168.43 		Best: 1238.97 		N:7
+Bell           		Mean: 179.4 		Best: 1199.28 		N:5
+Mccord         		Mean: 148.67 		Best: 1157.14 		N:6
+Delap          		Mean: 153.64 		Best: 1167.41 		N:6
+Lopez          		Mean: 567.96 		Best: 1154.26 		N:2
+Libby          		Mean: 89.49 		Best: 1067.89 		N:10
+Small          		Mean: 476.57 		Best: 953.66 		N:2
+Connell        		Mean: 199.84 		Best: 941.37 		N:4
+Hardy          		Mean: 311.76 		Best: 940.64 		N:3
+Munnis         		Mean: 149.48 		Best: 932.31 		N:5
+Peterson       		Mean: 273.27 		Best: 875.6 		N:3
+Stagliano      		Mean: 348.21 		Best: 700.27 		N:2
 
 ########## REPORT GEN: 5 ##########
 SPECIES: 
-Harrower       		Mean: 4.25 		Best: 17.0 		N:3
-Nelson         		Mean: 6.44 		Best: 13.78 		N:2
-Helton         		Mean: 5.34 		Best: 11.5 		N:2
-Knackstedt     		Mean: 5.5  		Best: 11.0 		N:2
-Corey          		Mean: 5.06 		Best: 10.75 		N:2
-Feinberg       		Mean: 3.51 		Best: 10.5 		N:3
-Strong         		Mean: 4.88 		Best: 10.0 		N:2
+Stam           		Mean: 410.84 		Best: 1282.83 		N:3
+Mccord         		Mean: 138.73 		Best: 1280.87 		N:7
+Morris         		Mean: 156.46 		Best: 1280.76 		N:6
+Munnis         		Mean: 384.81 		Best: 1279.46 		N:3
+Lopez          		Mean: 211.72 		Best: 1224.4 		N:5
+Connell        		Mean: 168.58 		Best: 1156.28 		N:6
+Bell           		Mean: 103.09 		Best: 1155.4 		N:8
+Stagliano      		Mean: 163.34 		Best: 1153.22 		N:5
+Casey          		Mean: 522.86 		Best: 1147.23 		N:2
+Delap          		Mean: 409.57 		Best: 1135.8 		N:2
+Libby          		Mean: 242.98 		Best: 984.07 		N:4
+Small          		Mean: 303.44 		Best: 953.9 		N:3
+Peterson       		Mean: 214.62 		Best: 948.95 		N:4
+Hardy          		Mean: 407.17 		Best: 876.54 		N:2
+Braden         		Mean: 330.15 		Best: 870.17 		N:2
+Schmitz        		Mean: 128.79 		Best: 767.16 		N:5
 
 ########## REPORT GEN: 6 ##########
 SPECIES: 
-Nelson         		Mean: 4.37 		Best: 16.25 		N:3
-Ross           		Mean: 6.32 		Best: 14.0 		N:2
-Harrower       		Mean: 3.74 		Best: 11.75 		N:3
-Stewart        		Mean: 3.62 		Best: 11.25 		N:3
-Helton         		Mean: 5.37 		Best: 11.0 		N:2
-Strong         		Mean: 5.13 		Best: 10.25 		N:2
-Corey          		Mean: 4.82 		Best: 10.0 		N:2
+Bell           		Mean: 550.01 		Best: 1281.16 		N:2
+Pioske         		Mean: 551.46 		Best: 1280.62 		N:2
+Munnis         		Mean: 122.66 		Best: 1279.25 		N:8
+Mccord         		Mean: 110.54 		Best: 1280.17 		N:9
+Braden         		Mean: 113.51 		Best: 1278.28 		N:9
+Stam           		Mean: 221.24 		Best: 1226.49 		N:5
+Gray           		Mean: 117.15 		Best: 1210.35 		N:6
+Hardy          		Mean: 95.8 		Best: 1154.94 		N:9
+Delap          		Mean: 410.79 		Best: 1153.54 		N:2
+Casey          		Mean: 531.91 		Best: 1052.18 		N:2
+Peterson       		Mean: 217.59 		Best: 953.5 		N:4
+Morris         		Mean: 110.29 		Best: 949.0 		N:7
+Small          		Mean: 122.37 		Best: 933.19 		N:7
+Lopez          		Mean: 137.53 		Best: 772.05 		N:4
 
 ########## REPORT GEN: 7 ##########
 SPECIES: 
-Nelson         		Mean: 7.14 		Best: 17.5 		N:2
-Helton         		Mean: 2.43 		Best: 16.5 		N:5
-Stewart        		Mean: 2.89 		Best: 15.25 		N:4
-Harrower       		Mean: 3.65 		Best: 11.25 		N:3
-Strong         		Mean: 3.45 		Best: 10.5 		N:3
-Corey          		Mean: 3.48 		Best: 10.25 		N:3
+Braden         		Mean: 138.8 		Best: 1279.92 		N:7
+Mccord         		Mean: 498.41 		Best: 1278.7 		N:2
+Pioske         		Mean: 186.43 		Best: 1278.56 		N:5
+Bell           		Mean: 224.47 		Best: 1277.91 		N:5
+Gray           		Mean: 127.2 		Best: 1277.77 		N:7
+Connell        		Mean: 142.22 		Best: 1211.78 		N:6
+Lopez          		Mean: 192.21 		Best: 1195.57 		N:5
+Small          		Mean: 246.69 		Best: 1160.23 		N:4
+Hardy          		Mean: 187.93 		Best: 1149.42 		N:5
+Delap          		Mean: 297.58 		Best: 1147.25 		N:3
+Libby          		Mean: 258.36 		Best: 1067.0 		N:3
+Casey          		Mean: 375.54 		Best: 1055.22 		N:2
+Peterson       		Mean: 173.16 		Best: 870.18 		N:4
+Munnis         		Mean: 225.86 		Best: 460.01 		N:2
 
 ########## REPORT GEN: 8 ##########
 SPECIES: 
-Nelson         		Mean: 3.5  		Best: 19.98 		N:4
-Stewart        		Mean: 2.66 		Best: 16.5 		N:5
-Helton         		Mean: 5.2  		Best: 10.75 		N:2
-Harrower       		Mean: 5.14 		Best: 10.5 		N:2
-Ross           		Mean: 3.5  		Best: 10.5 		N:3
-Strong         		Mean: 5.08 		Best: 10.25 		N:2
+Peterson       		Mean: 133.07 		Best: 1282.1 		N:7
+Hardy          		Mean: 529.29 		Best: 1279.41 		N:2
+Bell           		Mean: 130.38 		Best: 1278.99 		N:8
+Casey          		Mean: 156.24 		Best: 1276.85 		N:5
+Pioske         		Mean: 132.05 		Best: 1280.73 		N:8
+Munnis         		Mean: 135.77 		Best: 1213.17 		N:6
+Connell        		Mean: 242.55 		Best: 1154.17 		N:4
+Delap          		Mean: 97.07 		Best: 1151.62 		N:8
+Mccord         		Mean: 160.96 		Best: 1054.99 		N:5
+Lopez          		Mean: 166.03 		Best: 1053.03 		N:5
+Pemberton      		Mean: 189.8 		Best: 953.66 		N:4
+Small          		Mean: 77.74 		Best: 948.36 		N:10
+Braden         		Mean: 247.12 		Best: 943.43 		N:3
+Libby          		Mean: 189.34 		Best: 582.04 		N:3
 
 ########## REPORT GEN: 9 ##########
 SPECIES: 
-Harrower       		Mean: 7.18 		Best: 18.74 		N:2
-Helton         		Mean: 3.16 		Best: 17.75 		N:4
-Stewart        		Mean: 4.1  		Best: 16.75 		N:3
-Ross           		Mean: 5.5  		Best: 11.5 		N:2
-Jolly          		Mean: 2.65 		Best: 11.5 		N:4
-Corey          		Mean: 5.42 		Best: 10.75 		N:2
-Strong         		Mean: 5.46 		Best: 10.75 		N:2
+Pioske         		Mean: 124.52 		Best: 1273.97 		N:8
+Bell           		Mean: 117.79 		Best: 1241.43 		N:8
+Pemberton      		Mean: 114.93 		Best: 1166.57 		N:7
+Connell        		Mean: 221.94 		Best: 1158.48 		N:4
+Casey          		Mean: 319.35 		Best: 1155.22 		N:3
+Delap          		Mean: 401.01 		Best: 1121.49 		N:2
+Mccord         		Mean: 52.46 		Best: 1063.16 		N:13
+Wagner         		Mean: 288.92 		Best: 1055.57 		N:3
+Braden         		Mean: 92.58 		Best: 1051.75 		N:7
+Hassell        		Mean: 163.21 		Best: 953.77 		N:4
+Small          		Mean: 107.23 		Best: 948.47 		N:7
+Munnis         		Mean: 91.08 		Best: 771.64 		N:7
+Lopez          		Mean: 166.01 		Best: 766.93 		N:4
+Hardy          		Mean: 70.49 		Best: 767.17 		N:8
+Peterson       		Mean: 290.45 		Best: 693.98 		N:2
 
 ########## REPORT GEN: 10 ##########
 SPECIES: 
-Harrower       		Mean: 2.49 		Best: 20.0 		N:5
-Strong         		Mean: 3.4  		Best: 18.75 		N:4
-Ross           		Mean: 6.61 		Best: 16.75 		N:2
-Helton         		Mean: 2.62 		Best: 11.25 		N:4
-Stewart        		Mean: 5.22 		Best: 10.75 		N:2
-Jolly          		Mean: 1.98 		Best: 10.25 		N:5
-Corey          		Mean: 5.03 		Best: 10.0 		N:2
+Bell           		Mean: 134.37 		Best: 1278.51 		N:6
+Delatorre      		Mean: 84.4 		Best: 1260.17 		N:11
+Mccord         		Mean: 126.06 		Best: 1167.78 		N:7
+Small          		Mean: 295.43 		Best: 1165.14 		N:3
+Munnis         		Mean: 105.47 		Best: 1162.65 		N:7
+Hassell        		Mean: 267.81 		Best: 1157.99 		N:3
+Hardy          		Mean: 293.98 		Best: 1155.24 		N:3
+Braden         		Mean: 86.4 		Best: 1052.94 		N:8
+Moore          		Mean: 168.77 		Best: 1025.86 		N:5
+Wagner         		Mean: 400.53 		Best: 990.09 		N:2
+Marrero        		Mean: 197.63 		Best: 957.42 		N:4
+Pioske         		Mean: 371.93 		Best: 764.32 		N:2
+Delap          		Mean: 298.21 		Best: 717.1 		N:2
+Pemberton      		Mean: 303.14 		Best: 629.27 		N:2
+Peterson       		Mean: 213.02 		Best: 414.86 		N:2
 
 ########## REPORT GEN: 11 ##########
 SPECIES: 
-Stewart        		Mean: 2.64 		Best: 26.33 		N:6
-Strong         		Mean: 2.4  		Best: 15.57 		N:5
-Helton         		Mean: 2.11 		Best: 11.0 		N:5
-Jolly          		Mean: 5.29 		Best: 11.0 		N:2
-Harrower       		Mean: 5.19 		Best: 10.25 		N:2
+Marrero        		Mean: 129.56 		Best: 1282.17 		N:7
+Pioske         		Mean: 144.41 		Best: 1263.69 		N:5
+Delap          		Mean: 135.47 		Best: 1196.69 		N:7
+Delatorre      		Mean: 307.31 		Best: 1164.96 		N:3
+Hassell        		Mean: 108.86 		Best: 1156.78 		N:7
+Lopez          		Mean: 127.63 		Best: 1061.08 		N:5
+Moore          		Mean: 218.34 		Best: 1058.31 		N:4
+Munnis         		Mean: 199.13 		Best: 1053.02 		N:4
+Small          		Mean: 362.41 		Best: 1001.6 		N:2
+Mccord         		Mean: 325.27 		Best: 842.12 		N:2
+Connell        		Mean: 382.17 		Best: 764.79 		N:2
+Wagner         		Mean: 132.88 		Best: 763.14 		N:4
+Hardy          		Mean: 134.23 		Best: 762.03 		N:4
+Pemberton      		Mean: 107.01 		Best: 695.36 		N:6
+Reff           		Mean: 110.4 		Best: 692.01 		N:6
+Libby          		Mean: 206.01 		Best: 644.89 		N:3
+Braden         		Mean: 121.57 		Best: 567.72 		N:4
 
 ########## REPORT GEN: 12 ##########
 SPECIES: 
-Stewart        		Mean: 2.27 		Best: 14.25 		N:5
-Corey          		Mean: 3.6  		Best: 11.0 		N:3
-Helton         		Mean: 2.02 		Best: 10.75 		N:5
-Strong         		Mean: 3.55 		Best: 10.5 		N:3
+Delatorre      		Mean: 109.29 		Best: 1282.2 		N:8
+Marrero        		Mean: 82.19 		Best: 1281.88 		N:9
+Wagner         		Mean: 133.67 		Best: 1248.36 		N:5
+Pemberton      		Mean: 409.49 		Best: 1193.07 		N:2
+Reff           		Mean: 140.23 		Best: 1164.99 		N:6
+Connell        		Mean: 476.06 		Best: 1155.68 		N:2
+Lopez          		Mean: 40.91 		Best: 1154.17 		N:13
+Small          		Mean: 98.09 		Best: 1153.67 		N:8
+Munnis         		Mean: 178.8 		Best: 1066.82 		N:4
+Moore          		Mean: 94.18 		Best: 1046.74 		N:9
+Hassell        		Mean: 104.33 		Best: 956.7 		N:6
+Libby          		Mean: 77.88 		Best: 841.02 		N:8
+Hardy          		Mean: 374.42 		Best: 764.08 		N:2
+Pioske         		Mean: 133.05 		Best: 695.3 		N:5
+Meeks          		Mean: 347.44 		Best: 693.97 		N:2
+Delap          		Mean: 210.05 		Best: 691.34 		N:3
 
 ########## REPORT GEN: 13 ##########
 SPECIES: 
-Harrower       		Mean: 3.27 		Best: 38.16 		N:5
-Strong         		Mean: 11.43 		Best: 31.22 		N:2
-Helton         		Mean: 3.65 		Best: 11.0 		N:3
+Mccord         		Mean: 595.7 		Best: 1280.02 		N:2
+Small          		Mean: 282.8 		Best: 1280.02 		N:3
+Libby          		Mean: 191.95 		Best: 1278.69 		N:4
+Moore          		Mean: 217.34 		Best: 1277.51 		N:5
+Delatorre      		Mean: 168.48 		Best: 1275.31 		N:5
+Lopez          		Mean: 60.81 		Best: 1275.21 		N:12
+Munnis         		Mean: 164.16 		Best: 1238.99 		N:5
+Hassell        		Mean: 154.96 		Best: 1198.71 		N:5
+Pemberton      		Mean: 112.69 		Best: 1154.58 		N:6
+Connell        		Mean: 88.28 		Best: 840.89 		N:7
+Braden         		Mean: 375.07 		Best: 765.71 		N:2
+Meeks          		Mean: 331.25 		Best: 694.25 		N:2
+Delap          		Mean: 172.42 		Best: 694.12 		N:4
+Reff           		Mean: 222.43 		Best: 693.69 		N:3
+Wagner         		Mean: 62.19 		Best: 690.94 		N:10
 
 ########## REPORT GEN: 14 ##########
 SPECIES: 
-Strong         		Mean: 6.68 		Best: 38.29 		N:3
-Helton         		Mean: 11.19 		Best: 32.91 		N:2
-Stewart        		Mean: 5.05 		Best: 17.75 		N:3
-Ross           		Mean: 4.15 		Best: 15.0 		N:3
-Harrower       		Mean: 5.33 		Best: 10.5 		N:2
+Moore          		Mean: 172.24 		Best: 1282.7 		N:5
+Delatorre      		Mean: 256.9 		Best: 1263.95 		N:4
+Kirkwood       		Mean: 111.05 		Best: 1167.67 		N:9
+Pemberton      		Mean: 406.04 		Best: 1162.27 		N:2
+Libby          		Mean: 95.99 		Best: 1158.86 		N:8
+Connell        		Mean: 155.68 		Best: 1157.12 		N:4
+Munnis         		Mean: 42.7 		Best: 1156.76 		N:16
+Mccord         		Mean: 67.73 		Best: 1067.38 		N:9
+Lopez          		Mean: 164.23 		Best: 926.22 		N:4
+Braden         		Mean: 151.87 		Best: 819.96 		N:5
+Small          		Mean: 303.21 		Best: 757.5 		N:2
+Meeks          		Mean: 227.28 		Best: 697.52 		N:3
+Reff           		Mean: 74.85 		Best: 694.12 		N:9
+Delap          		Mean: 105.87 		Best: 696.85 		N:6
+Wagner         		Mean: 169.74 		Best: 694.22 		N:4
+Hassell        		Mean: 305.69 		Best: 631.36 		N:2
 
 ########## REPORT GEN: 15 ##########
 SPECIES: 
-Harrower       		Mean: 13.69 		Best: 44.65 		N:2
-Stewart        		Mean: 6.07 		Best: 32.8 		N:3
-Helton         		Mean: 3.81 		Best: 31.62 		N:5
-Corey          		Mean: 2.65 		Best: 28.33 		N:6
-Strong         		Mean: 5.37 		Best: 18.75 		N:3
+Pemberton      		Mean: 51.3 		Best: 1285.1 		N:15
+Connell        		Mean: 96.26 		Best: 1280.54 		N:7
+Munnis         		Mean: 215.12 		Best: 1278.46 		N:4
+Mccord         		Mean: 146.71 		Best: 1254.23 		N:5
+Meeks          		Mean: 42.25 		Best: 1110.39 		N:16
+Kirkwood       		Mean: 172.09 		Best: 1101.89 		N:5
+Small          		Mean: 179.32 		Best: 853.99 		N:4
+Delatorre      		Mean: 103.83 		Best: 839.52 		N:7
+Delap          		Mean: 176.69 		Best: 697.65 		N:4
+Wagner         		Mean: 107.11 		Best: 693.79 		N:6
+Braden         		Mean: 100.97 		Best: 691.24 		N:7
+Reff           		Mean: 159.86 		Best: 648.79 		N:4
+Hassell        		Mean: 147.01 		Best: 608.12 		N:4
+Moore          		Mean: 47.76 		Best: 414.66 		N:9
 
 ########## REPORT GEN: 16 ##########
 SPECIES: 
-Harrower       		Mean: 6.51 		Best: 51.75 		N:4
-Stewart        		Mean: 4.05 		Best: 33.3 		N:4
-Ross           		Mean: 4.4  		Best: 30.14 		N:4
-Corey          		Mean: 7.22 		Best: 17.75 		N:2
-Helton         		Mean: 4.43 		Best: 17.5 		N:3
-Strong         		Mean: 5.06 		Best: 10.25 		N:2
+Pemberton      		Mean: 140.54 		Best: 1279.82 		N:7
+Meeks          		Mean: 263.98 		Best: 1234.61 		N:4
+Kirkwood       		Mean: 121.96 		Best: 1162.02 		N:8
+Schulte        		Mean: 399.69 		Best: 1161.24 		N:2
+Small          		Mean: 133.84 		Best: 871.95 		N:6
+Braden         		Mean: 117.57 		Best: 827.18 		N:6
+Delatorre      		Mean: 234.68 		Best: 708.69 		N:3
+Delap          		Mean: 85.82 		Best: 698.11 		N:8
+Wagner         		Mean: 104.35 		Best: 693.72 		N:6
+Reff           		Mean: 102.08 		Best: 631.63 		N:6
+Hassell        		Mean: 85.43 		Best: 631.47 		N:7
+Mccord         		Mean: 291.33 		Best: 582.71 		N:2
+Libby          		Mean: 116.79 		Best: 583.36 		N:5
+Connell        		Mean: 60.26 		Best: 416.31 		N:7
+Moore          		Mean: 60.01 		Best: 414.98 		N:7
+Munnis         		Mean: 46.88 		Best: 416.16 		N:9
 
 ########## REPORT GEN: 17 ##########
 SPECIES: 
-Helton         		Mean: 6.99 		Best: 36.21 		N:3
-Corey          		Mean: 1.28 		Best: 32.21 		N:12
-Ross           		Mean: 1.65 		Best: 17.75 		N:7
-Stewart        		Mean: 5.93 		Best: 12.25 		N:2
+Meeks          		Mean: 134.6 		Best: 1285.72 		N:6
+Munnis         		Mean: 323.93 		Best: 1275.16 		N:3
+Schulte        		Mean: 212.11 		Best: 1259.52 		N:4
+Libby          		Mean: 135.44 		Best: 1217.43 		N:6
+Mccord         		Mean: 266.63 		Best: 1157.44 		N:3
+Pemberton      		Mean: 71.63 		Best: 1156.06 		N:9
+Thomas         		Mean: 226.69 		Best: 1154.53 		N:3
+Kirkwood       		Mean: 188.3 		Best: 1059.8 		N:5
+Small          		Mean: 160.82 		Best: 984.88 		N:5
+Hassell        		Mean: 220.03 		Best: 837.44 		N:3
+Braden         		Mean: 107.59 		Best: 827.27 		N:6
+Delatorre      		Mean: 131.63 		Best: 699.49 		N:5
+Delap          		Mean: 171.18 		Best: 697.52 		N:4
+Wagner         		Mean: 164.28 		Best: 693.63 		N:4
+Reff           		Mean: 208.12 		Best: 631.41 		N:3
+Hamilton       		Mean: 208.46 		Best: 631.35 		N:3
+Moore          		Mean: 140.2 		Best: 416.34 		N:3
+Connell        		Mean: 140.43 		Best: 414.54 		N:3
 
 ########## REPORT GEN: 18 ##########
 SPECIES: 
-Corey          		Mean: 5.2  		Best: 35.04 		N:4
-Strong         		Mean: 3.55 		Best: 31.29 		N:5
-Stewart        		Mean: 3.41 		Best: 29.31 		N:5
-Ross           		Mean: 9.74 		Best: 28.09 		N:2
-Helton         		Mean: 5.49 		Best: 11.0 		N:2
+Libby          		Mean: 129.25 		Best: 1380.41 		N:6
+Pemberton      		Mean: 137.8 		Best: 1282.09 		N:5
+Wagner         		Mean: 142.99 		Best: 1280.29 		N:6
+Munnis         		Mean: 29.71 		Best: 1280.01 		N:19
+Connell        		Mean: 47.42 		Best: 1272.0 		N:13
+Schulte        		Mean: 205.76 		Best: 1266.55 		N:4
+Kirkwood       		Mean: 114.5 		Best: 1055.72 		N:8
+Small          		Mean: 161.61 		Best: 899.14 		N:5
+Delatorre      		Mean: 98.94 		Best: 838.36 		N:6
+Meeks          		Mean: 218.64 		Best: 764.95 		N:3
+Reff           		Mean: 93.59 		Best: 760.84 		N:7
+Braden         		Mean: 205.1 		Best: 706.88 		N:3
+Hamilton       		Mean: 79.5 		Best: 697.87 		N:8
+Delap          		Mean: 170.0 		Best: 695.2 		N:4
+Kingsley       		Mean: 320.06 		Best: 639.44 		N:2
+Hassell        		Mean: 269.09 		Best: 635.39 		N:2
+Mccord         		Mean: 116.63 		Best: 584.78 		N:5
+Thomas         		Mean: 148.8 		Best: 582.18 		N:4
+Moore          		Mean: 139.22 		Best: 413.76 		N:3
 
 ########## REPORT GEN: 19 ##########
 SPECIES: 
-Ross           		Mean: 3.05 		Best: 37.15 		N:6
-Helton         		Mean: 3.14 		Best: 36.98 		N:5
-Strong         		Mean: 7.63 		Best: 29.35 		N:3
-Stewart        		Mean: 9.84 		Best: 28.5 		N:2
-Corey          		Mean: 3.97 		Best: 13.91 		N:3
+Hassell        		Mean: 136.82 		Best: 1283.07 		N:6
+Thomas         		Mean: 336.58 		Best: 1280.43 		N:3
+Braden         		Mean: 157.32 		Best: 1204.47 		N:5
+Libby          		Mean: 103.86 		Best: 1195.83 		N:6
+Meeks          		Mean: 43.44 		Best: 1186.09 		N:15
+Moore          		Mean: 157.11 		Best: 1165.16 		N:5
+Mccord         		Mean: 65.89 		Best: 1159.79 		N:9
+Kirkwood       		Mean: 151.6 		Best: 1143.46 		N:6
+Connell        		Mean: 47.08 		Best: 974.74 		N:11
+Small          		Mean: 85.02 		Best: 869.62 		N:7
+Pemberton      		Mean: 72.15 		Best: 862.87 		N:9
+Hamilton       		Mean: 108.51 		Best: 764.97 		N:6
+Reff           		Mean: 135.04 		Best: 763.09 		N:5
+Schulte        		Mean: 55.28 		Best: 754.18 		N:10
+Kingsley       		Mean: 110.88 		Best: 694.55 		N:6
+Delap          		Mean: 163.01 		Best: 681.0 		N:4
+Munnis         		Mean: 145.9 		Best: 587.02 		N:4
 
 ########## REPORT GEN: 20 ##########
 SPECIES: 
-Ross           		Mean: 17.52 		Best: 37.81 		N:2
-Corey          		Mean: 3.39 		Best: 33.65 		N:6
-Helton         		Mean: 2.48 		Best: 33.4 		N:8
-Strong         		Mean: 3.88 		Best: 31.36 		N:5
-Stewart        		Mean: 10.44 		Best: 30.38 		N:2
+Hassell        		Mean: 240.81 		Best: 1273.13 		N:4
+Braden         		Mean: 60.96 		Best: 1262.5 		N:10
+Connell        		Mean: 50.7 		Best: 1253.44 		N:14
+Mccord         		Mean: 231.38 		Best: 1184.9 		N:3
+Thomas         		Mean: 75.9 		Best: 1175.67 		N:8
+Moore          		Mean: 90.88 		Best: 1156.88 		N:8
+Libby          		Mean: 70.42 		Best: 1155.09 		N:9
+Kirkwood       		Mean: 106.73 		Best: 1051.35 		N:8
+Pemberton      		Mean: 92.39 		Best: 895.58 		N:6
+Meeks          		Mean: 51.64 		Best: 765.36 		N:10
+Reff           		Mean: 105.29 		Best: 755.89 		N:6
+Schulte        		Mean: 109.55 		Best: 697.65 		N:5
+Delap          		Mean: 215.18 		Best: 667.94 		N:3
+Hamilton       		Mean: 301.17 		Best: 631.72 		N:2
+Kingsley       		Mean: 316.11 		Best: 630.01 		N:2
+Wagner         		Mean: 153.55 		Best: 630.47 		N:4
+Munnis         		Mean: 79.18 		Best: 589.56 		N:7
 
 ########## REPORT GEN: 21 ##########
 SPECIES: 
-Corey          		Mean: 6.03 		Best: 41.75 		N:5
-Strong         		Mean: 4.0  		Best: 36.75 		N:5
-Helton         		Mean: 3.73 		Best: 26.44 		N:5
-Stewart        		Mean: 6.58 		Best: 16.0 		N:2
+Mccord         		Mean: 81.65 		Best: 1280.53 		N:8
+Meeks          		Mean: 134.74 		Best: 1234.68 		N:5
+Hassell        		Mean: 334.23 		Best: 1217.96 		N:3
+Hamilton       		Mean: 87.98 		Best: 1169.41 		N:8
+Reff           		Mean: 115.36 		Best: 1164.68 		N:6
+Libby          		Mean: 99.8 		Best: 1163.14 		N:8
+Munnis         		Mean: 130.11 		Best: 1157.6 		N:7
+Kirkwood       		Mean: 148.77 		Best: 1053.86 		N:6
+Moore          		Mean: 174.78 		Best: 766.42 		N:4
+Schulte        		Mean: 170.07 		Best: 715.11 		N:4
+Kingsley       		Mean: 80.91 		Best: 687.37 		N:8
+Delap          		Mean: 126.25 		Best: 635.13 		N:5
+Pemberton      		Mean: 94.27 		Best: 630.51 		N:5
+Wagner         		Mean: 121.65 		Best: 630.49 		N:5
+Connell        		Mean: 64.41 		Best: 588.59 		N:8
+Bostick        		Mean: 292.96 		Best: 586.01 		N:2
+Thomas         		Mean: 207.69 		Best: 416.05 		N:2
 
 ########## REPORT GEN: 22 ##########
 SPECIES: 
-Ross           		Mean: 3.26 		Best: 41.19 		N:6
-Corey          		Mean: 2.57 		Best: 37.7 		N:7
-Stewart        		Mean: 8.22 		Best: 21.58 		N:2
-Helton         		Mean: 5.32 		Best: 11.0 		N:2
+Mccord         		Mean: 77.85 		Best: 1282.48 		N:10
+Schulte        		Mean: 90.14 		Best: 1281.61 		N:8
+Reff           		Mean: 118.07 		Best: 1161.58 		N:6
+Thomas         		Mean: 264.86 		Best: 1157.37 		N:3
+Pemberton      		Mean: 401.24 		Best: 1155.75 		N:2
+Bostick        		Mean: 397.67 		Best: 1155.64 		N:2
+Meeks          		Mean: 213.95 		Best: 1156.92 		N:4
+Hassell        		Mean: 173.98 		Best: 1056.96 		N:4
+Kirkwood       		Mean: 145.89 		Best: 1056.9 		N:6
+Grenier        		Mean: 371.55 		Best: 860.96 		N:2
+Moore          		Mean: 70.48 		Best: 755.64 		N:9
+Kingsley       		Mean: 111.14 		Best: 701.36 		N:6
+Delap          		Mean: 135.71 		Best: 694.55 		N:5
+Hamilton       		Mean: 152.42 		Best: 636.4 		N:4
+Wagner         		Mean: 208.44 		Best: 631.68 		N:3
+Connell        		Mean: 84.8 		Best: 584.35 		N:6
+Libby          		Mean: 161.13 		Best: 570.82 		N:3
+Munnis         		Mean: 106.55 		Best: 416.34 		N:4
 
 ########## REPORT GEN: 23 ##########
 SPECIES: 
-Corey          		Mean: 2.72 		Best: 45.75 		N:6
-Ross           		Mean: 6.29 		Best: 26.77 		N:3
-Helton         		Mean: 1.26 		Best: 11.25 		N:8
+Munnis         		Mean: 170.05 		Best: 1391.1 		N:5
+Libby          		Mean: 116.25 		Best: 1281.35 		N:8
+Hassell        		Mean: 137.24 		Best: 1280.44 		N:6
+Mccord         		Mean: 103.84 		Best: 1278.86 		N:6
+Connell        		Mean: 210.71 		Best: 1210.2 		N:4
+Kirkwood       		Mean: 144.51 		Best: 1054.95 		N:6
+Grenier        		Mean: 181.21 		Best: 863.23 		N:4
+Pemberton      		Mean: 63.2 		Best: 766.32 		N:9
+Reff           		Mean: 78.09 		Best: 762.37 		N:8
+Kingsley       		Mean: 128.75 		Best: 698.18 		N:5
+Delap          		Mean: 221.48 		Best: 693.78 		N:3
+Schulte        		Mean: 106.91 		Best: 687.43 		N:6
+Wagner         		Mean: 121.97 		Best: 631.62 		N:5
+Meeks          		Mean: 86.82 		Best: 589.69 		N:6
+Thomas         		Mean: 127.86 		Best: 587.44 		N:4
+Bostick        		Mean: 128.87 		Best: 586.81 		N:4
+Hamilton       		Mean: 193.52 		Best: 584.72 		N:3
+Moore          		Mean: 287.15 		Best: 570.85 		N:2
 
 ########## REPORT GEN: 24 ##########
 SPECIES: 
-Helton         		Mean: 7.43 		Best: 40.29 		N:4
-Stewart        		Mean: 1.99 		Best: 37.72 		N:9
+Kingsley       		Mean: 145.14 		Best: 1282.5 		N:6
+Schulte        		Mean: 103.48 		Best: 1279.73 		N:7
+Libby          		Mean: 53.03 		Best: 1279.31 		N:14
+Hassell        		Mean: 47.23 		Best: 1277.31 		N:12
+Connell        		Mean: 225.3 		Best: 1232.56 		N:4
+Reff           		Mean: 88.26 		Best: 1154.98 		N:8
+Kirkwood       		Mean: 108.05 		Best: 1055.62 		N:8
+Grenier        		Mean: 83.79 		Best: 861.31 		N:8
+Meeks          		Mean: 298.8 		Best: 766.39 		N:2
+Delap          		Mean: 165.45 		Best: 693.85 		N:4
+Moore          		Mean: 207.05 		Best: 631.56 		N:3
+Wagner         		Mean: 155.96 		Best: 631.55 		N:4
+Pemberton      		Mean: 78.16 		Best: 631.33 		N:6
+Hamilton       		Mean: 156.25 		Best: 631.18 		N:4
+Munnis         		Mean: 42.82 		Best: 630.29 		N:11
+Mccord         		Mean: 47.13 		Best: 587.03 		N:10
+Bostick        		Mean: 255.66 		Best: 584.52 		N:2
 
 ########## REPORT GEN: 25 ##########
 SPECIES: 
-Stewart        		Mean: 6.73 		Best: 43.41 		N:4
-Corey          		Mean: 3.22 		Best: 35.42 		N:7
-Helton         		Mean: 6.51 		Best: 16.25 		N:2
+Thomas         		Mean: 103.84 		Best: 1280.05 		N:6
+Reff           		Mean: 146.73 		Best: 1276.26 		N:5
+Kingsley       		Mean: 147.32 		Best: 1263.1 		N:5
+Hassell        		Mean: 123.04 		Best: 1258.81 		N:6
+Schulte        		Mean: 98.85 		Best: 1256.11 		N:8
+Pemberton      		Mean: 230.63 		Best: 1207.63 		N:3
+Munnis         		Mean: 106.05 		Best: 1198.1 		N:7
+Hamilton       		Mean: 152.73 		Best: 1154.24 		N:5
+Libby          		Mean: 85.69 		Best: 1154.19 		N:8
+Kirkwood       		Mean: 221.45 		Best: 1056.98 		N:4
+Meeks          		Mean: 250.43 		Best: 1048.09 		N:3
+Wagner         		Mean: 175.45 		Best: 765.47 		N:4
+Mccord         		Mean: 59.7 		Best: 765.02 		N:8
+Delap          		Mean: 122.47 		Best: 697.67 		N:5
+Moore          		Mean: 301.37 		Best: 630.13 		N:2
+Grenier        		Mean: 190.39 		Best: 585.01 		N:3
+Connell        		Mean: 75.38 		Best: 584.47 		N:7
+Bostick        		Mean: 138.25 		Best: 414.83 		N:3
 
 ########## REPORT GEN: 26 ##########
 SPECIES: 
-Helton         		Mean: 1.97 		Best: 34.88 		N:8
-Corey          		Mean: 2.77 		Best: 33.63 		N:8
-Stewart        		Mean: 6.51 		Best: 28.29 		N:3
+Pemberton      		Mean: 116.87 		Best: 1276.64 		N:6
+Kingsley       		Mean: 96.81 		Best: 1222.14 		N:7
+Thomas         		Mean: 93.3 		Best: 1214.68 		N:9
+Bostick        		Mean: 125.61 		Best: 1174.27 		N:6
+Mccord         		Mean: 99.15 		Best: 1162.0 		N:7
+Connell        		Mean: 144.19 		Best: 1159.28 		N:5
+Hamilton       		Mean: 178.67 		Best: 1155.34 		N:4
+Munnis         		Mean: 76.91 		Best: 1146.64 		N:9
+Kirkwood       		Mean: 106.59 		Best: 1055.35 		N:8
+Libby          		Mean: 90.42 		Best: 765.49 		N:6
+Hassell        		Mean: 66.84 		Best: 765.46 		N:9
+Reff           		Mean: 199.4 		Best: 631.61 		N:3
+Moore          		Mean: 122.17 		Best: 630.93 		N:5
+Wagner         		Mean: 302.88 		Best: 628.61 		N:2
+Schulte        		Mean: 121.06 		Best: 627.84 		N:4
+Meeks          		Mean: 46.32 		Best: 589.1 		N:10
+Grenier        		Mean: 97.89 		Best: 588.03 		N:6
+Delap          		Mean: 285.49 		Best: 571.07 		N:2
 
 ########## REPORT GEN: 27 ##########
 SPECIES: 
-Helton         		Mean: 3.12 		Best: 32.56 		N:6
-Corey          		Mean: 2.69 		Best: 26.44 		N:7
-Stewart        		Mean: 2.2  		Best: 13.25 		N:5
+Hamilton       		Mean: 42.35 		Best: 1281.31 		N:14
+Kingsley       		Mean: 149.62 		Best: 1279.99 		N:5
+Mccord         		Mean: 150.26 		Best: 1278.1 		N:5
+Schulte        		Mean: 253.5 		Best: 1222.45 		N:3
+Moore          		Mean: 76.33 		Best: 1197.34 		N:9
+Bostick        		Mean: 59.72 		Best: 1155.9 		N:10
+Meeks          		Mean: 97.0 		Best: 1154.9 		N:7
+Munnis         		Mean: 398.97 		Best: 1154.24 		N:2
+Kirkwood       		Mean: 139.8 		Best: 1053.67 		N:6
+Hassell        		Mean: 139.82 		Best: 765.48 		N:4
+Pemberton      		Mean: 40.41 		Best: 765.04 		N:14
+Reff           		Mean: 88.64 		Best: 631.73 		N:7
+Connell        		Mean: 49.27 		Best: 631.61 		N:11
+Thomas         		Mean: 204.79 		Best: 628.71 		N:3
+Grenier        		Mean: 296.15 		Best: 587.5 		N:2
+Libby          		Mean: 257.88 		Best: 585.56 		N:2
+Wagner         		Mean: 192.89 		Best: 570.07 		N:3
 
 ########## REPORT GEN: 28 ##########
 SPECIES: 
-Stewart        		Mean: 1.43 		Best: 34.64 		N:11
-Helton         		Mean: 1.6  		Best: 31.04 		N:9
-Corey          		Mean: 1.83 		Best: 30.67 		N:9
+Pemberton      		Mean: 90.7 		Best: 1282.08 		N:7
+Hamilton       		Mean: 96.2 		Best: 1279.94 		N:6
+Wagner         		Mean: 275.47 		Best: 1249.52 		N:3
+Munnis         		Mean: 92.11 		Best: 1162.37 		N:6
+Reff           		Mean: 99.42 		Best: 1157.52 		N:8
+Mccord         		Mean: 60.92 		Best: 1156.69 		N:11
+Thomas         		Mean: 273.92 		Best: 1149.63 		N:3
+Hassell        		Mean: 62.37 		Best: 1137.13 		N:9
+Kirkwood       		Mean: 127.68 		Best: 1053.79 		N:7
+Moore          		Mean: 103.72 		Best: 631.62 		N:6
+Kingsley       		Mean: 67.32 		Best: 631.55 		N:8
+Connell        		Mean: 149.19 		Best: 631.14 		N:4
+Bostick        		Mean: 70.4 		Best: 627.95 		N:7
+Grenier        		Mean: 84.93 		Best: 590.38 		N:7
+Libby          		Mean: 294.26 		Best: 587.23 		N:2
+Meeks          		Mean: 106.16 		Best: 416.11 		N:4
 
 ########## REPORT GEN: 29 ##########
 SPECIES: 
-Helton         		Mean: 1.71 		Best: 39.75 		N:11
-Stewart        		Mean: 6.54 		Best: 36.1 		N:3
-Corey          		Mean: 0.96 		Best: 24.93 		N:14
+Bostick        		Mean: 77.89 		Best: 1282.22 		N:9
+Meeks          		Mean: 163.73 		Best: 1280.87 		N:4
+Pemberton      		Mean: 123.13 		Best: 1277.55 		N:7
+Hassell        		Mean: 240.48 		Best: 1271.21 		N:3
+Connell        		Mean: 116.7 		Best: 1163.75 		N:6
+Munnis         		Mean: 116.87 		Best: 1156.84 		N:5
+Libby          		Mean: 265.49 		Best: 1144.77 		N:3
+Kirkwood       		Mean: 116.09 		Best: 1069.42 		N:7
+Hamilton       		Mean: 88.98 		Best: 1069.34 		N:6
+Grenier        		Mean: 169.0 		Best: 889.34 		N:4
+Schulte        		Mean: 206.53 		Best: 635.79 		N:3
+Moore          		Mean: 124.61 		Best: 631.31 		N:5
+Wagner         		Mean: 87.31 		Best: 631.54 		N:7
+Reff           		Mean: 150.88 		Best: 629.04 		N:4
+Thomas         		Mean: 188.1 		Best: 571.14 		N:3
+Mccord         		Mean: 190.72 		Best: 570.92 		N:3
+Kingsley       		Mean: 85.15 		Best: 414.95 		N:5
 
 ########## REPORT GEN: 30 ##########
 SPECIES: 
-Corey          		Mean: 4.45 		Best: 38.6 		N:4
-Stewart        		Mean: 1.8  		Best: 37.9 		N:9
-Helton         		Mean: 2.0  		Best: 17.25 		N:6
+Connell        		Mean: 346.57 		Best: 1280.12 		N:3
+Pemberton      		Mean: 32.29 		Best: 1210.56 		N:18
+Hamilton       		Mean: 147.66 		Best: 1163.26 		N:5
+Kirkwood       		Mean: 150.32 		Best: 1161.87 		N:6
+Munnis         		Mean: 244.03 		Best: 1159.94 		N:4
+Bostick        		Mean: 145.84 		Best: 1156.74 		N:5
+Hassell        		Mean: 115.53 		Best: 1155.55 		N:5
+Grenier        		Mean: 79.35 		Best: 869.4 		N:8
+Mccord         		Mean: 125.07 		Best: 691.45 		N:5
+Wagner         		Mean: 102.72 		Best: 631.42 		N:6
+Reff           		Mean: 77.36 		Best: 630.77 		N:8
+Moore          		Mean: 61.93 		Best: 631.21 		N:10
+Schulte        		Mean: 116.88 		Best: 627.85 		N:5
+Libby          		Mean: 117.64 		Best: 586.28 		N:5
+Thomas         		Mean: 81.96 		Best: 572.76 		N:7
+Kingsley       		Mean: 86.72 		Best: 421.49 		N:5
 
 ########## REPORT GEN: 31 ##########
 SPECIES: 
-Corey          		Mean: 2.29 		Best: 38.54 		N:8
-Helton         		Mean: 1.71 		Best: 21.44 		N:7
-Stewart        		Mean: 1.76 		Best: 11.5 		N:6
+Pemberton      		Mean: 82.48 		Best: 1282.08 		N:10
+Libby          		Mean: 120.56 		Best: 1281.59 		N:6
+Connell        		Mean: 282.33 		Best: 1279.41 		N:3
+Bostick        		Mean: 54.61 		Best: 1278.59 		N:13
+Hamilton       		Mean: 123.2 		Best: 1191.9 		N:7
+Kingsley       		Mean: 117.49 		Best: 1178.79 		N:5
+Munnis         		Mean: 104.29 		Best: 1178.18 		N:8
+Kirkwood       		Mean: 84.45 		Best: 1076.08 		N:9
+Grenier        		Mean: 168.23 		Best: 860.17 		N:4
+Reff           		Mean: 152.53 		Best: 687.13 		N:4
+Wagner         		Mean: 149.41 		Best: 631.43 		N:4
+Moore          		Mean: 88.51 		Best: 630.64 		N:7
+Thomas         		Mean: 52.76 		Best: 630.05 		N:11
+Schulte        		Mean: 152.7 		Best: 629.27 		N:4
+Mccord         		Mean: 154.25 		Best: 628.28 		N:4
+Hassell        		Mean: 48.86 		Best: 431.26 		N:9
 
 ########## REPORT GEN: 32 ##########
 SPECIES: 
-Corey          		Mean: 0.97 		Best: 26.0 		N:13
-Helton         		Mean: 1.24 		Best: 18.56 		N:9
-Stewart        		Mean: 1.79 		Best: 11.75 		N:6
+Bostick        		Mean: 209.38 		Best: 1242.27 		N:5
+Munnis         		Mean: 112.9 		Best: 1200.11 		N:7
+Kingsley       		Mean: 92.62 		Best: 1159.51 		N:6
+Hassell        		Mean: 118.19 		Best: 1157.12 		N:5
+Hamilton       		Mean: 42.47 		Best: 1157.0 		N:14
+Kirkwood       		Mean: 135.56 		Best: 1154.83 		N:6
+Pemberton      		Mean: 76.18 		Best: 1157.47 		N:9
+Grenier        		Mean: 79.84 		Best: 858.25 		N:8
+Mccord         		Mean: 70.84 		Best: 789.26 		N:9
+Schulte        		Mean: 89.09 		Best: 632.24 		N:7
+Wagner         		Mean: 38.32 		Best: 631.69 		N:16
+Reff           		Mean: 99.32 		Best: 630.49 		N:6
+Thomas         		Mean: 120.36 		Best: 628.3 		N:5
+Libby          		Mean: 197.25 		Best: 592.02 		N:3
+Connell        		Mean: 65.63 		Best: 591.08 		N:9
 
 ########## REPORT GEN: 33 ##########
 SPECIES: 
-Corey          		Mean: 1.16 		Best: 32.52 		N:11
-Helton         		Mean: 1.57 		Best: 23.25 		N:8
-Stewart        		Mean: 1.19 		Best: 12.0 		N:9
+Kingsley       		Mean: 184.95 		Best: 1281.66 		N:5
+Bostick        		Mean: 92.6 		Best: 1276.62 		N:8
+Pemberton      		Mean: 159.97 		Best: 1273.18 		N:4
+Munnis         		Mean: 92.12 		Best: 1170.42 		N:8
+Hamilton       		Mean: 114.39 		Best: 1155.3 		N:5
+Kirkwood       		Mean: 65.5 		Best: 1152.18 		N:12
+Dixon          		Mean: 366.46 		Best: 868.54 		N:2
+Mccord         		Mean: 78.89 		Best: 779.55 		N:8
+Taylor         		Mean: 201.89 		Best: 631.46 		N:3
+Wagner         		Mean: 76.53 		Best: 631.47 		N:8
+Reff           		Mean: 103.9 		Best: 631.41 		N:6
+Thomas         		Mean: 58.91 		Best: 628.33 		N:10
+Libby          		Mean: 84.56 		Best: 592.47 		N:7
+Connell        		Mean: 117.28 		Best: 587.88 		N:5
+Grenier        		Mean: 120.76 		Best: 591.04 		N:5
+Schulte        		Mean: 96.57 		Best: 571.07 		N:6
+Hassell        		Mean: 49.79 		Best: 557.34 		N:9
+Wingfield      		Mean: 30.1 		Best: 416.17 		N:14
 
 ########## REPORT GEN: 34 ##########
 SPECIES: 
-Corey          		Mean: 1.01 		Best: 28.67 		N:12
-Stewart        		Mean: 2.12 		Best: 24.04 		N:6
-Helton         		Mean: 0.94 		Best: 11.25 		N:11
+Hamilton       		Mean: 95.5 		Best: 1281.14 		N:6
+Munnis         		Mean: 60.73 		Best: 1279.19 		N:10
+Bostick        		Mean: 59.66 		Best: 1278.02 		N:11
+Kingsley       		Mean: 79.48 		Best: 1265.67 		N:8
+Pemberton      		Mean: 75.55 		Best: 1164.35 		N:7
+Kirkwood       		Mean: 131.21 		Best: 1144.68 		N:6
+Dixon          		Mean: 264.37 		Best: 917.72 		N:3
+Schulte        		Mean: 77.31 		Best: 789.18 		N:8
+Reff           		Mean: 103.75 		Best: 631.43 		N:6
+Taylor         		Mean: 86.26 		Best: 631.5 		N:7
+Wagner         		Mean: 118.53 		Best: 630.65 		N:5
+Mccord         		Mean: 117.67 		Best: 627.99 		N:5
+Libby          		Mean: 196.3 		Best: 589.55 		N:3
+Connell        		Mean: 53.74 		Best: 591.23 		N:11
+Grenier        		Mean: 66.81 		Best: 588.33 		N:9
+Thomas         		Mean: 194.07 		Best: 571.16 		N:3
+Hassell        		Mean: 158.58 		Best: 560.39 		N:3
+Wingfield      		Mean: 141.84 		Best: 416.35 		N:3
+Rafter         		Mean: 206.63 		Best: 414.99 		N:2
 
 ########## REPORT GEN: 35 ##########
 SPECIES: 
-Helton         		Mean: 1.45 		Best: 33.53 		N:9
-Stewart        		Mean: 1.81 		Best: 24.18 		N:7
-Corey          		Mean: 0.97 		Best: 12.25 		N:11
+Hamilton       		Mean: 62.67 		Best: 1268.59 		N:10
+Bostick        		Mean: 50.7 		Best: 1205.29 		N:10
+Kingsley       		Mean: 155.14 		Best: 1197.07 		N:4
+Rafter         		Mean: 154.61 		Best: 1160.48 		N:4
+Pemberton      		Mean: 399.71 		Best: 1154.24 		N:2
+Hassell        		Mean: 245.28 		Best: 1154.16 		N:3
+Kirkwood       		Mean: 97.25 		Best: 1154.07 		N:8
+Dixon          		Mean: 79.41 		Best: 871.89 		N:8
+Grenier        		Mean: 362.7 		Best: 859.45 		N:2
+Thomas         		Mean: 77.25 		Best: 767.63 		N:8
+Taylor         		Mean: 86.36 		Best: 631.07 		N:7
+Reff           		Mean: 99.4 		Best: 630.45 		N:6
+Schulte        		Mean: 147.62 		Best: 628.27 		N:4
+Mccord         		Mean: 97.31 		Best: 610.08 		N:6
+Libby          		Mean: 148.09 		Best: 588.94 		N:4
+Connell        		Mean: 83.95 		Best: 586.39 		N:7
+Wagner         		Mean: 115.99 		Best: 570.58 		N:5
+Munnis         		Mean: 61.63 		Best: 430.17 		N:7
+Wingfield      		Mean: 210.27 		Best: 411.12 		N:2
 
 ########## REPORT GEN: 36 ##########
 SPECIES: 
-Corey          		Mean: 1.15 		Best: 46.75 		N:12
-Stewart        		Mean: 1.69 		Best: 19.59 		N:7
-Helton         		Mean: 1.13 		Best: 11.75 		N:9
+Taylor         		Mean: 290.35 		Best: 1281.78 		N:3
+Wagner         		Mean: 277.38 		Best: 1269.07 		N:3
+Libby          		Mean: 97.63 		Best: 1161.19 		N:7
+Rafter         		Mean: 115.21 		Best: 1159.16 		N:5
+Bostick        		Mean: 77.79 		Best: 1159.09 		N:7
+Wingfield      		Mean: 113.24 		Best: 1157.98 		N:6
+Kirkwood       		Mean: 192.17 		Best: 1156.92 		N:4
+Reff           		Mean: 117.84 		Best: 1156.79 		N:6
+Hamilton       		Mean: 403.88 		Best: 1156.27 		N:2
+Thomas         		Mean: 190.7 		Best: 1155.07 		N:4
+Kingsley       		Mean: 39.59 		Best: 1137.98 		N:15
+Grenier        		Mean: 103.17 		Best: 864.05 		N:6
+Dixon          		Mean: 226.39 		Best: 858.1 		N:3
+Pemberton      		Mean: 39.85 		Best: 694.78 		N:14
+Schulte        		Mean: 99.23 		Best: 628.34 		N:6
+Mccord         		Mean: 147.24 		Best: 625.82 		N:4
+Connell        		Mean: 311.02 		Best: 622.95 		N:2
+Hassell        		Mean: 247.72 		Best: 553.55 		N:2
+Munnis         		Mean: 208.66 		Best: 413.02 		N:2
 
 ########## REPORT GEN: 37 ##########
 SPECIES: 
-Helton         		Mean: 1.95 		Best: 35.22 		N:8
-Stewart        		Mean: 0.92 		Best: 18.01 		N:12
-Corey          		Mean: 1.32 		Best: 11.25 		N:8
+Bostick        		Mean: 120.42 		Best: 1280.77 		N:5
+Hamilton       		Mean: 44.81 		Best: 1279.23 		N:15
+Libby          		Mean: 260.28 		Best: 1274.94 		N:3
+Wingfield      		Mean: 80.98 		Best: 1274.18 		N:8
+Connell        		Mean: 147.73 		Best: 1247.82 		N:5
+Rafter         		Mean: 114.79 		Best: 1184.48 		N:6
+Taylor         		Mean: 447.17 		Best: 1163.19 		N:2
+Thomas         		Mean: 92.65 		Best: 1161.89 		N:8
+Hubble         		Mean: 474.26 		Best: 1158.17 		N:2
+Wagner         		Mean: 37.03 		Best: 1027.69 		N:15
+Grenier        		Mean: 227.06 		Best: 860.98 		N:3
+Dixon          		Mean: 67.45 		Best: 859.12 		N:9
+Kirkwood       		Mean: 92.96 		Best: 717.48 		N:6
+Mccord         		Mean: 99.2 		Best: 630.67 		N:6
+Munnis         		Mean: 71.5 		Best: 420.77 		N:6
 
 ########## REPORT GEN: 38 ##########
 SPECIES: 
-Stewart        		Mean: 1.24 		Best: 30.52 		N:11
-Corey          		Mean: 8.42 		Best: 23.25 		N:2
-Helton         		Mean: 0.7  		Best: 12.5 		N:15
+Mccord         		Mean: 199.37 		Best: 1291.7 		N:5
+Taylor         		Mean: 56.1 		Best: 1282.82 		N:11
+Connell        		Mean: 286.24 		Best: 1281.11 		N:3
+Grenier        		Mean: 171.48 		Best: 1280.74 		N:5
+Hamilton       		Mean: 280.99 		Best: 1241.11 		N:3
+Munnis         		Mean: 119.49 		Best: 1167.02 		N:6
+Bostick        		Mean: 87.09 		Best: 1166.46 		N:7
+Schulte        		Mean: 75.53 		Best: 1156.34 		N:9
+Libby          		Mean: 446.35 		Best: 1154.31 		N:2
+Hubble         		Mean: 208.02 		Best: 1141.0 		N:4
+Dixon          		Mean: 256.68 		Best: 858.8 		N:3
+Wingfield      		Mean: 199.88 		Best: 631.93 		N:3
+Thomas         		Mean: 189.64 		Best: 628.0 		N:3
+Kirkwood       		Mean: 117.73 		Best: 588.01 		N:4
+Hassell        		Mean: 286.25 		Best: 570.85 		N:2
+Rafter         		Mean: 106.19 		Best: 416.47 		N:4
+Wagner         		Mean: 212.41 		Best: 414.96 		N:2
 
 ########## REPORT GEN: 39 ##########
 SPECIES: 
-Corey          		Mean: 1.93 		Best: 28.09 		N:8
-Stewart        		Mean: 2.73 		Best: 11.25 		N:4
-Helton         		Mean: 2.1  		Best: 11.25 		N:5
+Wingfield      		Mean: 151.31 		Best: 1281.77 		N:5
+Hamilton       		Mean: 108.87 		Best: 1278.99 		N:7
+Mccord         		Mean: 148.65 		Best: 1277.25 		N:5
+Kirkwood       		Mean: 111.3 		Best: 1276.74 		N:7
+Connell        		Mean: 274.9 		Best: 1259.06 		N:3
+Wagner         		Mean: 177.11 		Best: 1234.7 		N:5
+Thomas         		Mean: 191.39 		Best: 1202.72 		N:4
+Munnis         		Mean: 96.98 		Best: 1178.04 		N:7
+Hubble         		Mean: 62.5 		Best: 1159.56 		N:11
+Taylor         		Mean: 119.9 		Best: 1156.74 		N:6
+Libby          		Mean: 56.79 		Best: 1155.54 		N:11
+Bostick        		Mean: 184.8 		Best: 1155.41 		N:4
+Grenier        		Mean: 139.73 		Best: 859.51 		N:5
+Schulte        		Mean: 302.77 		Best: 627.85 		N:2
+Dixon          		Mean: 83.87 		Best: 587.76 		N:7
+Rafter         		Mean: 136.85 		Best: 411.34 		N:3
 
 ########## REPORT GEN: 40 ##########
 SPECIES: 
-Stewart        		Mean: 9.11 		Best: 24.46 		N:2
-Corey          		Mean: 0.86 		Best: 14.64 		N:13
-Helton         		Mean: 5.46 		Best: 11.25 		N:2
+Hubble         		Mean: 87.06 		Best: 1280.96 		N:10
+Kirkwood       		Mean: 150.98 		Best: 1280.81 		N:5
+Mccord         		Mean: 347.93 		Best: 1278.55 		N:3
+Rafter         		Mean: 114.39 		Best: 1213.59 		N:6
+Schulte        		Mean: 245.44 		Best: 1163.16 		N:3
+Hassell        		Mean: 61.42 		Best: 1158.15 		N:12
+Connell        		Mean: 98.31 		Best: 1160.55 		N:8
+Wagner         		Mean: 222.47 		Best: 1151.58 		N:3
+Dixon          		Mean: 106.86 		Best: 896.81 		N:6
+Grenier        		Mean: 89.93 		Best: 859.06 		N:7
+Munnis         		Mean: 148.98 		Best: 630.52 		N:4
+Bostick        		Mean: 41.75 		Best: 630.44 		N:13
+Taylor         		Mean: 305.94 		Best: 629.43 		N:2
+Wingfield      		Mean: 117.63 		Best: 584.54 		N:5
+Hamilton       		Mean: 145.37 		Best: 584.1 		N:4
+Thomas         		Mean: 115.63 		Best: 571.17 		N:5
+Libby          		Mean: 193.68 		Best: 570.53 		N:3
 
 ########## REPORT GEN: 41 ##########
 SPECIES: 
-Corey          		Mean: 2.18 		Best: 12.5 		N:5
+Mccord         		Mean: 62.39 		Best: 1262.81 		N:9
+Wagner         		Mean: 171.48 		Best: 1210.02 		N:5
+Hubble         		Mean: 119.54 		Best: 1208.69 		N:6
+Rafter         		Mean: 139.11 		Best: 1200.27 		N:6
+Kirkwood       		Mean: 156.17 		Best: 1197.7 		N:6
+Libby          		Mean: 137.78 		Best: 1164.71 		N:5
+Hamilton       		Mean: 184.66 		Best: 1157.94 		N:4
+Hassell        		Mean: 130.96 		Best: 1155.45 		N:7
+Grenier        		Mean: 138.53 		Best: 931.35 		N:5
+Prideaux       		Mean: 425.61 		Best: 852.09 		N:2
+Taylor         		Mean: 150.19 		Best: 631.43 		N:4
+Munnis         		Mean: 85.61 		Best: 631.42 		N:7
+Thomas         		Mean: 102.06 		Best: 628.35 		N:6
+Bostick        		Mean: 118.49 		Best: 609.44 		N:5
+Connell        		Mean: 116.25 		Best: 607.14 		N:5
+Wingfield      		Mean: 194.0 		Best: 570.08 		N:3
+Schulte        		Mean: 91.51 		Best: 570.04 		N:5
 
 ########## REPORT GEN: 42 ##########
 SPECIES: 
+Mccord         		Mean: 148.88 		Best: 1277.12 		N:5
+Connell        		Mean: 112.48 		Best: 1271.5 		N:7
+Taylor         		Mean: 109.02 		Best: 1265.15 		N:7
+Kirkwood       		Mean: 164.96 		Best: 1171.51 		N:4
+Hassell        		Mean: 86.75 		Best: 1166.07 		N:8
+Rafter         		Mean: 138.08 		Best: 1158.22 		N:5
+Munnis         		Mean: 191.3 		Best: 1157.03 		N:4
+Wagner         		Mean: 107.14 		Best: 1156.59 		N:6
+Thomas         		Mean: 57.49 		Best: 1158.97 		N:12
+Libby          		Mean: 153.38 		Best: 1153.77 		N:4
+Hamilton       		Mean: 80.45 		Best: 951.26 		N:8
+Grenier        		Mean: 363.91 		Best: 855.06 		N:2
+Hubble         		Mean: 80.06 		Best: 854.18 		N:7
+Prideaux       		Mean: 196.24 		Best: 851.83 		N:4
+Bostick        		Mean: 73.39 		Best: 631.07 		N:8
+Wingfield      		Mean: 195.93 		Best: 584.55 		N:3
+Schulte        		Mean: 141.44 		Best: 414.99 		N:3
 
 ########## REPORT GEN: 43 ##########
 SPECIES: 
-Stewart        		Mean: 5.25 		Best: 10.5 		N:2
+Bostick        		Mean: 124.67 		Best: 1281.4 		N:7
+Dixon          		Mean: 195.08 		Best: 1279.73 		N:6
+Hamilton       		Mean: 475.35 		Best: 1279.37 		N:2
+Thomas         		Mean: 80.0 		Best: 1269.39 		N:8
+Mccord         		Mean: 185.13 		Best: 1164.93 		N:4
+Kirkwood       		Mean: 165.83 		Best: 1160.96 		N:4
+Connell        		Mean: 87.83 		Best: 1155.15 		N:8
+Hubble         		Mean: 88.97 		Best: 1154.71 		N:7
+Rafter         		Mean: 75.52 		Best: 1139.84 		N:8
+Munnis         		Mean: 164.87 		Best: 957.4 		N:4
+Prideaux       		Mean: 99.67 		Best: 851.87 		N:8
+Taylor         		Mean: 38.23 		Best: 631.41 		N:13
+Wingfield      		Mean: 99.79 		Best: 629.5 		N:6
+Wagner         		Mean: 160.86 		Best: 571.13 		N:3
+Libby          		Mean: 71.21 		Best: 416.29 		N:6
+Schulte        		Mean: 85.42 		Best: 415.58 		N:5
+
+########## REPORT GEN: 44 ##########
+SPECIES: 
+Connell        		Mean: 67.96 		Best: 1281.49 		N:9
+Wagner         		Mean: 101.89 		Best: 1280.12 		N:8
+Dixon          		Mean: 121.09 		Best: 1277.14 		N:5
+Taylor         		Mean: 147.3 		Best: 1208.28 		N:5
+Mccord         		Mean: 65.85 		Best: 1187.8 		N:8
+Hubble         		Mean: 95.69 		Best: 1159.17 		N:8
+Bostick        		Mean: 81.71 		Best: 1158.52 		N:7
+Munnis         		Mean: 107.02 		Best: 1156.2 		N:6
+Rafter         		Mean: 153.38 		Best: 1155.37 		N:4
+Hamilton       		Mean: 145.27 		Best: 1147.08 		N:5
+Grenier        		Mean: 219.98 		Best: 947.61 		N:4
+Prideaux       		Mean: 171.8 		Best: 850.7 		N:4
+Kirkwood       		Mean: 215.68 		Best: 696.08 		N:3
+Wilson         		Mean: 288.03 		Best: 571.09 		N:2
+Wingfield      		Mean: 77.54 		Best: 570.8 		N:7
+Libby          		Mean: 207.95 		Best: 410.45 		N:2
+
+########## REPORT GEN: 45 ##########
+SPECIES: 
+Connell        		Mean: 241.84 		Best: 1309.11 		N:3
+Wilson         		Mean: 611.34 		Best: 1284.08 		N:2
+Hamilton       		Mean: 101.76 		Best: 1278.44 		N:7
+Thomas         		Mean: 119.99 		Best: 1271.96 		N:5
+Hubble         		Mean: 44.09 		Best: 1189.15 		N:14
+Wingfield      		Mean: 449.35 		Best: 1179.28 		N:2
+Dixon          		Mean: 292.03 		Best: 1169.67 		N:4
+Libby          		Mean: 154.13 		Best: 1161.19 		N:4
+Grenier        		Mean: 108.95 		Best: 935.36 		N:8
+Prideaux       		Mean: 107.91 		Best: 852.32 		N:6
+Munnis         		Mean: 150.32 		Best: 627.35 		N:4
+Taylor         		Mean: 84.56 		Best: 571.15 		N:6
+Wagner         		Mean: 287.7 		Best: 570.74 		N:2
+Rafter         		Mean: 107.04 		Best: 416.34 		N:4
+Bostick        		Mean: 211.69 		Best: 412.9 		N:2
+Schulte        		Mean: 140.46 		Best: 411.71 		N:3
+
+########## REPORT GEN: 46 ##########
+SPECIES: 
+Hubble         		Mean: 91.07 		Best: 1279.01 		N:8
+Mccord         		Mean: 249.48 		Best: 1249.55 		N:4
+Thomas         		Mean: 77.9 		Best: 1228.19 		N:8
+Taylor         		Mean: 146.7 		Best: 1227.09 		N:7
+Connell        		Mean: 245.82 		Best: 1178.35 		N:4
+Hamilton       		Mean: 198.3 		Best: 1171.06 		N:4
+Schulte        		Mean: 153.38 		Best: 1155.87 		N:4
+Wilson         		Mean: 153.96 		Best: 1154.03 		N:5
+Dixon          		Mean: 131.47 		Best: 1153.69 		N:5
+Grenier        		Mean: 215.56 		Best: 892.46 		N:4
+Prideaux       		Mean: 230.6 		Best: 851.63 		N:3
+Wingfield      		Mean: 97.67 		Best: 631.43 		N:6
+Wagner         		Mean: 294.88 		Best: 608.9 		N:2
+Bostick        		Mean: 106.29 		Best: 416.35 		N:4
+Rafter         		Mean: 105.76 		Best: 415.6 		N:4
+Libby          		Mean: 141.1 		Best: 416.33 		N:3
+
+########## REPORT GEN: 47 ##########
+SPECIES: 
+Schulte        		Mean: 93.88 		Best: 1282.48 		N:7
+Mccord         		Mean: 116.22 		Best: 1281.73 		N:6
+Wilson         		Mean: 128.72 		Best: 1280.63 		N:7
+Bostick        		Mean: 160.54 		Best: 1277.78 		N:4
+Connell        		Mean: 93.9 		Best: 1272.86 		N:7
+Hubble         		Mean: 155.63 		Best: 1193.58 		N:4
+Dixon          		Mean: 86.52 		Best: 1172.17 		N:8
+Taylor         		Mean: 198.46 		Best: 1157.43 		N:4
+Thomas         		Mean: 114.81 		Best: 1156.4 		N:5
+Grenier        		Mean: 103.0 		Best: 929.23 		N:8
+Prideaux       		Mean: 106.62 		Best: 848.74 		N:6
+Kirkwood       		Mean: 142.76 		Best: 631.29 		N:4
+Wagner         		Mean: 202.87 		Best: 630.66 		N:3
+Hamilton       		Mean: 201.97 		Best: 630.55 		N:3
+Wingfield      		Mean: 99.08 		Best: 628.99 		N:6
+Libby          		Mean: 84.68 		Best: 416.32 		N:5
+Rafter         		Mean: 140.72 		Best: 412.29 		N:3
+
+########## REPORT GEN: 48 ##########
+SPECIES: 
+Rafter         		Mean: 80.46 		Best: 1281.95 		N:8
+Munnis         		Mean: 77.03 		Best: 1279.55 		N:9
+Bostick        		Mean: 149.73 		Best: 1279.46 		N:5
+Dixon          		Mean: 86.95 		Best: 1199.22 		N:7
+Schulte        		Mean: 71.75 		Best: 1193.89 		N:9
+Mccord         		Mean: 200.71 		Best: 1175.23 		N:5
+Libby          		Mean: 64.55 		Best: 1165.82 		N:8
+Taylor         		Mean: 155.34 		Best: 1163.26 		N:5
+Connell        		Mean: 91.07 		Best: 1161.7 		N:6
+Wilson         		Mean: 104.2 		Best: 1160.18 		N:6
+Thomas         		Mean: 114.11 		Best: 1155.47 		N:5
+Grenier        		Mean: 193.75 		Best: 857.1 		N:4
+Prideaux       		Mean: 128.63 		Best: 852.61 		N:5
+Kirkwood       		Mean: 122.75 		Best: 631.42 		N:5
+Wagner         		Mean: 147.99 		Best: 630.6 		N:4
+Wingfield      		Mean: 120.12 		Best: 629.51 		N:5
+Hubble         		Mean: 74.85 		Best: 590.41 		N:6
+
+########## REPORT GEN: 49 ##########
+SPECIES: 
+Hubble         		Mean: 91.91 		Best: 1281.76 		N:8
+Dixon          		Mean: 119.92 		Best: 1278.83 		N:5
+Thomas         		Mean: 118.23 		Best: 1253.24 		N:6
+Taylor         		Mean: 92.74 		Best: 1250.59 		N:8
+Wingfield      		Mean: 83.07 		Best: 1187.93 		N:8
+Wilson         		Mean: 152.96 		Best: 1170.78 		N:4
+Mccord         		Mean: 76.77 		Best: 1169.32 		N:10
+Connell        		Mean: 104.05 		Best: 1162.2 		N:7
+Wagner         		Mean: 66.18 		Best: 1158.07 		N:11
+Schulte        		Mean: 95.9 		Best: 1156.51 		N:6
+Kirkwood       		Mean: 443.75 		Best: 1156.48 		N:2
+Rafter         		Mean: 107.54 		Best: 1154.83 		N:7
+Libby          		Mean: 143.79 		Best: 1026.01 		N:4
+Grenier        		Mean: 160.85 		Best: 903.55 		N:5
+Prideaux       		Mean: 166.1 		Best: 849.92 		N:4
+Hamilton       		Mean: 97.43 		Best: 630.63 		N:6
+Munnis         		Mean: 118.3 		Best: 584.52 		N:5
+Bostick        		Mean: 139.63 		Best: 415.67 		N:3
+
+########## REPORT GEN: 50 ##########
+SPECIES: 
+Taylor         		Mean: 66.75 		Best: 1401.35 		N:11
+Connell        		Mean: 259.78 		Best: 1280.12 		N:3
+Dixon          		Mean: 119.62 		Best: 1279.51 		N:5
+Wingfield      		Mean: 101.75 		Best: 1279.43 		N:7
+Bostick        		Mean: 63.01 		Best: 1241.11 		N:10
+Wagner         		Mean: 94.63 		Best: 1235.24 		N:8
+Hamilton       		Mean: 148.4 		Best: 1182.02 		N:5
+Thomas         		Mean: 114.4 		Best: 1160.24 		N:5
+Schulte        		Mean: 56.24 		Best: 1157.93 		N:9
+Grenier        		Mean: 65.07 		Best: 931.13 		N:13
+Prideaux       		Mean: 90.85 		Best: 851.8 		N:7
+Munnis         		Mean: 185.67 		Best: 631.65 		N:3
+Rafter         		Mean: 130.37 		Best: 630.6 		N:4
+Mccord         		Mean: 69.09 		Best: 589.24 		N:8
+Hubble         		Mean: 90.62 		Best: 584.74 		N:5
+Kirkwood       		Mean: 288.89 		Best: 584.54 		N:2
+Libby          		Mean: 60.03 		Best: 429.02 		N:7
+Wilson         		Mean: 139.56 		Best: 414.52 		N:3
+
+########## REPORT GEN: 51 ##########
+SPECIES: 
+Connell        		Mean: 139.41 		Best: 1287.02 		N:6
+Schulte        		Mean: 119.14 		Best: 1277.35 		N:5
+Thomas         		Mean: 68.45 		Best: 1277.21 		N:9
+Wilson         		Mean: 59.08 		Best: 1175.52 		N:10
+Grenier        		Mean: 102.34 		Best: 1164.81 		N:8
+Taylor         		Mean: 33.26 		Best: 1160.18 		N:18
+Wagner         		Mean: 98.16 		Best: 1154.8 		N:6
+Prideaux       		Mean: 136.7 		Best: 851.54 		N:5
+Dixon          		Mean: 56.66 		Best: 631.45 		N:9
+Hamilton       		Mean: 141.08 		Best: 630.93 		N:4
+Munnis         		Mean: 131.66 		Best: 630.66 		N:4
+Wingfield      		Mean: 146.87 		Best: 584.52 		N:4
+Bostick        		Mean: 162.47 		Best: 584.52 		N:3
+Mccord         		Mean: 159.03 		Best: 570.54 		N:3
+Rafter         		Mean: 105.73 		Best: 431.96 		N:4
+Libby          		Mean: 59.95 		Best: 418.07 		N:7
+Hubble         		Mean: 104.02 		Best: 412.05 		N:4
+
+########## REPORT GEN: 52 ##########
+SPECIES: 
+Bostick        		Mean: 208.99 		Best: 1280.95 		N:4
+Rafter         		Mean: 94.0 		Best: 1280.48 		N:6
+Schulte        		Mean: 78.23 		Best: 1280.12 		N:7
+Munnis         		Mean: 104.0 		Best: 1277.0 		N:6
+Prideaux       		Mean: 289.9 		Best: 1253.82 		N:3
+Thomas         		Mean: 103.19 		Best: 1207.66 		N:7
+Mccord         		Mean: 50.63 		Best: 1158.21 		N:13
+Hubble         		Mean: 198.57 		Best: 1158.08 		N:4
+Hamilton       		Mean: 178.8 		Best: 1155.19 		N:4
+Dixon          		Mean: 158.35 		Best: 1024.23 		N:4
+Connell        		Mean: 51.16 		Best: 855.46 		N:10
+Wagner         		Mean: 50.11 		Best: 851.38 		N:12
+Libby          		Mean: 186.94 		Best: 631.3 		N:3
+Wingfield      		Mean: 153.91 		Best: 631.22 		N:4
+Kirkwood       		Mean: 98.0 		Best: 570.75 		N:5
+Wilson         		Mean: 213.19 		Best: 423.96 		N:2
+Taylor         		Mean: 138.66 		Best: 416.35 		N:3
+
+########## REPORT GEN: 53 ##########
+SPECIES: 
+Schulte        		Mean: 85.71 		Best: 1281.72 		N:9
+Rafter         		Mean: 149.17 		Best: 1278.64 		N:5
+Hubble         		Mean: 73.16 		Best: 1275.62 		N:9
+Kirkwood       		Mean: 215.65 		Best: 1260.89 		N:5
+Taylor         		Mean: 115.44 		Best: 1260.67 		N:6
+Dixon          		Mean: 146.95 		Best: 1257.51 		N:5
+Prideaux       		Mean: 50.25 		Best: 1237.08 		N:10
+Wagner         		Mean: 94.82 		Best: 1159.13 		N:8
+Bostick        		Mean: 71.71 		Best: 1063.79 		N:9
+Thomas         		Mean: 74.58 		Best: 739.37 		N:7
+Platt          		Mean: 122.7 		Best: 692.32 		N:5
+Wingfield      		Mean: 203.03 		Best: 631.56 		N:3
+Wilson         		Mean: 41.19 		Best: 631.42 		N:12
+Munnis         		Mean: 64.36 		Best: 570.45 		N:7
+Libby          		Mean: 70.64 		Best: 431.2 		N:6
+
+########## REPORT GEN: 54 ##########
+SPECIES: 
+Kirkwood       		Mean: 81.64 		Best: 1279.55 		N:7
+Bostick        		Mean: 144.72 		Best: 1275.35 		N:6
+Hubble         		Mean: 78.64 		Best: 1251.86 		N:8
+Schulte        		Mean: 132.56 		Best: 1210.23 		N:6
+Taylor         		Mean: 98.42 		Best: 1209.33 		N:8
+Munnis         		Mean: 112.18 		Best: 1164.7 		N:6
+Prideaux       		Mean: 57.48 		Best: 1157.14 		N:10
+Rafter         		Mean: 167.51 		Best: 1156.91 		N:4
+Thomas         		Mean: 138.4 		Best: 739.77 		N:4
+Platt          		Mean: 76.58 		Best: 722.73 		N:8
+Hamilton       		Mean: 324.4 		Best: 634.13 		N:2
+Wilson         		Mean: 80.95 		Best: 631.08 		N:7
+Wagner         		Mean: 87.17 		Best: 631.06 		N:7
+Dixon          		Mean: 66.13 		Best: 631.42 		N:8
+Wingfield      		Mean: 143.01 		Best: 593.25 		N:4
+
+########## REPORT GEN: 55 ##########
+SPECIES: 
+Bostick        		Mean: 119.01 		Best: 1281.48 		N:6
+Munnis         		Mean: 86.19 		Best: 1281.35 		N:9
+Rafter         		Mean: 71.95 		Best: 1276.4 		N:8
+Hubble         		Mean: 132.28 		Best: 1225.2 		N:5
+Kirkwood       		Mean: 65.01 		Best: 1214.7 		N:9
+Taylor         		Mean: 148.9 		Best: 1163.69 		N:5
+Libby          		Mean: 89.25 		Best: 1156.79 		N:7
+Wagner         		Mean: 120.04 		Best: 1156.69 		N:6
+Schulte        		Mean: 75.78 		Best: 1154.44 		N:7
+Platt          		Mean: 126.85 		Best: 836.34 		N:5
+Wingfield      		Mean: 73.52 		Best: 631.05 		N:8
+Prideaux       		Mean: 122.17 		Best: 629.62 		N:5
+Thomas         		Mean: 195.07 		Best: 570.72 		N:3
+Wilson         		Mean: 70.12 		Best: 415.21 		N:6
+Dixon          		Mean: 69.67 		Best: 412.86 		N:6
+
+########## REPORT GEN: 56 ##########
+SPECIES: 
+Munnis         		Mean: 237.99 		Best: 1274.83 		N:3
+Hubble         		Mean: 50.76 		Best: 1243.67 		N:10
+Schulte        		Mean: 111.87 		Best: 1165.36 		N:6
+Rafter         		Mean: 115.69 		Best: 1161.03 		N:5
+Libby          		Mean: 109.66 		Best: 1157.05 		N:6
+Taylor         		Mean: 54.81 		Best: 1157.0 		N:12
+Dixon          		Mean: 91.05 		Best: 1156.98 		N:8
+Kirkwood       		Mean: 82.63 		Best: 1156.49 		N:7
+Wilson         		Mean: 222.4 		Best: 1154.35 		N:3
+Platt          		Mean: 80.33 		Best: 846.6 		N:8
+Thomas         		Mean: 137.91 		Best: 763.8 		N:5
+Wingfield      		Mean: 119.62 		Best: 636.01 		N:5
+Prideaux       		Mean: 307.73 		Best: 631.4 		N:2
+Wagner         		Mean: 44.4 		Best: 631.41 		N:14
+Hamilton       		Mean: 300.7 		Best: 630.91 		N:2
+Bostick        		Mean: 193.88 		Best: 593.64 		N:3
+
+########## REPORT GEN: 57 ##########
+SPECIES: 
+Wilson         		Mean: 73.32 		Best: 1348.18 		N:9
+Libby          		Mean: 102.46 		Best: 1281.07 		N:7
+Thomas         		Mean: 114.95 		Best: 1277.11 		N:6
+Dixon          		Mean: 90.24 		Best: 1276.79 		N:8
+Rafter         		Mean: 146.68 		Best: 1201.92 		N:5
+Hubble         		Mean: 127.17 		Best: 1193.26 		N:5
+Kirkwood       		Mean: 223.98 		Best: 1155.94 		N:3
+Platt          		Mean: 129.47 		Best: 840.46 		N:5
+Prideaux       		Mean: 66.94 		Best: 697.16 		N:9
+Bostick        		Mean: 77.58 		Best: 631.43 		N:8
+Taylor         		Mean: 199.13 		Best: 631.41 		N:3
+Wingfield      		Mean: 53.32 		Best: 631.05 		N:11
+Hamilton       		Mean: 147.4 		Best: 630.54 		N:4
+Wagner         		Mean: 200.52 		Best: 600.53 		N:3
+Schulte        		Mean: 70.64 		Best: 416.22 		N:6
+Munnis         		Mean: 70.55 		Best: 415.98 		N:6
+
+########## REPORT GEN: 58 ##########
+SPECIES: 
+Hubble         		Mean: 61.81 		Best: 1290.86 		N:9
+Rafter         		Mean: 95.14 		Best: 1281.46 		N:6
+Libby          		Mean: 71.42 		Best: 1280.91 		N:8
+Munnis         		Mean: 45.79 		Best: 1280.34 		N:11
+Thomas         		Mean: 48.04 		Best: 1262.22 		N:11
+Kirkwood       		Mean: 131.5 		Best: 1230.09 		N:5
+Wilson         		Mean: 90.93 		Best: 1158.31 		N:6
+Platt          		Mean: 62.21 		Best: 853.2 		N:10
+Taylor         		Mean: 55.84 		Best: 764.16 		N:11
+Prideaux       		Mean: 84.99 		Best: 634.25 		N:7
+Wagner         		Mean: 97.45 		Best: 631.32 		N:6
+Hamilton       		Mean: 98.64 		Best: 631.07 		N:6
+Wingfield      		Mean: 198.21 		Best: 630.77 		N:3
+Bostick        		Mean: 152.45 		Best: 630.73 		N:4
+Schulte        		Mean: 83.71 		Best: 415.75 		N:5
+Dixon          		Mean: 105.66 		Best: 416.06 		N:4
+
+########## REPORT GEN: 59 ##########
+SPECIES: 
+Thomas         		Mean: 68.95 		Best: 1401.61 		N:9
+Schulte        		Mean: 181.44 		Best: 1281.22 		N:4
+Dixon          		Mean: 66.58 		Best: 1280.18 		N:8
+Hubble         		Mean: 72.25 		Best: 1278.53 		N:8
+Wilson         		Mean: 72.33 		Best: 1277.65 		N:8
+Munnis         		Mean: 64.84 		Best: 1162.7 		N:8
+Kirkwood       		Mean: 50.08 		Best: 1152.06 		N:10
+Platt          		Mean: 110.75 		Best: 874.12 		N:6
+Libby          		Mean: 80.16 		Best: 765.28 		N:6
+Taylor         		Mean: 85.71 		Best: 696.74 		N:7
+Hamilton       		Mean: 60.1 		Best: 656.56 		N:10
+Wagner         		Mean: 52.65 		Best: 631.54 		N:11
+Wingfield      		Mean: 82.76 		Best: 631.53 		N:7
+Bostick        		Mean: 96.26 		Best: 631.02 		N:6
+Prideaux       		Mean: 191.83 		Best: 569.69 		N:3
+Rafter         		Mean: 53.11 		Best: 416.33 		N:8
+
+########## REPORT GEN: 60 ##########
+SPECIES: 
+Libby          		Mean: 57.73 		Best: 1277.1 		N:9
+Kirkwood       		Mean: 54.37 		Best: 1274.35 		N:10
+Thomas         		Mean: 90.45 		Best: 1271.53 		N:8
+Rafter         		Mean: 94.11 		Best: 1248.4 		N:6
+Schulte        		Mean: 87.29 		Best: 1210.95 		N:8
+Munnis         		Mean: 151.66 		Best: 1159.65 		N:4
+Hubble         		Mean: 90.77 		Best: 1155.27 		N:6
+Platt          		Mean: 57.35 		Best: 897.2 		N:11
+Wilson         		Mean: 68.25 		Best: 765.5 		N:7
+Taylor         		Mean: 69.3 		Best: 692.19 		N:9
+Prideaux       		Mean: 52.65 		Best: 631.54 		N:11
+Bostick        		Mean: 57.4 		Best: 630.34 		N:10
+Wagner         		Mean: 81.34 		Best: 570.8 		N:7
+Wingfield      		Mean: 93.4 		Best: 570.47 		N:6
+Dixon          		Mean: 139.95 		Best: 414.54 		N:3
+
+########## REPORT GEN: 61 ##########
+SPECIES: 
+Rafter         		Mean: 120.12 		Best: 1297.0 		N:6
+Thomas         		Mean: 78.8 		Best: 1278.51 		N:7
+Dixon          		Mean: 75.21 		Best: 1170.3 		N:9
+Libby          		Mean: 114.62 		Best: 1164.15 		N:5
+Hubble         		Mean: 151.19 		Best: 1154.81 		N:4
+Platt          		Mean: 139.95 		Best: 841.81 		N:5
+Kirkwood       		Mean: 80.16 		Best: 765.41 		N:6
+Taylor         		Mean: 127.95 		Best: 695.04 		N:5
+Prideaux       		Mean: 62.92 		Best: 631.19 		N:9
+Bostick        		Mean: 117.43 		Best: 630.72 		N:5
+Hamilton       		Mean: 194.44 		Best: 627.93 		N:3
+Wingfield      		Mean: 93.59 		Best: 569.53 		N:6
+Wagner         		Mean: 279.94 		Best: 563.67 		N:2
+Munnis         		Mean: 70.81 		Best: 416.37 		N:6
+Wilson         		Mean: 83.77 		Best: 416.15 		N:5
+Schulte        		Mean: 46.68 		Best: 416.28 		N:9
+
+########## REPORT GEN: 62 ##########
+SPECIES: 
+Kirkwood       		Mean: 58.26 		Best: 1299.01 		N:9
+Munnis         		Mean: 110.01 		Best: 1280.69 		N:7
+Thomas         		Mean: 77.47 		Best: 1253.88 		N:7
+Hubble         		Mean: 50.62 		Best: 1223.2 		N:10
+Dixon          		Mean: 60.43 		Best: 1216.91 		N:9
+Platt          		Mean: 64.52 		Best: 906.56 		N:10
+Taylor         		Mean: 63.02 		Best: 695.04 		N:10
+Prideaux       		Mean: 149.41 		Best: 631.71 		N:4
+Hamilton       		Mean: 83.14 		Best: 631.36 		N:7
+Bostick        		Mean: 96.4 		Best: 629.97 		N:6
+Wagner         		Mean: 73.04 		Best: 629.9 		N:8
+Wingfield      		Mean: 94.71 		Best: 627.71 		N:6
+Libby          		Mean: 85.58 		Best: 430.18 		N:5
+Schulte        		Mean: 84.93 		Best: 416.36 		N:5
+Rafter         		Mean: 210.18 		Best: 415.65 		N:2
+Wilson         		Mean: 70.44 		Best: 414.84 		N:6
+
+########## REPORT GEN: 63 ##########
+SPECIES: 
+Dixon          		Mean: 120.58 		Best: 1280.2 		N:5
+Munnis         		Mean: 120.43 		Best: 1279.65 		N:5
+Rafter         		Mean: 76.23 		Best: 1236.9 		N:9
+Wilson         		Mean: 62.72 		Best: 1165.95 		N:10
+Platt          		Mean: 109.49 		Best: 844.79 		N:6
+Taylor         		Mean: 108.44 		Best: 691.79 		N:6
+Hamilton       		Mean: 65.36 		Best: 631.6 		N:9
+Wingfield      		Mean: 98.83 		Best: 631.49 		N:6
+Wagner         		Mean: 67.1 		Best: 631.79 		N:9
+Prideaux       		Mean: 81.6 		Best: 625.3 		N:7
+Bostick        		Mean: 52.63 		Best: 606.79 		N:11
+Thomas         		Mean: 44.03 		Best: 588.33 		N:10
+Kirkwood       		Mean: 48.16 		Best: 465.65 		N:9
+Hubble         		Mean: 138.09 		Best: 416.31 		N:3
+Libby          		Mean: 106.09 		Best: 415.73 		N:4
+Schulte        		Mean: 46.5 		Best: 414.22 		N:9
+
+########## REPORT GEN: 64 ##########
+SPECIES: 
+Rafter         		Mean: 66.72 		Best: 1283.21 		N:8
+Schulte        		Mean: 51.11 		Best: 1249.36 		N:10
+Libby          		Mean: 94.21 		Best: 1247.52 		N:6
+Hubble         		Mean: 77.03 		Best: 1163.58 		N:7
+Munnis         		Mean: 58.62 		Best: 1161.73 		N:9
+Thomas         		Mean: 59.0 		Best: 1156.16 		N:9
+Wilson         		Mean: 338.59 		Best: 910.58 		N:2
+Platt          		Mean: 51.33 		Best: 857.04 		N:12
+Taylor         		Mean: 52.56 		Best: 719.5 		N:12
+Bostick        		Mean: 84.55 		Best: 631.24 		N:7
+Wagner         		Mean: 116.74 		Best: 630.75 		N:5
+Prideaux       		Mean: 86.29 		Best: 629.69 		N:7
+Hamilton       		Mean: 48.76 		Best: 631.54 		N:12
+Wingfield      		Mean: 70.78 		Best: 570.39 		N:8
+Dixon          		Mean: 54.18 		Best: 465.49 		N:8
+Kirkwood       		Mean: 82.38 		Best: 416.35 		N:5
+
+########## REPORT GEN: 65 ##########
+SPECIES: 
+Hubble         		Mean: 104.92 		Best: 1282.5 		N:7
+Munnis         		Mean: 65.72 		Best: 1177.05 		N:12
+Rafter         		Mean: 75.85 		Best: 1153.35 		N:7
+Platt          		Mean: 105.88 		Best: 838.39 		N:6
+Taylor         		Mean: 103.85 		Best: 689.89 		N:6
+Bostick        		Mean: 54.13 		Best: 631.32 		N:11
+Wagner         		Mean: 58.27 		Best: 629.43 		N:10
+Wingfield      		Mean: 98.5 		Best: 630.2 		N:6
+Prideaux       		Mean: 145.02 		Best: 625.34 		N:4
+Wilson         		Mean: 49.06 		Best: 588.11 		N:9
+Libby          		Mean: 73.69 		Best: 584.77 		N:6
+Hamilton       		Mean: 55.71 		Best: 571.22 		N:10
+Thomas         		Mean: 53.68 		Best: 453.73 		N:8
+Kirkwood       		Mean: 141.05 		Best: 431.93 		N:3
+Schulte        		Mean: 141.52 		Best: 415.83 		N:3
+Dixon          		Mean: 84.41 		Best: 414.77 		N:5
+
+########## REPORT GEN: 66 ##########
+SPECIES: 
+Libby          		Mean: 117.82 		Best: 1279.87 		N:6
+Munnis         		Mean: 45.99 		Best: 1232.24 		N:11
+Thomas         		Mean: 85.84 		Best: 1197.73 		N:7
+Wilson         		Mean: 76.11 		Best: 1156.79 		N:7
+Hubble         		Mean: 112.88 		Best: 1156.6 		N:6
+Platt          		Mean: 57.85 		Best: 836.29 		N:11
+Taylor         		Mean: 55.86 		Best: 722.76 		N:11
+Wingfield      		Mean: 85.09 		Best: 631.84 		N:7
+Wagner         		Mean: 73.28 		Best: 629.83 		N:8
+Prideaux       		Mean: 94.51 		Best: 629.48 		N:6
+Hamilton       		Mean: 71.24 		Best: 590.56 		N:8
+Bostick        		Mean: 114.15 		Best: 571.09 		N:5
+Kirkwood       		Mean: 103.23 		Best: 431.86 		N:4
+Rafter         		Mean: 29.91 		Best: 431.42 		N:14
+Dixon          		Mean: 71.28 		Best: 416.22 		N:6
+Schulte        		Mean: 207.26 		Best: 416.08 		N:2
+
+########## REPORT GEN: 67 ##########
+SPECIES: 
+Schulte        		Mean: 42.38 		Best: 1281.8 		N:12
+Hubble         		Mean: 62.85 		Best: 1280.43 		N:10
+Munnis         		Mean: 58.02 		Best: 1243.15 		N:9
+Wilson         		Mean: 108.18 		Best: 1162.1 		N:7
+Libby          		Mean: 65.2 		Best: 1158.31 		N:8
+Thomas         		Mean: 113.91 		Best: 1145.92 		N:5
+Platt          		Mean: 114.09 		Best: 863.34 		N:6
+Taylor         		Mean: 123.51 		Best: 690.23 		N:5
+Ogden          		Mean: 104.65 		Best: 630.59 		N:6
+Bostick        		Mean: 63.59 		Best: 599.79 		N:9
+Wingfield      		Mean: 63.27 		Best: 571.2 		N:9
+Prideaux       		Mean: 78.74 		Best: 569.99 		N:7
+Hamilton       		Mean: 79.71 		Best: 563.86 		N:7
+Wagner         		Mean: 110.32 		Best: 562.98 		N:5
+Kirkwood       		Mean: 89.7 		Best: 504.81 		N:5
+Rafter         		Mean: 31.79 		Best: 416.35 		N:13
+Dixon          		Mean: 106.43 		Best: 416.16 		N:4
+
+########## REPORT GEN: 68 ##########
+SPECIES: 
+Munnis         		Mean: 97.09 		Best: 1282.08 		N:7
+Schulte        		Mean: 143.26 		Best: 1274.2 		N:7
+Dixon          		Mean: 67.75 		Best: 1228.87 		N:9
+Hubble         		Mean: 64.58 		Best: 1155.02 		N:8
+Platt          		Mean: 53.68 		Best: 852.04 		N:12
+Taylor         		Mean: 62.64 		Best: 703.41 		N:10
+Kirkwood       		Mean: 44.47 		Best: 662.46 		N:10
+Ogden          		Mean: 316.91 		Best: 631.42 		N:2
+Prideaux       		Mean: 43.37 		Best: 590.56 		N:13
+Wagner         		Mean: 43.32 		Best: 585.71 		N:13
+Hamilton       		Mean: 56.61 		Best: 570.53 		N:10
+Wingfield      		Mean: 93.86 		Best: 570.5 		N:6
+Bostick        		Mean: 113.43 		Best: 567.59 		N:5
+Libby          		Mean: 38.84 		Best: 431.82 		N:11
+Rafter         		Mean: 70.35 		Best: 416.34 		N:6
+Thomas         		Mean: 70.02 		Best: 416.3 		N:6
+Wilson         		Mean: 84.36 		Best: 415.11 		N:5
+
+########## REPORT GEN: 69 ##########
+SPECIES: 
+Dixon          		Mean: 80.96 		Best: 1285.87 		N:8
+Munnis         		Mean: 88.72 		Best: 1278.82 		N:10
+Thomas         		Mean: 181.63 		Best: 1272.01 		N:5
+Schulte        		Mean: 156.31 		Best: 1179.55 		N:6
+Libby          		Mean: 75.52 		Best: 1156.47 		N:7
+Montoya        		Mean: 397.29 		Best: 863.59 		N:2
+Rafter         		Mean: 316.39 		Best: 839.88 		N:2
+Taylor         		Mean: 113.66 		Best: 767.27 		N:6
+Platt          		Mean: 155.1 		Best: 694.84 		N:4
+Ogden          		Mean: 155.03 		Best: 631.8 		N:4
+Prideaux       		Mean: 116.07 		Best: 621.03 		N:5
+Wilson         		Mean: 55.76 		Best: 587.18 		N:8
+Wingfield      		Mean: 62.43 		Best: 571.09 		N:9
+Hamilton       		Mean: 56.47 		Best: 569.97 		N:10
+Wagner         		Mean: 61.6 		Best: 563.92 		N:9
+Bostick        		Mean: 184.35 		Best: 563.11 		N:3
+Kirkwood       		Mean: 42.14 		Best: 431.83 		N:10
+Hubble         		Mean: 35.25 		Best: 416.33 		N:12
+
+########## REPORT GEN: 70 ##########
+SPECIES: 
+Thomas         		Mean: 173.84 		Best: 1281.61 		N:5
+Munnis         		Mean: 97.57 		Best: 1281.63 		N:9
+Schulte        		Mean: 401.31 		Best: 1253.96 		N:3
+Libby          		Mean: 64.83 		Best: 1170.18 		N:9
+Kirkwood       		Mean: 109.3 		Best: 839.39 		N:5
+Montoya        		Mean: 118.74 		Best: 837.31 		N:6
+Taylor         		Mean: 90.82 		Best: 722.71 		N:7
+Platt          		Mean: 101.78 		Best: 696.23 		N:6
+Ogden          		Mean: 77.46 		Best: 631.23 		N:8
+Wagner         		Mean: 56.08 		Best: 617.84 		N:10
+Bostick        		Mean: 141.96 		Best: 567.79 		N:4
+Prideaux       		Mean: 80.59 		Best: 568.1 		N:7
+Wingfield      		Mean: 186.02 		Best: 563.77 		N:3
+Hamilton       		Mean: 274.06 		Best: 540.89 		N:2
+Rafter         		Mean: 70.3 		Best: 426.01 		N:6
+Dixon          		Mean: 83.64 		Best: 424.6 		N:5
+Wilson         		Mean: 208.18 		Best: 414.9 		N:2
+Hubble         		Mean: 41.72 		Best: 416.37 		N:10
+
+########## REPORT GEN: 71 ##########
+SPECIES: 
+Libby          		Mean: 101.22 		Best: 1281.52 		N:8
+Hubble         		Mean: 122.09 		Best: 1280.8 		N:5
+Munnis         		Mean: 207.48 		Best: 1280.52 		N:4
+Schulte        		Mean: 140.81 		Best: 1279.87 		N:7
+Thomas         		Mean: 75.22 		Best: 1246.93 		N:9
+Rafter         		Mean: 59.6 		Best: 848.55 		N:8
+Montoya        		Mean: 82.34 		Best: 736.95 		N:8
+Taylor         		Mean: 125.98 		Best: 690.38 		N:5
+Platt          		Mean: 120.38 		Best: 631.44 		N:5
+Ogden          		Mean: 155.02 		Best: 631.46 		N:4
+Wingfield      		Mean: 297.19 		Best: 618.6 		N:2
+Hamilton       		Mean: 69.4 		Best: 570.61 		N:8
+Wagner         		Mean: 80.75 		Best: 570.25 		N:7
+Prideaux       		Mean: 113.39 		Best: 563.73 		N:5
+Bostick        		Mean: 90.27 		Best: 563.22 		N:6
+Dixon          		Mean: 107.2 		Best: 427.75 		N:4
+Wilson         		Mean: 83.43 		Best: 416.27 		N:5
+
+########## REPORT GEN: 72 ##########
+SPECIES: 
+Thomas         		Mean: 85.92 		Best: 1194.84 		N:8
+Libby          		Mean: 151.13 		Best: 1166.39 		N:4
+Hubble         		Mean: 48.51 		Best: 1157.8 		N:10
+Munnis         		Mean: 87.47 		Best: 1156.31 		N:8
+Schulte        		Mean: 176.01 		Best: 1157.64 		N:5
+Rafter         		Mean: 82.7 		Best: 839.52 		N:6
+Taylor         		Mean: 90.4 		Best: 737.17 		N:7
+Platt          		Mean: 101.55 		Best: 703.44 		N:6
+Ogden          		Mean: 77.95 		Best: 636.41 		N:8
+Montoya        		Mean: 98.77 		Best: 631.36 		N:6
+Wingfield      		Mean: 84.24 		Best: 629.54 		N:7
+Wagner         		Mean: 191.34 		Best: 571.01 		N:3
+Prideaux       		Mean: 110.97 		Best: 570.91 		N:5
+Bostick        		Mean: 112.04 		Best: 563.93 		N:5
+Hamilton       		Mean: 181.72 		Best: 549.69 		N:3
+Kirkwood       		Mean: 138.26 		Best: 416.3 		N:3
+Dixon          		Mean: 84.27 		Best: 416.22 		N:5
+Wilson         		Mean: 209.1 		Best: 414.82 		N:2
+
+########## REPORT GEN: 73 ##########
+SPECIES: 
+Thomas         		Mean: 93.74 		Best: 1280.04 		N:8
+Dixon          		Mean: 75.95 		Best: 1173.0 		N:7
+Munnis         		Mean: 55.08 		Best: 1158.2 		N:9
+Libby          		Mean: 90.6 		Best: 1154.69 		N:7
+Schulte        		Mean: 73.57 		Best: 1154.66 		N:7
+Kirkwood       		Mean: 68.47 		Best: 846.2 		N:7
+Montoya        		Mean: 102.52 		Best: 690.88 		N:6
+Taylor         		Mean: 104.59 		Best: 689.98 		N:6
+Ogden          		Mean: 125.87 		Best: 631.91 		N:5
+Hamilton       		Mean: 82.44 		Best: 628.29 		N:7
+Platt          		Mean: 72.94 		Best: 606.98 		N:8
+Wingfield      		Mean: 80.04 		Best: 590.56 		N:7
+Bostick        		Mean: 140.78 		Best: 571.22 		N:4
+Wagner         		Mean: 69.96 		Best: 571.22 		N:8
+Prideaux       		Mean: 113.12 		Best: 570.05 		N:5
+Hubble         		Mean: 130.73 		Best: 415.2 		N:3
+Wilson         		Mean: 83.12 		Best: 414.69 		N:5
+Rafter         		Mean: 138.01 		Best: 411.57 		N:3
+
+########## REPORT GEN: 74 ##########
+SPECIES: 
+Hubble         		Mean: 88.17 		Best: 1181.79 		N:6
+Schulte        		Mean: 91.95 		Best: 1166.35 		N:6
+Munnis         		Mean: 111.33 		Best: 1161.81 		N:6
+Libby          		Mean: 110.55 		Best: 1158.53 		N:6
+Dixon          		Mean: 89.51 		Best: 1155.11 		N:6
+Wilson         		Mean: 102.56 		Best: 837.6 		N:5
+Taylor         		Mean: 73.43 		Best: 722.82 		N:9
+Montoya        		Mean: 76.55 		Best: 690.94 		N:8
+Ogden          		Mean: 102.51 		Best: 634.3 		N:6
+Platt          		Mean: 84.8 		Best: 631.41 		N:7
+Wagner         		Mean: 49.52 		Best: 631.02 		N:12
+Hamilton       		Mean: 93.61 		Best: 571.17 		N:6
+Prideaux       		Mean: 111.21 		Best: 570.45 		N:5
+Wingfield      		Mean: 56.76 		Best: 570.88 		N:10
+Bostick        		Mean: 69.58 		Best: 563.57 		N:8
+Kirkwood       		Mean: 70.54 		Best: 416.42 		N:6
+Rafter         		Mean: 52.16 		Best: 416.37 		N:8
+Thomas         		Mean: 59.07 		Best: 416.13 		N:7
+
+########## REPORT GEN: 75 ##########
+SPECIES: 
+Thomas         		Mean: 77.29 		Best: 1283.28 		N:9
+Dixon          		Mean: 94.44 		Best: 1274.13 		N:6
+Schulte        		Mean: 56.36 		Best: 1251.51 		N:9
+Hubble         		Mean: 76.57 		Best: 1202.84 		N:8
+Munnis         		Mean: 55.02 		Best: 1155.4 		N:9
+Kirkwood       		Mean: 133.23 		Best: 844.61 		N:4
+Taylor         		Mean: 127.8 		Best: 703.21 		N:5
+Platt          		Mean: 75.11 		Best: 691.87 		N:8
+Wingfield      		Mean: 84.71 		Best: 631.5 		N:7
+Bostick        		Mean: 72.03 		Best: 629.95 		N:8
+Wagner         		Mean: 154.63 		Best: 630.86 		N:4
+Ogden          		Mean: 84.52 		Best: 629.55 		N:7
+Hamilton       		Mean: 70.78 		Best: 628.1 		N:8
+Prideaux       		Mean: 118.59 		Best: 627.28 		N:5
+Montoya        		Mean: 143.71 		Best: 570.81 		N:4
+Libby          		Mean: 103.58 		Best: 415.99 		N:4
+Wilson         		Mean: 60.2 		Best: 416.38 		N:7
+Rafter         		Mean: 105.11 		Best: 416.32 		N:4
+
+########## REPORT GEN: 76 ##########
+SPECIES: 
+Libby          		Mean: 51.83 		Best: 1283.55 		N:12
+Schulte        		Mean: 159.1 		Best: 1282.59 		N:4
+Dixon          		Mean: 93.67 		Best: 1281.86 		N:6
+Thomas         		Mean: 241.78 		Best: 1281.18 		N:3
+Wilson         		Mean: 102.07 		Best: 847.49 		N:5
+Hubble         		Mean: 60.11 		Best: 843.06 		N:8
+Taylor         		Mean: 67.96 		Best: 767.34 		N:10
+Platt          		Mean: 156.24 		Best: 690.78 		N:4
+Ogden          		Mean: 75.19 		Best: 634.24 		N:8
+Montoya        		Mean: 60.71 		Best: 631.42 		N:10
+Prideaux       		Mean: 103.33 		Best: 631.37 		N:6
+Wagner         		Mean: 74.11 		Best: 630.8 		N:8
+Wingfield      		Mean: 70.99 		Best: 628.01 		N:8
+Hamilton       		Mean: 94.7 		Best: 617.14 		N:6
+Bostick        		Mean: 69.99 		Best: 585.8 		N:8
+Munnis         		Mean: 51.24 		Best: 416.08 		N:8
+Rafter         		Mean: 209.95 		Best: 413.67 		N:2
+Kirkwood       		Mean: 41.69 		Best: 416.27 		N:10
+
+########## REPORT GEN: 77 ##########
+SPECIES: 
+Libby          		Mean: 153.81 		Best: 1282.03 		N:5
+Rafter         		Mean: 56.74 		Best: 1220.01 		N:9
+Thomas         		Mean: 221.28 		Best: 1157.8 		N:3
+Dixon          		Mean: 86.0 		Best: 1154.63 		N:6
+Munnis         		Mean: 104.13 		Best: 904.89 		N:5
+Hubble         		Mean: 35.07 		Best: 847.57 		N:14
+Kirkwood       		Mean: 58.93 		Best: 847.46 		N:8
+Taylor         		Mean: 133.74 		Best: 737.01 		N:5
+Montoya        		Mean: 103.11 		Best: 696.03 		N:6
+Platt          		Mean: 89.6 		Best: 696.04 		N:7
+Ogden          		Mean: 49.47 		Best: 636.0 		N:12
+Wingfield      		Mean: 63.49 		Best: 629.84 		N:9
+Prideaux       		Mean: 122.75 		Best: 629.48 		N:5
+Wagner         		Mean: 204.08 		Best: 629.5 		N:3
+Hamilton       		Mean: 110.32 		Best: 556.05 		N:5
+Bostick        		Mean: 181.87 		Best: 545.92 		N:3
+Wilson         		Mean: 105.79 		Best: 418.67 		N:4
+
+########## REPORT GEN: 78 ##########
+SPECIES: 
+Munnis         		Mean: 116.88 		Best: 1281.54 		N:6
+Rafter         		Mean: 76.16 		Best: 1260.63 		N:9
+Hubble         		Mean: 90.46 		Best: 1157.0 		N:7
+Kirkwood       		Mean: 120.33 		Best: 843.1 		N:5
+Taylor         		Mean: 67.68 		Best: 722.74 		N:10
+Platt          		Mean: 104.36 		Best: 690.93 		N:6
+Bostick        		Mean: 43.68 		Best: 631.4 		N:13
+Montoya        		Mean: 65.38 		Best: 630.87 		N:9
+Wagner         		Mean: 154.74 		Best: 630.36 		N:4
+Ogden          		Mean: 120.54 		Best: 629.66 		N:5
+Wingfield      		Mean: 72.75 		Best: 629.66 		N:8
+Prideaux       		Mean: 123.86 		Best: 629.59 		N:5
+Hamilton       		Mean: 114.96 		Best: 627.5 		N:5
+Libby          		Mean: 69.38 		Best: 418.95 		N:6
+Wilson         		Mean: 52.01 		Best: 418.13 		N:8
+Dixon          		Mean: 50.65 		Best: 415.42 		N:8
+Thomas         		Mean: 81.57 		Best: 414.14 		N:5
+
+########## REPORT GEN: 79 ##########
+SPECIES: 
+Munnis         		Mean: 67.06 		Best: 1282.39 		N:9
+Thomas         		Mean: 109.49 		Best: 1170.66 		N:5
+Dixon          		Mean: 55.4 		Best: 1155.18 		N:9
+Kirkwood       		Mean: 63.57 		Best: 847.69 		N:9
+Taylor         		Mean: 110.81 		Best: 722.78 		N:6
+Platt          		Mean: 77.47 		Best: 695.99 		N:8
+Wagner         		Mean: 63.5 		Best: 693.49 		N:10
+Montoya        		Mean: 81.23 		Best: 695.14 		N:8
+Ogden          		Mean: 68.63 		Best: 631.17 		N:9
+Wingfield      		Mean: 62.09 		Best: 631.72 		N:10
+Hamilton       		Mean: 94.29 		Best: 621.02 		N:6
+Prideaux       		Mean: 92.26 		Best: 571.22 		N:6
+Bostick        		Mean: 55.37 		Best: 571.12 		N:10
+Wilson         		Mean: 59.28 		Best: 430.8 		N:7
+Hubble         		Mean: 45.56 		Best: 416.07 		N:9
+Libby          		Mean: 81.52 		Best: 414.28 		N:5
+Rafter         		Mean: 57.83 		Best: 414.98 		N:7
+
+########## REPORT GEN: 80 ##########
+SPECIES: 
+Rafter         		Mean: 65.62 		Best: 1281.82 		N:9
+Munnis         		Mean: 62.21 		Best: 1206.3 		N:8
+Libby          		Mean: 73.86 		Best: 1172.22 		N:7
+Kirkwood       		Mean: 50.61 		Best: 847.89 		N:12
+Taylor         		Mean: 54.65 		Best: 767.16 		N:12
+Montoya        		Mean: 60.13 		Best: 696.04 		N:10
+Wagner         		Mean: 62.38 		Best: 694.01 		N:10
+Platt          		Mean: 79.88 		Best: 690.93 		N:8
+Ogden          		Mean: 103.43 		Best: 636.33 		N:6
+Wingfield      		Mean: 56.53 		Best: 631.31 		N:10
+Prideaux       		Mean: 62.34 		Best: 582.33 		N:9
+Bostick        		Mean: 62.51 		Best: 571.22 		N:9
+Hubble         		Mean: 71.3 		Best: 570.19 		N:6
+Hamilton       		Mean: 91.73 		Best: 562.71 		N:6
+Dixon          		Mean: 101.94 		Best: 431.7 		N:4
+Wilson         		Mean: 206.43 		Best: 416.29 		N:2
+Thomas         		Mean: 35.69 		Best: 416.06 		N:11
+
+########## REPORT GEN: 81 ##########
+SPECIES: 
+Rafter         		Mean: 66.33 		Best: 1277.82 		N:8
+Dixon          		Mean: 89.19 		Best: 1181.32 		N:6
+Munnis         		Mean: 198.49 		Best: 1155.99 		N:4
+Taylor         		Mean: 108.67 		Best: 759.96 		N:6
+Montoya        		Mean: 90.28 		Best: 703.9 		N:7
+Platt          		Mean: 79.39 		Best: 694.52 		N:8
+Wagner         		Mean: 122.87 		Best: 693.36 		N:5
+Ogden          		Mean: 61.54 		Best: 639.48 		N:10
+Hamilton       		Mean: 56.1 		Best: 633.35 		N:10
+Hubble         		Mean: 60.14 		Best: 631.89 		N:7
+Wingfield      		Mean: 122.31 		Best: 629.69 		N:5
+Prideaux       		Mean: 82.23 		Best: 628.18 		N:7
+Bostick        		Mean: 49.36 		Best: 542.54 		N:11
+Thomas         		Mean: 38.67 		Best: 416.42 		N:10
+Kirkwood       		Mean: 81.87 		Best: 415.58 		N:5
+Wilson         		Mean: 100.04 		Best: 410.94 		N:4
+Libby          		Mean: 42.13 		Best: 377.61 		N:9
+
+########## REPORT GEN: 82 ##########
+SPECIES: 
+Libby          		Mean: 107.45 		Best: 1320.96 		N:7
+Rafter         		Mean: 68.62 		Best: 1248.91 		N:9
+Munnis         		Mean: 151.57 		Best: 1155.17 		N:4
+Wilson         		Mean: 70.6 		Best: 1012.24 		N:7
+Goad           		Mean: 419.04 		Best: 846.42 		N:2
+Barrett        		Mean: 91.09 		Best: 750.18 		N:7
+Wingfield      		Mean: 62.12 		Best: 694.58 		N:10
+Montoya        		Mean: 104.92 		Best: 694.56 		N:6
+Bostick        		Mean: 114.0 		Best: 632.5 		N:5
+Wagner         		Mean: 100.61 		Best: 631.38 		N:6
+Platt          		Mean: 148.86 		Best: 630.64 		N:4
+Ogden          		Mean: 120.73 		Best: 630.15 		N:5
+Hamilton       		Mean: 187.41 		Best: 571.08 		N:3
+Prideaux       		Mean: 78.71 		Best: 570.86 		N:7
+Kirkwood       		Mean: 97.57 		Best: 411.56 		N:4
+Thomas         		Mean: 202.05 		Best: 411.15 		N:2
+Hubble         		Mean: 126.86 		Best: 377.46 		N:3
+Dixon          		Mean: 76.07 		Best: 377.73 		N:5
+
+########## REPORT GEN: 83 ##########
+SPECIES: 
+Dixon          		Mean: 87.85 		Best: 1277.93 		N:8
+Thomas         		Mean: 229.78 		Best: 1215.83 		N:3
+Munnis         		Mean: 89.23 		Best: 1197.25 		N:6
+Rafter         		Mean: 78.3 		Best: 1167.81 		N:7
+Hubble         		Mean: 387.0 		Best: 1161.89 		N:3
+Wilson         		Mean: 64.73 		Best: 1016.74 		N:10
+Libby          		Mean: 74.69 		Best: 696.17 		N:6
+Wingfield      		Mean: 127.15 		Best: 693.19 		N:5
+Montoya        		Mean: 76.07 		Best: 690.88 		N:8
+Ogden          		Mean: 65.97 		Best: 634.54 		N:9
+Barrett        		Mean: 150.8 		Best: 631.55 		N:4
+Platt          		Mean: 99.09 		Best: 631.3 		N:6
+Hamilton       		Mean: 115.29 		Best: 630.37 		N:5
+Wagner         		Mean: 121.13 		Best: 629.64 		N:5
+Prideaux       		Mean: 79.95 		Best: 571.22 		N:7
+Bostick        		Mean: 109.61 		Best: 570.27 		N:5
+Kirkwood       		Mean: 103.01 		Best: 499.23 		N:4
+
+########## REPORT GEN: 84 ##########
+SPECIES: 
+Thomas         		Mean: 203.58 		Best: 1279.18 		N:4
+Libby          		Mean: 247.79 		Best: 1217.88 		N:4
+Rafter         		Mean: 98.39 		Best: 1166.37 		N:8
+Dixon          		Mean: 334.94 		Best: 1158.36 		N:3
+Kirkwood       		Mean: 81.64 		Best: 894.94 		N:6
+Barrett        		Mean: 160.61 		Best: 761.01 		N:4
+Rowlands       		Mean: 108.29 		Best: 749.89 		N:6
+Wingfield      		Mean: 104.13 		Best: 693.35 		N:6
+Platt          		Mean: 221.33 		Best: 690.85 		N:3
+Montoya        		Mean: 97.98 		Best: 630.62 		N:6
+Ogden          		Mean: 86.54 		Best: 630.34 		N:7
+Bostick        		Mean: 293.16 		Best: 630.09 		N:2
+Wagner         		Mean: 96.46 		Best: 592.06 		N:6
+Prideaux       		Mean: 93.52 		Best: 571.14 		N:6
+Hamilton       		Mean: 135.09 		Best: 546.97 		N:4
+Munnis         		Mean: 64.91 		Best: 408.08 		N:6
+Wilson         		Mean: 96.41 		Best: 385.91 		N:4
+Hubble         		Mean: 127.04 		Best: 377.24 		N:3
+
+########## REPORT GEN: 85 ##########
+SPECIES: 
+Thomas         		Mean: 86.74 		Best: 1278.12 		N:9
+Hubble         		Mean: 165.07 		Best: 1278.0 		N:6
+Rafter         		Mean: 105.56 		Best: 1246.52 		N:7
+Libby          		Mean: 107.31 		Best: 1154.74 		N:6
+Dixon          		Mean: 190.92 		Best: 1155.99 		N:5
+Kirkwood       		Mean: 67.97 		Best: 1017.37 		N:7
+Barrett        		Mean: 58.68 		Best: 761.08 		N:11
+Rowlands       		Mean: 231.98 		Best: 739.97 		N:3
+Wagner         		Mean: 146.48 		Best: 696.08 		N:4
+Ogden          		Mean: 74.28 		Best: 693.37 		N:8
+Montoya        		Mean: 121.59 		Best: 690.93 		N:5
+Wingfield      		Mean: 146.8 		Best: 635.91 		N:4
+Hamilton       		Mean: 111.3 		Best: 571.22 		N:5
+Platt          		Mean: 93.28 		Best: 570.86 		N:6
+Bostick        		Mean: 93.18 		Best: 569.94 		N:6
+Prideaux       		Mean: 179.58 		Best: 540.9 		N:3
+Wilson         		Mean: 221.32 		Best: 498.57 		N:2
+Munnis         		Mean: 95.57 		Best: 378.52 		N:4
+
+########## REPORT GEN: 86 ##########
+SPECIES: 
+Munnis         		Mean: 74.27 		Best: 1281.63 		N:10
+Thomas         		Mean: 80.09 		Best: 1280.33 		N:9
+Rafter         		Mean: 87.5 		Best: 1158.86 		N:7
+Dixon          		Mean: 57.05 		Best: 1154.68 		N:11
+Libby          		Mean: 124.4 		Best: 1153.89 		N:5
+Wilson         		Mean: 108.51 		Best: 985.63 		N:5
+Rowlands       		Mean: 171.11 		Best: 763.03 		N:4
+Hubble         		Mean: 170.67 		Best: 748.27 		N:3
+Barrett        		Mean: 101.43 		Best: 747.95 		N:7
+Ogden          		Mean: 59.09 		Best: 720.96 		N:10
+Platt          		Mean: 66.93 		Best: 691.8 		N:9
+Wingfield      		Mean: 81.32 		Best: 690.48 		N:7
+Bostick        		Mean: 81.53 		Best: 625.34 		N:7
+Montoya        		Mean: 140.8 		Best: 570.43 		N:4
+Gamba          		Mean: 94.45 		Best: 570.38 		N:6
+Wagner         		Mean: 110.05 		Best: 564.2 		N:5
+Prideaux       		Mean: 135.8 		Best: 540.85 		N:4
+Kirkwood       		Mean: 132.01 		Best: 415.84 		N:3
+
+########## REPORT GEN: 87 ##########
+SPECIES: 
+Munnis         		Mean: 56.82 		Best: 1268.98 		N:12
+Dixon          		Mean: 74.57 		Best: 1246.26 		N:8
+Libby          		Mean: 72.35 		Best: 1166.37 		N:7
+Thomas         		Mean: 480.52 		Best: 1165.24 		N:2
+Hubble         		Mean: 216.88 		Best: 1156.61 		N:3
+Kirkwood       		Mean: 41.02 		Best: 910.88 		N:11
+Rowlands       		Mean: 56.32 		Best: 762.75 		N:12
+Rafter         		Mean: 80.3 		Best: 748.27 		N:6
+Barrett        		Mean: 172.25 		Best: 747.82 		N:4
+Wagner         		Mean: 57.26 		Best: 692.86 		N:10
+Prideaux       		Mean: 121.79 		Best: 692.35 		N:5
+Platt          		Mean: 58.0 		Best: 690.93 		N:10
+Montoya        		Mean: 198.5 		Best: 631.31 		N:3
+Gamba          		Mean: 95.86 		Best: 612.67 		N:6
+Ogden          		Mean: 55.27 		Best: 592.08 		N:10
+Wingfield      		Mean: 111.37 		Best: 570.93 		N:5
+Bostick        		Mean: 136.58 		Best: 548.78 		N:4
+Wilson         		Mean: 131.54 		Best: 410.77 		N:3
+
+########## REPORT GEN: 88 ##########
+SPECIES: 
+Libby          		Mean: 90.58 		Best: 1278.81 		N:7
+Dixon          		Mean: 531.26 		Best: 1266.43 		N:2
+Munnis         		Mean: 147.58 		Best: 1180.61 		N:4
+Hubble         		Mean: 91.87 		Best: 1158.37 		N:7
+Rafter         		Mean: 97.0 		Best: 1156.89 		N:6
+Thomas         		Mean: 153.11 		Best: 1155.56 		N:5
+Wilson         		Mean: 101.77 		Best: 937.62 		N:5
+Rowlands       		Mean: 67.92 		Best: 765.8 		N:10
+Barrett        		Mean: 166.31 		Best: 761.37 		N:4
+Gamba          		Mean: 44.42 		Best: 692.32 		N:13
+Platt          		Mean: 75.95 		Best: 690.93 		N:8
+Wagner         		Mean: 94.33 		Best: 690.44 		N:6
+Wingfield      		Mean: 111.84 		Best: 592.32 		N:5
+Prideaux       		Mean: 80.93 		Best: 591.48 		N:7
+Montoya        		Mean: 191.8 		Best: 584.5 		N:3
+Ogden          		Mean: 110.92 		Best: 570.77 		N:5
+Bostick        		Mean: 182.61 		Best: 543.3 		N:3
+Kirkwood       		Mean: 63.72 		Best: 386.77 		N:6
+
+########## REPORT GEN: 89 ##########
+SPECIES: 
+Munnis         		Mean: 111.68 		Best: 1278.43 		N:6
+Hubble         		Mean: 55.47 		Best: 1256.7 		N:10
+Thomas         		Mean: 100.47 		Best: 1240.06 		N:7
+Libby          		Mean: 95.13 		Best: 1161.82 		N:7
+Wilson         		Mean: 195.75 		Best: 948.55 		N:3
+Rafter         		Mean: 77.68 		Best: 839.43 		N:6
+Bostick        		Mean: 103.33 		Best: 766.01 		N:6
+Rowlands       		Mean: 98.86 		Best: 765.05 		N:7
+Montoya        		Mean: 83.45 		Best: 692.58 		N:7
+Wingfield      		Mean: 143.71 		Best: 692.32 		N:4
+Barrett        		Mean: 101.27 		Best: 631.57 		N:6
+Prideaux       		Mean: 78.75 		Best: 572.29 		N:7
+Platt          		Mean: 177.92 		Best: 571.26 		N:3
+Ogden          		Mean: 111.37 		Best: 570.82 		N:5
+Gamba          		Mean: 68.42 		Best: 555.85 		N:8
+Wagner         		Mean: 135.76 		Best: 540.9 		N:4
+Kirkwood       		Mean: 66.56 		Best: 416.03 		N:6
+Dixon          		Mean: 199.35 		Best: 408.76 		N:2
+
+########## REPORT GEN: 90 ##########
+SPECIES: 
+Libby          		Mean: 90.56 		Best: 1280.39 		N:7
+Hubble         		Mean: 86.13 		Best: 1280.05 		N:7
+Rafter         		Mean: 104.38 		Best: 1199.22 		N:7
+Wilson         		Mean: 50.77 		Best: 904.36 		N:9
+Munnis         		Mean: 49.15 		Best: 841.85 		N:9
+Barrett        		Mean: 64.17 		Best: 766.4 		N:10
+Bostick        		Mean: 117.68 		Best: 765.88 		N:5
+Prideaux       		Mean: 82.58 		Best: 692.88 		N:7
+Platt          		Mean: 94.92 		Best: 691.82 		N:6
+Rowlands       		Mean: 156.24 		Best: 631.55 		N:4
+Wingfield      		Mean: 69.27 		Best: 596.05 		N:8
+Montoya        		Mean: 95.59 		Best: 584.76 		N:6
+Ogden          		Mean: 79.13 		Best: 571.21 		N:7
+Wagner         		Mean: 69.0 		Best: 571.04 		N:8
+Dixon          		Mean: 108.57 		Best: 570.8 		N:4
+Gamba          		Mean: 89.53 		Best: 547.01 		N:6
+Thomas         		Mean: 126.91 		Best: 377.86 		N:3
+
+########## REPORT GEN: 91 ##########
+SPECIES: 
+Libby          		Mean: 73.57 		Best: 1281.29 		N:7
+Hubble         		Mean: 122.48 		Best: 1276.08 		N:6
+Rafter         		Mean: 108.66 		Best: 1200.61 		N:6
+Munnis         		Mean: 43.63 		Best: 1160.92 		N:11
+Dixon          		Mean: 147.16 		Best: 1158.07 		N:5
+Kirkwood       		Mean: 192.65 		Best: 958.84 		N:3
+Rowlands       		Mean: 78.88 		Best: 767.33 		N:8
+Prideaux       		Mean: 81.82 		Best: 716.08 		N:7
+Wagner         		Mean: 95.64 		Best: 692.48 		N:6
+Ogden          		Mean: 62.65 		Best: 692.23 		N:9
+Platt          		Mean: 100.24 		Best: 690.92 		N:6
+Barrett        		Mean: 123.47 		Best: 631.42 		N:5
+Montoya        		Mean: 70.28 		Best: 630.49 		N:8
+Gamba          		Mean: 138.2 		Best: 628.24 		N:4
+Wingfield      		Mean: 140.26 		Best: 596.31 		N:4
+Bostick        		Mean: 67.57 		Best: 595.7 		N:8
+Wilson         		Mean: 127.69 		Best: 386.72 		N:3
+Thomas         		Mean: 75.75 		Best: 377.67 		N:5
+
+########## REPORT GEN: 92 ##########
+SPECIES: 
+Rafter         		Mean: 70.05 		Best: 1273.37 		N:9
+Hubble         		Mean: 60.94 		Best: 1196.8 		N:8
+Munnis         		Mean: 109.03 		Best: 1166.93 		N:5
+Libby          		Mean: 56.71 		Best: 1158.96 		N:10
+Dixon          		Mean: 194.4 		Best: 1155.4 		N:4
+Wilson         		Mean: 66.98 		Best: 982.24 		N:7
+Thomas         		Mean: 68.14 		Best: 887.33 		N:8
+Rowlands       		Mean: 62.85 		Best: 767.34 		N:10
+Ogden          		Mean: 201.6 		Best: 716.08 		N:3
+Bostick        		Mean: 148.85 		Best: 715.99 		N:4
+Gamba          		Mean: 63.11 		Best: 694.43 		N:9
+Prideaux       		Mean: 49.52 		Best: 693.21 		N:11
+Platt          		Mean: 117.49 		Best: 691.83 		N:5
+Wagner         		Mean: 62.01 		Best: 687.69 		N:9
+Barrett        		Mean: 100.5 		Best: 631.54 		N:6
+Montoya        		Mean: 71.55 		Best: 631.43 		N:8
+Wingfield      		Mean: 192.69 		Best: 628.14 		N:3
+Kirkwood       		Mean: 76.47 		Best: 384.7 		N:5
+
+########## REPORT GEN: 93 ##########
+SPECIES: 
+Hubble         		Mean: 88.67 		Best: 1255.82 		N:9
+Libby          		Mean: 86.1 		Best: 1157.6 		N:6
+Thomas         		Mean: 50.6 		Best: 1153.93 		N:10
+Dixon          		Mean: 65.13 		Best: 1140.82 		N:9
+Wilson         		Mean: 55.87 		Best: 922.81 		N:9
+Barrett        		Mean: 124.29 		Best: 767.35 		N:5
+Wagner         		Mean: 104.37 		Best: 716.08 		N:6
+Ogden          		Mean: 119.59 		Best: 715.34 		N:5
+Gamba          		Mean: 62.07 		Best: 705.43 		N:9
+Bostick        		Mean: 81.05 		Best: 694.21 		N:7
+Platt          		Mean: 81.98 		Best: 690.99 		N:7
+Rowlands       		Mean: 75.0 		Best: 631.43 		N:8
+Prideaux       		Mean: 138.94 		Best: 592.71 		N:4
+Montoya        		Mean: 68.57 		Best: 584.54 		N:8
+Wingfield      		Mean: 130.62 		Best: 539.38 		N:4
+Kirkwood       		Mean: 190.84 		Best: 381.4 		N:2
+Rafter         		Mean: 188.96 		Best: 377.43 		N:2
+Munnis         		Mean: 189.52 		Best: 377.23 		N:2
+
+########## REPORT GEN: 94 ##########
+SPECIES: 
+Hubble         		Mean: 113.46 		Best: 1277.17 		N:5
+Rafter         		Mean: 121.89 		Best: 1169.16 		N:6
+Thomas         		Mean: 85.95 		Best: 1161.19 		N:6
+Dixon          		Mean: 60.27 		Best: 1157.5 		N:8
+Munnis         		Mean: 390.25 		Best: 1157.04 		N:2
+Kirkwood       		Mean: 98.49 		Best: 919.6 		N:5
+Rowlands       		Mean: 51.62 		Best: 765.8 		N:12
+Montoya        		Mean: 82.46 		Best: 722.91 		N:7
+Bostick        		Mean: 57.14 		Best: 716.07 		N:10
+Wingfield      		Mean: 56.88 		Best: 716.06 		N:10
+Gamba          		Mean: 116.85 		Best: 705.67 		N:5
+Ogden          		Mean: 96.27 		Best: 687.11 		N:6
+Wagner         		Mean: 69.68 		Best: 686.38 		N:8
+Platt          		Mean: 143.66 		Best: 631.43 		N:4
+Barrett        		Mean: 305.93 		Best: 631.41 		N:2
+Prideaux       		Mean: 134.39 		Best: 547.72 		N:4
+Wilson         		Mean: 127.86 		Best: 384.7 		N:3
+Libby          		Mean: 94.46 		Best: 377.16 		N:4
+
+########## REPORT GEN: 95 ##########
+SPECIES: 
+Munnis         		Mean: 112.62 		Best: 1278.71 		N:6
+Hubble         		Mean: 86.25 		Best: 1164.74 		N:6
+Libby          		Mean: 80.74 		Best: 1164.49 		N:7
+Thomas         		Mean: 108.33 		Best: 1156.68 		N:5
+Dixon          		Mean: 68.3 		Best: 1040.33 		N:7
+Kirkwood       		Mean: 65.63 		Best: 907.41 		N:7
+Barrett        		Mean: 107.39 		Best: 766.8 		N:6
+Prideaux       		Mean: 43.87 		Best: 750.4 		N:13
+Gamba          		Mean: 92.62 		Best: 716.08 		N:6
+Platt          		Mean: 81.34 		Best: 691.87 		N:7
+Wingfield      		Mean: 60.92 		Best: 685.66 		N:9
+Rowlands       		Mean: 149.56 		Best: 638.1 		N:4
+Montoya        		Mean: 94.36 		Best: 631.41 		N:6
+Wagner         		Mean: 130.27 		Best: 540.9 		N:4
+Ogden          		Mean: 263.22 		Best: 540.86 		N:2
+Rafter         		Mean: 98.21 		Best: 414.94 		N:4
+Wilson         		Mean: 76.3 		Best: 386.38 		N:5
+
+########## REPORT GEN: 96 ##########
+SPECIES: 
+Thomas         		Mean: 147.35 		Best: 1183.62 		N:4
+Dixon          		Mean: 107.94 		Best: 1161.04 		N:6
+Hubble         		Mean: 54.17 		Best: 1156.24 		N:10
+Munnis         		Mean: 216.45 		Best: 1155.83 		N:3
+Wilson         		Mean: 136.08 		Best: 1020.62 		N:4
+Barrett        		Mean: 103.83 		Best: 765.86 		N:6
+Gamba          		Mean: 119.34 		Best: 740.0 		N:5
+Bostick        		Mean: 77.16 		Best: 715.93 		N:8
+Platt          		Mean: 111.75 		Best: 690.98 		N:5
+Montoya        		Mean: 114.07 		Best: 631.43 		N:5
+Rowlands       		Mean: 74.76 		Best: 631.43 		N:8
+Wingfield      		Mean: 141.45 		Best: 595.45 		N:4
+Prideaux       		Mean: 131.29 		Best: 562.95 		N:4
+Ogden          		Mean: 104.78 		Best: 562.84 		N:5
+Wagner         		Mean: 168.05 		Best: 508.24 		N:3
+Rafter         		Mean: 77.99 		Best: 410.98 		N:5
+Kirkwood       		Mean: 95.51 		Best: 385.44 		N:4
+Libby          		Mean: 75.92 		Best: 377.74 		N:5
+
+########## REPORT GEN: 97 ##########
+SPECIES: 
+Munnis         		Mean: 63.78 		Best: 1278.28 		N:9
+Libby          		Mean: 71.78 		Best: 1236.69 		N:9
+Wilson         		Mean: 46.37 		Best: 1192.1 		N:11
+Rafter         		Mean: 85.79 		Best: 1155.91 		N:6
+Rowlands       		Mean: 157.21 		Best: 766.52 		N:4
+Bostick        		Mean: 45.77 		Best: 715.92 		N:12
+Gamba          		Mean: 72.34 		Best: 708.65 		N:8
+Platt          		Mean: 52.37 		Best: 691.9 		N:11
+Montoya        		Mean: 111.75 		Best: 631.43 		N:5
+Barrett        		Mean: 75.4 		Best: 631.38 		N:8
+Ogden          		Mean: 68.7 		Best: 595.16 		N:8
+Wagner         		Mean: 87.9 		Best: 569.54 		N:6
+Prideaux       		Mean: 175.49 		Best: 550.4 		N:3
+Wingfield      		Mean: 105.05 		Best: 540.53 		N:5
+Dixon          		Mean: 98.11 		Best: 414.44 		N:4
+Kirkwood       		Mean: 95.33 		Best: 380.85 		N:4
+Hubble         		Mean: 63.02 		Best: 377.74 		N:6
+Thomas         		Mean: 189.2 		Best: 377.15 		N:2
+
+########## REPORT GEN: 98 ##########
+SPECIES: 
+Munnis         		Mean: 90.78 		Best: 1288.74 		N:6
+Libby          		Mean: 73.73 		Best: 1219.44 		N:8
+Rafter         		Mean: 63.69 		Best: 1160.16 		N:8
+Hubble         		Mean: 108.55 		Best: 1159.54 		N:5
+Dixon          		Mean: 147.36 		Best: 1154.9 		N:4
+Rowlands       		Mean: 123.41 		Best: 767.12 		N:5
+Wagner         		Mean: 49.56 		Best: 741.06 		N:11
+Bostick        		Mean: 92.15 		Best: 708.27 		N:6
+Platt          		Mean: 118.58 		Best: 692.53 		N:5
+Barrett        		Mean: 66.53 		Best: 631.76 		N:9
+Montoya        		Mean: 53.18 		Best: 584.55 		N:10
+Ogden          		Mean: 86.82 		Best: 569.63 		N:6
+Prideaux       		Mean: 131.49 		Best: 546.94 		N:4
+Gamba          		Mean: 73.86 		Best: 540.64 		N:7
+Wingfield      		Mean: 86.77 		Best: 539.11 		N:6
+Kirkwood       		Mean: 38.31 		Best: 385.45 		N:10
+Wilson         		Mean: 190.45 		Best: 380.56 		N:2
+Thomas         		Mean: 63.13 		Best: 377.34 		N:6
+
+########## REPORT GEN: 99 ##########
+SPECIES: 
+Thomas         		Mean: 91.56 		Best: 1280.45 		N:6
+Dixon          		Mean: 75.25 		Best: 1272.54 		N:8
+Hubble         		Mean: 73.16 		Best: 1267.85 		N:7
+Munnis         		Mean: 109.57 		Best: 1206.66 		N:6
+Rafter         		Mean: 109.52 		Best: 1152.3 		N:5
+Rowlands       		Mean: 93.52 		Best: 767.24 		N:7
+Wagner         		Mean: 60.07 		Best: 740.43 		N:9
+Wingfield      		Mean: 61.52 		Best: 716.08 		N:9
+Gamba          		Mean: 68.64 		Best: 705.33 		N:8
+Montoya        		Mean: 71.02 		Best: 690.92 		N:8
+Barrett        		Mean: 66.1 		Best: 631.53 		N:9
+Platt          		Mean: 80.67 		Best: 631.42 		N:7
+Bostick        		Mean: 86.71 		Best: 570.37 		N:6
+Prideaux       		Mean: 102.85 		Best: 524.0 		N:5
+Ogden          		Mean: 127.64 		Best: 513.83 		N:4
+Kirkwood       		Mean: 77.43 		Best: 409.74 		N:5
+Wilson         		Mean: 95.36 		Best: 380.81 		N:4
+Libby          		Mean: 37.89 		Best: 377.74 		N:10
+
+########## REPORT GEN: 100 ##########
+SPECIES: 
+Munnis         		Mean: 74.77 		Best: 1282.22 		N:8
+Hubble         		Mean: 34.07 		Best: 1281.94 		N:16
+Dixon          		Mean: 93.18 		Best: 1281.47 		N:7
+Libby          		Mean: 99.56 		Best: 1280.86 		N:8
+Thomas         		Mean: 129.82 		Best: 1166.2 		N:6
+Barrett        		Mean: 61.56 		Best: 767.26 		N:10
+Gamba          		Mean: 71.73 		Best: 741.07 		N:8
+Wingfield      		Mean: 77.31 		Best: 739.94 		N:7
+Bostick        		Mean: 49.55 		Best: 708.19 		N:11
+Montoya        		Mean: 97.95 		Best: 695.25 		N:6
+Platt          		Mean: 60.57 		Best: 691.05 		N:9
+Rowlands       		Mean: 119.62 		Best: 638.12 		N:5
+Wagner         		Mean: 74.82 		Best: 569.65 		N:7
+Ogden          		Mean: 104.93 		Best: 563.64 		N:5
+Prideaux       		Mean: 84.13 		Best: 520.18 		N:6
+Kirkwood       		Mean: 67.37 		Best: 475.0 		N:6
+Wilson         		Mean: 43.48 		Best: 416.14 		N:9
+Rafter         		Mean: 77.9 		Best: 408.56 		N:5
+
+########## REPORT GEN: 101 ##########
+SPECIES: 
+Rafter         		Mean: 63.89 		Best: 1282.4 		N:11
+Thomas         		Mean: 40.76 		Best: 1279.82 		N:14
+Munnis         		Mean: 46.49 		Best: 1158.46 		N:10
+Libby          		Mean: 103.2 		Best: 1156.03 		N:7
+Rowlands       		Mean: 90.05 		Best: 766.19 		N:7
+Ogden          		Mean: 64.14 		Best: 739.89 		N:9
+Prideaux       		Mean: 90.41 		Best: 705.33 		N:6
+Bostick        		Mean: 67.54 		Best: 705.32 		N:8
+Wagner         		Mean: 113.34 		Best: 697.28 		N:5
+Platt          		Mean: 52.91 		Best: 690.98 		N:11
+Montoya        		Mean: 111.78 		Best: 631.29 		N:5
+Wingfield      		Mean: 48.55 		Best: 585.15 		N:11
+Barrett        		Mean: 63.9 		Best: 584.5 		N:9
+Gamba          		Mean: 88.07 		Best: 571.39 		N:6
+Wilson         		Mean: 69.76 		Best: 561.31 		N:6
+Kirkwood       		Mean: 82.34 		Best: 480.08 		N:5
+Dixon          		Mean: 48.89 		Best: 414.83 		N:8
+Hubble         		Mean: 78.05 		Best: 411.02 		N:5
+
+########## REPORT GEN: 102 ##########
+SPECIES: 
+Munnis         		Mean: 71.75 		Best: 1284.99 		N:10
+Thomas         		Mean: 62.25 		Best: 1278.04 		N:8
+Rafter         		Mean: 113.97 		Best: 1276.43 		N:6
+Hubble         		Mean: 147.97 		Best: 1161.18 		N:4
+Dixon          		Mean: 37.37 		Best: 1154.78 		N:12
+Montoya        		Mean: 76.3 		Best: 1069.18 		N:8
+Barrett        		Mean: 66.37 		Best: 765.8 		N:9
+Wagner         		Mean: 83.47 		Best: 741.09 		N:7
+Ogden          		Mean: 69.58 		Best: 708.44 		N:8
+Wingfield      		Mean: 48.32 		Best: 707.49 		N:11
+Gamba          		Mean: 61.1 		Best: 705.24 		N:9
+Platt          		Mean: 78.47 		Best: 690.98 		N:7
+Rowlands       		Mean: 72.51 		Best: 631.43 		N:8
+Kirkwood       		Mean: 46.7 		Best: 592.23 		N:9
+Prideaux       		Mean: 74.88 		Best: 556.68 		N:7
+Bostick        		Mean: 86.67 		Best: 550.03 		N:6
+Wilson         		Mean: 57.55 		Best: 483.74 		N:7
+Libby          		Mean: 94.84 		Best: 377.17 		N:4
+
+########## REPORT GEN: 103 ##########
+SPECIES: 
+Dixon          		Mean: 89.65 		Best: 1281.51 		N:6
+Rafter         		Mean: 70.76 		Best: 1280.62 		N:11
+Hubble         		Mean: 62.88 		Best: 1280.39 		N:8
+Munnis         		Mean: 87.0 		Best: 1156.68 		N:6
+Platt          		Mean: 55.19 		Best: 1020.3 		N:11
+Wingfield      		Mean: 66.13 		Best: 767.69 		N:9
+Rowlands       		Mean: 76.26 		Best: 767.09 		N:8
+Ogden          		Mean: 77.02 		Best: 715.93 		N:7
+Gamba          		Mean: 50.59 		Best: 715.82 		N:11
+Barrett        		Mean: 83.63 		Best: 631.41 		N:7
+Wilson         		Mean: 75.19 		Best: 588.91 		N:6
+Montoya        		Mean: 108.58 		Best: 584.51 		N:5
+Bostick        		Mean: 86.25 		Best: 566.14 		N:6
+Wagner         		Mean: 74.77 		Best: 558.74 		N:7
+Prideaux       		Mean: 127.25 		Best: 509.76 		N:4
+Thomas         		Mean: 64.78 		Best: 412.6 		N:6
+Kirkwood       		Mean: 76.55 		Best: 386.14 		N:5
+Libby          		Mean: 34.56 		Best: 378.65 		N:11
+
+########## REPORT GEN: 104 ##########
+SPECIES: 
+Thomas         		Mean: 62.43 		Best: 1274.71 		N:8
+Libby          		Mean: 73.32 		Best: 1178.62 		N:8
+Dixon          		Mean: 72.15 		Best: 1157.43 		N:9
+Montoya        		Mean: 50.34 		Best: 1020.86 		N:12
+Barrett        		Mean: 60.93 		Best: 766.87 		N:10
+Ogden          		Mean: 49.78 		Best: 715.97 		N:11
+Gamba          		Mean: 59.77 		Best: 715.79 		N:9
+Rowlands       		Mean: 83.07 		Best: 631.41 		N:7
+Kirkwood       		Mean: 45.18 		Best: 591.52 		N:10
+Bostick        		Mean: 75.11 		Best: 571.36 		N:7
+Prideaux       		Mean: 73.27 		Best: 560.89 		N:7
+Wagner         		Mean: 105.46 		Best: 551.94 		N:5
+Platt          		Mean: 129.43 		Best: 539.74 		N:4
+Wingfield      		Mean: 83.79 		Best: 514.55 		N:6
+Munnis         		Mean: 77.98 		Best: 416.42 		N:5
+Rafter         		Mean: 64.43 		Best: 383.29 		N:6
+Wilson         		Mean: 76.14 		Best: 381.38 		N:5
+Hubble         		Mean: 42.26 		Best: 378.51 		N:9
+
+########## REPORT GEN: 105 ##########
+SPECIES: 
+Rafter         		Mean: 73.06 		Best: 1254.72 		N:7
+Hubble         		Mean: 85.64 		Best: 1159.29 		N:7
+Munnis         		Mean: 52.41 		Best: 1155.49 		N:9
+Libby          		Mean: 108.48 		Best: 1154.52 		N:5
+Platt          		Mean: 75.36 		Best: 1020.5 		N:8
+Rowlands       		Mean: 54.77 		Best: 767.34 		N:11
+Prideaux       		Mean: 91.35 		Best: 715.46 		N:6
+Wagner         		Mean: 68.23 		Best: 708.02 		N:8
+Gamba          		Mean: 77.0 		Best: 630.24 		N:7
+Kirkwood       		Mean: 51.93 		Best: 584.76 		N:8
+Barrett        		Mean: 115.49 		Best: 584.54 		N:5
+Montoya        		Mean: 88.05 		Best: 570.34 		N:6
+Ogden          		Mean: 39.93 		Best: 543.11 		N:13
+Wingfield      		Mean: 85.02 		Best: 523.95 		N:6
+Bostick        		Mean: 83.38 		Best: 508.69 		N:6
+Wilson         		Mean: 65.28 		Best: 443.9 		N:6
+Dixon          		Mean: 48.4 		Best: 410.75 		N:8
+Thomas         		Mean: 54.41 		Best: 377.9 		N:7
+
+########## REPORT GEN: 106 ##########
+SPECIES: 
+Thomas         		Mean: 110.35 		Best: 1280.97 		N:6
+Munnis         		Mean: 41.53 		Best: 1166.31 		N:11
+Hubble         		Mean: 73.46 		Best: 1156.28 		N:8
+Dixon          		Mean: 46.32 		Best: 1155.47 		N:10
+Montoya        		Mean: 104.36 		Best: 1121.74 		N:6
+Rowlands       		Mean: 75.75 		Best: 767.02 		N:8
+Gamba          		Mean: 50.21 		Best: 765.85 		N:11
+Barrett        		Mean: 73.42 		Best: 631.43 		N:8
+Bostick        		Mean: 52.16 		Best: 622.74 		N:10
+Kirkwood       		Mean: 60.72 		Best: 586.34 		N:7
+Platt          		Mean: 44.51 		Best: 570.81 		N:12
+Prideaux       		Mean: 74.05 		Best: 556.45 		N:7
+Ogden          		Mean: 46.61 		Best: 553.83 		N:11
+Wingfield      		Mean: 127.04 		Best: 542.97 		N:4
+Wagner         		Mean: 83.99 		Best: 511.77 		N:6
+Libby          		Mean: 198.79 		Best: 410.61 		N:2
+Wilson         		Mean: 75.98 		Best: 379.03 		N:5
+Rafter         		Mean: 54.33 		Best: 377.96 		N:7
+
+########## REPORT GEN: 107 ##########
+SPECIES: 
+Dixon          		Mean: 230.58 		Best: 1279.61 		N:3
+Thomas         		Mean: 87.71 		Best: 1169.75 		N:7
+Hubble         		Mean: 52.49 		Best: 1165.38 		N:9
+Libby          		Mean: 41.73 		Best: 1150.34 		N:11
+Platt          		Mean: 88.14 		Best: 1041.89 		N:7
+Barrett        		Mean: 125.06 		Best: 767.22 		N:5
+Gamba          		Mean: 70.5 		Best: 765.91 		N:8
+Rowlands       		Mean: 58.7 		Best: 631.43 		N:10
+Wingfield      		Mean: 134.33 		Best: 629.25 		N:4
+Bostick        		Mean: 58.01 		Best: 585.28 		N:9
+Wilson         		Mean: 59.43 		Best: 584.77 		N:7
+Ogden          		Mean: 103.37 		Best: 570.77 		N:5
+Montoya        		Mean: 53.45 		Best: 570.35 		N:10
+Wagner         		Mean: 57.71 		Best: 546.54 		N:9
+Prideaux       		Mean: 126.73 		Best: 506.77 		N:4
+Kirkwood       		Mean: 56.57 		Best: 432.86 		N:7
+Munnis         		Mean: 95.04 		Best: 377.9 		N:4
+Rafter         		Mean: 95.25 		Best: 378.07 		N:4
+
+########## REPORT GEN: 108 ##########
+SPECIES: 
+Thomas         		Mean: 62.38 		Best: 1280.55 		N:8
+Dixon          		Mean: 65.51 		Best: 1279.18 		N:9
+Hubble         		Mean: 60.53 		Best: 1160.24 		N:8
+Munnis         		Mean: 108.61 		Best: 1157.25 		N:5
+Rafter         		Mean: 148.17 		Best: 1154.54 		N:4
+Platt          		Mean: 84.61 		Best: 1021.39 		N:7
+Wagner         		Mean: 53.88 		Best: 765.94 		N:10
+Rowlands       		Mean: 67.84 		Best: 765.66 		N:9
+Barrett        		Mean: 100.12 		Best: 664.61 		N:6
+Wingfield      		Mean: 76.63 		Best: 631.53 		N:7
+Prideaux       		Mean: 58.54 		Best: 622.7 		N:9
+Wilson         		Mean: 52.97 		Best: 584.82 		N:8
+Bostick        		Mean: 103.21 		Best: 570.19 		N:5
+Montoya        		Mean: 88.07 		Best: 570.08 		N:6
+Ogden          		Mean: 73.84 		Best: 536.48 		N:7
+Gamba          		Mean: 170.11 		Best: 510.13 		N:3
+Kirkwood       		Mean: 189.85 		Best: 378.93 		N:2
+Libby          		Mean: 63.53 		Best: 377.44 		N:6
+
+########## REPORT GEN: 109 ##########
+SPECIES: 
+Thomas         		Mean: 90.86 		Best: 1270.73 		N:7
+Hubble         		Mean: 89.98 		Best: 1233.52 		N:7
+Libby          		Mean: 62.47 		Best: 1155.13 		N:9
+Platt          		Mean: 51.91 		Best: 1056.36 		N:11
+Bostick        		Mean: 50.63 		Best: 765.88 		N:11
+Rowlands       		Mean: 89.95 		Best: 765.84 		N:7
+Wagner         		Mean: 65.02 		Best: 629.93 		N:8
+Kirkwood       		Mean: 110.68 		Best: 589.6 		N:4
+Montoya        		Mean: 136.51 		Best: 584.51 		N:4
+Barrett        		Mean: 71.89 		Best: 584.37 		N:8
+Ogden          		Mean: 56.62 		Best: 540.52 		N:9
+Gamba          		Mean: 171.23 		Best: 520.86 		N:3
+Wingfield      		Mean: 167.79 		Best: 513.15 		N:3
+Prideaux       		Mean: 126.24 		Best: 509.61 		N:4
+Rafter         		Mean: 48.26 		Best: 411.33 		N:8
+Dixon          		Mean: 55.22 		Best: 409.47 		N:7
+Wilson         		Mean: 94.92 		Best: 378.72 		N:4
+Munnis         		Mean: 190.66 		Best: 378.33 		N:2
+
+########## REPORT GEN: 110 ##########
+SPECIES: 
+Hubble         		Mean: 113.18 		Best: 1269.9 		N:5
+Thomas         		Mean: 147.95 		Best: 1196.63 		N:4
+Libby          		Mean: 85.03 		Best: 1159.64 		N:7
+Munnis         		Mean: 71.15 		Best: 1156.86 		N:7
+Montoya        		Mean: 103.41 		Best: 1040.22 		N:6
+Platt          		Mean: 84.06 		Best: 817.27 		N:7
+Rowlands       		Mean: 220.52 		Best: 767.35 		N:3
+Wingfield      		Mean: 78.44 		Best: 766.32 		N:7
+Barrett        		Mean: 60.39 		Best: 631.63 		N:10
+Prideaux       		Mean: 66.15 		Best: 629.2 		N:8
+Wilson         		Mean: 47.45 		Best: 586.41 		N:9
+Wagner         		Mean: 86.91 		Best: 572.9 		N:6
+Gamba          		Mean: 102.43 		Best: 522.25 		N:5
+Ogden          		Mean: 255.24 		Best: 510.36 		N:2
+Bostick        		Mean: 84.6 		Best: 506.96 		N:6
+Kirkwood       		Mean: 54.03 		Best: 378.91 		N:7
+Rafter         		Mean: 95.45 		Best: 378.61 		N:4
+Dixon          		Mean: 76.12 		Best: 377.15 		N:5
+
+########## REPORT GEN: 111 ##########
+SPECIES: 
+Libby          		Mean: 153.41 		Best: 1279.56 		N:4
+Rafter         		Mean: 90.98 		Best: 1231.61 		N:7
+Dixon          		Mean: 62.47 		Best: 1156.11 		N:9
+Montoya        		Mean: 78.19 		Best: 1018.24 		N:8
+Barrett        		Mean: 111.72 		Best: 767.33 		N:6
+Gamba          		Mean: 53.6 		Best: 765.96 		N:10
+Rowlands       		Mean: 121.33 		Best: 693.96 		N:5
+Wagner         		Mean: 58.77 		Best: 628.65 		N:9
+Wilson         		Mean: 84.57 		Best: 591.78 		N:5
+Ogden          		Mean: 130.59 		Best: 560.46 		N:4
+Platt          		Mean: 87.86 		Best: 552.42 		N:6
+Wingfield      		Mean: 129.13 		Best: 530.02 		N:4
+Bostick        		Mean: 101.64 		Best: 509.51 		N:5
+Prideaux       		Mean: 125.95 		Best: 507.33 		N:4
+Hubble         		Mean: 55.22 		Best: 410.03 		N:7
+Thomas         		Mean: 64.25 		Best: 408.32 		N:6
+Munnis         		Mean: 42.39 		Best: 378.61 		N:9
+Kirkwood       		Mean: 126.45 		Best: 378.45 		N:3
+
+########## REPORT GEN: 112 ##########
+SPECIES: 
+Rafter         		Mean: 208.44 		Best: 1274.15 		N:4
+Libby          		Mean: 90.99 		Best: 1269.63 		N:7
+Munnis         		Mean: 41.23 		Best: 1159.5 		N:12
+Montoya        		Mean: 99.91 		Best: 1025.34 		N:6
+Rowlands       		Mean: 75.52 		Best: 766.93 		N:8
+Gamba          		Mean: 79.11 		Best: 765.97 		N:7
+Barrett        		Mean: 54.05 		Best: 635.09 		N:11
+Ogden          		Mean: 47.54 		Best: 631.65 		N:11
+Kirkwood       		Mean: 69.89 		Best: 617.57 		N:6
+Platt          		Mean: 76.93 		Best: 569.18 		N:7
+Wingfield      		Mean: 73.9 		Best: 553.66 		N:7
+Wagner         		Mean: 103.5 		Best: 553.46 		N:5
+Bostick        		Mean: 85.13 		Best: 540.82 		N:6
+Prideaux       		Mean: 73.29 		Best: 518.69 		N:7
+Hubble         		Mean: 77.8 		Best: 414.73 		N:5
+Dixon          		Mean: 96.77 		Best: 411.14 		N:4
+Wilson         		Mean: 54.12 		Best: 378.7 		N:7
+Thomas         		Mean: 125.87 		Best: 377.45 		N:3
+
+########## REPORT GEN: 113 ##########
+SPECIES: 
+Munnis         		Mean: 62.9 		Best: 1278.17 		N:8
+Hubble         		Mean: 153.37 		Best: 1273.97 		N:4
+Dixon          		Mean: 60.93 		Best: 1162.47 		N:8
+Rafter         		Mean: 54.41 		Best: 1159.5 		N:10
+Montoya        		Mean: 96.64 		Best: 1151.56 		N:7
+Barrett        		Mean: 78.25 		Best: 767.13 		N:8
+Ogden          		Mean: 79.02 		Best: 765.98 		N:7
+Gamba          		Mean: 106.14 		Best: 637.66 		N:5
+Rowlands       		Mean: 147.17 		Best: 630.46 		N:4
+Wagner         		Mean: 74.27 		Best: 570.66 		N:7
+Platt          		Mean: 58.07 		Best: 551.78 		N:9
+Wingfield      		Mean: 100.58 		Best: 524.21 		N:5
+Prideaux       		Mean: 36.48 		Best: 524.13 		N:14
+Bostick        		Mean: 85.25 		Best: 514.77 		N:6
+Wilson         		Mean: 43.59 		Best: 498.26 		N:9
+Libby          		Mean: 55.34 		Best: 415.97 		N:7
+Thomas         		Mean: 54.65 		Best: 380.28 		N:7
+Kirkwood       		Mean: 189.91 		Best: 378.69 		N:2
+
+########## REPORT GEN: 114 ##########
+SPECIES: 
+Libby          		Mean: 75.56 		Best: 1274.79 		N:8
+Thomas         		Mean: 87.38 		Best: 1159.49 		N:7
+Munnis         		Mean: 108.54 		Best: 1156.33 		N:5
+Platt          		Mean: 101.09 		Best: 992.08 		N:6
+Rowlands       		Mean: 75.75 		Best: 767.25 		N:8
+Wagner         		Mean: 69.05 		Best: 765.74 		N:8
+Bostick        		Mean: 78.83 		Best: 765.64 		N:7
+Gamba          		Mean: 118.91 		Best: 764.87 		N:5
+Barrett        		Mean: 85.13 		Best: 696.22 		N:7
+Wingfield      		Mean: 37.67 		Best: 629.15 		N:14
+Kirkwood       		Mean: 69.15 		Best: 590.63 		N:6
+Montoya        		Mean: 65.45 		Best: 554.99 		N:8
+Ogden          		Mean: 74.18 		Best: 553.31 		N:7
+Prideaux       		Mean: 73.53 		Best: 531.47 		N:7
+Wilson         		Mean: 210.97 		Best: 461.2 		N:2
+Dixon          		Mean: 54.6 		Best: 380.1 		N:7
+Rafter         		Mean: 63.26 		Best: 377.84 		N:6
+Hubble         		Mean: 189.18 		Best: 377.14 		N:2
+
+########## REPORT GEN: 115 ##########
+SPECIES: 
+Munnis         		Mean: 64.14 		Best: 1280.82 		N:9
+Rafter         		Mean: 108.32 		Best: 1168.75 		N:6
+Montoya        		Mean: 62.9 		Best: 960.84 		N:9
+Barrett        		Mean: 72.45 		Best: 767.15 		N:9
+Prideaux       		Mean: 72.35 		Best: 766.01 		N:8
+Wingfield      		Mean: 100.84 		Best: 765.64 		N:6
+Bostick        		Mean: 59.43 		Best: 657.16 		N:9
+Rowlands       		Mean: 147.58 		Best: 631.29 		N:4
+Wilson         		Mean: 64.01 		Best: 591.6 		N:7
+Hubble         		Mean: 70.83 		Best: 585.88 		N:6
+Platt          		Mean: 106.11 		Best: 564.31 		N:5
+Ogden          		Mean: 64.41 		Best: 561.74 		N:8
+Kirkwood       		Mean: 156.65 		Best: 547.6 		N:3
+Gamba          		Mean: 85.38 		Best: 540.36 		N:6
+Wagner         		Mean: 101.31 		Best: 523.61 		N:5
+Dixon          		Mean: 79.75 		Best: 416.06 		N:5
+Thomas         		Mean: 97.52 		Best: 411.48 		N:4
+Libby          		Mean: 54.42 		Best: 377.47 		N:7
+
+########## REPORT GEN: 116 ##########
+SPECIES: 
+Hubble         		Mean: 76.85 		Best: 1281.43 		N:8
+Libby          		Mean: 89.49 		Best: 1281.43 		N:6
+Dixon          		Mean: 53.2 		Best: 1148.21 		N:9
+Platt          		Mean: 56.51 		Best: 925.95 		N:10
+Rowlands       		Mean: 75.78 		Best: 767.3 		N:8
+Wingfield      		Mean: 47.95 		Best: 765.97 		N:12
+Bostick        		Mean: 114.61 		Best: 765.31 		N:5
+Gamba          		Mean: 61.58 		Best: 762.57 		N:9
+Barrett        		Mean: 99.86 		Best: 694.5 		N:6
+Ogden          		Mean: 67.77 		Best: 630.86 		N:8
+Munnis         		Mean: 47.65 		Best: 585.18 		N:9
+Kirkwood       		Mean: 94.69 		Best: 585.12 		N:5
+Wilson         		Mean: 68.98 		Best: 553.68 		N:6
+Prideaux       		Mean: 102.68 		Best: 553.2 		N:5
+Wagner         		Mean: 126.92 		Best: 518.32 		N:4
+Montoya        		Mean: 86.06 		Best: 515.6 		N:6
+Thomas         		Mean: 63.79 		Best: 379.09 		N:6
+Rafter         		Mean: 63.75 		Best: 378.54 		N:6
+
+########## REPORT GEN: 117 ##########
+SPECIES: 
+Hubble         		Mean: 76.82 		Best: 1278.59 		N:8
+Rafter         		Mean: 71.03 		Best: 1157.64 		N:7
+Dixon          		Mean: 52.39 		Best: 1157.46 		N:9
+Munnis         		Mean: 83.75 		Best: 1074.92 		N:6
+Montoya        		Mean: 84.89 		Best: 1019.58 		N:7
+Platt          		Mean: 74.5 		Best: 1006.63 		N:8
+Barrett        		Mean: 57.28 		Best: 767.32 		N:11
+Wagner         		Mean: 199.83 		Best: 765.98 		N:3
+Gamba          		Mean: 67.7 		Best: 765.89 		N:8
+Ogden          		Mean: 60.32 		Best: 765.88 		N:9
+Rowlands       		Mean: 85.87 		Best: 691.04 		N:7
+Bostick        		Mean: 75.47 		Best: 628.96 		N:7
+Wingfield      		Mean: 43.3 		Best: 595.76 		N:12
+Kirkwood       		Mean: 33.33 		Best: 589.01 		N:13
+Libby          		Mean: 84.77 		Best: 585.35 		N:5
+Prideaux       		Mean: 63.93 		Best: 527.17 		N:8
+Wilson         		Mean: 106.08 		Best: 522.41 		N:4
+Thomas         		Mean: 77.49 		Best: 414.82 		N:5
+
+########## REPORT GEN: 118 ##########
+SPECIES: 
+Hubble         		Mean: 138.73 		Best: 1281.4 		N:6
+Dixon          		Mean: 56.76 		Best: 1279.8 		N:10
+Thomas         		Mean: 55.72 		Best: 1278.83 		N:10
+Platt          		Mean: 65.55 		Best: 1152.85 		N:10
+Montoya        		Mean: 101.67 		Best: 1014.81 		N:6
+Barrett        		Mean: 79.33 		Best: 767.12 		N:8
+Wagner         		Mean: 111.6 		Best: 765.91 		N:5
+Gamba          		Mean: 199.81 		Best: 765.85 		N:3
+Wingfield      		Mean: 79.54 		Best: 765.76 		N:7
+Wilson         		Mean: 48.25 		Best: 661.88 		N:9
+Rowlands       		Mean: 83.69 		Best: 631.4 		N:7
+Libby          		Mean: 35.25 		Best: 590.16 		N:12
+Kirkwood       		Mean: 87.12 		Best: 586.26 		N:5
+Bostick        		Mean: 57.69 		Best: 570.86 		N:9
+Prideaux       		Mean: 63.83 		Best: 528.62 		N:8
+Ogden          		Mean: 73.51 		Best: 525.37 		N:7
+Munnis         		Mean: 94.8 		Best: 379.1 		N:4
+Rafter         		Mean: 95.07 		Best: 377.17 		N:4
+
+########## REPORT GEN: 119 ##########
+SPECIES: 
+Hubble         		Mean: 77.62 		Best: 1280.8 		N:8
+Thomas         		Mean: 109.41 		Best: 1171.33 		N:5
+Montoya        		Mean: 71.81 		Best: 1160.61 		N:9
+Libby          		Mean: 37.41 		Best: 1158.79 		N:12
+Kirkwood       		Mean: 87.68 		Best: 1157.98 		N:7
+Rafter         		Mean: 71.75 		Best: 1155.89 		N:7
+Gamba          		Mean: 72.2 		Best: 765.87 		N:8
+Prideaux       		Mean: 78.91 		Best: 765.82 		N:7
+Wingfield      		Mean: 60.01 		Best: 765.58 		N:9
+Rowlands       		Mean: 103.54 		Best: 764.71 		N:6
+Barrett        		Mean: 67.12 		Best: 693.82 		N:9
+Wagner         		Mean: 86.78 		Best: 631.45 		N:6
+Platt          		Mean: 91.13 		Best: 595.4 		N:6
+Dixon          		Mean: 69.67 		Best: 590.49 		N:6
+Wilson         		Mean: 84.25 		Best: 588.96 		N:5
+Ogden          		Mean: 73.87 		Best: 558.97 		N:7
+Bostick        		Mean: 128.12 		Best: 511.28 		N:4
+Munnis         		Mean: 54.29 		Best: 377.49 		N:7
+
+########## REPORT GEN: 120 ##########
+SPECIES: 
+Rafter         		Mean: 54.04 		Best: 1279.25 		N:9
+Munnis         		Mean: 72.79 		Best: 1248.55 		N:10
+Thomas         		Mean: 40.92 		Best: 1232.17 		N:13
+Hubble         		Mean: 149.45 		Best: 1156.05 		N:5
+Platt          		Mean: 65.37 		Best: 1152.94 		N:10
+Montoya        		Mean: 98.08 		Best: 808.34 		N:6
+Wagner         		Mean: 113.01 		Best: 766.07 		N:5
+Prideaux       		Mean: 49.53 		Best: 766.0 		N:11
+Gamba          		Mean: 69.12 		Best: 765.88 		N:8
+Ogden          		Mean: 95.8 		Best: 765.87 		N:6
+Barrett        		Mean: 55.3 		Best: 761.28 		N:11
+Rowlands       		Mean: 100.05 		Best: 694.14 		N:6
+Wingfield      		Mean: 57.08 		Best: 558.2 		N:9
+Bostick        		Mean: 85.14 		Best: 531.67 		N:6
+Dixon          		Mean: 55.22 		Best: 415.87 		N:7
+Wilson         		Mean: 38.18 		Best: 410.92 		N:10
+Kirkwood       		Mean: 125.84 		Best: 377.58 		N:3
+Libby          		Mean: 95.51 		Best: 378.11 		N:4
+
+########## REPORT GEN: 121 ##########
+SPECIES: 
+Libby          		Mean: 146.43 		Best: 1280.75 		N:5
+Munnis         		Mean: 115.18 		Best: 1279.39 		N:5
+Thomas         		Mean: 85.54 		Best: 1163.94 		N:8
+Rafter         		Mean: 89.4 		Best: 1157.96 		N:7
+Dixon          		Mean: 43.33 		Best: 1154.3 		N:11
+Platt          		Mean: 49.12 		Best: 1005.4 		N:12
+Montoya        		Mean: 151.53 		Best: 786.71 		N:4
+Bostick        		Mean: 125.04 		Best: 766.39 		N:5
+Wingfield      		Mean: 67.83 		Best: 766.0 		N:8
+Gamba          		Mean: 80.64 		Best: 765.9 		N:7
+Barrett        		Mean: 104.98 		Best: 764.92 		N:6
+Rowlands       		Mean: 70.13 		Best: 696.33 		N:9
+Ogden          		Mean: 43.35 		Best: 589.62 		N:12
+Wilson         		Mean: 69.02 		Best: 585.22 		N:6
+Wagner         		Mean: 87.3 		Best: 553.33 		N:6
+Prideaux       		Mean: 63.0 		Best: 529.48 		N:8
+Hubble         		Mean: 96.8 		Best: 416.32 		N:4
+Kirkwood       		Mean: 54.11 		Best: 380.2 		N:7
 

@@ -1,0 +1,1661 @@
+########## REPORT GEN: 2 ##########
+SPECIES: 
+Beck           		Mean: 28.44 		Best: 642.87 		N:21
+Holder         		Mean: 34.63 		Best: 638.11 		N:16
+Simmons        		Mean: 44.22 		Best: 626.67 		N:13
+Arnold         		Mean: 305.56 		Best: 607.49 		N:2
+Madina         		Mean: 276.51 		Best: 569.89 		N:2
+Pointer        		Mean: 183.9 		Best: 549.93 		N:3
+Trent          		Mean: 268.11 		Best: 536.51 		N:2
+Moss           		Mean: 264.76 		Best: 529.77 		N:2
+Freeman        		Mean: 107.1 		Best: 529.48 		N:5
+Taylor         		Mean: 139.73 		Best: 545.29 		N:4
+Ornelas        		Mean: 271.06 		Best: 529.15 		N:2
+Rodriguez      		Mean: 269.1 		Best: 528.92 		N:2
+Kruse          		Mean: 182.05 		Best: 529.08 		N:3
+Kennedy        		Mean: 102.94 		Best: 494.76 		N:5
+Tickle         		Mean: 200.83 		Best: 407.46 		N:2
+
+########## REPORT GEN: 3 ##########
+SPECIES: 
+Kennedy        		Mean: 63.24 		Best: 644.24 		N:9
+Madina         		Mean: 114.03 		Best: 643.45 		N:5
+Tickle         		Mean: 274.93 		Best: 643.26 		N:2
+Pointer        		Mean: 111.46 		Best: 638.31 		N:5
+Mcmahon        		Mean: 114.44 		Best: 637.99 		N:5
+Ragin          		Mean: 187.66 		Best: 637.77 		N:3
+Arnold         		Mean: 156.83 		Best: 633.01 		N:4
+Rodriguez      		Mean: 192.29 		Best: 626.59 		N:3
+Cadogan        		Mean: 285.02 		Best: 602.97 		N:2
+Simmons        		Mean: 189.99 		Best: 593.27 		N:3
+Holder         		Mean: 91.15 		Best: 550.38 		N:6
+Ornelas        		Mean: 109.84 		Best: 549.3 		N:5
+Goldberger     		Mean: 274.19 		Best: 548.74 		N:2
+Kruse          		Mean: 89.72 		Best: 536.31 		N:6
+Trent          		Mean: 158.09 		Best: 535.2 		N:3
+Watters        		Mean: 236.81 		Best: 529.59 		N:2
+Reynolds       		Mean: 160.88 		Best: 528.88 		N:3
+Moss           		Mean: 133.29 		Best: 529.05 		N:4
+Mateo          		Mean: 174.47 		Best: 528.48 		N:3
+Taylor         		Mean: 133.46 		Best: 528.24 		N:4
+
+########## REPORT GEN: 4 ##########
+SPECIES: 
+Simmons        		Mean: 63.39 		Best: 734.75 		N:8
+Reynolds       		Mean: 143.2 		Best: 671.85 		N:4
+Tickle         		Mean: 94.04 		Best: 669.67 		N:6
+Kennedy        		Mean: 317.72 		Best: 643.75 		N:2
+Holder         		Mean: 140.73 		Best: 643.45 		N:4
+Watters        		Mean: 135.85 		Best: 642.95 		N:4
+Pointer        		Mean: 57.24 		Best: 642.78 		N:10
+Ragin          		Mean: 143.32 		Best: 642.77 		N:4
+Mateo          		Mean: 95.98 		Best: 638.6 		N:6
+Rodriguez      		Mean: 144.23 		Best: 625.69 		N:4
+Trent          		Mean: 291.62 		Best: 617.39 		N:2
+Ornelas        		Mean: 191.54 		Best: 611.21 		N:3
+Madina         		Mean: 175.94 		Best: 603.96 		N:3
+Mcmahon        		Mean: 112.16 		Best: 596.94 		N:5
+Taylor         		Mean: 142.1 		Best: 593.08 		N:4
+Freeman        		Mean: 192.73 		Best: 592.88 		N:3
+Goldberger     		Mean: 109.72 		Best: 550.18 		N:5
+Kruse          		Mean: 177.82 		Best: 549.29 		N:3
+Cadogan        		Mean: 85.41 		Best: 548.42 		N:6
+Beck           		Mean: 166.09 		Best: 529.33 		N:3
+
+########## REPORT GEN: 5 ##########
+SPECIES: 
+Moss           		Mean: 157.57 		Best: 818.5 		N:4
+Holder         		Mean: 84.12 		Best: 733.95 		N:7
+Tickle         		Mean: 116.1 		Best: 733.94 		N:5
+Freeman        		Mean: 192.33 		Best: 692.29 		N:3
+Beck           		Mean: 98.8 		Best: 672.05 		N:5
+Mateo          		Mean: 102.24 		Best: 669.48 		N:6
+Watters        		Mean: 77.01 		Best: 644.11 		N:7
+Cadogan        		Mean: 63.25 		Best: 643.94 		N:8
+Reynolds       		Mean: 144.82 		Best: 642.79 		N:4
+Ragin          		Mean: 205.82 		Best: 638.15 		N:3
+Pointer        		Mean: 117.74 		Best: 637.99 		N:5
+Goldberger     		Mean: 168.09 		Best: 611.65 		N:3
+Taylor         		Mean: 136.77 		Best: 597.12 		N:4
+Simmons        		Mean: 67.42 		Best: 593.56 		N:8
+Trent          		Mean: 153.21 		Best: 576.78 		N:3
+Madina         		Mean: 64.48 		Best: 576.43 		N:8
+Ornelas        		Mean: 137.5 		Best: 575.67 		N:4
+Kennedy        		Mean: 97.77 		Best: 544.64 		N:5
+Mcmahon        		Mean: 272.13 		Best: 542.25 		N:2
+Rodriguez      		Mean: 93.79 		Best: 532.37 		N:5
+Kruse          		Mean: 99.81 		Best: 528.26 		N:5
+
+########## REPORT GEN: 6 ##########
+SPECIES: 
+Pointer        		Mean: 159.35 		Best: 819.38 		N:4
+Taylor         		Mean: 69.04 		Best: 818.47 		N:8
+Goldberger     		Mean: 88.43 		Best: 759.0 		N:7
+Beck           		Mean: 124.29 		Best: 735.0 		N:5
+Ragin          		Mean: 78.56 		Best: 734.0 		N:7
+Trent          		Mean: 60.39 		Best: 693.21 		N:8
+Madina         		Mean: 80.13 		Best: 688.7 		N:7
+Holder         		Mean: 54.51 		Best: 671.67 		N:10
+Ornelas        		Mean: 315.58 		Best: 644.26 		N:2
+Tickle         		Mean: 114.42 		Best: 643.24 		N:5
+Kruse          		Mean: 70.42 		Best: 642.89 		N:8
+Mateo          		Mean: 145.01 		Best: 624.43 		N:4
+Watters        		Mean: 66.18 		Best: 624.07 		N:8
+Cadogan        		Mean: 73.06 		Best: 609.35 		N:7
+Simmons        		Mean: 117.01 		Best: 607.44 		N:4
+Mcmahon        		Mean: 122.85 		Best: 588.73 		N:4
+Reynolds       		Mean: 122.09 		Best: 542.35 		N:4
+Rodriguez      		Mean: 86.11 		Best: 528.96 		N:5
+Freeman        		Mean: 101.96 		Best: 528.79 		N:5
+Moss           		Mean: 129.58 		Best: 425.59 		N:3
+
+########## REPORT GEN: 7 ##########
+SPECIES: 
+Ornelas        		Mean: 199.17 		Best: 820.5 		N:3
+Mcmahon        		Mean: 77.19 		Best: 819.86 		N:8
+Kennedy        		Mean: 88.81 		Best: 818.41 		N:6
+Madina         		Mean: 150.45 		Best: 759.42 		N:4
+Cadogan        		Mean: 78.18 		Best: 754.6 		N:7
+Holder         		Mean: 201.5 		Best: 733.91 		N:3
+Reynolds       		Mean: 57.41 		Best: 692.25 		N:9
+Ragin          		Mean: 71.05 		Best: 688.19 		N:7
+Beck           		Mean: 116.24 		Best: 672.0 		N:5
+Freeman        		Mean: 201.31 		Best: 651.78 		N:3
+Kruse          		Mean: 79.83 		Best: 644.46 		N:7
+Goldberger     		Mean: 113.23 		Best: 644.24 		N:4
+Mateo          		Mean: 68.03 		Best: 643.82 		N:8
+Pointer        		Mean: 72.32 		Best: 624.26 		N:7
+Trent          		Mean: 71.97 		Best: 607.89 		N:7
+Moss           		Mean: 249.75 		Best: 603.89 		N:2
+Rodriguez      		Mean: 285.75 		Best: 601.45 		N:2
+Simmons        		Mean: 60.51 		Best: 579.08 		N:9
+Tickle         		Mean: 129.39 		Best: 567.62 		N:4
+Watters        		Mean: 162.2 		Best: 564.49 		N:3
+Taylor         		Mean: 265.04 		Best: 528.86 		N:2
+
+########## REPORT GEN: 8 ##########
+SPECIES: 
+Simmons        		Mean: 40.87 		Best: 821.55 		N:12
+Freeman        		Mean: 107.22 		Best: 819.68 		N:5
+Taylor         		Mean: 131.21 		Best: 818.51 		N:5
+Ragin          		Mean: 78.16 		Best: 818.5 		N:8
+Mateo          		Mean: 112.72 		Best: 760.23 		N:5
+Goldberger     		Mean: 95.92 		Best: 733.94 		N:6
+Reynolds       		Mean: 111.32 		Best: 691.93 		N:5
+Tickle         		Mean: 262.66 		Best: 689.15 		N:2
+Madina         		Mean: 178.94 		Best: 688.39 		N:3
+Mcmahon        		Mean: 68.25 		Best: 672.04 		N:8
+Watters        		Mean: 72.65 		Best: 643.29 		N:7
+Kennedy        		Mean: 97.41 		Best: 608.06 		N:5
+Rodriguez      		Mean: 127.02 		Best: 565.69 		N:4
+Moss           		Mean: 101.01 		Best: 545.8 		N:5
+Pointer        		Mean: 88.13 		Best: 545.78 		N:5
+Trent          		Mean: 161.31 		Best: 529.41 		N:3
+Cadogan        		Mean: 91.14 		Best: 529.04 		N:5
+Beck           		Mean: 112.72 		Best: 529.02 		N:4
+
+########## REPORT GEN: 9 ##########
+SPECIES: 
+Cadogan        		Mean: 210.99 		Best: 822.64 		N:3
+Madina         		Mean: 85.82 		Best: 822.21 		N:6
+Kruse          		Mean: 170.28 		Best: 819.75 		N:4
+Beck           		Mean: 154.32 		Best: 819.18 		N:4
+Trent          		Mean: 139.0 		Best: 818.88 		N:4
+Mateo          		Mean: 102.31 		Best: 760.4 		N:5
+Pointer        		Mean: 185.14 		Best: 758.53 		N:3
+Reynolds       		Mean: 341.79 		Best: 733.81 		N:2
+Simmons        		Mean: 145.22 		Best: 707.02 		N:4
+Goldberger     		Mean: 106.68 		Best: 692.04 		N:5
+Taylor         		Mean: 195.68 		Best: 689.77 		N:3
+Moss           		Mean: 85.72 		Best: 689.77 		N:6
+Watters        		Mean: 121.3 		Best: 642.8 		N:4
+Holder         		Mean: 85.27 		Best: 603.26 		N:6
+Freeman        		Mean: 59.73 		Best: 545.94 		N:8
+Tickle         		Mean: 101.87 		Best: 545.8 		N:4
+Mcmahon        		Mean: 105.58 		Best: 528.7 		N:5
+Ragin          		Mean: 144.56 		Best: 528.32 		N:3
+Rodriguez      		Mean: 218.36 		Best: 520.84 		N:2
+
+########## REPORT GEN: 10 ##########
+SPECIES: 
+Ragin          		Mean: 126.21 		Best: 827.07 		N:5
+Watters        		Mean: 130.13 		Best: 820.9 		N:5
+Madina         		Mean: 234.19 		Best: 818.76 		N:3
+Simmons        		Mean: 87.3 		Best: 818.56 		N:7
+Reynolds       		Mean: 131.75 		Best: 818.53 		N:4
+Moss           		Mean: 81.96 		Best: 761.9 		N:7
+Trent          		Mean: 353.2 		Best: 761.17 		N:2
+Freeman        		Mean: 54.94 		Best: 758.65 		N:9
+Ornelas        		Mean: 77.03 		Best: 734.43 		N:7
+Goldberger     		Mean: 134.82 		Best: 706.64 		N:4
+Cadogan        		Mean: 65.14 		Best: 693.13 		N:8
+Kruse          		Mean: 88.37 		Best: 688.31 		N:6
+Holder         		Mean: 88.03 		Best: 642.87 		N:6
+Beck           		Mean: 82.94 		Best: 624.05 		N:6
+Mcmahon        		Mean: 75.69 		Best: 545.83 		N:6
+Taylor         		Mean: 146.53 		Best: 528.06 		N:3
+Pointer        		Mean: 100.51 		Best: 520.14 		N:4
+
+########## REPORT GEN: 11 ##########
+SPECIES: 
+Ornelas        		Mean: 107.44 		Best: 1006.44 		N:6
+Trent          		Mean: 142.71 		Best: 823.81 		N:4
+Reynolds       		Mean: 213.4 		Best: 823.67 		N:3
+Cadogan        		Mean: 107.56 		Best: 820.75 		N:6
+Goldberger     		Mean: 94.75 		Best: 819.31 		N:6
+Holder         		Mean: 148.13 		Best: 758.95 		N:4
+Pointer        		Mean: 91.08 		Best: 738.39 		N:6
+Ragin          		Mean: 69.16 		Best: 688.67 		N:7
+Kruse          		Mean: 184.82 		Best: 688.34 		N:3
+Moss           		Mean: 153.93 		Best: 684.03 		N:3
+Mcmahon        		Mean: 166.25 		Best: 643.81 		N:3
+Rodriguez      		Mean: 91.35 		Best: 642.81 		N:5
+Beck           		Mean: 193.62 		Best: 642.71 		N:3
+Watters        		Mean: 110.0 		Best: 624.23 		N:4
+Madina         		Mean: 133.16 		Best: 529.66 		N:3
+Simmons        		Mean: 158.16 		Best: 528.24 		N:3
+Freeman        		Mean: 259.91 		Best: 527.47 		N:2
+Tickle         		Mean: 125.6 		Best: 393.38 		N:3
+
+########## REPORT GEN: 12 ##########
+SPECIES: 
+Madina         		Mean: 81.63 		Best: 1004.49 		N:7
+Reynolds       		Mean: 110.99 		Best: 987.0 		N:6
+Pointer        		Mean: 77.76 		Best: 825.74 		N:7
+Ragin          		Mean: 139.68 		Best: 825.64 		N:5
+Trent          		Mean: 65.27 		Best: 820.93 		N:8
+Mcmahon        		Mean: 122.14 		Best: 818.94 		N:5
+Freeman        		Mean: 95.41 		Best: 762.86 		N:6
+Rodriguez      		Mean: 184.18 		Best: 759.86 		N:3
+Ornelas        		Mean: 82.53 		Best: 758.53 		N:6
+Goldberger     		Mean: 72.8 		Best: 758.39 		N:7
+Holder         		Mean: 147.7 		Best: 706.42 		N:4
+Watters        		Mean: 70.84 		Best: 688.95 		N:7
+Tickle         		Mean: 159.48 		Best: 688.18 		N:3
+Beck           		Mean: 147.85 		Best: 643.32 		N:3
+Moss           		Mean: 82.34 		Best: 526.99 		N:5
+Kruse          		Mean: 124.51 		Best: 381.54 		N:3
+Mateo          		Mean: 187.95 		Best: 379.89 		N:2
+Taylor         		Mean: 178.17 		Best: 354.99 		N:2
+
+########## REPORT GEN: 13 ##########
+SPECIES: 
+Goldberger     		Mean: 96.95 		Best: 1009.83 		N:6
+Holder         		Mean: 252.75 		Best: 996.1 		N:3
+Cadogan        		Mean: 92.27 		Best: 978.84 		N:5
+Moss           		Mean: 77.3 		Best: 835.87 		N:6
+Madina         		Mean: 93.56 		Best: 827.02 		N:6
+Pointer        		Mean: 85.36 		Best: 805.59 		N:5
+Ragin          		Mean: 99.39 		Best: 794.98 		N:6
+Tickle         		Mean: 134.42 		Best: 761.21 		N:4
+Mateo          		Mean: 202.69 		Best: 760.42 		N:3
+Reynolds       		Mean: 112.53 		Best: 759.02 		N:5
+Watters        		Mean: 98.63 		Best: 758.53 		N:6
+Taylor         		Mean: 71.37 		Best: 758.53 		N:7
+Kruse          		Mean: 278.01 		Best: 736.28 		N:2
+Freeman        		Mean: 65.77 		Best: 719.35 		N:8
+Mcmahon        		Mean: 119.97 		Best: 688.29 		N:4
+Rodriguez      		Mean: 75.04 		Best: 617.04 		N:6
+Beck           		Mean: 50.55 		Best: 591.28 		N:9
+Trent          		Mean: 155.64 		Best: 528.44 		N:3
+
+########## REPORT GEN: 14 ##########
+SPECIES: 
+Reynolds       		Mean: 211.45 		Best: 1007.3 		N:3
+Taylor         		Mean: 95.93 		Best: 996.85 		N:6
+Madina         		Mean: 65.16 		Best: 983.15 		N:9
+Goldberger     		Mean: 71.63 		Best: 925.36 		N:7
+Trent          		Mean: 138.04 		Best: 834.67 		N:4
+Kruse          		Mean: 79.9 		Best: 825.14 		N:7
+Watters        		Mean: 46.96 		Best: 803.93 		N:10
+Holder         		Mean: 276.26 		Best: 794.9 		N:2
+Freeman        		Mean: 82.64 		Best: 761.54 		N:6
+Mateo          		Mean: 72.82 		Best: 759.71 		N:6
+Tickle         		Mean: 170.34 		Best: 759.3 		N:3
+Ragin          		Mean: 287.43 		Best: 759.17 		N:2
+Beck           		Mean: 98.38 		Best: 737.24 		N:6
+Mcmahon        		Mean: 45.74 		Best: 735.04 		N:10
+Ornelas        		Mean: 126.05 		Best: 620.51 		N:4
+Pointer        		Mean: 228.02 		Best: 535.46 		N:2
+Rodriguez      		Mean: 90.35 		Best: 529.59 		N:5
+Moss           		Mean: 105.86 		Best: 523.81 		N:4
+
+########## REPORT GEN: 15 ##########
+SPECIES: 
+Moss           		Mean: 60.92 		Best: 1004.3 		N:10
+Freeman        		Mean: 72.24 		Best: 1000.53 		N:7
+Beck           		Mean: 328.0 		Best: 988.1 		N:2
+Pointer        		Mean: 104.28 		Best: 975.54 		N:6
+Taylor         		Mean: 79.55 		Best: 825.02 		N:8
+Kruse          		Mean: 138.06 		Best: 812.36 		N:4
+Ragin          		Mean: 93.8 		Best: 795.42 		N:5
+Rodriguez      		Mean: 88.5 		Best: 760.68 		N:5
+Trent          		Mean: 50.87 		Best: 748.3 		N:9
+Ornelas        		Mean: 71.56 		Best: 721.38 		N:7
+Tickle         		Mean: 77.74 		Best: 688.57 		N:7
+Madina         		Mean: 112.67 		Best: 529.39 		N:4
+Goldberger     		Mean: 106.52 		Best: 528.49 		N:4
+Mateo          		Mean: 49.02 		Best: 479.71 		N:8
+Reynolds       		Mean: 197.03 		Best: 452.47 		N:2
+Watters        		Mean: 124.25 		Best: 380.4 		N:3
+Mcmahon        		Mean: 174.61 		Best: 353.56 		N:2
+Holder         		Mean: 109.36 		Best: 344.63 		N:3
+
+########## REPORT GEN: 16 ##########
+SPECIES: 
+Mateo          		Mean: 111.4 		Best: 1022.77 		N:6
+Goldberger     		Mean: 93.77 		Best: 1012.74 		N:6
+Taylor         		Mean: 80.14 		Best: 1003.27 		N:7
+Reynolds       		Mean: 140.22 		Best: 987.94 		N:4
+Tickle         		Mean: 98.64 		Best: 825.33 		N:6
+Mcmahon        		Mean: 188.9 		Best: 811.68 		N:3
+Pointer        		Mean: 62.64 		Best: 801.58 		N:8
+Moss           		Mean: 108.92 		Best: 794.16 		N:5
+Kruse          		Mean: 89.28 		Best: 761.38 		N:5
+Holder         		Mean: 71.49 		Best: 759.84 		N:7
+Rodriguez      		Mean: 101.73 		Best: 758.69 		N:5
+Madina         		Mean: 115.44 		Best: 618.98 		N:4
+Beck           		Mean: 54.22 		Best: 528.9 		N:8
+Trent          		Mean: 77.24 		Best: 528.21 		N:5
+Freeman        		Mean: 57.35 		Best: 517.07 		N:7
+Ragin          		Mean: 66.22 		Best: 479.77 		N:6
+Watters        		Mean: 66.0 		Best: 363.3 		N:5
+Ornelas        		Mean: 114.99 		Best: 350.22 		N:3
+
+########## REPORT GEN: 17 ##########
+SPECIES: 
+Ornelas        		Mean: 72.93 		Best: 1019.92 		N:8
+Freeman        		Mean: 67.21 		Best: 1007.78 		N:8
+Mcmahon        		Mean: 62.95 		Best: 1005.48 		N:8
+Watters        		Mean: 79.73 		Best: 973.25 		N:7
+Rodriguez      		Mean: 75.21 		Best: 836.46 		N:7
+Goldberger     		Mean: 114.2 		Best: 825.89 		N:5
+Madina         		Mean: 105.82 		Best: 810.09 		N:5
+Trent          		Mean: 39.88 		Best: 758.62 		N:10
+Mateo          		Mean: 54.05 		Best: 758.58 		N:9
+Reynolds       		Mean: 94.76 		Best: 733.53 		N:5
+Ragin          		Mean: 85.91 		Best: 721.03 		N:5
+Kruse          		Mean: 80.02 		Best: 692.0 		N:6
+Tickle         		Mean: 125.46 		Best: 677.35 		N:4
+Moss           		Mean: 65.89 		Best: 529.71 		N:6
+Pointer        		Mean: 42.9 		Best: 529.17 		N:9
+Holder         		Mean: 36.66 		Best: 479.4 		N:10
+Taylor         		Mean: 52.65 		Best: 452.31 		N:7
+Beck           		Mean: 207.07 		Best: 452.06 		N:2
+
+########## REPORT GEN: 18 ##########
+SPECIES: 
+Trent          		Mean: 55.59 		Best: 1005.85 		N:10
+Freeman        		Mean: 72.49 		Best: 1003.9 		N:9
+Holder         		Mean: 44.19 		Best: 1002.3 		N:11
+Moss           		Mean: 37.33 		Best: 995.61 		N:12
+Madina         		Mean: 57.42 		Best: 982.83 		N:8
+Ornelas        		Mean: 86.34 		Best: 933.79 		N:5
+Ragin          		Mean: 87.84 		Best: 825.14 		N:5
+Reynolds       		Mean: 75.01 		Best: 758.42 		N:6
+Kruse          		Mean: 118.2 		Best: 730.87 		N:4
+Mateo          		Mean: 69.43 		Best: 722.39 		N:6
+Pointer        		Mean: 81.73 		Best: 677.37 		N:5
+Beck           		Mean: 50.24 		Best: 567.6 		N:8
+Rodriguez      		Mean: 49.79 		Best: 529.35 		N:8
+Taylor         		Mean: 64.85 		Best: 480.77 		N:6
+Watters        		Mean: 62.36 		Best: 480.14 		N:6
+Goldberger     		Mean: 60.33 		Best: 409.12 		N:6
+Mcmahon        		Mean: 107.89 		Best: 349.19 		N:3
+Tickle         		Mean: 83.35 		Best: 344.87 		N:4
+
+########## REPORT GEN: 19 ##########
+SPECIES: 
+Tickle         		Mean: 42.75 		Best: 1037.33 		N:10
+Freeman        		Mean: 128.39 		Best: 1009.3 		N:4
+Rodriguez      		Mean: 34.02 		Best: 1001.51 		N:15
+Goldberger     		Mean: 100.94 		Best: 1000.01 		N:6
+Ragin          		Mean: 80.88 		Best: 999.45 		N:7
+Madina         		Mean: 50.85 		Best: 976.04 		N:8
+Pointer        		Mean: 53.11 		Best: 811.28 		N:8
+Trent          		Mean: 86.62 		Best: 761.59 		N:5
+Moss           		Mean: 31.71 		Best: 730.79 		N:12
+Watters        		Mean: 65.33 		Best: 568.57 		N:6
+Mcmahon        		Mean: 67.93 		Best: 549.67 		N:6
+Kruse          		Mean: 215.08 		Best: 529.67 		N:2
+Taylor         		Mean: 40.73 		Best: 523.22 		N:9
+Holder         		Mean: 54.04 		Best: 479.15 		N:7
+Reynolds       		Mean: 45.15 		Best: 453.03 		N:8
+Mateo          		Mean: 134.67 		Best: 452.44 		N:3
+Beck           		Mean: 43.85 		Best: 447.84 		N:8
+Ornelas        		Mean: 57.47 		Best: 376.97 		N:6
+
+########## REPORT GEN: 20 ##########
+SPECIES: 
+Mcmahon        		Mean: 127.13 		Best: 1023.39 		N:5
+Goldberger     		Mean: 46.19 		Best: 1019.38 		N:9
+Beck           		Mean: 162.13 		Best: 1018.17 		N:4
+Trent          		Mean: 64.85 		Best: 1012.69 		N:9
+Moss           		Mean: 63.56 		Best: 999.63 		N:7
+Mateo          		Mean: 44.45 		Best: 998.45 		N:11
+Holder         		Mean: 75.14 		Best: 989.85 		N:6
+Reynolds       		Mean: 44.67 		Best: 986.18 		N:11
+Ornelas        		Mean: 80.85 		Best: 849.39 		N:6
+Freeman        		Mean: 67.81 		Best: 567.45 		N:6
+Taylor         		Mean: 73.24 		Best: 548.74 		N:6
+Madina         		Mean: 103.56 		Best: 523.68 		N:4
+Kruse          		Mean: 54.69 		Best: 522.97 		N:7
+Rodriguez      		Mean: 93.85 		Best: 516.87 		N:4
+Watters        		Mean: 43.03 		Best: 447.97 		N:8
+Ragin          		Mean: 87.41 		Best: 398.67 		N:4
+Pointer        		Mean: 81.26 		Best: 366.25 		N:4
+Tickle         		Mean: 83.55 		Best: 348.01 		N:4
+
+########## REPORT GEN: 21 ##########
+SPECIES: 
+Kruse          		Mean: 51.88 		Best: 1039.8 		N:8
+Freeman        		Mean: 87.92 		Best: 1037.58 		N:7
+Madina         		Mean: 96.5 		Best: 1009.21 		N:5
+Moss           		Mean: 49.58 		Best: 1005.76 		N:10
+Pointer        		Mean: 93.67 		Best: 1001.45 		N:6
+Ragin          		Mean: 83.31 		Best: 994.53 		N:6
+Holder         		Mean: 56.85 		Best: 914.24 		N:8
+Tickle         		Mean: 45.89 		Best: 849.43 		N:9
+Trent          		Mean: 41.7 		Best: 849.26 		N:10
+Rodriguez      		Mean: 38.93 		Best: 759.23 		N:11
+Beck           		Mean: 48.45 		Best: 730.14 		N:8
+Ornelas        		Mean: 84.55 		Best: 719.11 		N:5
+Reynolds       		Mean: 90.5 		Best: 718.77 		N:5
+Watters        		Mean: 53.18 		Best: 422.53 		N:7
+Taylor         		Mean: 60.48 		Best: 399.25 		N:6
+Goldberger     		Mean: 113.28 		Best: 366.58 		N:3
+Mcmahon        		Mean: 82.56 		Best: 345.5 		N:4
+Mateo          		Mean: 54.59 		Best: 342.46 		N:6
+
+########## REPORT GEN: 22 ##########
+SPECIES: 
+Freeman        		Mean: 73.5 		Best: 1034.6 		N:6
+Mateo          		Mean: 33.77 		Best: 1020.19 		N:12
+Rodriguez      		Mean: 49.96 		Best: 1015.9 		N:9
+Goldberger     		Mean: 54.85 		Best: 1009.43 		N:8
+Beck           		Mean: 44.97 		Best: 1006.65 		N:9
+Taylor         		Mean: 36.93 		Best: 1001.98 		N:12
+Watters        		Mean: 41.87 		Best: 999.9 		N:11
+Reynolds       		Mean: 91.43 		Best: 970.69 		N:6
+Madina         		Mean: 71.0 		Best: 914.7 		N:7
+Tickle         		Mean: 87.08 		Best: 849.21 		N:5
+Ornelas        		Mean: 45.94 		Best: 847.33 		N:9
+Ragin          		Mean: 46.92 		Best: 703.08 		N:8
+Mcmahon        		Mean: 38.45 		Best: 694.06 		N:10
+Moss           		Mean: 71.32 		Best: 422.57 		N:5
+Trent          		Mean: 86.0 		Best: 400.06 		N:4
+Kruse          		Mean: 117.78 		Best: 382.38 		N:3
+Pointer        		Mean: 105.27 		Best: 338.61 		N:3
+Holder         		Mean: 52.12 		Best: 332.94 		N:6
+
+########## REPORT GEN: 23 ##########
+SPECIES: 
+Ragin          		Mean: 45.66 		Best: 1046.6 		N:9
+Kruse          		Mean: 46.96 		Best: 1045.49 		N:9
+Watters        		Mean: 51.71 		Best: 1043.67 		N:9
+Rodriguez      		Mean: 67.76 		Best: 1037.68 		N:7
+Holder         		Mean: 72.79 		Best: 1026.09 		N:7
+Mcmahon        		Mean: 75.9 		Best: 1021.27 		N:7
+Moss           		Mean: 51.64 		Best: 1014.07 		N:8
+Beck           		Mean: 71.04 		Best: 1011.11 		N:7
+Pointer        		Mean: 52.61 		Best: 1001.4 		N:8
+Goldberger     		Mean: 87.17 		Best: 983.82 		N:5
+Trent          		Mean: 38.1 		Best: 874.62 		N:10
+Reynolds       		Mean: 64.4 		Best: 762.7 		N:6
+Tickle         		Mean: 51.43 		Best: 561.82 		N:7
+Madina         		Mean: 53.24 		Best: 398.81 		N:6
+Mateo          		Mean: 68.29 		Best: 354.87 		N:5
+Freeman        		Mean: 52.45 		Best: 347.93 		N:6
+Ornelas        		Mean: 46.11 		Best: 346.63 		N:7
+Taylor         		Mean: 103.02 		Best: 321.41 		N:3
+
+########## REPORT GEN: 24 ##########
+SPECIES: 
+Trent          		Mean: 53.93 		Best: 1048.5 		N:8
+Tickle         		Mean: 44.84 		Best: 1038.24 		N:11
+Mateo          		Mean: 49.78 		Best: 1020.08 		N:8
+Kruse          		Mean: 43.71 		Best: 1019.2 		N:9
+Moss           		Mean: 71.39 		Best: 1002.48 		N:6
+Beck           		Mean: 90.42 		Best: 999.67 		N:6
+Taylor         		Mean: 69.29 		Best: 997.65 		N:7
+Mcmahon        		Mean: 29.91 		Best: 992.95 		N:14
+Holder         		Mean: 56.95 		Best: 987.92 		N:7
+Rodriguez      		Mean: 90.94 		Best: 934.7 		N:5
+Goldberger     		Mean: 49.84 		Best: 914.7 		N:8
+Pointer        		Mean: 44.2 		Best: 849.16 		N:9
+Freeman        		Mean: 57.43 		Best: 568.3 		N:6
+Reynolds       		Mean: 48.4 		Best: 561.85 		N:7
+Ragin          		Mean: 69.54 		Best: 422.67 		N:5
+Watters        		Mean: 41.51 		Best: 398.76 		N:8
+Madina         		Mean: 53.61 		Best: 348.41 		N:6
+Ornelas        		Mean: 51.86 		Best: 323.05 		N:6
+
+########## REPORT GEN: 25 ##########
+SPECIES: 
+Kruse          		Mean: 52.05 		Best: 1040.42 		N:10
+Mcmahon        		Mean: 45.03 		Best: 1028.57 		N:11
+Ornelas        		Mean: 36.5 		Best: 1021.81 		N:12
+Beck           		Mean: 51.37 		Best: 1018.95 		N:9
+Moss           		Mean: 40.51 		Best: 1009.12 		N:12
+Holder         		Mean: 61.0 		Best: 1006.13 		N:7
+Madina         		Mean: 69.84 		Best: 1003.67 		N:6
+Ragin          		Mean: 41.14 		Best: 995.86 		N:9
+Taylor         		Mean: 60.28 		Best: 933.75 		N:7
+Pointer        		Mean: 65.68 		Best: 930.59 		N:6
+Goldberger     		Mean: 43.03 		Best: 927.31 		N:9
+Freeman        		Mean: 56.45 		Best: 914.56 		N:7
+Tickle         		Mean: 35.16 		Best: 562.26 		N:10
+Mateo          		Mean: 55.89 		Best: 425.04 		N:6
+Reynolds       		Mean: 57.05 		Best: 408.53 		N:6
+Watters        		Mean: 61.74 		Best: 357.85 		N:5
+Trent          		Mean: 42.71 		Best: 329.66 		N:7
+Rodriguez      		Mean: 106.31 		Best: 322.34 		N:3
+
+########## REPORT GEN: 26 ##########
+SPECIES: 
+Beck           		Mean: 54.34 		Best: 1042.49 		N:9
+Mcmahon        		Mean: 32.51 		Best: 1038.17 		N:13
+Goldberger     		Mean: 122.37 		Best: 1028.4 		N:4
+Trent          		Mean: 53.1 		Best: 1015.38 		N:8
+Reynolds       		Mean: 71.06 		Best: 1007.61 		N:6
+Ornelas        		Mean: 85.56 		Best: 1001.24 		N:6
+Freeman        		Mean: 88.71 		Best: 995.45 		N:6
+Pointer        		Mean: 31.46 		Best: 995.38 		N:12
+Rodriguez      		Mean: 53.02 		Best: 928.51 		N:7
+Kruse          		Mean: 67.65 		Best: 914.71 		N:6
+Mateo          		Mean: 32.41 		Best: 424.66 		N:10
+Watters        		Mean: 32.29 		Best: 398.86 		N:10
+Ragin          		Mean: 53.12 		Best: 398.5 		N:6
+Tickle         		Mean: 37.79 		Best: 358.5 		N:8
+Taylor         		Mean: 74.49 		Best: 332.55 		N:4
+Madina         		Mean: 75.12 		Best: 329.57 		N:4
+Holder         		Mean: 29.78 		Best: 325.19 		N:10
+Moss           		Mean: 78.18 		Best: 321.67 		N:4
+
+########## REPORT GEN: 27 ##########
+SPECIES: 
+Ornelas        		Mean: 89.81 		Best: 1047.4 		N:6
+Moss           		Mean: 37.51 		Best: 1040.57 		N:10
+Tickle         		Mean: 50.96 		Best: 1036.79 		N:9
+Taylor         		Mean: 45.97 		Best: 1023.36 		N:10
+Mateo          		Mean: 50.26 		Best: 1009.11 		N:8
+Beck           		Mean: 57.64 		Best: 1004.3 		N:7
+Reynolds       		Mean: 55.4 		Best: 1002.4 		N:7
+Madina         		Mean: 55.38 		Best: 998.31 		N:8
+Freeman        		Mean: 52.93 		Best: 995.97 		N:9
+Ragin          		Mean: 50.11 		Best: 928.11 		N:9
+Kruse          		Mean: 55.18 		Best: 424.85 		N:6
+Mcmahon        		Mean: 38.16 		Best: 382.52 		N:8
+Watters        		Mean: 42.45 		Best: 355.63 		N:7
+Holder         		Mean: 42.72 		Best: 352.34 		N:7
+Rodriguez      		Mean: 43.58 		Best: 330.38 		N:7
+Pointer        		Mean: 36.59 		Best: 324.49 		N:8
+Trent          		Mean: 67.6 		Best: 308.62 		N:4
+Goldberger     		Mean: 68.38 		Best: 306.46 		N:4
+
+########## REPORT GEN: 28 ##########
+SPECIES: 
+Moss           		Mean: 35.67 		Best: 1148.06 		N:13
+Kruse          		Mean: 57.91 		Best: 1043.15 		N:7
+Goldberger     		Mean: 44.15 		Best: 1035.22 		N:9
+Freeman        		Mean: 55.83 		Best: 1029.27 		N:7
+Trent          		Mean: 70.79 		Best: 1023.92 		N:7
+Watters        		Mean: 67.32 		Best: 1015.76 		N:7
+Reynolds       		Mean: 42.13 		Best: 999.23 		N:10
+Mateo          		Mean: 42.57 		Best: 425.04 		N:8
+Beck           		Mean: 47.69 		Best: 398.52 		N:7
+Ornelas        		Mean: 23.87 		Best: 385.37 		N:12
+Holder         		Mean: 56.06 		Best: 338.11 		N:5
+Mcmahon        		Mean: 37.71 		Best: 336.43 		N:7
+Tickle         		Mean: 54.84 		Best: 328.66 		N:5
+Rodriguez      		Mean: 27.54 		Best: 325.86 		N:10
+Madina         		Mean: 57.89 		Best: 315.46 		N:5
+Pointer        		Mean: 34.32 		Best: 302.98 		N:8
+Taylor         		Mean: 93.43 		Best: 291.86 		N:3
+Ragin          		Mean: 62.86 		Best: 286.22 		N:4
+
+########## REPORT GEN: 29 ##########
+SPECIES: 
+Madina         		Mean: 43.38 		Best: 1030.29 		N:11
+Taylor         		Mean: 50.15 		Best: 1026.0 		N:9
+Moss           		Mean: 39.89 		Best: 1017.16 		N:10
+Watters        		Mean: 88.04 		Best: 951.97 		N:5
+Mateo          		Mean: 32.35 		Best: 917.87 		N:11
+Freeman        		Mean: 31.6 		Best: 602.5 		N:10
+Goldberger     		Mean: 62.87 		Best: 424.79 		N:5
+Mcmahon        		Mean: 35.76 		Best: 404.8 		N:8
+Kruse          		Mean: 33.24 		Best: 344.04 		N:8
+Holder         		Mean: 37.58 		Best: 338.76 		N:7
+Ornelas        		Mean: 43.56 		Best: 329.5 		N:7
+Pointer        		Mean: 41.22 		Best: 327.06 		N:7
+Trent          		Mean: 40.28 		Best: 322.38 		N:7
+Ragin          		Mean: 34.29 		Best: 309.16 		N:8
+Reynolds       		Mean: 29.63 		Best: 308.58 		N:9
+Beck           		Mean: 31.69 		Best: 304.66 		N:8
+Tickle         		Mean: 54.93 		Best: 291.1 		N:5
+
+########## REPORT GEN: 30 ##########
+SPECIES: 
+Moss           		Mean: 62.85 		Best: 1043.96 		N:7
+Watters        		Mean: 108.69 		Best: 1043.71 		N:4
+Ragin          		Mean: 322.38 		Best: 1027.01 		N:2
+Freeman        		Mean: 65.89 		Best: 1007.09 		N:6
+Rodriguez      		Mean: 77.67 		Best: 1006.94 		N:5
+Reynolds       		Mean: 83.8 		Best: 995.94 		N:5
+Kruse          		Mean: 173.8 		Best: 951.59 		N:3
+Tickle         		Mean: 42.63 		Best: 917.24 		N:8
+Ornelas        		Mean: 41.34 		Best: 425.17 		N:7
+Pointer        		Mean: 78.01 		Best: 406.31 		N:4
+Beck           		Mean: 42.55 		Best: 349.77 		N:7
+Mateo          		Mean: 48.98 		Best: 338.29 		N:6
+Mcmahon        		Mean: 68.97 		Best: 327.99 		N:4
+Taylor         		Mean: 34.5 		Best: 312.04 		N:8
+Trent          		Mean: 29.73 		Best: 309.18 		N:9
+Holder         		Mean: 48.67 		Best: 306.07 		N:5
+Madina         		Mean: 35.71 		Best: 293.33 		N:7
+Goldberger     		Mean: 47.92 		Best: 288.52 		N:5
+
+########## REPORT GEN: 31 ##########
+SPECIES: 
+Madina         		Mean: 85.18 		Best: 1033.43 		N:5
+Rodriguez      		Mean: 61.21 		Best: 1023.75 		N:6
+Beck           		Mean: 42.48 		Best: 1021.96 		N:11
+Ornelas        		Mean: 177.74 		Best: 1004.73 		N:3
+Freeman        		Mean: 64.14 		Best: 952.02 		N:6
+Trent          		Mean: 148.42 		Best: 928.4 		N:3
+Taylor         		Mean: 54.44 		Best: 895.59 		N:7
+Holder         		Mean: 51.38 		Best: 424.54 		N:6
+Pointer        		Mean: 20.41 		Best: 350.36 		N:13
+Ragin          		Mean: 47.47 		Best: 347.86 		N:6
+Mcmahon        		Mean: 58.7 		Best: 340.94 		N:4
+Reynolds       		Mean: 30.83 		Best: 339.8 		N:8
+Kruse          		Mean: 31.71 		Best: 315.81 		N:8
+Goldberger     		Mean: 81.95 		Best: 294.65 		N:3
+Watters        		Mean: 91.67 		Best: 289.64 		N:3
+Tickle         		Mean: 46.51 		Best: 285.89 		N:5
+Mateo          		Mean: 113.74 		Best: 244.34 		N:2
+
+########## REPORT GEN: 32 ##########
+SPECIES: 
+Kruse          		Mean: 117.65 		Best: 1039.13 		N:5
+Freeman        		Mean: 78.81 		Best: 1034.99 		N:6
+Holder         		Mean: 100.59 		Best: 995.12 		N:4
+Pointer        		Mean: 77.38 		Best: 993.76 		N:5
+Taylor         		Mean: 78.51 		Best: 918.02 		N:5
+Ornelas        		Mean: 164.75 		Best: 913.91 		N:3
+Mcmahon        		Mean: 81.5 		Best: 881.95 		N:5
+Beck           		Mean: 26.36 		Best: 470.91 		N:10
+Watters        		Mean: 38.69 		Best: 424.51 		N:7
+Reynolds       		Mean: 48.42 		Best: 392.76 		N:6
+Trent          		Mean: 99.25 		Best: 350.97 		N:3
+Ragin          		Mean: 47.44 		Best: 350.13 		N:6
+Madina         		Mean: 107.65 		Best: 347.79 		N:3
+Tickle         		Mean: 40.21 		Best: 337.49 		N:7
+Mateo          		Mean: 56.13 		Best: 296.36 		N:4
+Moss           		Mean: 33.1 		Best: 276.47 		N:7
+Rodriguez      		Mean: 46.19 		Best: 249.14 		N:5
+Goldberger     		Mean: 96.7 		Best: 194.21 		N:2
+
+########## REPORT GEN: 33 ##########
+SPECIES: 
+Taylor         		Mean: 43.45 		Best: 1046.92 		N:8
+Trent          		Mean: 82.43 		Best: 1038.28 		N:6
+Mateo          		Mean: 36.78 		Best: 1026.3 		N:10
+Tickle         		Mean: 45.31 		Best: 1025.53 		N:8
+Madina         		Mean: 38.05 		Best: 1017.65 		N:11
+Mcmahon        		Mean: 56.61 		Best: 1004.85 		N:6
+Holder         		Mean: 46.48 		Best: 995.14 		N:7
+Freeman        		Mean: 62.04 		Best: 966.85 		N:7
+Reynolds       		Mean: 64.43 		Best: 913.97 		N:7
+Goldberger     		Mean: 76.16 		Best: 424.56 		N:4
+Beck           		Mean: 25.72 		Best: 392.47 		N:10
+Moss           		Mean: 40.9 		Best: 330.91 		N:6
+Ornelas        		Mean: 66.3 		Best: 315.51 		N:4
+Pointer        		Mean: 57.78 		Best: 303.52 		N:4
+Watters        		Mean: 61.43 		Best: 295.3 		N:4
+Kruse          		Mean: 50.48 		Best: 293.65 		N:5
+Rodriguez      		Mean: 76.37 		Best: 276.78 		N:3
+
+########## REPORT GEN: 34 ##########
+SPECIES: 
+Beck           		Mean: 31.56 		Best: 1046.25 		N:10
+Mcmahon        		Mean: 169.17 		Best: 1039.04 		N:3
+Trent          		Mean: 81.73 		Best: 1038.83 		N:6
+Holder         		Mean: 43.14 		Best: 1025.45 		N:9
+Goldberger     		Mean: 32.66 		Best: 1019.9 		N:10
+Kruse          		Mean: 69.91 		Best: 1014.77 		N:7
+Reynolds       		Mean: 39.89 		Best: 996.28 		N:10
+Madina         		Mean: 178.45 		Best: 995.15 		N:3
+Moss           		Mean: 30.16 		Best: 391.97 		N:8
+Ragin          		Mean: 87.56 		Best: 342.15 		N:3
+Pointer        		Mean: 47.42 		Best: 337.11 		N:6
+Watters        		Mean: 50.43 		Best: 337.02 		N:5
+Mateo          		Mean: 78.29 		Best: 304.64 		N:3
+Freeman        		Mean: 27.23 		Best: 303.01 		N:9
+Rodriguez      		Mean: 25.93 		Best: 295.99 		N:9
+Tickle         		Mean: 61.75 		Best: 294.54 		N:4
+Ornelas        		Mean: 126.8 		Best: 257.53 		N:2
+Taylor         		Mean: 20.93 		Best: 246.79 		N:10
+
+########## REPORT GEN: 35 ##########
+SPECIES: 
+Moss           		Mean: 34.24 		Best: 1044.97 		N:10
+Pointer        		Mean: 67.73 		Best: 1035.91 		N:7
+Holder         		Mean: 45.44 		Best: 1030.25 		N:8
+Ornelas        		Mean: 110.44 		Best: 1011.19 		N:4
+Mcmahon        		Mean: 53.02 		Best: 1010.47 		N:7
+Freeman        		Mean: 58.39 		Best: 1007.4 		N:6
+Beck           		Mean: 39.41 		Best: 998.13 		N:9
+Tickle         		Mean: 40.08 		Best: 983.0 		N:8
+Madina         		Mean: 169.48 		Best: 938.43 		N:3
+Taylor         		Mean: 166.67 		Best: 930.11 		N:3
+Goldberger     		Mean: 62.05 		Best: 490.38 		N:5
+Mateo          		Mean: 33.69 		Best: 364.37 		N:7
+Ragin          		Mean: 32.23 		Best: 339.67 		N:8
+Watters        		Mean: 39.3 		Best: 321.22 		N:6
+Trent          		Mean: 33.46 		Best: 294.64 		N:7
+Reynolds       		Mean: 79.05 		Best: 276.9 		N:3
+
+########## REPORT GEN: 36 ##########
+SPECIES: 
+Reynolds       		Mean: 106.12 		Best: 1037.08 		N:4
+Madina         		Mean: 58.93 		Best: 1030.28 		N:9
+Watters        		Mean: 306.94 		Best: 1026.93 		N:2
+Beck           		Mean: 116.98 		Best: 1024.96 		N:5
+Tickle         		Mean: 52.57 		Best: 1022.96 		N:8
+Kruse          		Mean: 75.65 		Best: 999.3 		N:6
+Goldberger     		Mean: 78.22 		Best: 997.88 		N:5
+Mateo          		Mean: 48.55 		Best: 934.41 		N:8
+Ragin          		Mean: 63.98 		Best: 930.8 		N:6
+Moss           		Mean: 97.06 		Best: 930.46 		N:4
+Ornelas        		Mean: 48.78 		Best: 492.98 		N:6
+Freeman        		Mean: 99.11 		Best: 363.02 		N:3
+Trent          		Mean: 35.99 		Best: 340.54 		N:7
+Pointer        		Mean: 35.25 		Best: 338.13 		N:7
+Holder         		Mean: 137.92 		Best: 327.02 		N:2
+Mcmahon        		Mean: 68.65 		Best: 326.35 		N:4
+Taylor         		Mean: 44.19 		Best: 254.03 		N:5
+
+########## REPORT GEN: 37 ##########
+SPECIES: 
+Holder         		Mean: 84.63 		Best: 1046.66 		N:5
+Freeman        		Mean: 61.46 		Best: 1041.27 		N:6
+Moss           		Mean: 105.35 		Best: 1029.51 		N:5
+Ragin          		Mean: 37.56 		Best: 1015.14 		N:10
+Pointer        		Mean: 82.92 		Best: 1010.14 		N:5
+Madina         		Mean: 60.95 		Best: 1002.44 		N:6
+Beck           		Mean: 153.39 		Best: 935.29 		N:4
+Reynolds       		Mean: 101.04 		Best: 932.65 		N:4
+Goldberger     		Mean: 114.74 		Best: 930.99 		N:4
+Mcmahon        		Mean: 81.38 		Best: 930.87 		N:5
+Taylor         		Mean: 160.79 		Best: 930.42 		N:3
+Ornelas        		Mean: 43.6 		Best: 929.83 		N:9
+Watters        		Mean: 28.53 		Best: 493.31 		N:9
+Kruse          		Mean: 26.53 		Best: 490.54 		N:9
+Tickle         		Mean: 63.23 		Best: 368.84 		N:4
+Mateo          		Mean: 58.62 		Best: 363.17 		N:5
+Trent          		Mean: 133.56 		Best: 325.45 		N:2
+
+########## REPORT GEN: 38 ##########
+SPECIES: 
+Mateo          		Mean: 51.13 		Best: 1040.46 		N:8
+Taylor         		Mean: 35.28 		Best: 1035.06 		N:9
+Ragin          		Mean: 86.3 		Best: 1033.67 		N:6
+Tickle         		Mean: 170.9 		Best: 1014.56 		N:4
+Mcmahon        		Mean: 107.34 		Best: 1014.49 		N:5
+Freeman        		Mean: 54.9 		Best: 1012.29 		N:9
+Watters        		Mean: 53.22 		Best: 1009.89 		N:8
+Reynolds       		Mean: 43.05 		Best: 936.06 		N:8
+Goldberger     		Mean: 69.34 		Best: 931.28 		N:6
+Trent          		Mean: 36.87 		Best: 931.24 		N:9
+Moss           		Mean: 53.54 		Best: 929.01 		N:7
+Kruse          		Mean: 60.93 		Best: 889.8 		N:6
+Pointer        		Mean: 77.74 		Best: 878.92 		N:6
+Beck           		Mean: 37.19 		Best: 368.85 		N:8
+Madina         		Mean: 28.79 		Best: 350.38 		N:8
+Ornelas        		Mean: 68.56 		Best: 226.15 		N:3
+
+########## REPORT GEN: 39 ##########
+SPECIES: 
+Mcmahon        		Mean: 38.79 		Best: 1146.19 		N:10
+Reynolds       		Mean: 346.62 		Best: 1064.27 		N:2
+Goldberger     		Mean: 33.49 		Best: 1039.8 		N:12
+Trent          		Mean: 81.52 		Best: 1035.33 		N:6
+Taylor         		Mean: 68.23 		Best: 1031.13 		N:8
+Kruse          		Mean: 149.88 		Best: 1014.2 		N:4
+Watters        		Mean: 75.53 		Best: 957.94 		N:6
+Madina         		Mean: 62.64 		Best: 932.98 		N:7
+Freeman        		Mean: 47.0 		Best: 930.11 		N:7
+Holder         		Mean: 73.71 		Best: 880.07 		N:6
+Ornelas        		Mean: 46.44 		Best: 874.27 		N:7
+Pointer        		Mean: 74.52 		Best: 872.45 		N:5
+Moss           		Mean: 40.69 		Best: 397.16 		N:6
+Mateo          		Mean: 45.91 		Best: 368.81 		N:6
+Beck           		Mean: 50.95 		Best: 346.78 		N:5
+Ragin          		Mean: 81.28 		Best: 284.32 		N:3
+Tickle         		Mean: 36.22 		Best: 254.88 		N:6
+
+########## REPORT GEN: 40 ##########
+SPECIES: 
+Tickle         		Mean: 155.21 		Best: 1042.46 		N:4
+Moss           		Mean: 73.03 		Best: 1041.17 		N:6
+Pointer        		Mean: 47.69 		Best: 1035.75 		N:7
+Watters        		Mean: 72.3 		Best: 1024.04 		N:7
+Freeman        		Mean: 39.87 		Best: 1017.44 		N:10
+Ragin          		Mean: 110.69 		Best: 1012.57 		N:4
+Taylor         		Mean: 165.57 		Best: 1008.78 		N:3
+Beck           		Mean: 33.79 		Best: 933.46 		N:10
+Mcmahon        		Mean: 47.28 		Best: 930.06 		N:8
+Kruse          		Mean: 33.98 		Best: 913.73 		N:9
+Holder         		Mean: 90.34 		Best: 888.61 		N:6
+Reynolds       		Mean: 110.58 		Best: 879.99 		N:4
+Trent          		Mean: 168.78 		Best: 873.17 		N:3
+Ornelas        		Mean: 26.54 		Best: 338.35 		N:9
+Madina         		Mean: 26.55 		Best: 288.43 		N:8
+Mateo          		Mean: 41.94 		Best: 273.31 		N:5
+
+########## REPORT GEN: 41 ##########
+SPECIES: 
+Goldberger     		Mean: 48.17 		Best: 1026.64 		N:9
+Reynolds       		Mean: 164.68 		Best: 1014.82 		N:3
+Mateo          		Mean: 91.2 		Best: 1012.99 		N:7
+Trent          		Mean: 98.72 		Best: 1006.59 		N:7
+Beck           		Mean: 114.8 		Best: 999.95 		N:4
+Madina         		Mean: 63.94 		Best: 995.03 		N:7
+Holder         		Mean: 66.42 		Best: 970.8 		N:9
+Mcmahon        		Mean: 63.7 		Best: 930.8 		N:6
+Ragin          		Mean: 73.38 		Best: 925.19 		N:7
+Moss           		Mean: 76.68 		Best: 893.07 		N:5
+Pointer        		Mean: 98.82 		Best: 879.76 		N:4
+Freeman        		Mean: 64.19 		Best: 871.37 		N:6
+Watters        		Mean: 255.7 		Best: 818.5 		N:2
+Taylor         		Mean: 32.42 		Best: 492.22 		N:8
+Kruse          		Mean: 158.22 		Best: 338.91 		N:2
+Tickle         		Mean: 84.1 		Best: 336.5 		N:3
+Ornelas        		Mean: 40.23 		Best: 290.16 		N:6
+
+########## REPORT GEN: 42 ##########
+SPECIES: 
+Beck           		Mean: 44.18 		Best: 1040.64 		N:10
+Trent          		Mean: 119.21 		Best: 1032.46 		N:4
+Watters        		Mean: 49.44 		Best: 1023.26 		N:7
+Kruse          		Mean: 49.41 		Best: 1020.33 		N:7
+Mcmahon        		Mean: 38.21 		Best: 1004.96 		N:10
+Pointer        		Mean: 89.76 		Best: 1003.02 		N:7
+Taylor         		Mean: 66.71 		Best: 1002.68 		N:7
+Tickle         		Mean: 73.73 		Best: 995.64 		N:8
+Mateo          		Mean: 44.83 		Best: 929.63 		N:7
+Moss           		Mean: 56.33 		Best: 908.0 		N:8
+Ornelas        		Mean: 146.12 		Best: 905.94 		N:3
+Freeman        		Mean: 61.11 		Best: 897.51 		N:6
+Holder         		Mean: 91.9 		Best: 730.96 		N:4
+Reynolds       		Mean: 61.99 		Best: 378.31 		N:4
+Goldberger     		Mean: 61.81 		Best: 338.41 		N:4
+Madina         		Mean: 50.13 		Best: 247.83 		N:4
+
+########## REPORT GEN: 43 ##########
+SPECIES: 
+Ragin          		Mean: 110.22 		Best: 1044.13 		N:5
+Taylor         		Mean: 62.37 		Best: 1041.83 		N:9
+Watters        		Mean: 109.03 		Best: 1038.99 		N:5
+Mcmahon        		Mean: 57.35 		Best: 1038.9 		N:6
+Madina         		Mean: 35.65 		Best: 1000.35 		N:9
+Pointer        		Mean: 30.53 		Best: 998.57 		N:12
+Freeman        		Mean: 43.02 		Best: 996.68 		N:10
+Ornelas        		Mean: 77.69 		Best: 928.89 		N:5
+Holder         		Mean: 103.47 		Best: 923.01 		N:5
+Beck           		Mean: 57.72 		Best: 916.34 		N:7
+Mateo          		Mean: 136.21 		Best: 816.84 		N:3
+Goldberger     		Mean: 62.69 		Best: 731.09 		N:5
+Reynolds       		Mean: 45.79 		Best: 369.7 		N:5
+Tickle         		Mean: 34.52 		Best: 339.59 		N:7
+Trent          		Mean: 50.38 		Best: 314.41 		N:5
+Kruse          		Mean: 46.03 		Best: 292.84 		N:5
+Moss           		Mean: 77.65 		Best: 281.83 		N:3
+
+########## REPORT GEN: 44 ##########
+SPECIES: 
+Kruse          		Mean: 87.18 		Best: 1045.06 		N:6
+Moss           		Mean: 54.24 		Best: 1036.06 		N:7
+Ragin          		Mean: 62.57 		Best: 1015.38 		N:8
+Pointer        		Mean: 38.91 		Best: 1011.73 		N:11
+Taylor         		Mean: 44.63 		Best: 1007.11 		N:10
+Holder         		Mean: 49.96 		Best: 1007.07 		N:7
+Beck           		Mean: 64.83 		Best: 996.68 		N:6
+Mateo          		Mean: 80.39 		Best: 996.32 		N:7
+Tickle         		Mean: 57.27 		Best: 956.96 		N:6
+Goldberger     		Mean: 49.34 		Best: 930.86 		N:7
+Reynolds       		Mean: 38.58 		Best: 923.52 		N:8
+Ornelas        		Mean: 21.89 		Best: 369.24 		N:10
+Freeman        		Mean: 32.36 		Best: 313.66 		N:7
+Madina         		Mean: 43.17 		Best: 295.84 		N:5
+Trent          		Mean: 36.67 		Best: 255.1 		N:6
+Watters        		Mean: 33.05 		Best: 218.82 		N:6
+Mcmahon        		Mean: 64.1 		Best: 218.54 		N:3
+
+########## REPORT GEN: 45 ##########
+SPECIES: 
+Trent          		Mean: 63.96 		Best: 1039.76 		N:6
+Taylor         		Mean: 25.6 		Best: 1036.03 		N:13
+Holder         		Mean: 30.61 		Best: 1035.92 		N:13
+Madina         		Mean: 35.26 		Best: 1035.11 		N:9
+Ragin          		Mean: 46.65 		Best: 1013.33 		N:10
+Beck           		Mean: 30.56 		Best: 995.87 		N:10
+Kruse          		Mean: 55.17 		Best: 983.42 		N:8
+Moss           		Mean: 45.24 		Best: 935.34 		N:7
+Goldberger     		Mean: 33.47 		Best: 931.3 		N:9
+Watters        		Mean: 21.31 		Best: 883.88 		N:12
+Freeman        		Mean: 48.09 		Best: 314.74 		N:5
+Pointer        		Mean: 40.18 		Best: 311.55 		N:6
+Tickle         		Mean: 22.68 		Best: 305.92 		N:10
+Reynolds       		Mean: 43.54 		Best: 293.69 		N:5
+Ornelas        		Mean: 60.62 		Best: 293.46 		N:4
+Mcmahon        		Mean: 28.62 		Best: 283.7 		N:7
+
+########## REPORT GEN: 46 ##########
+SPECIES: 
+Tickle         		Mean: 45.28 		Best: 1041.69 		N:11
+Mateo          		Mean: 62.07 		Best: 1035.88 		N:6
+Trent          		Mean: 61.45 		Best: 1014.06 		N:7
+Goldberger     		Mean: 52.56 		Best: 1013.69 		N:7
+Ornelas        		Mean: 37.78 		Best: 1006.89 		N:8
+Moss           		Mean: 58.95 		Best: 1000.39 		N:6
+Pointer        		Mean: 31.51 		Best: 997.67 		N:9
+Freeman        		Mean: 64.68 		Best: 995.84 		N:7
+Madina         		Mean: 242.85 		Best: 953.53 		N:3
+Taylor         		Mean: 31.64 		Best: 316.06 		N:7
+Ragin          		Mean: 63.88 		Best: 310.95 		N:4
+Reynolds       		Mean: 28.49 		Best: 304.25 		N:8
+Watters        		Mean: 75.78 		Best: 296.42 		N:3
+Beck           		Mean: 40.37 		Best: 237.21 		N:5
+Mcmahon        		Mean: 71.84 		Best: 234.32 		N:3
+Holder         		Mean: 38.79 		Best: 218.62 		N:5
+Kruse          		Mean: 30.33 		Best: 195.91 		N:6
+
+########## REPORT GEN: 47 ##########
+SPECIES: 
+Ragin          		Mean: 44.98 		Best: 1058.48 		N:7
+Holder         		Mean: 63.73 		Best: 1035.63 		N:7
+Trent          		Mean: 45.1 		Best: 1030.47 		N:11
+Reynolds       		Mean: 46.71 		Best: 1029.25 		N:7
+Ornelas        		Mean: 75.59 		Best: 1028.95 		N:5
+Mcmahon        		Mean: 78.11 		Best: 1028.27 		N:5
+Beck           		Mean: 51.64 		Best: 1016.13 		N:8
+Kruse          		Mean: 59.48 		Best: 1011.56 		N:6
+Mateo          		Mean: 107.36 		Best: 1002.25 		N:4
+Madina         		Mean: 32.83 		Best: 853.4 		N:9
+Taylor         		Mean: 60.61 		Best: 295.76 		N:4
+Goldberger     		Mean: 25.14 		Best: 241.97 		N:8
+Freeman        		Mean: 40.97 		Best: 234.53 		N:5
+Pointer        		Mean: 55.4 		Best: 230.24 		N:4
+Watters        		Mean: 40.0 		Best: 219.3 		N:5
+Moss           		Mean: 36.54 		Best: 193.9 		N:5
+Tickle         		Mean: 45.03 		Best: 192.79 		N:4
+
+########## REPORT GEN: 48 ##########
+SPECIES: 
+Trent          		Mean: 57.1 		Best: 1041.86 		N:6
+Moss           		Mean: 35.82 		Best: 1038.75 		N:10
+Madina         		Mean: 40.65 		Best: 1037.34 		N:9
+Watters        		Mean: 53.95 		Best: 1036.31 		N:8
+Holder         		Mean: 78.55 		Best: 1030.52 		N:6
+Beck           		Mean: 45.99 		Best: 1026.92 		N:7
+Reynolds       		Mean: 49.38 		Best: 1011.57 		N:7
+Goldberger     		Mean: 45.47 		Best: 1002.69 		N:7
+Taylor         		Mean: 39.12 		Best: 1001.52 		N:8
+Mateo          		Mean: 57.21 		Best: 910.39 		N:6
+Kruse          		Mean: 28.33 		Best: 311.93 		N:8
+Mcmahon        		Mean: 22.13 		Best: 273.22 		N:9
+Freeman        		Mean: 23.1 		Best: 266.3 		N:9
+Pointer        		Mean: 22.13 		Best: 251.45 		N:10
+Ornelas        		Mean: 34.24 		Best: 251.32 		N:6
+Tickle         		Mean: 25.28 		Best: 231.42 		N:8
+Ragin          		Mean: 63.83 		Best: 193.31 		N:3
+
+########## REPORT GEN: 49 ##########
+SPECIES: 
+Taylor         		Mean: 50.98 		Best: 1047.44 		N:8
+Watters        		Mean: 42.05 		Best: 1020.99 		N:9
+Tickle         		Mean: 41.53 		Best: 1017.17 		N:9
+Ornelas        		Mean: 49.56 		Best: 1016.63 		N:7
+Holder         		Mean: 31.99 		Best: 1006.48 		N:9
+Moss           		Mean: 50.61 		Best: 995.13 		N:8
+Ragin          		Mean: 43.18 		Best: 914.03 		N:7
+Trent          		Mean: 33.06 		Best: 864.81 		N:9
+Mcmahon        		Mean: 21.15 		Best: 287.66 		N:10
+Freeman        		Mean: 41.23 		Best: 286.17 		N:5
+Reynolds       		Mean: 19.88 		Best: 285.27 		N:10
+Mateo          		Mean: 16.85 		Best: 267.8 		N:12
+Beck           		Mean: 51.96 		Best: 254.89 		N:4
+Kruse          		Mean: 20.09 		Best: 254.08 		N:10
+Madina         		Mean: 21.39 		Best: 235.09 		N:9
+Pointer        		Mean: 30.92 		Best: 198.02 		N:6
+
+########## REPORT GEN: 50 ##########
+SPECIES: 
+Pointer        		Mean: 65.48 		Best: 1039.81 		N:8
+Watters        		Mean: 46.32 		Best: 1037.56 		N:7
+Trent          		Mean: 163.39 		Best: 1030.83 		N:3
+Madina         		Mean: 61.83 		Best: 1017.06 		N:7
+Holder         		Mean: 39.42 		Best: 1008.58 		N:9
+Tickle         		Mean: 18.95 		Best: 1005.84 		N:16
+Freeman        		Mean: 27.38 		Best: 970.86 		N:10
+Reynolds       		Mean: 44.15 		Best: 948.41 		N:7
+Kruse          		Mean: 55.38 		Best: 870.11 		N:6
+Mcmahon        		Mean: 76.34 		Best: 305.87 		N:3
+Ornelas        		Mean: 37.16 		Best: 287.14 		N:6
+Taylor         		Mean: 36.36 		Best: 284.74 		N:6
+Ragin          		Mean: 15.6 		Best: 277.26 		N:13
+Mateo          		Mean: 50.33 		Best: 264.06 		N:4
+Beck           		Mean: 47.16 		Best: 219.33 		N:4
+Goldberger     		Mean: 36.33 		Best: 193.16 		N:5
+Moss           		Mean: 86.97 		Best: 185.66 		N:2
+
+########## REPORT GEN: 51 ##########
+SPECIES: 
+Holder         		Mean: 38.39 		Best: 1048.83 		N:11
+Madina         		Mean: 76.23 		Best: 1045.06 		N:7
+Trent          		Mean: 172.08 		Best: 1041.4 		N:3
+Mcmahon        		Mean: 39.81 		Best: 1033.78 		N:11
+Goldberger     		Mean: 106.11 		Best: 1005.15 		N:5
+Taylor         		Mean: 27.52 		Best: 976.84 		N:10
+Reynolds       		Mean: 248.53 		Best: 970.36 		N:3
+Watters        		Mean: 34.24 		Best: 920.24 		N:8
+Mateo          		Mean: 34.84 		Best: 863.19 		N:8
+Kruse          		Mean: 37.21 		Best: 317.97 		N:6
+Pointer        		Mean: 31.93 		Best: 288.41 		N:7
+Tickle         		Mean: 26.13 		Best: 285.67 		N:8
+Ornelas        		Mean: 17.32 		Best: 266.69 		N:12
+Beck           		Mean: 42.13 		Best: 263.13 		N:5
+Ragin          		Mean: 52.86 		Best: 262.61 		N:4
+Freeman        		Mean: 54.45 		Best: 256.01 		N:4
+Moss           		Mean: 39.22 		Best: 206.05 		N:5
+
+########## REPORT GEN: 52 ##########
+SPECIES: 
+Ragin          		Mean: 61.47 		Best: 1048.24 		N:9
+Ornelas        		Mean: 61.79 		Best: 1031.53 		N:9
+Kruse          		Mean: 50.97 		Best: 1028.63 		N:9
+Madina         		Mean: 35.64 		Best: 1023.12 		N:10
+Goldberger     		Mean: 73.26 		Best: 998.76 		N:6
+Mcmahon        		Mean: 56.98 		Best: 997.55 		N:6
+Moss           		Mean: 159.11 		Best: 972.29 		N:3
+Holder         		Mean: 46.37 		Best: 317.51 		N:5
+Watters        		Mean: 28.45 		Best: 308.19 		N:8
+Pointer        		Mean: 45.37 		Best: 294.34 		N:5
+Reynolds       		Mean: 44.88 		Best: 289.24 		N:5
+Mateo          		Mean: 32.73 		Best: 285.91 		N:6
+Beck           		Mean: 20.85 		Best: 257.9 		N:9
+Freeman        		Mean: 67.94 		Best: 257.3 		N:3
+Tickle         		Mean: 63.57 		Best: 210.77 		N:3
+Trent          		Mean: 89.16 		Best: 188.54 		N:2
+
+########## REPORT GEN: 53 ##########
+SPECIES: 
+Mcmahon        		Mean: 46.07 		Best: 1048.74 		N:9
+Trent          		Mean: 161.38 		Best: 1044.63 		N:3
+Freeman        		Mean: 98.38 		Best: 1026.96 		N:4
+Watters        		Mean: 28.59 		Best: 1002.89 		N:12
+Holder         		Mean: 47.5 		Best: 996.23 		N:7
+Madina         		Mean: 62.6 		Best: 995.6 		N:6
+Reynolds       		Mean: 74.11 		Best: 980.05 		N:5
+Mateo          		Mean: 98.83 		Best: 969.8 		N:4
+Tickle         		Mean: 63.43 		Best: 829.59 		N:5
+Moss           		Mean: 26.83 		Best: 783.69 		N:10
+Beck           		Mean: 35.73 		Best: 315.36 		N:6
+Ornelas        		Mean: 69.94 		Best: 307.42 		N:3
+Ragin          		Mean: 29.53 		Best: 306.04 		N:7
+Kruse          		Mean: 42.89 		Best: 285.55 		N:5
+Pointer        		Mean: 61.88 		Best: 200.34 		N:3
+Taylor         		Mean: 62.81 		Best: 199.94 		N:3
+
+########## REPORT GEN: 54 ##########
+SPECIES: 
+Mcmahon        		Mean: 54.82 		Best: 1048.87 		N:6
+Watters        		Mean: 61.57 		Best: 1048.6 		N:7
+Tickle         		Mean: 77.88 		Best: 1048.07 		N:5
+Pointer        		Mean: 62.46 		Best: 1048.05 		N:6
+Moss           		Mean: 60.46 		Best: 1046.5 		N:6
+Kruse          		Mean: 512.69 		Best: 1044.09 		N:2
+Freeman        		Mean: 158.4 		Best: 1041.83 		N:3
+Beck           		Mean: 72.55 		Best: 969.25 		N:5
+Goldberger     		Mean: 74.91 		Best: 918.46 		N:6
+Taylor         		Mean: 30.73 		Best: 785.03 		N:9
+Ornelas        		Mean: 52.16 		Best: 758.74 		N:6
+Trent          		Mean: 20.21 		Best: 316.76 		N:10
+Mateo          		Mean: 30.45 		Best: 304.46 		N:7
+Reynolds       		Mean: 42.66 		Best: 291.36 		N:5
+Holder         		Mean: 41.1 		Best: 284.54 		N:5
+Madina         		Mean: 24.06 		Best: 233.01 		N:8
+
+########## REPORT GEN: 55 ##########
+SPECIES: 
+Moss           		Mean: 54.68 		Best: 1048.93 		N:6
+Mcmahon        		Mean: 56.0 		Best: 1048.93 		N:10
+Watters        		Mean: 100.9 		Best: 1016.62 		N:4
+Trent          		Mean: 78.84 		Best: 982.02 		N:6
+Pointer        		Mean: 153.69 		Best: 978.71 		N:3
+Freeman        		Mean: 151.76 		Best: 977.02 		N:3
+Holder         		Mean: 96.54 		Best: 950.8 		N:4
+Beck           		Mean: 143.45 		Best: 930.73 		N:3
+Ornelas        		Mean: 215.33 		Best: 928.31 		N:3
+Taylor         		Mean: 102.89 		Best: 918.49 		N:4
+Reynolds       		Mean: 45.02 		Best: 859.97 		N:7
+Ragin          		Mean: 49.27 		Best: 758.04 		N:6
+Kruse          		Mean: 224.21 		Best: 714.97 		N:2
+Goldberger     		Mean: 86.69 		Best: 323.94 		N:3
+Madina         		Mean: 46.22 		Best: 304.36 		N:5
+Mateo          		Mean: 51.3 		Best: 259.91 		N:4
+Tickle         		Mean: 16.91 		Best: 209.26 		N:11
+
+########## REPORT GEN: 56 ##########
+SPECIES: 
+Reynolds       		Mean: 83.75 		Best: 1046.66 		N:6
+Ornelas        		Mean: 51.01 		Best: 1045.0 		N:8
+Moss           		Mean: 103.44 		Best: 1039.82 		N:5
+Pointer        		Mean: 66.01 		Best: 1032.71 		N:8
+Mateo          		Mean: 47.37 		Best: 1023.95 		N:11
+Goldberger     		Mean: 37.54 		Best: 1021.4 		N:9
+Watters        		Mean: 51.48 		Best: 983.03 		N:9
+Holder         		Mean: 76.54 		Best: 973.14 		N:6
+Freeman        		Mean: 221.0 		Best: 929.01 		N:3
+Madina         		Mean: 92.21 		Best: 928.58 		N:4
+Trent          		Mean: 63.39 		Best: 758.73 		N:5
+Taylor         		Mean: 50.13 		Best: 715.05 		N:6
+Kruse          		Mean: 55.52 		Best: 354.6 		N:4
+Tickle         		Mean: 31.44 		Best: 245.78 		N:6
+Ragin          		Mean: 46.93 		Best: 228.81 		N:4
+
+########## REPORT GEN: 57 ##########
+SPECIES: 
+Watters        		Mean: 107.05 		Best: 1048.86 		N:4
+Reynolds       		Mean: 52.11 		Best: 1048.76 		N:10
+Holder         		Mean: 76.54 		Best: 1048.74 		N:7
+Beck           		Mean: 49.49 		Best: 1044.8 		N:8
+Trent          		Mean: 56.98 		Best: 1031.15 		N:7
+Freeman        		Mean: 83.28 		Best: 991.47 		N:5
+Pointer        		Mean: 49.95 		Best: 929.6 		N:7
+Madina         		Mean: 278.17 		Best: 928.94 		N:2
+Ornelas        		Mean: 140.48 		Best: 851.8 		N:3
+Ragin          		Mean: 128.38 		Best: 714.9 		N:3
+Kruse          		Mean: 39.0 		Best: 598.88 		N:7
+Taylor         		Mean: 30.03 		Best: 340.46 		N:7
+Tickle         		Mean: 33.65 		Best: 229.11 		N:6
+Moss           		Mean: 30.38 		Best: 219.85 		N:6
+Goldberger     		Mean: 63.68 		Best: 201.49 		N:3
+Mcmahon        		Mean: 62.25 		Best: 199.78 		N:3
+Mateo          		Mean: 86.53 		Best: 178.54 		N:2
+
+########## REPORT GEN: 58 ##########
+SPECIES: 
+Ragin          		Mean: 37.6 		Best: 1048.74 		N:8
+Taylor         		Mean: 73.59 		Best: 1048.43 		N:5
+Freeman        		Mean: 268.87 		Best: 1046.25 		N:3
+Trent          		Mean: 156.33 		Best: 1022.66 		N:3
+Beck           		Mean: 76.53 		Best: 1009.93 		N:5
+Kruse          		Mean: 78.09 		Best: 988.45 		N:6
+Moss           		Mean: 474.66 		Best: 968.67 		N:2
+Watters        		Mean: 128.48 		Best: 927.84 		N:4
+Goldberger     		Mean: 37.04 		Best: 854.72 		N:10
+Madina         		Mean: 54.74 		Best: 853.03 		N:6
+Tickle         		Mean: 22.13 		Best: 373.49 		N:11
+Pointer        		Mean: 46.56 		Best: 373.05 		N:5
+Holder         		Mean: 57.29 		Best: 297.39 		N:4
+Ornelas        		Mean: 20.18 		Best: 237.49 		N:10
+Mateo          		Mean: 49.06 		Best: 226.04 		N:4
+Mcmahon        		Mean: 39.42 		Best: 224.76 		N:5
+
+########## REPORT GEN: 59 ##########
+SPECIES: 
+Holder         		Mean: 98.23 		Best: 1048.93 		N:6
+Watters        		Mean: 276.35 		Best: 1035.17 		N:3
+Ornelas        		Mean: 73.58 		Best: 1034.13 		N:8
+Pointer        		Mean: 157.71 		Best: 1029.29 		N:3
+Reynolds       		Mean: 167.67 		Best: 1025.63 		N:4
+Kruse          		Mean: 65.28 		Best: 981.12 		N:8
+Beck           		Mean: 219.88 		Best: 929.19 		N:3
+Madina         		Mean: 95.77 		Best: 929.13 		N:4
+Goldberger     		Mean: 151.45 		Best: 929.01 		N:3
+Mateo          		Mean: 269.92 		Best: 853.73 		N:2
+Tickle         		Mean: 137.72 		Best: 853.58 		N:3
+Freeman        		Mean: 113.0 		Best: 758.69 		N:4
+Trent          		Mean: 42.84 		Best: 720.41 		N:7
+Ragin          		Mean: 221.56 		Best: 694.28 		N:2
+Mcmahon        		Mean: 186.47 		Best: 373.68 		N:2
+Taylor         		Mean: 88.29 		Best: 297.1 		N:3
+Moss           		Mean: 49.83 		Best: 235.06 		N:4
+
+########## REPORT GEN: 60 ##########
+SPECIES: 
+Pointer        		Mean: 70.74 		Best: 1048.93 		N:8
+Watters        		Mean: 85.52 		Best: 1048.12 		N:7
+Goldberger     		Mean: 77.78 		Best: 1035.16 		N:8
+Tickle         		Mean: 79.18 		Best: 1021.41 		N:9
+Moss           		Mean: 70.89 		Best: 1016.91 		N:8
+Mateo          		Mean: 58.05 		Best: 954.51 		N:9
+Trent          		Mean: 228.53 		Best: 715.0 		N:2
+Ragin          		Mean: 175.55 		Best: 694.08 		N:3
+Madina         		Mean: 108.49 		Best: 407.05 		N:3
+Reynolds       		Mean: 35.3 		Best: 399.79 		N:8
+Beck           		Mean: 142.18 		Best: 368.81 		N:2
+Taylor         		Mean: 36.73 		Best: 356.9 		N:6
+Kruse          		Mean: 75.58 		Best: 298.08 		N:3
+Holder         		Mean: 102.5 		Best: 224.65 		N:2
+Ornelas        		Mean: 45.23 		Best: 183.88 		N:4
+Freeman        		Mean: 88.82 		Best: 177.14 		N:2
+Mcmahon        		Mean: 40.96 		Best: 174.14 		N:4
+
+########## REPORT GEN: 61 ##########
+SPECIES: 
+Ragin          		Mean: 55.3 		Best: 1048.93 		N:9
+Mateo          		Mean: 130.72 		Best: 1045.9 		N:6
+Beck           		Mean: 61.28 		Best: 1024.58 		N:8
+Freeman        		Mean: 74.95 		Best: 1023.23 		N:5
+Reynolds       		Mean: 80.42 		Best: 1022.1 		N:5
+Watters        		Mean: 55.75 		Best: 995.34 		N:8
+Madina         		Mean: 86.9 		Best: 981.23 		N:6
+Kruse          		Mean: 71.47 		Best: 977.3 		N:6
+Goldberger     		Mean: 64.87 		Best: 928.6 		N:6
+Pointer        		Mean: 72.13 		Best: 674.43 		N:5
+Ornelas        		Mean: 65.0 		Best: 407.01 		N:4
+Holder         		Mean: 72.0 		Best: 406.87 		N:4
+Taylor         		Mean: 39.69 		Best: 378.06 		N:7
+Tickle         		Mean: 73.74 		Best: 295.19 		N:3
+Mcmahon        		Mean: 67.44 		Best: 247.83 		N:3
+Trent          		Mean: 55.75 		Best: 173.24 		N:3
+
+########## REPORT GEN: 62 ##########
+SPECIES: 
+Ornelas        		Mean: 69.44 		Best: 1048.78 		N:8
+Madina         		Mean: 85.59 		Best: 1048.53 		N:7
+Holder         		Mean: 36.81 		Best: 1048.32 		N:9
+Tickle         		Mean: 49.97 		Best: 1024.39 		N:9
+Ragin          		Mean: 96.2 		Best: 1023.18 		N:7
+Goldberger     		Mean: 54.02 		Best: 1022.61 		N:8
+Moss           		Mean: 68.0 		Best: 997.9 		N:6
+Mateo          		Mean: 46.69 		Best: 957.45 		N:8
+Watters        		Mean: 83.79 		Best: 955.71 		N:5
+Mcmahon        		Mean: 43.92 		Best: 844.64 		N:8
+Beck           		Mean: 56.57 		Best: 674.53 		N:6
+Pointer        		Mean: 41.61 		Best: 407.22 		N:7
+Trent          		Mean: 92.24 		Best: 398.85 		N:3
+Taylor         		Mean: 185.94 		Best: 377.73 		N:2
+Kruse          		Mean: 46.22 		Best: 374.41 		N:5
+Freeman        		Mean: 58.87 		Best: 337.86 		N:4
+Reynolds       		Mean: 99.26 		Best: 214.77 		N:2
+
+########## REPORT GEN: 63 ##########
+SPECIES: 
+Holder         		Mean: 73.82 		Best: 1045.2 		N:7
+Ragin          		Mean: 29.65 		Best: 1041.88 		N:15
+Taylor         		Mean: 120.71 		Best: 1039.67 		N:6
+Mateo          		Mean: 39.22 		Best: 1029.67 		N:10
+Pointer        		Mean: 65.89 		Best: 1029.37 		N:7
+Reynolds       		Mean: 65.62 		Best: 1027.75 		N:7
+Mcmahon        		Mean: 41.88 		Best: 1019.56 		N:11
+Beck           		Mean: 192.73 		Best: 950.72 		N:3
+Madina         		Mean: 118.75 		Best: 933.12 		N:4
+Trent          		Mean: 35.4 		Best: 466.91 		N:6
+Kruse          		Mean: 29.54 		Best: 434.35 		N:10
+Ornelas        		Mean: 39.99 		Best: 432.3 		N:7
+Moss           		Mean: 48.26 		Best: 407.32 		N:6
+Freeman        		Mean: 62.39 		Best: 400.94 		N:4
+Goldberger     		Mean: 68.61 		Best: 375.11 		N:4
+Tickle         		Mean: 88.32 		Best: 343.86 		N:3
+
+########## REPORT GEN: 64 ##########
+SPECIES: 
+Beck           		Mean: 117.98 		Best: 1051.7 		N:5
+Taylor         		Mean: 201.14 		Best: 1048.91 		N:3
+Watters        		Mean: 43.44 		Best: 1048.87 		N:10
+Ornelas        		Mean: 162.07 		Best: 1048.75 		N:4
+Mateo          		Mean: 35.82 		Best: 1029.87 		N:9
+Reynolds       		Mean: 45.99 		Best: 1025.63 		N:9
+Ragin          		Mean: 135.96 		Best: 1020.68 		N:4
+Kruse          		Mean: 55.42 		Best: 987.99 		N:7
+Pointer        		Mean: 122.22 		Best: 982.45 		N:4
+Madina         		Mean: 81.25 		Best: 929.35 		N:5
+Moss           		Mean: 53.77 		Best: 477.77 		N:6
+Mcmahon        		Mean: 47.75 		Best: 434.82 		N:6
+Freeman        		Mean: 50.41 		Best: 432.46 		N:6
+Holder         		Mean: 49.96 		Best: 407.22 		N:6
+Trent          		Mean: 99.56 		Best: 372.97 		N:3
+Tickle         		Mean: 166.62 		Best: 357.11 		N:2
+Goldberger     		Mean: 23.81 		Best: 315.12 		N:10
+
+########## REPORT GEN: 65 ##########
+SPECIES: 
+Freeman        		Mean: 33.08 		Best: 1048.94 		N:14
+Beck           		Mean: 102.13 		Best: 1046.34 		N:5
+Trent          		Mean: 59.97 		Best: 1040.31 		N:8
+Goldberger     		Mean: 55.63 		Best: 1021.79 		N:10
+Watters        		Mean: 57.31 		Best: 1011.96 		N:7
+Taylor         		Mean: 96.35 		Best: 979.04 		N:5
+Tickle         		Mean: 113.39 		Best: 928.91 		N:4
+Reynolds       		Mean: 63.21 		Best: 479.39 		N:6
+Ornelas        		Mean: 69.54 		Best: 434.45 		N:5
+Mcmahon        		Mean: 36.38 		Best: 433.23 		N:8
+Pointer        		Mean: 31.0 		Best: 407.19 		N:8
+Madina         		Mean: 72.97 		Best: 387.92 		N:4
+Moss           		Mean: 121.28 		Best: 375.91 		N:3
+Kruse          		Mean: 89.92 		Best: 375.39 		N:3
+Holder         		Mean: 62.11 		Best: 374.98 		N:5
+Mateo          		Mean: 46.08 		Best: 349.76 		N:5
+
+########## REPORT GEN: 66 ##########
+SPECIES: 
+Goldberger     		Mean: 189.91 		Best: 1048.94 		N:5
+Kruse          		Mean: 81.27 		Best: 1044.45 		N:7
+Freeman        		Mean: 66.63 		Best: 1039.75 		N:7
+Mcmahon        		Mean: 96.52 		Best: 1024.02 		N:5
+Beck           		Mean: 241.36 		Best: 992.57 		N:4
+Ragin          		Mean: 422.32 		Best: 929.35 		N:2
+Moss           		Mean: 58.06 		Best: 479.63 		N:6
+Mateo          		Mean: 36.7 		Best: 434.56 		N:8
+Madina         		Mean: 41.11 		Best: 390.65 		N:8
+Trent          		Mean: 46.7 		Best: 388.85 		N:7
+Watters        		Mean: 49.9 		Best: 373.44 		N:6
+Ornelas        		Mean: 61.4 		Best: 370.76 		N:4
+Holder         		Mean: 132.81 		Best: 370.61 		N:2
+Tickle         		Mean: 63.58 		Best: 368.54 		N:5
+Reynolds       		Mean: 106.05 		Best: 361.84 		N:3
+Taylor         		Mean: 140.51 		Best: 352.15 		N:2
+Pointer        		Mean: 87.87 		Best: 343.06 		N:3
+
+########## REPORT GEN: 67 ##########
+SPECIES: 
+Holder         		Mean: 65.6 		Best: 1048.21 		N:7
+Mcmahon        		Mean: 121.07 		Best: 1046.63 		N:5
+Goldberger     		Mean: 85.02 		Best: 1045.64 		N:11
+Beck           		Mean: 159.34 		Best: 1044.76 		N:5
+Ragin          		Mean: 126.84 		Best: 1044.55 		N:7
+Freeman        		Mean: 72.11 		Best: 1005.67 		N:6
+Ornelas        		Mean: 37.83 		Best: 478.72 		N:10
+Taylor         		Mean: 66.22 		Best: 391.09 		N:5
+Madina         		Mean: 54.46 		Best: 389.36 		N:6
+Watters        		Mean: 48.83 		Best: 373.03 		N:7
+Moss           		Mean: 113.36 		Best: 370.02 		N:3
+Pointer        		Mean: 58.84 		Best: 361.67 		N:4
+Tickle         		Mean: 53.27 		Best: 356.93 		N:6
+Mateo          		Mean: 114.28 		Best: 269.76 		N:2
+
+########## REPORT GEN: 68 ##########
+SPECIES: 
+Ragin          		Mean: 156.14 		Best: 1048.75 		N:6
+Goldberger     		Mean: 75.79 		Best: 1047.66 		N:11
+Moss           		Mean: 63.99 		Best: 1041.78 		N:8
+Beck           		Mean: 124.65 		Best: 1039.61 		N:5
+Mcmahon        		Mean: 175.82 		Best: 990.23 		N:5
+Freeman        		Mean: 69.43 		Best: 391.01 		N:4
+Watters        		Mean: 49.8 		Best: 390.12 		N:6
+Pointer        		Mean: 49.03 		Best: 383.89 		N:6
+Madina         		Mean: 86.82 		Best: 375.56 		N:4
+Kruse          		Mean: 58.44 		Best: 375.24 		N:5
+Reynolds       		Mean: 50.84 		Best: 372.79 		N:5
+Mateo          		Mean: 70.13 		Best: 370.37 		N:4
+Tickle         		Mean: 182.24 		Best: 363.58 		N:2
+Trent          		Mean: 117.68 		Best: 357.24 		N:3
+Taylor         		Mean: 68.39 		Best: 347.19 		N:4
+Holder         		Mean: 133.34 		Best: 342.9 		N:2
+
+########## REPORT GEN: 69 ##########
+SPECIES: 
+Mcmahon        		Mean: 66.45 		Best: 1048.94 		N:14
+Freeman        		Mean: 362.12 		Best: 1048.93 		N:2
+Ragin          		Mean: 107.0 		Best: 1048.78 		N:8
+Goldberger     		Mean: 106.13 		Best: 1030.79 		N:8
+Pointer        		Mean: 74.53 		Best: 388.98 		N:5
+Ornelas        		Mean: 30.02 		Best: 388.8 		N:11
+Kruse          		Mean: 35.39 		Best: 388.46 		N:10
+Taylor         		Mean: 106.27 		Best: 387.18 		N:3
+Madina         		Mean: 55.94 		Best: 374.76 		N:6
+Reynolds       		Mean: 53.28 		Best: 373.89 		N:6
+Mateo          		Mean: 100.09 		Best: 371.46 		N:3
+Beck           		Mean: 107.26 		Best: 370.3 		N:3
+Moss           		Mean: 90.6 		Best: 367.43 		N:4
+Tickle         		Mean: 44.76 		Best: 365.54 		N:6
+Holder         		Mean: 176.19 		Best: 359.03 		N:2
+Trent          		Mean: 48.23 		Best: 357.01 		N:6
+Watters        		Mean: 79.94 		Best: 356.61 		N:4
+
+########## REPORT GEN: 70 ##########
+SPECIES: 
+Ragin          		Mean: 106.24 		Best: 1048.88 		N:8
+Goldberger     		Mean: 87.56 		Best: 1048.84 		N:10
+Mcmahon        		Mean: 89.46 		Best: 971.18 		N:9
+Beck           		Mean: 78.55 		Best: 391.81 		N:4
+Kruse          		Mean: 32.82 		Best: 391.46 		N:10
+Reynolds       		Mean: 52.8 		Best: 390.07 		N:6
+Madina         		Mean: 38.36 		Best: 387.69 		N:9
+Ornelas        		Mean: 37.25 		Best: 384.62 		N:9
+Tickle         		Mean: 89.73 		Best: 384.58 		N:3
+Taylor         		Mean: 62.65 		Best: 384.26 		N:5
+Mateo          		Mean: 35.21 		Best: 375.03 		N:9
+Watters        		Mean: 69.46 		Best: 374.54 		N:5
+Freeman        		Mean: 118.69 		Best: 363.76 		N:3
+Moss           		Mean: 105.17 		Best: 357.04 		N:3
+Pointer        		Mean: 178.14 		Best: 356.36 		N:2
+Trent          		Mean: 47.68 		Best: 217.09 		N:4
+
+########## REPORT GEN: 71 ##########
+SPECIES: 
+Ragin          		Mean: 87.92 		Best: 1048.9 		N:10
+Goldberger     		Mean: 96.67 		Best: 1048.88 		N:9
+Mcmahon        		Mean: 98.43 		Best: 1016.38 		N:8
+Trent          		Mean: 52.32 		Best: 415.76 		N:7
+Ornelas        		Mean: 30.89 		Best: 392.4 		N:10
+Pointer        		Mean: 87.61 		Best: 391.92 		N:4
+Mateo          		Mean: 27.53 		Best: 391.12 		N:11
+Tickle         		Mean: 46.4 		Best: 387.45 		N:8
+Reynolds       		Mean: 79.55 		Best: 385.09 		N:4
+Kruse          		Mean: 123.86 		Best: 382.79 		N:3
+Holder         		Mean: 70.89 		Best: 374.24 		N:4
+Beck           		Mean: 55.13 		Best: 370.85 		N:6
+Moss           		Mean: 183.94 		Best: 369.54 		N:2
+Madina         		Mean: 148.27 		Best: 358.27 		N:2
+Watters        		Mean: 105.72 		Best: 350.42 		N:3
+Taylor         		Mean: 104.42 		Best: 255.4 		N:2
+
+########## REPORT GEN: 72 ##########
+SPECIES: 
+Goldberger     		Mean: 96.88 		Best: 1048.86 		N:9
+Mcmahon        		Mean: 82.8 		Best: 1048.58 		N:10
+Ragin          		Mean: 143.71 		Best: 800.34 		N:5
+Ornelas        		Mean: 56.78 		Best: 432.67 		N:6
+Pointer        		Mean: 40.82 		Best: 416.16 		N:7
+Watters        		Mean: 87.52 		Best: 402.88 		N:4
+Moss           		Mean: 59.46 		Best: 390.95 		N:6
+Freeman        		Mean: 64.83 		Best: 390.76 		N:5
+Madina         		Mean: 122.16 		Best: 389.92 		N:3
+Tickle         		Mean: 164.73 		Best: 387.57 		N:2
+Taylor         		Mean: 52.92 		Best: 385.17 		N:6
+Mateo          		Mean: 84.18 		Best: 375.11 		N:4
+Reynolds       		Mean: 45.61 		Best: 370.78 		N:7
+Holder         		Mean: 112.25 		Best: 365.74 		N:3
+Trent          		Mean: 48.62 		Best: 365.35 		N:7
+Kruse          		Mean: 133.96 		Best: 357.39 		N:2
+Beck           		Mean: 68.45 		Best: 356.49 		N:4
+
+########## REPORT GEN: 73 ##########
+SPECIES: 
+Goldberger     		Mean: 98.87 		Best: 1045.9 		N:8
+Mcmahon        		Mean: 89.4 		Best: 1045.37 		N:9
+Ragin          		Mean: 63.26 		Best: 843.05 		N:11
+Holder         		Mean: 40.67 		Best: 456.28 		N:7
+Mateo          		Mean: 42.81 		Best: 432.47 		N:8
+Madina         		Mean: 97.75 		Best: 416.85 		N:4
+Moss           		Mean: 74.59 		Best: 391.4 		N:5
+Reynolds       		Mean: 190.53 		Best: 389.96 		N:2
+Tickle         		Mean: 56.39 		Best: 387.49 		N:6
+Taylor         		Mean: 65.42 		Best: 387.26 		N:5
+Ornelas        		Mean: 41.71 		Best: 384.29 		N:7
+Pointer        		Mean: 29.57 		Best: 382.83 		N:11
+Kruse          		Mean: 79.82 		Best: 376.92 		N:4
+Freeman        		Mean: 52.94 		Best: 375.04 		N:6
+Beck           		Mean: 48.04 		Best: 357.15 		N:5
+Trent          		Mean: 146.06 		Best: 302.23 		N:2
+Watters        		Mean: 46.25 		Best: 266.95 		N:5
+
+########## REPORT GEN: 74 ##########
+SPECIES: 
+Ragin          		Mean: 67.16 		Best: 1048.82 		N:11
+Mcmahon        		Mean: 121.15 		Best: 1026.7 		N:6
+Goldberger     		Mean: 56.02 		Best: 842.94 		N:12
+Moss           		Mean: 38.27 		Best: 474.81 		N:10
+Pointer        		Mean: 48.47 		Best: 432.51 		N:8
+Kruse          		Mean: 61.04 		Best: 421.92 		N:5
+Taylor         		Mean: 47.62 		Best: 412.94 		N:7
+Beck           		Mean: 182.43 		Best: 390.46 		N:2
+Tickle         		Mean: 163.84 		Best: 386.52 		N:2
+Reynolds       		Mean: 61.04 		Best: 383.56 		N:6
+Madina         		Mean: 48.95 		Best: 375.02 		N:5
+Freeman        		Mean: 46.09 		Best: 358.07 		N:6
+Mateo          		Mean: 57.52 		Best: 357.39 		N:5
+Trent          		Mean: 73.73 		Best: 356.9 		N:4
+Ornelas        		Mean: 26.91 		Best: 348.18 		N:10
+Holder         		Mean: 73.9 		Best: 268.0 		N:3
+Watters        		Mean: 133.71 		Best: 267.83 		N:2
+Young          		Mean: 51.15 		Best: 216.85 		N:4
+
+########## REPORT GEN: 75 ##########
+SPECIES: 
+Ragin          		Mean: 67.05 		Best: 1048.68 		N:11
+Goldberger     		Mean: 95.66 		Best: 1040.07 		N:8
+Mcmahon        		Mean: 87.13 		Best: 970.27 		N:7
+Kruse          		Mean: 47.96 		Best: 475.12 		N:7
+Beck           		Mean: 79.62 		Best: 433.59 		N:5
+Pointer        		Mean: 20.95 		Best: 432.79 		N:14
+Moss           		Mean: 65.18 		Best: 390.39 		N:5
+Taylor         		Mean: 55.07 		Best: 387.24 		N:6
+Madina         		Mean: 78.0 		Best: 382.25 		N:4
+Tickle         		Mean: 43.7 		Best: 378.92 		N:6
+Mateo          		Mean: 31.24 		Best: 369.44 		N:9
+Ornelas        		Mean: 71.46 		Best: 356.85 		N:4
+Trent          		Mean: 39.75 		Best: 356.79 		N:7
+Freeman        		Mean: 135.03 		Best: 308.65 		N:2
+Watters        		Mean: 45.95 		Best: 270.46 		N:5
+Holder         		Mean: 72.69 		Best: 264.9 		N:3
+Young          		Mean: 128.2 		Best: 257.61 		N:2
+
+########## REPORT GEN: 76 ##########
+SPECIES: 
+Goldberger     		Mean: 64.82 		Best: 1047.84 		N:10
+Ragin          		Mean: 58.09 		Best: 1032.06 		N:12
+Mcmahon        		Mean: 63.58 		Best: 941.65 		N:10
+Madina         		Mean: 35.89 		Best: 475.24 		N:10
+Moss           		Mean: 45.22 		Best: 433.07 		N:7
+Ornelas        		Mean: 26.71 		Best: 432.53 		N:12
+Beck           		Mean: 42.47 		Best: 392.41 		N:9
+Taylor         		Mean: 80.4 		Best: 385.94 		N:4
+Young          		Mean: 78.49 		Best: 385.75 		N:4
+Tickle         		Mean: 73.49 		Best: 384.28 		N:4
+Kruse          		Mean: 37.47 		Best: 380.79 		N:9
+Pointer        		Mean: 67.72 		Best: 368.09 		N:4
+Watters        		Mean: 36.39 		Best: 357.98 		N:7
+Trent          		Mean: 51.56 		Best: 357.73 		N:5
+Holder         		Mean: 53.85 		Best: 272.2 		N:5
+Peluso         		Mean: 52.76 		Best: 260.43 		N:4
+Mateo          		Mean: 61.05 		Best: 228.2 		N:3
+
+########## REPORT GEN: 77 ##########
+SPECIES: 
+Ragin          		Mean: 96.14 		Best: 1043.52 		N:7
+Mcmahon        		Mean: 43.24 		Best: 1010.7 		N:14
+Goldberger     		Mean: 65.57 		Best: 726.51 		N:9
+Madina         		Mean: 36.63 		Best: 474.81 		N:10
+Moss           		Mean: 78.1 		Best: 432.67 		N:5
+Beck           		Mean: 46.05 		Best: 432.66 		N:7
+Young          		Mean: 63.6 		Best: 394.93 		N:5
+Ornelas        		Mean: 52.89 		Best: 391.86 		N:6
+Tickle         		Mean: 29.89 		Best: 386.41 		N:10
+Taylor         		Mean: 38.47 		Best: 385.13 		N:8
+Watters        		Mean: 41.32 		Best: 368.23 		N:7
+Kruse          		Mean: 61.26 		Best: 367.92 		N:5
+Pointer        		Mean: 26.03 		Best: 308.15 		N:10
+Trent          		Mean: 29.1 		Best: 266.85 		N:7
+Peluso         		Mean: 23.57 		Best: 256.9 		N:9
+Mateo          		Mean: 37.97 		Best: 217.06 		N:5
+Holder         		Mean: 63.38 		Best: 204.96 		N:3
+
+########## REPORT GEN: 78 ##########
+SPECIES: 
+Mcmahon        		Mean: 37.08 		Best: 1045.45 		N:16
+Goldberger     		Mean: 63.06 		Best: 1026.33 		N:10
+Ragin          		Mean: 89.55 		Best: 931.35 		N:7
+Ornelas        		Mean: 68.31 		Best: 475.65 		N:6
+Moss           		Mean: 42.9 		Best: 432.58 		N:9
+Young          		Mean: 48.32 		Best: 424.03 		N:7
+Taylor         		Mean: 25.74 		Best: 393.13 		N:11
+Beck           		Mean: 40.37 		Best: 392.11 		N:7
+Kruse          		Mean: 52.11 		Best: 391.41 		N:7
+Madina         		Mean: 35.17 		Best: 389.91 		N:9
+Watters        		Mean: 57.47 		Best: 367.85 		N:6
+Pointer        		Mean: 23.15 		Best: 308.95 		N:9
+Trent          		Mean: 45.6 		Best: 272.11 		N:5
+Mateo          		Mean: 31.37 		Best: 270.75 		N:7
+Tickle         		Mean: 73.14 		Best: 259.77 		N:3
+Koenig         		Mean: 121.46 		Best: 249.1 		N:2
+Holder         		Mean: 26.38 		Best: 232.82 		N:7
+Peluso         		Mean: 101.22 		Best: 202.13 		N:2
+
+########## REPORT GEN: 79 ##########
+SPECIES: 
+Goldberger     		Mean: 162.34 		Best: 1006.93 		N:4
+Mcmahon        		Mean: 37.09 		Best: 1002.42 		N:17
+Ragin          		Mean: 60.23 		Best: 927.95 		N:10
+Madina         		Mean: 46.97 		Best: 476.15 		N:8
+Moss           		Mean: 58.44 		Best: 476.07 		N:7
+Watters        		Mean: 24.67 		Best: 433.34 		N:13
+Beck           		Mean: 72.28 		Best: 432.88 		N:5
+Kruse          		Mean: 75.54 		Best: 432.66 		N:5
+Ferguson       		Mean: 205.75 		Best: 424.05 		N:2
+Peluso         		Mean: 34.21 		Best: 397.6 		N:7
+Ornelas        		Mean: 126.26 		Best: 389.89 		N:3
+Taylor         		Mean: 39.3 		Best: 383.84 		N:7
+Mateo          		Mean: 46.42 		Best: 368.97 		N:5
+Holder         		Mean: 41.86 		Best: 359.22 		N:6
+Pointer        		Mean: 77.21 		Best: 270.54 		N:3
+Koenig         		Mean: 126.44 		Best: 256.62 		N:2
+Young          		Mean: 49.02 		Best: 256.16 		N:5
+Trent          		Mean: 39.18 		Best: 235.92 		N:5
+Tickle         		Mean: 65.35 		Best: 204.5 		N:3
+
+########## REPORT GEN: 80 ##########
+SPECIES: 
+Ragin          		Mean: 70.39 		Best: 1048.92 		N:9
+Mcmahon        		Mean: 399.35 		Best: 1044.37 		N:2
+Goldberger     		Mean: 49.73 		Best: 931.33 		N:12
+Ornelas        		Mean: 97.94 		Best: 476.5 		N:4
+Madina         		Mean: 56.85 		Best: 475.5 		N:7
+Watters        		Mean: 117.16 		Best: 453.06 		N:3
+Beck           		Mean: 39.99 		Best: 432.46 		N:9
+Koenig         		Mean: 41.62 		Best: 422.88 		N:8
+Pointer        		Mean: 76.22 		Best: 402.18 		N:4
+Peluso         		Mean: 167.3 		Best: 398.48 		N:2
+Taylor         		Mean: 100.0 		Best: 383.74 		N:3
+Moss           		Mean: 64.54 		Best: 381.55 		N:5
+Kruse          		Mean: 37.23 		Best: 380.48 		N:7
+Mateo          		Mean: 54.88 		Best: 379.87 		N:6
+Ferguson       		Mean: 94.59 		Best: 360.21 		N:3
+Young          		Mean: 34.04 		Best: 359.98 		N:7
+Trent          		Mean: 59.11 		Best: 272.72 		N:4
+Tickle         		Mean: 72.72 		Best: 247.15 		N:3
+Holder         		Mean: 24.96 		Best: 233.23 		N:8
+
+########## REPORT GEN: 81 ##########
+SPECIES: 
+Mcmahon        		Mean: 395.5 		Best: 1029.96 		N:2
+Ragin          		Mean: 86.76 		Best: 928.9 		N:7
+Goldberger     		Mean: 72.7 		Best: 909.42 		N:8
+Mateo          		Mean: 108.25 		Best: 476.79 		N:3
+Kruse          		Mean: 60.49 		Best: 475.15 		N:5
+Madina         		Mean: 45.69 		Best: 452.61 		N:7
+Pointer        		Mean: 55.85 		Best: 432.58 		N:6
+Watters        		Mean: 120.59 		Best: 416.97 		N:3
+Ferguson       		Mean: 32.25 		Best: 403.92 		N:8
+Moss           		Mean: 19.52 		Best: 399.96 		N:14
+Taylor         		Mean: 84.57 		Best: 394.13 		N:4
+Peluso         		Mean: 32.4 		Best: 398.87 		N:10
+Trent          		Mean: 40.33 		Best: 368.36 		N:6
+Koenig         		Mean: 52.54 		Best: 360.78 		N:5
+Beck           		Mean: 92.19 		Best: 312.28 		N:3
+Young          		Mean: 78.92 		Best: 257.51 		N:3
+
+########## REPORT GEN: 82 ##########
+SPECIES: 
+Goldberger     		Mean: 123.78 		Best: 1048.94 		N:6
+Mcmahon        		Mean: 143.7 		Best: 1048.82 		N:5
+Ragin          		Mean: 127.11 		Best: 939.46 		N:5
+Madina         		Mean: 38.84 		Best: 467.86 		N:7
+Mateo          		Mean: 95.79 		Best: 453.36 		N:4
+Pointer        		Mean: 81.9 		Best: 432.67 		N:4
+Koenig         		Mean: 44.18 		Best: 420.74 		N:7
+Kruse          		Mean: 176.15 		Best: 417.7 		N:2
+Ferguson       		Mean: 58.98 		Best: 403.08 		N:5
+Trent          		Mean: 44.06 		Best: 400.27 		N:6
+Tickle         		Mean: 146.58 		Best: 393.92 		N:2
+Watters        		Mean: 54.9 		Best: 392.31 		N:6
+Beck           		Mean: 28.04 		Best: 370.72 		N:8
+Ornelas        		Mean: 76.94 		Best: 369.1 		N:4
+Young          		Mean: 41.67 		Best: 333.8 		N:6
+Peluso         		Mean: 134.95 		Best: 331.61 		N:2
+Taylor         		Mean: 127.82 		Best: 255.83 		N:2
+
+########## REPORT GEN: 83 ##########
+SPECIES: 
+Mcmahon        		Mean: 55.17 		Best: 1046.65 		N:12
+Ragin          		Mean: 85.68 		Best: 1016.54 		N:8
+Goldberger     		Mean: 49.49 		Best: 818.87 		N:11
+Ornelas        		Mean: 38.09 		Best: 467.39 		N:9
+Mateo          		Mean: 33.07 		Best: 453.16 		N:9
+Beck           		Mean: 61.89 		Best: 432.66 		N:5
+Madina         		Mean: 68.67 		Best: 427.2 		N:5
+Taylor         		Mean: 79.54 		Best: 421.29 		N:4
+Pointer        		Mean: 61.76 		Best: 418.92 		N:5
+Ferguson       		Mean: 42.41 		Best: 394.38 		N:6
+Young          		Mean: 161.0 		Best: 391.07 		N:2
+Kruse          		Mean: 140.21 		Best: 390.56 		N:2
+Watters        		Mean: 115.68 		Best: 353.66 		N:3
+Tickle         		Mean: 60.33 		Best: 330.88 		N:4
+Koenig         		Mean: 63.11 		Best: 258.01 		N:4
+

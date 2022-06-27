@@ -1,20 +1,11 @@
 import numpy as np
 from numpy.random import rand
-
+import IndividualFactory
 import copy
-
-"""
-
-    This class contains the NEAT constants. For example, the distnace constants, the step for weight mutation, 
-    mutation rates, target species, etc.
-    
-    The class also contains some core funtions for the NEAT algorithm. Such as the crossover function, and all the
-    activation functions. It also hosts as a variable the current fitness function to be evaluated.
-"""
 
 
 class NEAT:
-    seed = -1
+    seed = 0
     adaptation = 0.3
     dropoff = 15
     blood_rate = 3
@@ -119,7 +110,6 @@ class NEAT:
                 new_genome.append(copy.deepcopy(ind2.genome[gen]))
             else:
                 new_genome.append(copy.deepcopy(ind1.genome[gen]))
-        import IndividualFactory
         ind = IndividualFactory.IndividualFactory.buildIndividual(len(ind1.inp), len(ind1.out), new_genome)
         return ind
         pass

@@ -1,0 +1,55 @@
+########## REPORT GEN: 2 ##########
+SPECIES: 
+Ebert          		Mean: 43.55 		Best: 451.4 		N:8
+Congleton      		Mean: 14.37 		Best: 444.51 		N:22
+Bocanegra      		Mean: 17.65 		Best: 418.35 		N:19
+Newman         		Mean: 17.67 		Best: 413.38 		N:18
+Carmichael     		Mean: 17.78 		Best: 398.09 		N:19
+Hallinan       		Mean: 123.31 		Best: 378.5 		N:3
+Williams       		Mean: 160.8 		Best: 348.71 		N:2
+Avila          		Mean: 68.31 		Best: 338.65 		N:4
+Moss           		Mean: 132.04 		Best: 303.38 		N:2
+Barnes         		Mean: 128.49 		Best: 290.0 		N:2
+Kohan          		Mean: 118.38 		Best: 256.5 		N:2
+
+########## REPORT GEN: 3 ##########
+SPECIES: 
+Bocanegra      		Mean: 24.68 		Best: 433.11 		N:15
+Congleton      		Mean: 25.71 		Best: 404.69 		N:13
+Carmichael     		Mean: 56.74 		Best: 392.7 		N:6
+Autrey         		Mean: 111.68 		Best: 384.54 		N:3
+Williams       		Mean: 69.25 		Best: 377.73 		N:5
+Barnes         		Mean: 66.84 		Best: 360.85 		N:4
+Moss           		Mean: 85.72 		Best: 359.55 		N:4
+Monte          		Mean: 181.27 		Best: 356.19 		N:2
+Newman         		Mean: 110.11 		Best: 346.29 		N:3
+Hallinan       		Mean: 62.85 		Best: 323.65 		N:5
+Avila          		Mean: 38.05 		Best: 319.49 		N:7
+Friedman       		Mean: 138.96 		Best: 307.36 		N:2
+Kohan          		Mean: 63.98 		Best: 275.68 		N:4
+Nava           		Mean: 97.23 		Best: 206.92 		N:2
+
+########## REPORT GEN: 4 ##########
+SPECIES: 
+Hallinan       		Mean: 67.52 		Best: 454.69 		N:5
+Moss           		Mean: 38.58 		Best: 428.66 		N:8
+Ebert          		Mean: 39.45 		Best: 420.46 		N:8
+Williams       		Mean: 177.54 		Best: 399.35 		N:2
+Monte          		Mean: 189.38 		Best: 398.52 		N:2
+Friedman       		Mean: 71.34 		Best: 391.59 		N:4
+Mckelvy        		Mean: 193.87 		Best: 390.52 		N:2
+Carrel         		Mean: 114.31 		Best: 386.12 		N:3
+Delorey        		Mean: 182.83 		Best: 383.06 		N:2
+Bocanegra      		Mean: 59.71 		Best: 356.48 		N:5
+Matthews       		Mean: 78.16 		Best: 348.0 		N:4
+Autrey         		Mean: 77.99 		Best: 345.31 		N:4
+Fernandes      		Mean: 78.13 		Best: 336.74 		N:4
+Carmichael     		Mean: 93.92 		Best: 333.41 		N:3
+Avila          		Mean: 93.23 		Best: 323.91 		N:3
+Osborne        		Mean: 140.64 		Best: 318.84 		N:2
+Duclos         		Mean: 122.33 		Best: 318.77 		N:2
+Kohan          		Mean: 61.26 		Best: 290.29 		N:4
+Nava           		Mean: 59.16 		Best: 263.02 		N:4
+Barnes         		Mean: 33.01 		Best: 259.86 		N:6
+Allen          		Mean: 121.3 		Best: 241.86 		N:2
+

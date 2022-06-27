@@ -1,0 +1,131 @@
+########## REPORT GEN: 2 ##########
+SPECIES: 
+Pierce         		Mean: 11.06 		Best: 485.76 		N:26
+Sanders        		Mean: 15.52 		Best: 447.86 		N:18
+Hobart         		Mean: 10.71 		Best: 437.26 		N:25
+Hernandez      		Mean: 41.29 		Best: 366.25 		N:6
+Knight         		Mean: 162.84 		Best: 344.53 		N:2
+Cotton         		Mean: 119.72 		Best: 333.36 		N:2
+Johnson        		Mean: 66.01 		Best: 333.23 		N:4
+Morrow         		Mean: 144.65 		Best: 311.71 		N:2
+Popovich       		Mean: 102.73 		Best: 254.43 		N:2
+Hass           		Mean: 111.14 		Best: 252.3 		N:2
+
+########## REPORT GEN: 3 ##########
+SPECIES: 
+Morrow         		Mean: 91.59 		Best: 536.28 		N:4
+Johnson        		Mean: 43.12 		Best: 429.25 		N:7
+Hobart         		Mean: 42.64 		Best: 412.1 		N:7
+Knight         		Mean: 70.41 		Best: 384.82 		N:4
+Stonge         		Mean: 172.85 		Best: 377.98 		N:2
+Hernandez      		Mean: 23.45 		Best: 375.84 		N:13
+Cotton         		Mean: 104.54 		Best: 350.25 		N:3
+Pierce         		Mean: 38.14 		Best: 349.07 		N:7
+Sanders        		Mean: 32.68 		Best: 336.54 		N:8
+Obrien         		Mean: 84.64 		Best: 286.79 		N:3
+Popovich       		Mean: 49.7 		Best: 279.45 		N:4
+Marshall       		Mean: 115.05 		Best: 271.77 		N:2
+Hass           		Mean: 63.33 		Best: 261.64 		N:4
+
+########## REPORT GEN: 4 ##########
+SPECIES: 
+Popovich       		Mean: 53.26 		Best: 452.79 		N:5
+Morrow         		Mean: 34.36 		Best: 446.65 		N:9
+Cotton         		Mean: 42.1 		Best: 426.5 		N:7
+Hernandez      		Mean: 70.33 		Best: 407.1 		N:4
+Sisco          		Mean: 114.88 		Best: 381.6 		N:3
+Hass           		Mean: 43.59 		Best: 353.07 		N:6
+Marshall       		Mean: 57.7 		Best: 323.61 		N:5
+Morrison       		Mean: 80.03 		Best: 313.74 		N:3
+Adams          		Mean: 157.76 		Best: 313.63 		N:2
+Pierce         		Mean: 67.0 		Best: 299.87 		N:4
+Roy            		Mean: 85.02 		Best: 297.4 		N:3
+Hobart         		Mean: 49.31 		Best: 290.3 		N:5
+Stonge         		Mean: 57.37 		Best: 289.53 		N:4
+Obrien         		Mean: 62.56 		Best: 285.46 		N:4
+Knight         		Mean: 61.39 		Best: 283.1 		N:4
+Sanders        		Mean: 114.69 		Best: 276.01 		N:2
+
+########## REPORT GEN: 5 ##########
+SPECIES: 
+Adams          		Mean: 66.71 		Best: 437.37 		N:5
+Hernandez      		Mean: 41.23 		Best: 417.24 		N:6
+Morrison       		Mean: 39.31 		Best: 391.76 		N:7
+Marshall       		Mean: 56.24 		Best: 377.06 		N:5
+Obrien         		Mean: 56.39 		Best: 364.29 		N:5
+Knight         		Mean: 89.77 		Best: 362.71 		N:3
+Pierce         		Mean: 54.45 		Best: 350.38 		N:5
+Roy            		Mean: 37.77 		Best: 347.01 		N:8
+Morrow         		Mean: 67.01 		Best: 344.39 		N:4
+Sanders        		Mean: 67.08 		Best: 341.48 		N:4
+Hass           		Mean: 79.84 		Best: 336.91 		N:3
+Cotton         		Mean: 48.83 		Best: 316.3 		N:5
+Stonge         		Mean: 61.41 		Best: 313.7 		N:4
+Sisco          		Mean: 110.71 		Best: 298.46 		N:2
+Popovich       		Mean: 43.58 		Best: 269.12 		N:5
+Mcquay         		Mean: 70.05 		Best: 241.23 		N:3
+Hobart         		Mean: 46.47 		Best: 212.45 		N:4
+
+########## REPORT GEN: 6 ##########
+SPECIES: 
+Adams          		Mean: 38.06 		Best: 403.71 		N:8
+Morrow         		Mean: 45.78 		Best: 395.46 		N:7
+Pierce         		Mean: 70.72 		Best: 374.45 		N:4
+Morrison       		Mean: 49.92 		Best: 361.96 		N:6
+Sisco          		Mean: 32.43 		Best: 361.63 		N:7
+Marshall       		Mean: 46.86 		Best: 359.77 		N:6
+Hass           		Mean: 38.71 		Best: 351.65 		N:6
+Knight         		Mean: 28.53 		Best: 348.17 		N:8
+Sanders        		Mean: 37.69 		Best: 338.67 		N:7
+Cotton         		Mean: 57.15 		Best: 313.65 		N:5
+Mcquay         		Mean: 67.03 		Best: 308.46 		N:4
+Johnson        		Mean: 50.97 		Best: 306.97 		N:5
+Obrien         		Mean: 56.32 		Best: 302.53 		N:5
+Roy            		Mean: 110.31 		Best: 297.71 		N:2
+Hobart         		Mean: 144.65 		Best: 294.02 		N:2
+Popovich       		Mean: 58.06 		Best: 293.38 		N:4
+Stonge         		Mean: 40.28 		Best: 292.12 		N:6
+Hernandez      		Mean: 78.19 		Best: 270.41 		N:3
+
+########## REPORT GEN: 7 ##########
+SPECIES: 
+Adams          		Mean: 38.76 		Best: 486.21 		N:9
+Hernandez      		Mean: 44.46 		Best: 476.5 		N:6
+Cotton         		Mean: 88.23 		Best: 475.31 		N:4
+Obrien         		Mean: 20.59 		Best: 437.38 		N:14
+Stonge         		Mean: 61.93 		Best: 378.2 		N:5
+Hobart         		Mean: 103.44 		Best: 377.38 		N:3
+Knight         		Mean: 74.04 		Best: 363.29 		N:4
+Morrison       		Mean: 72.82 		Best: 359.92 		N:4
+Popovich       		Mean: 37.93 		Best: 356.94 		N:7
+Marshall       		Mean: 42.19 		Best: 334.43 		N:6
+Sisco          		Mean: 25.54 		Best: 312.17 		N:10
+Johnson        		Mean: 38.09 		Best: 310.55 		N:6
+Mcquay         		Mean: 44.39 		Best: 301.5 		N:6
+Roy            		Mean: 58.72 		Best: 293.16 		N:4
+Sanders        		Mean: 35.57 		Best: 286.57 		N:7
+Hass           		Mean: 27.54 		Best: 274.27 		N:8
+Pierce         		Mean: 72.81 		Best: 268.42 		N:3
+Morrow         		Mean: 72.15 		Best: 235.59 		N:3
+
+########## REPORT GEN: 8 ##########
+SPECIES: 
+Adams          		Mean: 31.67 		Best: 502.49 		N:10
+Stonge         		Mean: 66.41 		Best: 471.55 		N:5
+Knight         		Mean: 40.73 		Best: 461.46 		N:8
+Cotton         		Mean: 62.17 		Best: 441.33 		N:5
+Hass           		Mean: 82.07 		Best: 422.78 		N:4
+Mcquay         		Mean: 39.38 		Best: 377.84 		N:7
+Morrison       		Mean: 34.04 		Best: 377.43 		N:9
+Obrien         		Mean: 31.85 		Best: 369.67 		N:9
+Johnson        		Mean: 35.36 		Best: 364.44 		N:7
+Hobart         		Mean: 36.85 		Best: 362.19 		N:7
+Popovich       		Mean: 81.37 		Best: 343.18 		N:4
+Hernandez      		Mean: 38.66 		Best: 340.22 		N:7
+Sisco          		Mean: 39.86 		Best: 329.9 		N:7
+Sanders        		Mean: 40.48 		Best: 329.49 		N:7
+Roy            		Mean: 22.52 		Best: 315.73 		N:11
+Morrow         		Mean: 77.91 		Best: 280.17 		N:3
+Pierce         		Mean: 84.43 		Best: 247.66 		N:3
+Klein          		Mean: 112.54 		Best: 221.74 		N:2
+
