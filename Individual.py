@@ -1,3 +1,4 @@
+import json
 from itertools import permutations
 
 import names
@@ -5,6 +6,14 @@ import numpy as np
 from numpy.random import choice, rand
 from ConnectionGene import ConnectionGene
 import NEAT
+
+"""
+    Individual class
+    
+    This class is used to represent a neural network.
+    It contains the list of connection genes, the list of nodes and the fitness of the network among others.
+    It also contains the methods to create a new network from scratch, to mutate the network, to evaluate the network.
+"""
 
 
 class Individual:
@@ -209,7 +218,7 @@ class Individual:
             w_mean += abs(self.genome[g].w - ind.genome[g].w)
 
         w_mean /= len(intersec)
-        N = 15  # if NEAT.NEAT.max_len < 15 else NEAT.NEAT.max_len
+        N = max(len(self.genome.keys()), len(ind.genome.keys()))
         distance = NEAT.NEAT.c1 * (excess / N) + NEAT.NEAT.c2 * (disjoint / N) + NEAT.NEAT.c3 * w_mean
         return distance
         pass
@@ -217,3 +226,22 @@ class Individual:
     def score(self):
         fitness = NEAT.NEAT.fitness(self)
         self.fitness = fitness
+
+    def toJson(self):
+        string = "{"
+        string += "\"name\":\"" + self.name + "\","
+        string += "\"fitness\":" + str(self.fitness) + ","
+        string += "\"genome\":["
+        for i, gen in enumerate(self.genome.values()):
+            string += gen.toJson()
+            if i != len(self.genome.values()) - 1:
+                string += ","
+        string += "]"
+        string += "}"
+        return json.loads(string)
+
+    # Save individual to json file
+    def save_individual(self):
+        with open(NEAT.NEAT.game + "/" + self.name + "_" + str(round(self.fitness, 3)) + ".json", 'w') as f:
+            f.write(json.dumps(self.toJson(), indent=4))
+        pass

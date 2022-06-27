@@ -1,8 +1,19 @@
+import json
+
 import numpy as np
+
+from ConnectionGene import ConnectionGene
 from Individual import Individual
+
+"""
+
+    This class is used to build a new individual from a genome either randomly, from a file or from a new genome.
+"""
 
 
 class IndividualFactory:
+    def_input = 3
+    def_output = 1
 
     @staticmethod
     def buildIndividual(inp, out, genome):
@@ -27,3 +38,18 @@ class IndividualFactory:
             ind.force_mutate()
         return ind
         pass
+
+    # read individual from file
+    @staticmethod
+    def buildFromFile(filename):
+        json_raw = open(filename, 'r').read()
+        json_data = json.loads(json_raw)
+        gens = []
+        json_genome = json_data['genome']
+        for gen in json_genome:
+            gens.append(ConnectionGene(gen['inp'], gen['out'], gen['w'], gen['enable'], gen['innovation']))
+
+        ind = IndividualFactory.buildIndividual(IndividualFactory.def_input, IndividualFactory.def_output, gens)
+        ind.fitness = json_data['fitness']
+        ind.name = json_data['name']
+        return ind

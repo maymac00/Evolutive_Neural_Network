@@ -110,7 +110,6 @@ class Specie:
         else:
             self.uselessness += 1
 
-        self.top_fit_historic.append(self.top_fit)
         self.mean_fit = sum(self.current_adj_fitness) / len(self.current_adj_fitness)
 
         self.individuals, self.current_adj_fitness = zip(
@@ -142,7 +141,7 @@ class Specie:
 
     def selectParents(self):
         parents = []
-        probs = NEAT.normalize(np.array(self.current_adj_fitness))
+        probs = NEAT.normalize01(np.array(self.current_adj_fitness))
         probs[probs < 0.8] = 0.1
         for i, ind in enumerate(self.individuals):
             if rand() < max(probs[i], 0.1):

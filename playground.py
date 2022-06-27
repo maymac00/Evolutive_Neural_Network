@@ -1,41 +1,54 @@
 import numpy as np
 
-from Population import *
+from Population import Population
 from matplotlib import pyplot as plt
 import gym
 
-from snake import snake_game
-
 import time
-import NEAT
-# np.random.seed(1)
-seed = int(rand() * 10)
+from NEAT import NEAT
+
+"""
+This script is used to test the performance of the NEAT algorithm.
+In this script we define some enviroments coming from the gym library and we test the performance of the algorithm on them.
 
 
-def pendulum(ind, render=False):
-    rew = 1800
-    NEAT.NEAT.activation_function = NEAT.NEAT.linear
-    NEAT.NEAT.inner_activation_function = NEAT.NEAT.relu
+"""
 
-    env = gym.make("Pendulum-v0")
-    NEAT.NEAT.max_rwd = 2000
-    NEAT.NEAT.blood_rate = 1
 
-    # env.seed(1)
+def pendulum(ind, render=False, seed=-1):
+    rew = 0
+    NEAT.activation_function = NEAT.sigmoid_mod
+    NEAT.inner_activation_function = NEAT.linear
+
+    NEAT.game = "Pendulum-v1"
+
+    env = gym.make("Pendulum-v1")
+    NEAT.max_rwd = 998
+    NEAT.step = 2.5
     action = [0]
-    NEAT.NEAT.reps = 5
-    env.reset()
+
+    NEAT.dropoff = 30
+
+    if NEAT.seed != -1:
+        env.reset(seed=NEAT.seed)
+    else:
+        env.reset()
+
     ind.log = []
-    for _ in range(1000):
+    n_epoch = 1000
+    for _ in range(n_epoch):
+        if _ == 0 and render:
+            env.render()
+            time.sleep(0.51)
         if render:
             time.sleep(0.01)
             env.render()
         # action = env.action_space.sample()  # your agent here (this takes random actions)
         observation, reward, done, info = env.step(action)
 
-        observation[0] = NEAT.NEAT.normalize(observation[0], min=-1, max=1)
-        observation[1] = NEAT.NEAT.normalize(observation[1], min=-1, max=1)
-        observation[2] = NEAT.NEAT.normalize(observation[2], min=-8, max=8)
+        observation[0] = NEAT.normalize_1_1(observation[0], min=-1, max=1) * 2
+        observation[1] = NEAT.normalize_1_1(observation[1], min=-1, max=1) * 2
+        observation[2] = NEAT.normalize_1_1(observation[2], min=-8, max=8) * 2
 
         res = ind.process(observation)
         res = np.array(res)
@@ -47,21 +60,29 @@ def pendulum(ind, render=False):
         if done:
             break
     env.close()
+    max_reward = 0
+    min_reward = -16.2736044 * n_epoch
+    rew = (rew - min_reward) / (max_reward - min_reward) * 1000
     if render:
         time.sleep(1)
         print(rew)
+
     return rew
 
 
 def cartpole(ind, render=False):
     rew = 0
     env = gym.make("CartPole-v1")
-    NEAT.NEAT.max_rwd = 500
-    NEAT.NEAT.opt = "max"
-    NEAT.NEAT.reps = 4
+    NEAT.game = "CartPole-v1"
+    NEAT.max_rwd = 500
+    NEAT.opt = "max"
+
     action = env.action_space.sample()
-    # env.seed(1)
-    env.reset()
+
+    if NEAT.seed != -1:
+        env.reset(seed=NEAT.seed)
+    else:
+        env.reset()
 
     for _ in range(1000):
         if render:
@@ -88,12 +109,20 @@ def cartpole(ind, render=False):
 def cartpole_2in(ind, render=False):
     rew = 0
     env = gym.make("CartPole-v1")
-    NEAT.NEAT.max_rwd = 500
-    NEAT.NEAT.opt = "max"
-    NEAT.NEAT.reps = 4
+    NEAT.game = "CartPole-v1-2in"
+    NEAT.max_rwd = 500
+    NEAT.opt = "max"
+
+
+    NEAT.activation_function = NEAT.relu
+    NEAT.inner_activation_function = NEAT.linear
+
     action = env.action_space.sample()
-    # env.seed(1)
-    env.reset()
+
+    if NEAT.seed != -1:
+        env.reset(seed=NEAT.seed)
+    else:
+        env.reset()
 
     for _ in range(1000):
         if render:
@@ -120,12 +149,20 @@ def cartpole_2in(ind, render=False):
 def cartpole_3in(ind, render=False):
     rew = 0
     env = gym.make("CartPole-v1")
-    NEAT.NEAT.max_rwd = 500
-    NEAT.NEAT.opt = "max"
-    NEAT.NEAT.reps = 4
+    NEAT.game = "CartPole-v1-3in"
+    NEAT.max_rwd = 500
+    NEAT.opt = "max"
+    NEAT.step = 1.5
+
+    NEAT.activation_function = NEAT.sigmoid_mod
+    NEAT.inner_activation_function = NEAT.linear
+
     action = env.action_space.sample()
-    # env.seed(1)
-    env.reset()
+
+    if NEAT.seed != -1:
+        env.reset(seed=NEAT.seed)
+    else:
+        env.reset()
 
     for _ in range(1000):
         if render:
@@ -152,13 +189,15 @@ def cartpole_3in(ind, render=False):
 def cartpole_ext(ind, render=False):
     rew = 150000
     env = gym.make("CartPole-BT-v0")
-    NEAT.NEAT.max_rwd = np.Inf
-    NEAT.NEAT.activation_function = NEAT.NEAT.sigmoid_mod
-    NEAT.NEAT.inner_activation_function = NEAT.NEAT.sigmoid_mod
+    NEAT.max_rwd = np.Inf
+    NEAT.activation_function = NEAT.sigmoid_mod
+    NEAT.inner_activation_function = NEAT.sigmoid_mod
     action = env.action_space.sample()
-    NEAT.NEAT.reps = 4
 
-    env.reset()
+    if NEAT.seed != -1:
+        env.reset(seed=NEAT.seed)
+    else:
+        env.reset()
 
     for _ in range(1000):
         if render:
@@ -182,73 +221,56 @@ def cartpole_ext(ind, render=False):
     return rew / 100
 
 
-def lunarlander(ind, render=False):
-    rew = 131
-    env = gym.make("LunarLander-v2")
-    NEAT.NEAT.max_rwd = 1400
-    NEAT.NEAT.opt = "max"
-    NEAT.NEAT.reps = 1
-    NEAT.NEAT.step = 4
-    action = env.action_space.sample()
-    env.seed(1)
-    env.reset()
+if __name__ == "__main__":
 
-    for _ in range(1000):
-        if render:
-            time.sleep(0.01)
-            env.render()
-        # action = env.action_space.sample()  # your agent here (this takes random actions)
-        observation, reward, done, info = env.step(action)
+    # Environment
+    NEAT.fitness = pendulum
 
-        observation[0] = NEAT.NEAT.normalize(observation[0], min=-3.5, max=3.5)
-        observation[1] = NEAT.NEAT.normalize(observation[0], min=-3.3, max=3.3)
-        observation[2] = NEAT.NEAT.normalize(observation[0], min=-3.5, max=3.5)
-        observation[3] = NEAT.NEAT.normalize(observation[0], min=-3.5, max=3.5)
-        observation[4] = NEAT.NEAT.normalize(observation[0], min=-3.5, max=3.5)
-        observation[5] = NEAT.NEAT.normalize(observation[0], min=-3.5, max=3.5)
-        observation[6] = NEAT.NEAT.normalize(observation[0], min=-3.5, max=3.5)
-        observation[7] = NEAT.NEAT.normalize(observation[0], min=-4.5, max=4.5)
+    # Number of input and output nodes (problem constrained)
+    n_in = 3
+    n_out = 1
 
-        res = ind.process(observation)
+    # Fixed seed (-1 for random)
+    NEAT.seed = 0
 
-        action = res.index(max(res))
+    # Run times (should be 1 for seeded runs, and >1 for random runs)
+    NEAT.reps = 1
 
-        rew += reward
-        if done:
-            break
-    env.close()
-    if render:
-        time.sleep(1)
-        print(rew)
-    return max(rew, 0)
+    # Population size
+    n_individuals = 100
 
+    # Number of runs
+    trys = 3
 
-NEAT.NEAT.fitness = pendulum
+    # Number of generations
+    gens = 20
 
-NEAT.NEAT.max_rwd = np.inf
-NEAT.NEAT.adaptation = 1
-gens = 600
-trys = 1
-NEAT.NEAT.activation_function = NEAT.NEAT.sigmoid_mod
-NEAT.NEAT.inner_activation_function = NEAT.NEAT.relu
+    # Interval of rendering the best individual (0 to disable)
+    show_best = 25
 
-for t in range(trys):
-    p = Population(150, 3, 1)
+    # Run the algorithm
+    trys_bests = []
+    for t in range(trys):
+        p = Population(n_individuals, n_in, n_out)
 
-    for r in range(gens):
-        if r % 3 == 0:
-            NEAT.NEAT.fitness(p.best, True)
-        p.nextGen()
+        for r in range(gens):
+            if r != 0:
+                if r % show_best == 0:
+                    NEAT.fitness(p.best, True)
+            p.nextGen()
 
-    NEAT.NEAT.fitness(p.best, True)
-    plt.figure(1)
-    plt.title("try: " + str(t))
-    print("")
-    print("try: " + str(t))
-    print("S, I: " + str(len(p.species)) + " " + str(len(p.species[0].individuals)))
-    print("")
-    plt.plot(range(len(p.bests)), p.bests, )
-    plt.plot(range(len(p.means)), p.means, )
-plt.show()
+        NEAT.fitness(p.best, True)
+        trys_bests.append(p.bests)
+        NEAT.distance_thld = NEAT.def_distance_thld
 
-pass
+    for i in range(len(trys_bests)):
+        trys_bests[i] = trys_bests[i][1:]
+    trys_bests = np.array(trys_bests)
+    plt.figure(2)
+    ax = plt.gca()
+    ax.set_ylim([trys_bests.min(), 1000])
+    for i in range(len(trys_bests)):
+        plt.plot(trys_bests[i], label="try: " + str(i))
+    plt.show()
+
+    pass
